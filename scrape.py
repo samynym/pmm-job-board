@@ -1,5 +1,7 @@
-import urllib.request, urllib.error, re, json, time, sys
+import urllib.request, urllib.error, re, json, time, sys, os
 from urllib.parse import urlparse, quote
+
+BASE = os.path.dirname(os.path.abspath(__file__))
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36"
 
@@ -417,7 +419,7 @@ def route(url):
     return None
 
 def main():
-    with open('/Users/andrea/jobboard-work/unique_urls.txt') as f:
+    with open(os.path.join(BASE, 'unique_urls.txt')) as f:
         urls = [l.strip() for l in f if l.strip()]
 
     results = []
@@ -442,9 +444,9 @@ def main():
             print(f"...{i+1}/{len(urls)} processed ({len(results)} ok, {len(errors)} errors)", file=sys.stderr)
         time.sleep(0.15)
 
-    with open('/Users/andrea/jobboard-work/scraped_jobs.json', 'w') as f:
+    with open(os.path.join(BASE, 'scraped_jobs.json'), 'w') as f:
         json.dump(results, f, indent=1)
-    with open('/Users/andrea/jobboard-work/scrape_errors.json', 'w') as f:
+    with open(os.path.join(BASE, 'scrape_errors.json'), 'w') as f:
         json.dump(errors, f, indent=1)
     print(f"DONE. ok={len(results)} errors={len(errors)}", file=sys.stderr)
 

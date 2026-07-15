@@ -1,5 +1,7 @@
-import re, glob, json
+import re, glob, json, os
 from urllib.parse import urlparse, unquote
+
+BASE = os.path.dirname(os.path.abspath(__file__))
 
 def canonicalize(url):
     url = url.strip()
@@ -100,27 +102,31 @@ def canonicalize(url):
         return f"https://{host}/job/{parts[1]}"
     return None
 
-seen = {}
-source_files = sorted(glob.glob('/Users/andrea/jobboard-work/raw/*.txt'))
-total_raw = 0
-for fpath in source_files:
-    tag = fpath.split('/')[-1].replace('.txt','')
-    with open(fpath) as f:
-        for line in f:
-            total_raw += 1
-            canon = canonicalize(line)
-            if canon is None:
-                continue
-            if canon not in seen:
-                seen[canon] = set()
-            seen[canon].add(tag)
+def main():
+    seen = {}
+    source_files = sorted(glob.glob(os.path.join(BASE, 'raw', '*.txt')))
+    total_raw = 0
+    for fpath in source_files:
+        tag = fpath.split('/')[-1].replace('.txt','')
+        with open(fpath) as f:
+            for line in f:
+                total_raw += 1
+                canon = canonicalize(line)
+                if canon is None:
+                    continue
+                if canon not in seen:
+                    seen[canon] = set()
+                seen[canon].add(tag)
 
-print(f"Total raw lines: {total_raw}")
-print(f"Unique canonical job URLs: {len(seen)}")
+    print(f"Total raw lines: {total_raw}")
+    print(f"Unique canonical job URLs: {len(seen)}")
 
-with open('/Users/andrea/jobboard-work/unique_urls.txt', 'w') as f:
-    for url in sorted(seen.keys()):
-        f.write(url + '\n')
+    with open(os.path.join(BASE, 'unique_urls.txt'), 'w') as f:
+        for url in sorted(seen.keys()):
+            f.write(url + '\n')
 
-with open('/Users/andrea/jobboard-work/unique_urls_sources.json', 'w') as f:
-    json.dump({url: sorted(list(tags)) for url, tags in seen.items()}, f, indent=1)
+    with open(os.path.join(BASE, 'unique_urls_sources.json'), 'w') as f:
+        json.dump({url: sorted(list(tags)) for url, tags in seen.items()}, f, indent=1)
+
+if __name__ == '__main__':
+    main()

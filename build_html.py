@@ -1,8 +1,18 @@
-import json, html
+import json, html, os
 from urllib.parse import urlparse
 
-with open('/Users/andrea/jobboard-work/final_jobs_sorted.json') as f:
+BASE = os.path.dirname(os.path.abspath(__file__))
+
+with open(os.path.join(BASE, 'final_jobs_sorted.json')) as f:
     jobs = json.load(f)
+
+refreshed_note = ''
+try:
+    with open(os.path.join(BASE, 'last_refresh.json')) as f:
+        _lr = json.load(f)
+    refreshed_note = ' Refreshed daily; last refresh: ' + _lr['refreshed_at'][:10] + '.'
+except (FileNotFoundError, KeyError, ValueError):
+    pass
 
 def esc(s):
     return html.escape(s) if isinstance(s, str) else ''
@@ -162,7 +172,7 @@ html_out = """<title>Product Marketing Job Board</title>
 
 <div class="wrap">
   <h1>Product Marketing Job Board</h1>
-  <p class="subtitle">Sourced via Google dorks across 15 ATS platforms: Ashby, Lever, SmartRecruiters, Jobvite, Greenhouse, Breezy, Workable, Recruitee, Teamtailor, Workday, iCIMS, BambooHR, JazzHR, Rippling, and Personio. Click a column header to sort.</p>
+  <p class="subtitle">Sourced across 15 ATS platforms: Ashby, Lever, SmartRecruiters, Jobvite, Greenhouse, Breezy, Workable, Recruitee, Teamtailor, Workday, iCIMS, BambooHR, JazzHR, Rippling, and Personio. Click a column header to sort.__REFRESHED_NOTE__</p>
 
   <div class="toolbar">
     <input id="search" type="text" placeholder="Filter by company, role, location, remote, date, salary, or source..." autofocus />
@@ -320,8 +330,10 @@ render('');
 """
 
 html_out = html_out.replace('__DATA_JSON__', data_json)
+html_out = html_out.replace('__REFRESHED_NOTE__', html.escape(refreshed_note))
 
-with open('/Users/andrea/jobboard-work/product-marketing-jobs.html', 'w') as f:
-    f.write(html_out)
+for name in ('index.html', 'product-marketing-jobs.html'):
+    with open(os.path.join(BASE, name), 'w') as f:
+        f.write(html_out)
 
 print("Wrote HTML with", len(rows), "rows")

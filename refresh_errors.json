@@ -1,0 +1,106 @@
+[
+ {
+  "board": "personio:eye-able.jobs.personio.de",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "personio:archlet.jobs.personio.de",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1082)>"
+ },
+ {
+  "board": "rippling:caqh",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "ashby:Resolve AI",
+  "error": "URL can't contain control characters. '/posting-api/job-board/Resolve AI' (found at least ' ')"
+ },
+ {
+  "board": "ashby:evenup",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "ashby:superhuman platform inc",
+  "error": "URL can't contain control characters. '/posting-api/job-board/superhuman platform inc' (found at least ' ')"
+ },
+ {
+  "board": "lever:Loop AI",
+  "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/7F3C37AF38",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/datadog/jobs/7803551",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/claylabs/0143978b-cc76-48ec-85c5-10eeef612095",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/claylabs/6579de6f-b5df-46df-bb73-e8d82955f293",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/hyperexponential/0d3452d6-0a17-4fcd-8224-8623dd46883a",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/langchain/8f50c37d-61ca-4127-8605-bff4f6811d79",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://neolytix.applytojob.com/apply/6gnPph1PVd",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://westwing.jobs.personio.de/job/2633129",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
+  "error": "delisted or no data"
+ }
+]

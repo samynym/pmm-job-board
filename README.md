@@ -4,9 +4,22 @@ A self-contained HTML job board of Product Marketing roles, sourced by Google-do
 15 different ATS (applicant tracking system) platforms rather than relying on a
 hardcoded company list.
 
-**Open `product-marketing-jobs.html` directly in any browser** — no server, no build
-step. It has a live search box (filters every column) and clickable column headers to
+**Live board: <https://samynym.github.io/pmm-job-board/>** — refreshed automatically
+every day at 5:00 SAST. You can also open `index.html` (or its alias
+`product-marketing-jobs.html`) directly in any browser — no server, no build step.
+It has a live search box (filters every column) and clickable column headers to
 sort (defaults to newest-posted-first).
+
+## Daily automation
+
+`.github/workflows/refresh.yml` runs `refresh.py` every day at 03:00 UTC (05:00 SAST):
+it enumerates every company board already in `unique_urls.txt` through each ATS's
+public list API (no Google involved), re-verifies known postings, drops delisted
+roles, rebuilds the HTML, commits the result, and emails the roles first seen in the
+last 24 hours (via Resend; recipients live in the `NOTIFY_EMAILS` repo variable).
+New-role discovery covers every platform except iCIMS, which has no public list
+endpoint — new iCIMS roles still require a manual dork pass into `raw/`.
+State lives in `jobs_seen.json` (first-seen date per posting).
 
 ## Platforms covered
 
