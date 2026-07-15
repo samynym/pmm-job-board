@@ -84,7 +84,9 @@ def main():
     }).encode()
     req = urllib.request.Request(
         "https://api.resend.com/emails", data=payload,
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"})
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json",
+                 # Cloudflare fronting api.resend.com 403s (error 1010) on urllib's default UA
+                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36"})
     with urllib.request.urlopen(req, timeout=30) as r:
         resp = json.loads(r.read().decode())
     print(f"Sent '{subject}' to {len(recipients)} recipients (id={resp.get('id')})")
