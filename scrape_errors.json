@@ -1,0 +1,658 @@
+[
+ {
+  "url": "https://1komma5grad.jobs.personio.de/job/2673932",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://3m.wd1.myworkdayjobs.com/Search/job/Global-Product-Marketer_R01166107-2",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://agile-robots-se.jobs.personio.de/job/2650448",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Product-Marketer--M-F-D-_R10085424-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://apply.workable.com/atec-spine/j/2599C6EDA8",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/cadmus-io/j/BF995A1356",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/crewai/j/3F17013EDC",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/dext/j/1D559560B3",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/goodhabitz/j/05C84DAF48",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/schneiderinnovations/j/7353C88100",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/8AAFE49B68",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://archlet.jobs.personio.de/job/2616802",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://askable.teamtailor.com/jobs/7901335-senior-product-marketing-manager",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://athenahealth.wd1.myworkdayjobs.com/External/job/Product-Marketing--Manager_R15227",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://ats.rippling.com/blitzy-jobs/jobs/3e8d74c9-286b-4222-9ad2-d78caada41ec",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/caqh/jobs/8b08f885-fa56-43ba-9b70-57439b59d52d",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/external-job-board/jobs/1e795fe6-2f3a-42ca-8969-cdebc7a98ba9",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/hqo/jobs/679bb145-3b88-471b-9395-bd9811fdafb8",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/primesecurity/jobs/57372d55-1704-4e23-9112-c16bdd36d3fa",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/rhythm-energy/jobs/8b9c6ff2-ddfc-4585-8de6-0cf04da1daea",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/rippling/jobs/d598f9a0-872f-4db7-8d3a-861b17e8b0e4",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/supplierio/jobs/d8432855-3750-402c-a312-190758a54633",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://ats.rippling.com/veracityinsurance-careers/jobs/d8115346-fbb4-443e-9ad7-a83822bc2f38",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://berklee.wd1.myworkdayjobs.com/berkleecareers/job/product-marketing-manager_r0011201",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/adswerveinc/jobs/5176299007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/adyen/jobs/7739832",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/airbnb/jobs/7607680",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/apptronik/jobs/5823488004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/c3iot/jobs/4416889002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/figma/jobs/6105673004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/formlabs/jobs/8017118",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/headoutcareers/jobs/4690380006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/hunterdouglas/jobs/7778415003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/instacart/jobs/602958",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/justworks/jobs/7672965",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/modoenergy/jobs/4923062101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/pilothq/jobs/8579802002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/rdccareers/jobs/7584600003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/ripple/jobs/7646353",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/ripple/jobs/8036091",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/rubrik/jobs/7901871",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/wizinc/jobs/4616849006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/zetaglobal/jobs/5973609004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Product-Marketer--Mainframe-Software-Division_R026103",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/product-marketing-manager_r2026-368",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://checktur-io-gmbh.jobs.personio.de/job/2463377",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Senior-Manager--Product-Marketing--Investments-_2605404",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://clanx.recruitee.com/o/product-marketing-manager-remote",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://configura.recruitee.com/o/senior-product-marketing-specialist",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Senior-Manager---Product-Marketing--Payor-Solutions_R0944894",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://datamaran.jobs.personio.de/job/2578733",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://gen-tech.breezy.hr/p/c710a5713b10-product-marketing-manager",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://gen-tech.breezy.hr/p/e275742acc37-product-marketing-manager-betterme",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Sr-Associate--Product-Marketing_R2262",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Senior-Product-Marketer_R-413617",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://integrity-next-gmbh.jobs.personio.de/job/2623186",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jedox.jobs.personio.de/job/2647570",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/clear/jobs/7962723",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/commercetools/jobs/7609862003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/elastic/jobs/7848679",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/faire/jobs/8202196002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/figma/jobs/6017413004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5819749004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/harnessinc/jobs/5104068007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/hextechnologies/jobs/5812190004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/hubspotjobs/jobs/7906029",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/justworks/jobs/7672965",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/kaizengaming/jobs/7533439003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/lumahealth/jobs/8555230002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/nebius/jobs/4592208101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/okta/jobs/7838533",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/oura/jobs/4296156009",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/paytient/jobs/5124735007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4680666006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/ripple/jobs/7729832",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/ripple/jobs/7927664",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/samayaai/jobs/4988213007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/thedutchie/jobs/8187988002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/toradex/jobs/7723703003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5141977007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/wizinc/jobs/4669221006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/9fin/3d807142-3142-43a3-86a8-84ef3d3c662b",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/benchling/bf61a428-56af-4587-9c61-7e0f855a5fd4",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/claylabs/81067fe9-fd11-41bf-aeb6-219ba933a614",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clera/47be53f7-8066-4471-92f9-8d2a41043961",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/deeploy/12877afc-9213-4d81-a840-4c1e1ca143fd",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/electric/a699e803-011e-4f0d-9dd0-f4604b72b78b",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/evenup/9e92d92b-6e40-44a0-8ad0-fa26df3d1acd",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/gigaml/a5a4c6ed-66fe-4096-9a13-c4f0f692b8cb",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/gptzero/b330bd82-9b81-4e1c-955b-b163ffa75c51",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/illumio/486631fa-d999-4687-963c-103f0e4c4dd3",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/lawhive/a33f6240-298d-4dce-b6c6-da7bc07e7b51",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/lucidlink/0b6c6658-a539-4b83-b873-49b00d078552",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/northslope-technologies/f7ea43ce-eca6-4042-8d07-a47b2b2e2854",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/permitflow/fbb63199-74cd-49bc-bf1f-482a7854256e",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/sequence/2354b86d-d72f-4853-99a7-2e3cabbfa26e",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/tacto/3e9158b3-e5f3-48f3-9347-c6a07f58a141",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/tem/05a5998e-8265-42e6-9e2a-4f93c8a6eaf0",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/act-on-software/job/oFQjAfw8",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/o8OMzfw1",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/o9gWzfwE",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/oMMVzfwM",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/oRv3zfwI",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/oSiLzfwe",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/biofiredx/job/oHd9Afwn",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/egnyte/job/oKq9AfwD",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/egnyte/job/ocFMzfwW",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/evolus/job/o73eAfwI",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/imprivata/job/oRhmAfwO",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/internetbrands/job/ocb8zfwO",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/laborie/job/oG36wfw5",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/leadventure/job/oGcMzfwX",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/leadventure/job/oHcfAfws",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/marvelmarketers/job/oPWRzfwV",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/mini-circuits/job/o3f5zfwG",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/panasas/job/oxyfAfwE",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/pragmaticplay/job/oY6Myfw8",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/progress/job/oqAjzfwC",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/progress/job/orTkAfwY",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/progress/job/otB8zfwv",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/varonis-internal/job/oVznAfwb",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/vistahigherlearning-careers/job/oFx3zfwy",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.jobvite.com/voices/job/oB3KzfwH",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://jobs.lever.co/beaverprocess/f35a14b9-ea83-43d9-95ae-3d8863b627dc",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/esper/eada5ed9-f9f8-429d-a8fc-1f4b6257fea1",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/03121fd9-f693-4d0f-ad9d-83b8c427c509",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/kpler/a3cc2269-5a6c-4519-8502-fc7669f4b4ab",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/kraken123/480cbba5-10fa-4297-b5ff-16cbdd259ecd",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/merklescience/78738486-0c40-485e-905f-f10d28bfb0a3",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/mistral/8f3566b9-8165-46e1-899f-f37f8fe35ab5",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/mistral/c5e134c7-0513-40cb-99f7-e1e87f9a3349",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/myob-2/c458cfd1-733b-4f59-b66e-1ef854e3e484",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/pigment/dfef7ea9-a325-4262-b9ca-bc925d1534ec",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://mercanis.jobs.personio.de/job/2588250",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://moneris.wd3.myworkdayjobs.com/Moneris/job/Director--Product-Marketing-and-Integrated-Campaigns_JR105712-1",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://mway.jobs.personio.de/job/1770139",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Product-Marketing---Automotive-SoCs_R-10062906",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://opensynergy.jobs.personio.de/job/2609842",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://osv_cfainstitute.wd5.myworkdayjobs.com/Careers/job/Senior-Manager--Membership-Product-Marketing---GTM_R-2352",
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1129)>"
+ },
+ {
+  "url": "https://outdooractive.jobs.personio.de/job/2404699",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Senior-Product-Marketer_REQ-12073",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Product-Marketer--SADAC-_R108082-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/Senior-Product-Marketer_R-176348-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://richemont.wd3.myworkdayjobs.com/broadbean_external/job/PRODUCT-MARKETING-INTERN_JR129227-2",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://social-discovery-ventures.breezy.hr/p/3d5f6d722ab801-chief-client-experience-officer",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Lead-Product-Marketer--Software_R2694",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/Senior-Corporate-Product-Marketer--Analyst-Relations_R-000667",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/Director-of-Product-Marketing_JR102204-2",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://superawesome.teamtailor.com/jobs/7667834-product-marketing-manager",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://superawesome.teamtailor.com/jobs/7669220-product-marketing-manager",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/product-marketing-manager---corporate---institutional-services_jr105360",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://theunlimited.teamtailor.com/jobs/7736911-product-marketing-lead",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager_JREQ201295",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Product-Marketing--Senior-Advisor--Marketing-Solutions_19040541",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://westwing.jobs.personio.de/job/2633129",
+  "error": "no jsonld/data found"
+ },
+ {
+  "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Snr-Director--Product-Marketing---Customer-Insights---AI---Data-Analytics_R2600849",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
+  "error": "no jsonld/data found"
+ }
+]
