@@ -1,4 +1,4 @@
-import json, re, os
+import html, json, re, os
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
@@ -25,7 +25,9 @@ def fix_mojibake(s):
 def finalize(data):
     for d in data:
         for k in ('title', 'company', 'location', 'salary'):
-            d[k] = fix_mojibake(d.get(k))
+            v = fix_mojibake(d.get(k))
+            # some ATS titles arrive pre-escaped ("R&amp;D") — store plain text
+            d[k] = html.unescape(v) if isinstance(v, str) else v
 
     rel = [d for d in data if relevant(d.get('title'))]
 

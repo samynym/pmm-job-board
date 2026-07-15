@@ -21,6 +21,14 @@ New-role discovery covers every platform except iCIMS, which has no public list
 endpoint — new iCIMS roles still require a manual dork pass into `raw/`.
 State lives in `jobs_seen.json` (first-seen date per posting).
 
+## Applied tags (private)
+
+Opening the board with a private `#k=<secret>&me=<name>` link reveals an
+"Applied" toggle per role, shared between holders of the link (state in a
+Supabase table reachable only through two secret-checked RPCs — see
+`docs/superpowers/specs/2026-07-15-applied-tags-design.md`). The plain public
+URL shows no tag UI. The layout is responsive: stacked cards on mobile.
+
 ## Platforms covered
 
 Ashby, Lever, SmartRecruiters, Jobvite, Greenhouse, Breezy, Workable, Recruitee,
