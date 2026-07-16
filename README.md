@@ -21,6 +21,14 @@ New-role discovery covers every platform except iCIMS, which has no public list
 endpoint — new iCIMS roles still require a manual dork pass into `raw/`.
 State lives in `jobs_seen.json` (first-seen date per posting).
 
+**New companies** enter the pool automatically too: `discover.py` runs first in
+the same workflow, querying DuckDuckGo's HTML endpoint with the original
+`site:<ats> "<keyword>"` dorks plus Workable's global cross-company search.
+One job URL at a previously-unknown company (appended to
+`raw/auto-discovered.txt`) is enough — the next refresh enumerates that
+company's whole board. To add a company by hand, drop any job URL from a
+supported ATS into `raw/manual-additions.txt`.
+
 ## Applied tags (private)
 
 Opening the board with a private `#k=<secret>&me=<name>` link reveals an

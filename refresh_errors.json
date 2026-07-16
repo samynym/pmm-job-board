@@ -9,7 +9,7 @@
  },
  {
   "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
-  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1082)>"
  },
  {
   "board": "rippling:caqh",
@@ -32,8 +32,16 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://boards.greenhouse.io/go1au/jobs/4702116005",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://boards.greenhouse.io/justworks/jobs/7930220",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Praktikant-in-Product-Marketing--m-w-d-_JOBREQ00114841",
+  "error": "HTTP 403"
  },
  {
   "url": "https://clanx.recruitee.com/o/founding-marketer-product-marketing-remote",
@@ -57,6 +65,10 @@
  },
  {
   "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/hostinger/d5d1c4f7-7710-4a6a-ac47-9dd73c71281a",
   "error": "delisted or no data"
  },
  {

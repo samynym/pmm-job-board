@@ -43,6 +43,7 @@ https://apply.workable.com/demandtec/j/994EED8911
 https://apply.workable.com/dext/j/1D559560B3
 https://apply.workable.com/digitalgenius/j/7D67FD6E4D
 https://apply.workable.com/driftrock/j/9420DE0681
+https://apply.workable.com/elite-talent/j/2F6980D924
 https://apply.workable.com/euromonitor/j/61A47FDE9B
 https://apply.workable.com/fenergocareers/j/9169471AE3
 https://apply.workable.com/flexcompute/j/9BCF19270F
@@ -77,9 +78,11 @@ https://apply.workable.com/mention-me-ltd/j/EA1650B1D6
 https://apply.workable.com/mlabs/j/0028B8D96F
 https://apply.workable.com/mydbsync/j/F86B18F41B
 https://apply.workable.com/navarino/j/AE501D7241
+https://apply.workable.com/ndreams/j/BA7AAF41B2
 https://apply.workable.com/nelson-education/j/BCDC668276
 https://apply.workable.com/netcetera/j/2DF9E2B9BD
 https://apply.workable.com/octane-ai-1/j/13BEA33254
+https://apply.workable.com/optisigns-inc/j/B5B595FC68
 https://apply.workable.com/panorama-education/j/174610D0A2
 https://apply.workable.com/paramount-commerce/j/CB792873B3
 https://apply.workable.com/pavago/j/9F377CB514
@@ -114,14 +117,18 @@ https://apply.workable.com/tp-link-usa-corp/j/2CAD06A528
 https://apply.workable.com/tp-link-usa-corp/j/5CFA50E419
 https://apply.workable.com/tp-link-usa-corp/j/606843E5B7
 https://apply.workable.com/tp-link-usa-corp/j/FE3401B5A6
+https://apply.workable.com/treatwell/j/4933CD8ADF
+https://apply.workable.com/twocircles/j/81763510A4
 https://apply.workable.com/uworld/j/DF3FEFE2C3
 https://apply.workable.com/vasion/j/B742E0151E
 https://apply.workable.com/wati-dot-i-o/j/82C690C912
 https://apply.workable.com/weekday-1/j/357C805C0A
 https://apply.workable.com/weekday-1/j/88A20FFA9B
 https://apply.workable.com/wisedocs-ai/j/9E16589F8A
+https://apply.workable.com/withings/j/2A84577B28
 https://apply.workable.com/writesonic/j/96048CCAF3
 https://apply.workable.com/zenara-health/j/2A9C8F601F
+https://apply.workable.com/zero100/j/2D0749C09D
 https://apply.workable.com/zutec/j/4FDFB860A4
 https://archlet.jobs.personio.de/job/2616802
 https://arienscompany.wd5.myworkdayjobs.com/External/job/Product-Marketing-Manager-RapidCare_R-04097
@@ -490,6 +497,7 @@ https://job-boards.greenhouse.io/shopltk/jobs/7733334003
 https://job-boards.greenhouse.io/snorkelai/jobs/6004760004
 https://job-boards.greenhouse.io/sonderaustralia/jobs/8221889002
 https://job-boards.greenhouse.io/spire/jobs/7831466
+https://job-boards.greenhouse.io/stackblitz/jobs/4131722009
 https://job-boards.greenhouse.io/startale/jobs/5339444008
 https://job-boards.greenhouse.io/stripe/jobs/7832098
 https://job-boards.greenhouse.io/stripe/jobs/7913503

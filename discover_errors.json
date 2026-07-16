@@ -1,0 +1,16 @@
+[
+ {
+  "source": "ddg",
+  "query": "jobs.ashbyhq.com|product marketing",
+  "error": "anomaly page (bot-blocked)"
+ },
+ {
+  "source": "ddg",
+  "query": "jobs.ashbyhq.com|product marketer",
+  "error": "anomaly page (bot-blocked)"
+ },
+ {
+  "source": "ddg",
+  "error": "blocked twice, aborting source"
+ }
+]

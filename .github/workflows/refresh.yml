@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Discover new company boards
+        run: python discover.py || echo "discovery failed (non-fatal)"
+
       - name: Refresh job data
         run: python refresh.py
 
