@@ -24,6 +24,22 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Director-of-Product-Marketing--Growth---Platforms_R165947",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://ats.rippling.com/briowt/jobs/352cde27-c782-4927-ac53-3d0e4c5d7e2c",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/justworks/jobs/7930220",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://clanx.recruitee.com/o/founding-marketer-product-marketing-remote",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
@@ -44,8 +60,20 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.ashbyhq.com/sift/820600d2-5bd8-4be1-8e42-ce9d1f3bbd03",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.jobvite.com/varonis-internal/job/oQh8zfwy",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/3baf82a6-82cd-4f1d-8aee-a9f68be8a51d",
+  "error": "HTTP 404"
  },
  {
   "url": "https://neolytix.applytojob.com/apply/6gnPph1PVd",
@@ -54,6 +82,10 @@
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Product-Marketing-Manager_JR347491",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

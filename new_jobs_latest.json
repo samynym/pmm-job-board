@@ -1,57 +1,134 @@
 [
  {
-  "title": "Product Marketing Manager (m/w/d)",
-  "company": "KOSTAL Group",
-  "location": "Dortmund, NRW, Germany",
+  "title": "Senior Growth Product Marketing Manager",
+  "company": "Jobgether",
+  "location": "Canada",
+  "remote_label": "Unknown",
+  "posted_date": "2026-07-16",
+  "salary": null,
+  "apply_url": "https://jobs.lever.co/jobgether/952d8e8b-cf6a-4a53-a25d-356eafc56fff",
+  "source_url": "https://jobs.lever.co/jobgether/952d8e8b-cf6a-4a53-a25d-356eafc56fff",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Sr Product Marketing Manager, Consumer Experience",
+  "company": "LinkedIn",
+  "location": "San Francisco, CA, United States",
   "remote_label": "Hybrid",
-  "posted_date": "2026-07-08T15:20:18.499Z",
-  "salary": null,
-  "apply_url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000136502670-product-marketing-manager-m-w-d-?oga=true",
-  "source_url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000136502670",
-  "first_seen": "2026-07-15T16:10:31+00:00"
+  "posted_date": "2026-07-15T20:59:03.996Z",
+  "salary": "$125,000 to $195,000",
+  "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000137980870-sr-product-marketing-manager-consumer-experience?oga=true",
+  "source_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000137980870",
+  "first_seen": "2026-07-16T05:34:15+00:00"
  },
  {
-  "title": "Senior Product Marketing Manager, Perform",
+  "title": "Staff Engineer, Product Marketing",
+  "company": "Renesas Electronics",
+  "location": "Austin, TX, United States",
+  "remote_label": "On-site",
+  "posted_date": "2026-07-15T17:56:24.596Z",
+  "salary": null,
+  "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000137955429-staff-engineer-product-marketing?oga=true",
+  "source_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000137955429",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Senior Growth Product Marketing Manager",
+  "company": "LastPass",
+  "location": "Remote - Canada",
+  "remote_label": "Remote",
+  "posted_date": "2026-07-15T13:15:55-04:00",
+  "salary": null,
+  "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4715563005",
+  "source_url": "https://boards.greenhouse.io/lastpass/jobs/4715563005",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Product Marketing Senior Manager, Strategic Partnerships",
+  "company": "100 Salesforce, Inc.",
+  "location": "Illinois - Chicago",
+  "remote_label": "On-site",
+  "posted_date": "2026-07-15",
+  "salary": "$143,400 - $216,900",
+  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193",
+  "source_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Product Marketing Manager",
+  "company": "477",
+  "location": "UK - Remote",
+  "remote_label": "Remote",
+  "posted_date": "2026-07-15",
+  "salary": null,
+  "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Product-Marketing-Manager_R56626",
+  "source_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56626",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Product Marketing Manager",
+  "company": "100",
+  "location": "US - CO, Westminster",
+  "remote_label": "On-site",
+  "posted_date": "2026-07-15",
+  "salary": "$105,600",
+  "apply_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Marketing-Manager_R56353",
+  "source_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56353",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Senior Product Marketing Manager, Orchestration",
+  "company": "Braze",
+  "location": "Chicago",
+  "remote_label": "On-site",
+  "posted_date": "2026-07-09T11:01:20-04:00",
+  "salary": "$103,000",
+  "apply_url": "https://boards.greenhouse.io/braze/jobs/8052484?gh_jid=8052484",
+  "source_url": "https://boards.greenhouse.io/braze/jobs/8052484",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Senior Product Marketing Manager, Platform",
   "company": "Culture Amp",
-  "location": "Sydney",
+  "location": "Melbourne",
   "remote_label": "On-site",
-  "posted_date": "2026-06-30T21:21:39-04:00",
+  "posted_date": "2026-06-30T20:57:49-04:00",
   "salary": null,
-  "apply_url": "https://job-boards.greenhouse.io/cultureamp/jobs/8040139",
-  "source_url": "https://boards.greenhouse.io/cultureamp/jobs/8040139",
-  "first_seen": "2026-07-15T16:10:31+00:00"
+  "apply_url": "https://job-boards.greenhouse.io/cultureamp/jobs/8040104",
+  "source_url": "https://boards.greenhouse.io/cultureamp/jobs/8040104",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Product Marketing Manager ",
+  "company": "mytomorrows",
+  "location": "Amsterdam HQ",
+  "remote_label": "Remote",
+  "posted_date": "2026-05-19T13:46:39.697+00:00",
+  "salary": null,
+  "apply_url": "https://jobs.ashbyhq.com/mytomorrows/1f2268cd-4954-4b1e-aef6-718c9dbbd53d/application",
+  "source_url": "https://jobs.ashbyhq.com/mytomorrows/1f2268cd-4954-4b1e-aef6-718c9dbbd53d",
+  "first_seen": "2026-07-16T05:34:15+00:00"
+ },
+ {
+  "title": "Lead Product Marketing Manager - Enterprise",
+  "company": "Klaviyo",
+  "location": "Boston, MA",
+  "remote_label": "On-site",
+  "posted_date": "2026-04-21T15:23:14-04:00",
+  "salary": "$140,000",
+  "apply_url": "https://www.klaviyo.com/careers/jobs/7710126003?gh_jid=7710126003",
+  "source_url": "https://boards.greenhouse.io/klaviyo/jobs/7710126003",
+  "first_seen": "2026-07-16T05:34:15+00:00"
  },
  {
   "title": "Product Marketing Manager",
-  "company": "Oscar Health",
-  "location": "New York, New York, United States",
-  "remote_label": "On-site",
-  "posted_date": "2026-06-05T16:14:22-04:00",
-  "salary": "$117,576 - $154,318",
-  "apply_url": "http://www.hioscar.com/careers/7964133?gh_jid=7964133",
-  "source_url": "https://boards.greenhouse.io/oscar/jobs/7964133",
-  "first_seen": "2026-07-15T16:10:31+00:00"
- },
- {
-  "title": "Senior Product Marketing Manager ",
-  "company": "Fin",
-  "location": "London, England",
-  "remote_label": "On-site",
-  "posted_date": "2026-04-23T07:42:08-04:00",
+  "company": "Lumen Learning",
+  "location": "Houston, TX, US",
+  "remote_label": "Remote",
+  "posted_date": "2026-01-18",
   "salary": null,
-  "apply_url": "https://job-boards.greenhouse.io/intercom/jobs/7846251",
-  "source_url": "https://boards.greenhouse.io/intercom/jobs/7846251",
-  "first_seen": "2026-07-15T16:10:31+00:00"
- },
- {
-  "title": "Product Marketing Manager",
-  "company": "nylas",
-  "location": "Remote - USA",
-  "remote_label": "On-site",
-  "posted_date": "2026-03-30T21:00:09.387+00:00",
-  "salary": "$95K - $155K",
-  "apply_url": "https://jobs.ashbyhq.com/nylas/ebcf30ab-c9d1-4d77-a621-20a89009109b/application",
-  "source_url": "https://jobs.ashbyhq.com/nylas/ebcf30ab-c9d1-4d77-a621-20a89009109b",
-  "first_seen": "2026-07-15T16:10:31+00:00"
+  "apply_url": "https://lumen-inc.breezy.hr/p/799ff875ca02-product-marketing-manager",
+  "source_url": "https://lumen-inc.breezy.hr/p/799ff875ca02-product-marketing-manager",
+  "first_seen": "2026-07-16T05:34:15+00:00"
  }
 ]
