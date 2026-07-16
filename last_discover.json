@@ -1,15 +1,10 @@
 {
- "ran_at": "2026-07-16T09:41:41+00:00",
+ "ran_at": "2026-07-16T12:00:11+00:00",
  "new_boards": [
-  "workable:elite-talent",
-  "workable:ndreams",
-  "workable:optisigns-inc",
-  "workable:treatwell",
-  "workable:twocircles",
-  "workable:withings",
-  "workable:zero100"
+  "jobvite:lhhcareers",
+  "workable:volton"
  ],
- "new_urls": 7,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }
