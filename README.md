@@ -29,6 +29,18 @@ One job URL at a previously-unknown company (appended to
 company's whole board. To add a company by hand, drop any job URL from a
 supported ATS into `raw/manual-additions.txt`.
 
+## Remote eligibility ("Hires in")
+
+For every Remote-labeled role, `eligibility.py` (runs in the daily workflow,
+needs the `ANTHROPIC_API_KEY` secret) reads the full job description and uses
+Claude Haiku to extract ONLY what the posting states about where the company
+can hire: eligible countries/regions, timezone requirements, work
+authorization. Nothing is inferred — a posting that just says "Remote" shows
+"not stated", and every extraction is backed by a verbatim quote from the
+posting (hover the value to see it). The "Hires from" filter shows remote
+roles that state they hire from a given region. Cache: `eligibility.json`,
+one extraction per posting ever.
+
 ## Applied tags (private)
 
 Opening the board with a private `#k=<secret>&me=<name>` link reveals an

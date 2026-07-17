@@ -29,6 +29,11 @@ jobs:
       - name: Refresh job data
         run: python refresh.py
 
+      - name: Extract remote eligibility
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python eligibility.py || echo "eligibility extraction failed (non-fatal)"
+
       - name: Rebuild HTML
         run: python build_html.py
 

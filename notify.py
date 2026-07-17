@@ -9,6 +9,8 @@ Reads new_jobs_latest.json + last_refresh.json written by refresh.py.
 import html, json, os, sys, urllib.request
 from datetime import datetime, timezone
 
+from refresh import state_key
+
 BASE = os.path.dirname(os.path.abspath(__file__))
 BOARD_URL = "https://samynym.github.io/pmm-job-board/"
 FROM = "PMM Job Board <jobs@growsteady.me>"
@@ -25,6 +27,11 @@ def main():
         new_jobs = json.load(f)
     with open(os.path.join(BASE, 'last_refresh.json')) as f:
         lr = json.load(f)
+    try:
+        with open(os.path.join(BASE, 'eligibility.json')) as f:
+            eligibility = json.load(f)
+    except FileNotFoundError:
+        eligibility = {}
 
     if lr.get('first_run'):
         print("First run (state seeding) — skipping email.")
@@ -39,6 +46,13 @@ def main():
     for j in new_jobs[:MAX_ROWS]:
         posted = (j.get('posted_date') or '')[:10] or 'date unknown'
         salary = f" &middot; {esc(j['salary'])}" if j.get('salary') else ''
+        e = eligibility.get(state_key(j.get('source_url') or ''))
+        hires = ''
+        if e and e.get('eligibility_stated'):
+            label = ', '.join(e.get('countries') or e.get('regions') or [])
+            if label:
+                hires = f" &middot; hires in {esc(label)}"
+        salary += hires
         rows.append(
             '<tr>'
             f'<td style="padding:10px 12px;border-bottom:1px solid #eee8da;vertical-align:top;">'

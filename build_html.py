@@ -5,6 +5,22 @@ from refresh import state_key
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
+try:
+    with open(os.path.join(BASE, 'eligibility.json')) as f:
+        ELIGIBILITY = json.load(f)
+except FileNotFoundError:
+    ELIGIBILITY = {}
+
+def hires_display(e):
+    """Short display string for stated eligibility, or None."""
+    if not e or not e.get('eligibility_stated'):
+        return None
+    if e.get('countries') and len(e['countries']) <= 3:
+        return ', '.join(e['countries'])
+    if e.get('regions'):
+        return ', '.join(e['regions'])
+    return None
+
 # Public by design: anon key only reaches two secret-checked RPCs (see README).
 SUPABASE_URL = "https://wvtlhnyfgjkuontmpgoy.supabase.co"
 SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind2dGxobnlmZ2prdW9udG1wZ295Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQxMzA3NzgsImV4cCI6MjA5OTcwNjc3OH0.zmWb1WB25bQalbn0dm54_9ckGrjD2QO5d-FPzBtHLSg"
@@ -43,8 +59,10 @@ def ats_name(url):
 
 rows = []
 for j in jobs:
+    key = state_key(j.get('source_url') or j.get('apply_url') or '')
+    e = ELIGIBILITY.get(key)
     rows.append({
-        'key': state_key(j.get('source_url') or j.get('apply_url') or ''),
+        'key': key,
         'company': j.get('company') or '',
         'title': j.get('title') or '',
         'location': j.get('location') or 'Not specified',
@@ -53,6 +71,12 @@ for j in jobs:
         'salary': j.get('salary'),
         'apply_url': j.get('apply_url'),
         'source': ats_name(j.get('source_url') or j.get('apply_url')),
+        'hires': hires_display(e),
+        'hregions': (e or {}).get('regions') or [],
+        'hnote': ' · '.join(filter(None, [
+            (e or {}).get('timezone'), (e or {}).get('work_auth'),
+            ('"' + e['evidence'] + '"') if (e or {}).get('evidence') else None,
+        ])) or None,
     })
 
 data_json = json.dumps(rows, ensure_ascii=False)
@@ -100,8 +124,7 @@ html_out = """<title>Product Marketing Job Board</title>
   .toolbar-row { display: flex; align-items: center; gap: 12px; margin-top: 8px; flex-wrap: wrap; }
   .count { font-size: 12.5px; color: #857a68; }
 
-  .chip {
-    display: none;
+  .chip, .hchip {
     font-size: 12.5px;
     font-weight: 600;
     padding: 5px 12px;
@@ -112,8 +135,14 @@ html_out = """<title>Product Marketing Job Board</title>
     cursor: pointer;
     user-select: none;
   }
+  .chip { display: none; }
   body.tagging .chip { display: inline-block; }
   .chip.active { background: #e6f2ea; border-color: #21713f; color: #21713f; }
+  .hires-label { font-size: 12.5px; color: #857a68; font-weight: 600; }
+  .hchip.active { background: #fdf1e2; border-color: #D97757; color: #91591a; }
+  .hires-cell { font-size: 12.5px; color: #4a4438; }
+  .hires-cell .hires-known { border-bottom: 1px dotted #b0a68f; cursor: help; }
+  .hires-cell .hires-unknown { color: #b3aa8f; }
 
   #toast {
     position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
@@ -252,6 +281,7 @@ html_out = """<title>Product Marketing Job Board</title>
     td.cell-company { order: 2; width: 100%; font-size: 13.5px; }
     td.cell-location { order: 3; font-size: 12.5px; color: #6b6255; }
     td.cell-remote { order: 4; }
+    td.cell-hires { order: 4; font-size: 12px; }
     td.cell-posted { order: 5; font-size: 12.5px; }
     td.cell-posted .posted-age { display: inline; margin-left: 4px; }
     td.cell-salary { order: 6; font-size: 12.5px; }
@@ -277,6 +307,13 @@ html_out = """<title>Product Marketing Job Board</title>
   <div class="toolbar">
     <input id="search" type="text" placeholder="Filter by company, role, location, remote, date, salary, or source..." autofocus />
     <div class="toolbar-row">
+      <span class="hires-label">Hires from:</span>
+      <span class="hchip active" data-bucket="">Any</span>
+      <span class="hchip" data-bucket="Worldwide">Anywhere</span>
+      <span class="hchip" data-bucket="Europe">Europe</span>
+      <span class="hchip" data-bucket="Americas">Americas</span>
+      <span class="hchip" data-bucket="AfricaME">Africa &amp; Mid-East</span>
+      <span class="hchip" data-bucket="APAC">Asia-Pacific</span>
       <span class="chip" id="hide-applied">Hide applied</span>
       <div class="count" id="count"></div>
     </div>
@@ -291,6 +328,7 @@ html_out = """<title>Product Marketing Job Board</title>
           <th data-key="title">Role</th>
           <th data-key="location">Location</th>
           <th data-key="remote">Remote?</th>
+          <th data-key="hires">Hires in</th>
           <th data-key="posted">Posted</th>
           <th data-key="salary">Salary</th>
           <th data-key="source">Source</th>
@@ -313,6 +351,23 @@ const TAG_SECRET = hashParams.get('k');
 const ME = hashParams.get('me') || '';
 let TAGS = {};          // job key -> {status, tagged_by, tagged_at}
 let hideApplied = false;
+let hiresBucket = '';   // '' = no filter
+
+const HREGION_BUCKETS = {
+  'Europe':   ['Europe', 'UK'],
+  'Americas': ['Americas', 'US', 'Canada', 'Latin America'],
+  'AfricaME': ['Africa', 'Middle East'],
+  'APAC':     ['Asia', 'Oceania'],
+};
+
+function hiresMatch(j) {
+  if (!hiresBucket) return true;
+  if (!j.hregions || !j.hregions.length) return false;
+  if (j.hregions.includes('Worldwide')) return true;
+  if (hiresBucket === 'Worldwide') return false;
+  const bucket = HREGION_BUCKETS[hiresBucket] || [];
+  return j.hregions.some(r => bucket.includes(r));
+}
 
 let sortState = { key: 'posted', dir: 'desc' };
 
@@ -429,6 +484,7 @@ function render(filterText) {
     const haystack = [j.company, j.title, j.location, j.remote, dateStr, age, j.salary, j.source]
       .filter(Boolean).join(' ').toLowerCase();
     if (q && !haystack.includes(q)) continue;
+    if (!hiresMatch(j)) continue;
     if (hideApplied && tag) { appliedHidden++; continue; }
     shown++;
     const isRecent = age && (age === 'today' || age === '1 day ago' || (/^\\d+ days ago$/.test(age) && parseInt(age) <= 7));
@@ -443,6 +499,11 @@ function render(filterText) {
         '<td class="role cell-role">' + escapeHtml(j.title) + '</td>' +
         '<td class="cell-location">' + escapeHtml(j.location) + '</td>' +
         '<td class="cell-remote"><span class="badge ' + badgeClass(j.remote) + '">' + escapeHtml(j.remote) + '</span></td>' +
+        '<td class="hires-cell cell-hires">' +
+          (j.hires
+            ? '<span class="hires-known"' + (j.hnote ? ' title="' + escapeHtml(j.hnote) + '"' : '') + '>' + escapeHtml(j.hires) + '</span>'
+            : '<span class="hires-unknown">' + (j.remote === 'Remote' ? 'not stated' : '&#8212;') + '</span>') +
+        '</td>' +
         '<td class="posted-date cell-posted">' + escapeHtml(dateStr) +
           (age ? '<span class="posted-age' + (isRecent ? ' recent' : '') + '">' + escapeHtml(age) + '</span>' : '') +
         '</td>' +
@@ -454,11 +515,12 @@ function render(filterText) {
   }
 
   if (shown === 0) {
-    tbody.innerHTML = '<tr class="empty-row"><td colspan="9">No matching roles.</td></tr>';
+    tbody.innerHTML = '<tr class="empty-row"><td colspan="10">No matching roles.</td></tr>';
   } else {
     tbody.innerHTML = rowsHtml.join('');
   }
   let countText = shown + ' of ' + JOBS.length + ' roles shown';
+  if (hiresBucket) countText += ' \\u00b7 remote roles stating they hire from your region';
   if (TAG_SECRET && appliedTotal) countText += ' \\u00b7 ' + appliedTotal + ' applied';
   if (appliedHidden) countText += ' (' + appliedHidden + ' hidden)';
   document.getElementById('count').textContent = countText;
@@ -487,6 +549,14 @@ document.getElementById('hide-applied').addEventListener('click', (e) => {
   hideApplied = !hideApplied;
   e.target.classList.toggle('active', hideApplied);
   render(currentFilter());
+});
+
+document.querySelectorAll('.hchip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    hiresBucket = chip.getAttribute('data-bucket');
+    document.querySelectorAll('.hchip').forEach(c => c.classList.toggle('active', c === chip));
+    render(currentFilter());
+  });
 });
 
 document.getElementById('tbody').addEventListener('click', async (e) => {
