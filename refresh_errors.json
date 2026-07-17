@@ -1,10 +1,10 @@
 [
  {
-  "board": "personio:eye-able.jobs.personio.de",
+  "board": "personio:archlet.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "personio:archlet.jobs.personio.de",
+  "board": "personio:eye-able.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -24,11 +24,67 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "board": "lever:jobgether",
-  "error": "The read operation timed out"
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Director--Product-Marketing--Firefly-for-Creative-Professionals_R168608-1",
+  "error": "HTTP 403"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing_R-115313",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager--Regulated---Public-Sector-_R166458",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager_R166905",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Specialist-Mgr-5_R169082-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/0E38D46307",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/3E0C439162",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/973B4D18E7",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/trustlayer-inc/jobs/954dabe2-7f78-473d-818c-8d70805504b0",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Product-Marketing-Manager_142164",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/ezcaterinc/jobs/5130058007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/formlabs/jobs/8036857",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/formlabs/jobs/7997868",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7988029",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/mercury/jobs/5983426004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/scopely/jobs/5323855008",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Technology-Product-Management_R025678",
   "error": "HTTP 403"
  },
  {
@@ -40,15 +96,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
- },
- {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/replit/7ff74387-ff7f-4bd7-9e23-a09177f8e2a6",
   "error": "delisted or no data"
  },
  {
@@ -56,20 +116,28 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://neolytix.applytojob.com/apply/6gnPph1PVd",
-  "error": "delisted or no data"
+  "url": "https://jobs.lever.co/jobgether/0f4be0b4-443b-4ff6-b579-d600da9bd247",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://nexperia.wd3.myworkdayjobs.com/careers/job/Product-Marketing-Manager_R-20014616",
+  "url": "https://jobs.lever.co/jobgether/348b87ef-a715-48b9-bb5f-c7ba2d7149be",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/323f2b89-1a36-4336-a469-ef5d1272fe32",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/5847790b-9d1a-4dba-84e8-0a201b0daa47",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-CPU-Technical-Product-Marketing-Manager---Accelerated-Computing_JR1997229",
   "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Technical-Product-Marketing-Manager--Internal-Only-_JR343162-1",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

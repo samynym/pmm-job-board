@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "jobs.jobvite.com|product marketer",
+  "query": "apply.workable.com|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "boards.greenhouse.io|product marketing",
+  "query": "recruitee.com|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {
