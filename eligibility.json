@@ -517,6 +517,17 @@
 "timezone": null,
 "work_auth": "e-verify employer in the USA"
 },
+"greenhouse:rithum:8068419": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:rushstreetinteractive:6110846004": {
 "countries": [
 "Canada"
@@ -652,6 +663,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:vipvermontinformationprocessing2:5189518007": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote-United States",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:wizinc:4439983006": {
 "countries": [],
 "eligibility_stated": true,
@@ -737,6 +761,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/coldquanta/j/691140c73f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -905,6 +938,19 @@
 ],
 "timezone": null,
 "work_auth": "Must be authorized to work in the country in which you reside. Seeq does not sponsor US F1 or H-1B work visas"
+},
+"https://apply.workable.com/talentpluto/j/020f517f01": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States (remote)",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
 },
 "https://apply.workable.com/vasion/j/b742e0151e": {
 "countries": [],
@@ -1169,6 +1215,20 @@
 "US"
 ],
 "timezone": "Eastern Time Zone",
+"work_auth": null
+},
+"https://clanx.recruitee.com/o/director-of-product-marketing-saas-remote": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "Location: Remote, India This role requires significant overlap with U.S. Eastern Time (EST).",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US",
+"Asia"
+],
+"timezone": "significant overlap with U.S. Eastern Time (EST)",
 "work_auth": null
 },
 "https://digitalzoneinc.applytojob.com/apply/1bppphdsfc": {
@@ -1579,6 +1639,15 @@
 "US"
 ],
 "timezone": "EST",
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/mytomorrows/1f2268cd-4954-4b1e-aef6-718c9dbbd53d": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [],
+"timezone": null,
 "work_auth": null
 },
 "https://jobs.ashbyhq.com/nash/0c2f5160-818e-4298-82fc-2bf35fff8dda": {
@@ -2907,6 +2976,28 @@
 "timezone": null,
 "work_auth": "candidate to reside and work within the US"
 },
+"workday:cambiumlearning.wd1.myworkdayjobs.com:REQ-4521": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Job Location: US, Remote. Must work and reside within the US for this position.",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "Must work and reside within the US for this position"
+},
+"workday:cambiumlearning.wd1.myworkdayjobs.com:REQ-4522": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Job Location: US, Remote. Must work and reside within the US for this position.",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "Must work and reside within the US for this position"
+},
 "workday:cengage.wd5.myworkdayjobs.com:R2026-370": {
 "countries": [],
 "eligibility_stated": false,
@@ -2958,6 +3049,17 @@
 "US"
 ],
 "timezone": "EST",
+"work_auth": null
+},
+"workday:merative.wd12.myworkdayjobs.com:JR01577": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote \u2013 United States. Location field shows Remote \u2013 United States only, confirming US-only eligibility for this remote position. Additionally, E-Verify participation stated confirms work authorization requirements. Merative participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees.",
+"extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
 "work_auth": null
 },
 "workday:merative.wd12.myworkdayjobs.com:JR01655": {

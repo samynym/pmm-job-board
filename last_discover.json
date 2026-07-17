@@ -1,11 +1,13 @@
 {
- "ran_at": "2026-07-17T05:36:00+00:00",
+ "ran_at": "2026-07-17T21:01:46+00:00",
  "new_boards": [
-  "breezy:arch-systems",
-  "breezy:search-atlas",
-  "workable:coldquanta"
+  "teamtailor:botify.teamtailor.com",
+  "teamtailor:causeway-1588594217.teamtailor.com",
+  "teamtailor:crunchbase.na.teamtailor.com",
+  "teamtailor:navinci.teamtailor.com",
+  "workable:charlotte-tilbury"
  ],
- "new_urls": 3,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 18
+ "dork_offset": 24
 }
