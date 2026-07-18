@@ -1,13 +1,7 @@
 {
- "ran_at": "2026-07-17T21:01:46+00:00",
- "new_boards": [
-  "teamtailor:botify.teamtailor.com",
-  "teamtailor:causeway-1588594217.teamtailor.com",
-  "teamtailor:crunchbase.na.teamtailor.com",
-  "teamtailor:navinci.teamtailor.com",
-  "workable:charlotte-tilbury"
- ],
- "new_urls": 5,
+ "ran_at": "2026-07-18T05:19:12+00:00",
+ "new_boards": [],
+ "new_urls": 0,
  "errors": 3,
- "dork_offset": 24
+ "dork_offset": 30
 }

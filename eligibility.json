@@ -2835,6 +2835,17 @@
 "timezone": null,
 "work_auth": null
 },
+"workday:adobe.wd5.myworkdayjobs.com:R169082-1": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote Colorado. Pay range specified: \"In Colorado, the pay range for this position is $156,200 - $226,250\"",
+"extracted_at": "2026-07-18T05:22:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:alteryx.wd108.myworkdayjobs.com:R12082-1": {
 "countries": [],
 "eligibility_stated": true,
