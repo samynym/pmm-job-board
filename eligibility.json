@@ -948,6 +948,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/talentpluto/j/8a54f74a1f": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States (remote)",
+"extracted_at": "2026-07-19T14:18:34+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/vasion/j/b742e0151e": {
 "countries": [],
 "eligibility_stated": false,
@@ -2708,6 +2721,19 @@
 "eligibility_stated": true,
 "evidence": "Product Marketing Manager \u2013 Cloud Native \u2013 USA Remote",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:wix2:744000131487071": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We are seeking candidates based in the Denver metropolitan area",
+"extracted_at": "2026-07-19T14:18:34+00:00",
 "regions": [
 "US"
 ],

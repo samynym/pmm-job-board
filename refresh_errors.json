@@ -24,11 +24,39 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Home-Internet---Converged--_R-115369",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Performance-Measurement_R-115196",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Intake-and-Prioritization_R-115198",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing_R-115326",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Strategy_R-115173",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/greenhouse/jobs/8016211",
+  "url": "https://boards.greenhouse.io/instead/jobs/7761475003",
   "error": "HTTP 404"
  },
  {
@@ -52,10 +80,6 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/ideals/520eeefb-0704-4bea-bd5f-52bb3b725b55",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
@@ -72,15 +96,15 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://visual-components.jobs.personio.de/job/2604835",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://westwing.jobs.personio.de/job/2633129",
   "error": "delisted or no data"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://visual-components.jobs.personio.de/job/2604835",
   "error": "delisted or no data"
  }
 ]

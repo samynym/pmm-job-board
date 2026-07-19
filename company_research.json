@@ -14106,6 +14106,142 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "smartrecruiters:Wix2": {
+  "company": "Wix",
+  "confidence": "high",
+  "distribution_summary": "Wix\u2019s LinkedIn-visible current employees appear concentrated in the US and UK (many), with smaller numbers (few) across major markets in Europe, Asia, Australia, Canada and Brazil, and little-to-no presence on LinkedIn for several African, Latin American and Gulf country codes.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "Wix is office-first but allows hybrid and some remote-only roles depending on location/site.",
+    "quote": "We believe in working from the office and working together in person... How you work specifically will depend on your team and location. In some locations, the team works mainly from the office, others offer hybrid and remote-only positions.",
+    "url": "https://careers.wix.com/how-we-hire"
+   },
+   {
+    "claim": "Ireland: fully-remote Customer Care roles are available but restricted to candidates based in the Republic of Ireland.",
+    "quote": "Fully Remote (must be based in Ireland)... Note: All remote shifts are open to candidates permanently residing anywhere within the Republic of Ireland. We currently only accept applicants who are located in Ireland and eligible to work full-time in the Republic Of Ireland.",
+    "url": "https://jobs.smartrecruiters.com/Wix2/744000132985269-customer-care-expert-portuguese-market-hybrid-remote-"
+   },
+   {
+    "claim": "United States: fully-remote roles exist (example: Senior Director, Retail Channel Partnerships).",
+    "quote": "This is a fully remote position. East Coast candidates preferred.",
+    "url": "https://jobs.smartrecruiters.com/Wix2/744000122755479-senior-director-retail-channel-partnerships"
+   },
+   {
+    "claim": "Canada: hybrid-remote roles exist that require living near a Canadian office (Vancouver).",
+    "quote": "While you'll work from home most of the week, we require this person to be in our Vancouver office every Thursday.",
+    "url": "https://jobs.smartrecruiters.com/Wix2/744000117398806-search-engineer"
+   },
+   {
+    "claim": "Wix operates via its own subsidiaries (indicator for employing directly where it has legal entities).",
+    "quote": "8.1 List of subsidiaries of the Registrant (filed herewith)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1576789/000162828026015222/wix-20251231.htm"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unlikely",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-07-19T14:18:38+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "smartrecruiters:mirantis": {
+  "company": "mirantis",
+  "confidence": "medium",
+  "distribution_summary": "Based on LinkedIn X\u2011ray searches, Mirantis has many employees listed in the United States, the United Kingdom, and India; a small presence in Germany and Canada; and little-to-no presence on country\u2011specific LinkedIn domains for the other listed countries. ([linkedin.com](https://www.linkedin.com/company/mirantis?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Asia hiring is active (e.g., Kazakhstan)",
+    "quote": "Almaty, Kazakhstan\n\n4 jobs",
+    "url": "https://careers.smartrecruiters.com/Mirantis"
+   },
+   {
+    "claim": "Europe roles are remote but scoped to the EU",
+    "quote": "AI Infrastructure & Platform Operations Engineer (remote in the EU)",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000135977729-ai-infrastructure-platform-operations-engineer-remote-in-the-eu-"
+   },
+   {
+    "claim": "United States roles allow fully-remote",
+    "quote": "Project Manager (Client Delivery - AI & Cloud) - Fully Remote USA",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000121388517-project-manager-client-delivery-ai-cloud-fully-remote-usa"
+   },
+   {
+    "claim": "United Kingdom roles are explicitly remote in the UK",
+    "quote": "Senior Solution Architect, k0rdent AI (remote in the UK)",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000104567816-senior-solution-architect-k0rdent-ai-remote-in-the-uk-"
+   },
+   {
+    "claim": "Company describes itself as remote-first",
+    "quote": "Work in a global, collaborative, remote-first culture that rewards initiative and execution.",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000126409529-senior-software-engineer-golang-backend-remote-"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-19T14:18:38+00:00",
+  "scope_basis": "legal-entity"
+ },
  "smartrecruiters:wirelessxfactor": {
   "company": "Lightspeed Human Capital Management Inc.",
   "confidence": "medium",
@@ -16840,6 +16976,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
+ },
+ "workday:('adobe.wd5.myworkdayjobs.com', 'external_experienced')": {
+  "company": "ADUS-Adobe Inc.",
+  "confidence": "high",
+  "distribution_summary": "Public job and hiring listings show ADUS-Adobe Inc. hiring across multiple U.S. cities (so many U.S.-based employees), with a small presence in France; no clear LinkedIn-indexed employee profiles were found for the other listed countries. ([career.com](https://www.career.com/job/adus-adobe-inc/solution-consultant-data-and-insights/j202511230819392203862?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "few",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "United States: Adobe lists many roles as remote in specific U.S. states, indicating location\u2011bound remote eligibility.",
+    "quote": "locations\n    Remote Colorado\n    Remote Arizona\n    Remote New York\n    Remote California\n    Remote Florida",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Enterprise-Solutions-Account-Manager_R169219-1"
+   },
+   {
+    "claim": "Canada: Adobe posts roles explicitly eligible for Remote Canada.",
+    "quote": "locations\n    McLean\n    Remote Canada",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/mclean/renewals-sales-specialist--public-sector-_r168878-1"
+   },
+   {
+    "claim": "Latin America: Adobe lists remote locations such as Mexico and Chile for certain roles.",
+    "quote": "locations\n    Remote Mexico\n    Remote Chile",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-Field-Partner-Sales-Manager_R165909"
+   },
+   {
+    "claim": "Europe and UK: Adobe advertises remote eligibility in England and Germany on the same posting.",
+    "quote": "locations\n    London\n    Remote England\n    Remote Germany\n    Basel",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/london/senior-ai-engineering-manager---forward-deployed_r167533"
+   },
+   {
+    "claim": "Asia: Adobe has multiple roles listed as Remote India.",
+    "quote": "locations\n    Remote India",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Sr-Technical-Support-Engineer_R168114-1"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-19T14:18:38+00:00",
+  "scope_basis": "legal-entity"
  },
  "workday:('alteryx.wd108.myworkdayjobs.com', 'alteryxcareers')": {
   "company": "Alteryx, Inc.",
