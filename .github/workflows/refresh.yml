@@ -31,11 +31,21 @@ jobs:
 
       - name: Extract remote eligibility
         env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python eligibility.py || echo "eligibility extraction failed (non-fatal)"
 
+      - name: Research new companies
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_RESEARCH: "10"
+        run: python company_research.py || echo "company research failed (non-fatal)"
+
       - name: Rebuild HTML
-        run: python build_html.py
+        run: |
+          python build_html.py
+          python build_leads.py
 
       - name: Commit refreshed data
         run: |

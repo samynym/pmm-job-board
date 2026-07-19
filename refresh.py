@@ -5,6 +5,11 @@ ATS's public list API (or public listing page where there is no API), collects
 candidate product-marketing job URLs, re-verifies previously known postings,
 and rebuilds final_jobs_sorted.json via the existing scrape.py processors.
 
+Board enumeration now also captures (title, location, remote) for EVERY job on
+each board — not just product-marketing ones — and aggregates them into
+company_signals.json (via company_signals.py). Those signals feed the
+company-level remote-hiring verdicts. Same API calls, no extra fetches.
+
 Tracks when each posting was first seen in jobs_seen.json so a run can report
 which roles are new since the previous run (new_jobs_latest.json, consumed by
 notify.py). iCIMS has no usable public list endpoint, so those boards only get
@@ -18,6 +23,7 @@ from datetime import datetime, timezone
 from urllib.parse import quote, urlparse
 
 import scrape
+import company_signals
 from config import KEYWORDS
 from dedupe import canonicalize
 from finalize import finalize, relevant
@@ -87,52 +93,104 @@ def boards_from_urls(urls):
 
 
 # ---------------------------------------------------------------------------
-# Per-ATS board listers. Each returns a list of (canonical_url, title) where
-# title may be None when the listing doesn't expose one.
+# Per-ATS board listers. Each returns a list of job dicts:
+#   {url, title, location, remote}
+# title/location may be None when the listing doesn't expose them.
 # ---------------------------------------------------------------------------
+
+def _loc_remote(loc, flag=None):
+    loc = (loc or '').strip() or None
+    if flag is not None:
+        return loc, bool(flag)
+    return loc, bool(loc and 'remote' in loc.lower())
 
 def list_ashby(slug):
     d = get_json(f"https://api.ashbyhq.com/posting-api/job-board/{quote(slug, safe='')}")
-    return [(f"https://jobs.ashbyhq.com/{slug}/{j['id']}", j.get('title'))
-            for j in d.get('jobs', []) if j.get('isListed', True)]
+    out = []
+    for j in d.get('jobs', []):
+        if not j.get('isListed', True):
+            continue
+        loc, rem = _loc_remote(j.get('location'), j.get('isRemote'))
+        out.append({'url': f"https://jobs.ashbyhq.com/{slug}/{j['id']}",
+                    'title': j.get('title'), 'location': loc, 'remote': rem})
+    return out
 
 def list_lever(company):
     d = get_json(f"https://api.lever.co/v0/postings/{company}?mode=json")
-    return [(f"https://jobs.lever.co/{company}/{j['id']}", j.get('text')) for j in d]
+    out = []
+    for j in d:
+        cats = j.get('categories') or {}
+        loc, rem = _loc_remote(cats.get('location'),
+                               (j.get('workplaceType') or '').lower() == 'remote' or None)
+        out.append({'url': f"https://jobs.lever.co/{company}/{j['id']}",
+                    'title': j.get('text'), 'location': loc, 'remote': rem})
+    return out
 
 def list_greenhouse(company):
     d = get_json(f"https://boards-api.greenhouse.io/v1/boards/{company}/jobs")
-    return [(f"https://boards.greenhouse.io/{company}/jobs/{j['id']}", j.get('title'))
-            for j in d.get('jobs', [])]
+    out = []
+    for j in d.get('jobs', []):
+        loc, rem = _loc_remote((j.get('location') or {}).get('name'))
+        out.append({'url': f"https://boards.greenhouse.io/{company}/jobs/{j['id']}",
+                    'title': j.get('title'), 'location': loc, 'remote': rem})
+    return out
 
 def list_smartrecruiters(company):
     out, offset = [], 0
     while True:
         d = get_json(f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100&offset={offset}")
         content = d.get('content', [])
-        out += [(f"https://jobs.smartrecruiters.com/{company}/{p['id']}", p.get('name')) for p in content]
+        for p in content:
+            locd = p.get('location') or {}
+            loc_str = ', '.join(x for x in [locd.get('city'), locd.get('country')] if x)
+            loc, rem = _loc_remote(loc_str, locd.get('remote'))
+            out.append({'url': f"https://jobs.smartrecruiters.com/{company}/{p['id']}",
+                        'title': p.get('name'), 'location': loc, 'remote': rem})
         offset += len(content)
         if not content or offset >= d.get('totalFound', 0):
             return out
 
 def list_workable(account):
     d = get_json(f"https://apply.workable.com/api/v1/widget/accounts/{account}?details=false")
-    return [(f"https://apply.workable.com/{account}/j/{j['shortcode'].upper()}", j.get('title'))
-            for j in d.get('jobs', [])]
+    out = []
+    for j in d.get('jobs', []):
+        loc_str = ', '.join(x for x in [j.get('city'), j.get('country')] if x)
+        out.append({'url': f"https://apply.workable.com/{account}/j/{j['shortcode'].upper()}",
+                    'title': j.get('title'), 'location': loc_str or None,
+                    'remote': bool(j.get('telecommuting'))})
+    return out
 
 def list_recruitee(company):
     d = get_json(f"https://{company}.recruitee.com/api/offers/")
-    return [(f"https://{company}.recruitee.com/o/{o['slug']}", o.get('title'))
-            for o in d.get('offers', [])]
+    out = []
+    for o in d.get('offers', []):
+        loc, rem = _loc_remote(o.get('location'), o.get('remote'))
+        out.append({'url': f"https://{company}.recruitee.com/o/{o['slug']}",
+                    'title': o.get('title'), 'location': loc, 'remote': rem})
+    return out
 
 def list_breezy(company):
     d = get_json(f"https://{company}.breezy.hr/json")
-    return [(f"https://{company}.breezy.hr/p/{o['friendly_id']}", o.get('name'))
-            for o in d if o.get('friendly_id')]
+    out = []
+    for o in d:
+        if not o.get('friendly_id'):
+            continue
+        locd = o.get('location') or {}
+        loc_str = locd.get('name') if isinstance(locd, dict) else str(locd or '')
+        out.append({'url': f"https://{company}.breezy.hr/p/{o['friendly_id']}",
+                    'title': o.get('name'), 'location': loc_str or None,
+                    'remote': bool((locd.get('is_remote') if isinstance(locd, dict) else None)
+                                   or (loc_str and 'remote' in loc_str.lower()))})
+    return out
 
 def list_rippling(board):
     d = get_json(f"https://api.rippling.com/platform/api/ats/v1/board/{board}/jobs")
-    return [(f"https://ats.rippling.com/{board}/jobs/{j['uuid']}", j.get('name')) for j in d]
+    out = []
+    for j in d:
+        loc, rem = _loc_remote((j.get('workLocation') or {}).get('label'))
+        out.append({'url': f"https://ats.rippling.com/{board}/jobs/{j['uuid']}",
+                    'title': j.get('name'), 'location': loc, 'remote': rem})
+    return out
 
 def list_workday(key):
     host, site = key
@@ -150,7 +208,9 @@ def list_workday(key):
                 path = jp.get('externalPath') or ''
                 segs = [s for s in path.split('/') if s]
                 if segs and 'job' in segs:
-                    out.append((f"https://{host}/{site}/job/{segs[-1]}", jp.get('title')))
+                    loc, rem = _loc_remote(jp.get('locationsText'))
+                    out.append({'url': f"https://{host}/{site}/job/{segs[-1]}",
+                                'title': jp.get('title'), 'location': loc, 'remote': rem})
             offset += 20
             if not postings or offset >= d.get('total', 0):
                 break
@@ -162,9 +222,12 @@ def list_personio(host):
     for block in re.findall(r'<position>(.*?)</position>', xml, re.DOTALL):
         mid = re.search(r'<id>(\d+)</id>', block)
         mname = re.search(r'<name>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</name>', block, re.DOTALL)
+        moffice = re.search(r'<office>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</office>', block, re.DOTALL)
         if mid:
-            out.append((f"https://{host}/job/{mid.group(1)}",
-                        mname.group(1).strip() if mname else None))
+            loc, rem = _loc_remote(moffice.group(1).strip() if moffice else None)
+            out.append({'url': f"https://{host}/job/{mid.group(1)}",
+                        'title': mname.group(1).strip() if mname else None,
+                        'location': loc, 'remote': rem})
     return out
 
 def list_teamtailor(host):
@@ -178,7 +241,8 @@ def list_teamtailor(host):
         for slug in new:
             # slug is "{id}-{title-with-dashes}"; good enough for keyword filtering
             title = ' '.join(slug.split('-')[1:]) or None
-            seen[slug] = (f"https://{host}/jobs/{slug}", title)
+            seen[slug] = {'url': f"https://{host}/jobs/{slug}", 'title': title,
+                          'location': None, 'remote': False}
     return list(seen.values())
 
 def _strip_tags(s):
@@ -190,7 +254,8 @@ def list_jazzhr(host):
     for m in re.finditer(r'<a[^>]+href="(?:https?://[^"/]+)?/apply/([A-Za-z0-9]+)[^"]*"[^>]*>(.*?)</a>',
                          html_page, re.DOTALL):
         title = _strip_tags(m.group(2))
-        out.append((f"https://{host}/apply/{m.group(1)}", title or None))
+        out.append({'url': f"https://{host}/apply/{m.group(1)}", 'title': title or None,
+                    'location': None, 'remote': False})
     return out
 
 def list_jobvite(company):
@@ -200,7 +265,8 @@ def list_jobvite(company):
         for m in re.finditer(r'<a[^>]+href="[^"]*/job/([A-Za-z0-9]+)"[^>]*>(.*?)</a>',
                              html_page, re.DOTALL):
             title = _strip_tags(m.group(2))
-            out.append((f"https://jobs.jobvite.com/{company}/job/{m.group(1)}", title or None))
+            out.append({'url': f"https://jobs.jobvite.com/{company}/job/{m.group(1)}",
+                        'title': title or None, 'location': None, 'remote': False})
     return out
 
 LISTERS = {
@@ -218,6 +284,13 @@ LISTERS = {
     'jazzhr': list_jazzhr,
     'jobvite': list_jobvite,
 }
+
+# Full-board coverage: for these ATSs the lister sees every job on the board,
+# so signals like remote-ratio and hub concentration are meaningful. Workday
+# and Jobvite only see keyword-search results; Teamtailor/JazzHR lack
+# locations. Signals for those are marked partial.
+FULL_BOARD_ATS = {'ashby', 'lever', 'greenhouse', 'smartrecruiters', 'workable',
+                  'recruitee', 'breezy', 'rippling', 'personio'}
 
 
 # ---------------------------------------------------------------------------
@@ -281,8 +354,9 @@ def main():
     boards = boards_from_urls(known_urls)
     errors = []
 
-    # 1. Enumerate every known board for currently-open roles.
+    # 1. Enumerate every known board: PMM candidates + full-board signals.
     candidates = {}  # state_key -> canonical url
+    board_jobs = {}  # "ats:key" -> list of job dicts (all roles, not just PMM)
 
     def add_candidate(url, title):
         canon = canonicalize(url) or url
@@ -299,15 +373,27 @@ def main():
             ats, key = futs[fut]
             done += 1
             try:
-                for url, title in fut.result():
-                    add_candidate(url, title)
+                jobs_list = fut.result()
+                board_jobs[f"{ats}:{key}"] = jobs_list
+                for j in jobs_list:
+                    add_candidate(j['url'], j.get('title'))
             except Exception as e:
                 errors.append({'board': f'{ats}:{key}', 'error': str(e)})
             if done % 100 == 0:
                 print(f"...{done}/{len(tasks)} boards ({len(candidates)} candidates)", file=sys.stderr)
 
-    enumerated = len(candidates)
-    print(f"Board enumeration done: {enumerated} candidates, {len(errors)} board errors", file=sys.stderr)
+    print(f"Board enumeration done: {len(candidates)} candidates, {len(errors)} board errors", file=sys.stderr)
+
+    # 1b. Aggregate per-company signals from the full-board data.
+    signals = {}
+    for bkey, jobs_list in board_jobs.items():
+        ats = bkey.split(':', 1)[0]
+        sig = company_signals.compute(jobs_list, full_board=ats in FULL_BOARD_ATS)
+        sig['computed_at'] = now_iso
+        signals[bkey] = sig
+    with open(os.path.join(BASE, 'company_signals.json'), 'w') as f:
+        json.dump(signals, f, indent=0, sort_keys=True)
+    print(f"Company signals written for {len(signals)} boards", file=sys.stderr)
 
     # 2. Re-verify everything we already show, plus known URLs on platforms
     #    without a list endpoint (iCIMS).

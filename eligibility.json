@@ -54,12 +54,11 @@
 },
 "breezy:gen-tech.breezy.hr:15fb2746fdc0": {
 "countries": [],
-"eligibility_stated": true,
-"evidence": "work remotely from any safe location worldwide; reaching every country except aggressor states (yes, even Antarctica)",
-"extracted_at": "2026-07-17T20:55:38+00:00",
-"regions": [
-"Worldwide"
-],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-18T19:40:52+00:00",
+"note": "worldwide claim rejected: The quote describes work flexibility (where an already-hired employee may perform their work) rather than the geographic eligibility of cand",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -529,18 +528,15 @@
 "work_auth": null
 },
 "greenhouse:rushstreetinteractive:6110846004": {
-"countries": [
-"Canada"
-],
+"countries": [],
 "eligibility_stated": true,
-"evidence": "For candidates outside the US (Canada, Europe, Latin America), we take a locally informed approach to compensation and will share specific ranges based on your country of residence.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"evidence": "Open to candidates across the U.S. For candidates outside the US (Canada, Europe, Latin America), we take a locally informed approach to compensation",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "US",
 "Canada",
 "Europe",
-"Latin America",
-"Middle East"
+"Latin America"
 ],
 "timezone": null,
 "work_auth": null
@@ -571,7 +567,7 @@
 "countries": [],
 "eligibility_stated": true,
 "evidence": "You do not need to be located in the U.S. \u2014 we're remote-friendly",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:40:52+00:00",
 "regions": [
 "Worldwide"
 ],
@@ -745,9 +741,9 @@
 ],
 "eligibility_stated": true,
 "evidence": "Location : UK / Singapore Employment Type : Full Time Workplace Type: Remote if UK, Hybrid if Singapore",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
-"UK",
+"Europe",
 "Asia"
 ],
 "timezone": null,
@@ -777,10 +773,10 @@
 "countries": [],
 "eligibility_stated": true,
 "evidence": "Location: Fully remote, UK or abroad. You'll keep a few hours of daily overlap with UK working hours.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "UK",
-"Worldwide"
+"Europe"
 ],
 "timezone": "4 hours overlap with UK working hours",
 "work_auth": null
@@ -977,13 +973,13 @@
 "India"
 ],
 "eligibility_stated": true,
-"evidence": "This role is based in India but focuses primarily on the US market. Evening IST hours with 4\u20138 hours of daily overlap with US Pacific (9am\u20135pm PT).",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"evidence": "This role is based in India but focuses primarily on the US market... Evening IST hours with 4\u20138 hours of daily overlap with US Pacific",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "US",
 "Asia"
 ],
-"timezone": "4-8 hours overlap with US Pacific (9am-5pm PT)",
+"timezone": "4-8 hours overlap with US Pacific (IST evenings)",
 "work_auth": null
 },
 "https://ats.rippling.com/albert-invent-corp/jobs/c49fe620-8743-400c-82ba-c0502f3bf27c": {
@@ -1222,13 +1218,13 @@
 "India"
 ],
 "eligibility_stated": true,
-"evidence": "Location: Remote, India This role requires significant overlap with U.S. Eastern Time (EST).",
-"extracted_at": "2026-07-17T21:04:37+00:00",
+"evidence": "Location: Remote, India This role requires significant overlap with U.S. Eastern Time (EST). Candidates must be available to work until 3:00 AM IST on a regular basis",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "US",
 "Asia"
 ],
-"timezone": "significant overlap with U.S. Eastern Time (EST)",
+"timezone": "EST overlap, available until 3:00 AM IST",
 "work_auth": null
 },
 "https://digitalzoneinc.applytojob.com/apply/1bppphdsfc": {
@@ -1426,7 +1422,7 @@
 "countries": [],
 "eligibility_stated": true,
 "evidence": "This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, San Francisco, and Warsaw.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:40:52+00:00",
 "regions": [
 "Worldwide"
 ],
@@ -1513,12 +1509,14 @@
 "work_auth": null
 },
 "https://jobs.ashbyhq.com/hostinger/3e870285-355e-4668-9ff8-2c6daa8fced3": {
-"countries": [],
+"countries": [
+"Lithuania"
+],
 "eligibility_stated": true,
 "evidence": "Work on your terms: from modern offices in Kaunas and Vilnius, the comfort of home, or anywhere in the world.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:40:52+00:00",
 "regions": [
-"Worldwide"
+"Europe"
 ],
 "timezone": null,
 "work_auth": null
@@ -1622,10 +1620,13 @@
 "https://jobs.ashbyhq.com/mui/7e1d14d3-03e9-46f8-9453-ffe1c7a3b8d8": {
 "countries": [],
 "eligibility_stated": true,
-"evidence": "Remote (preference for UTC-6 to UTC+5)",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"evidence": "Location: Remote (preference for UTC-6 to UTC+5).",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
-"Worldwide"
+"Americas",
+"Europe",
+"Africa",
+"Asia"
 ],
 "timezone": "UTC-6 to UTC+5",
 "work_auth": null
@@ -1877,7 +1878,7 @@
 "countries": [],
 "eligibility_stated": true,
 "evidence": "Location field: EMEA",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "Europe",
 "Middle East",
@@ -2507,7 +2508,7 @@
 ],
 "eligibility_stated": true,
 "evidence": "This is a fully remote job open for candidate in the west coast of Canada, the east coast of Australia, or New Zealand.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "Canada",
 "Oceania"
@@ -2818,7 +2819,7 @@
 ],
 "eligibility_stated": true,
 "evidence": "Location: USA or UAE... campaigns, and lead generation across key markets including the UAE, KSA, and USA.",
-"extracted_at": "2026-07-17T20:55:38+00:00",
+"extracted_at": "2026-07-18T19:39:50+00:00",
 "regions": [
 "US",
 "Middle East"

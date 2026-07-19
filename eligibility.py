@@ -21,6 +21,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from urllib.parse import urlparse, quote
 
+import llm
 import scrape
 from refresh import state_key
 
@@ -73,11 +74,13 @@ SYSTEM_PROMPT = """You extract hiring-eligibility facts from job postings for re
 
 Rules — these are strict:
 - Extract ONLY what the posting explicitly states. Never infer eligibility from the company's headquarters, the currency of the salary, or the ATS platform.
+- Every region you output MUST be individually supported by the evidence quote. If the posting names "US, Canada, Europe and Latin America", output exactly those — do NOT round up to neighboring regions the posting didn't name.
 - A posting that says just "Remote" with no qualifier states nothing: eligibility_stated=false, empty regions.
+- Perk/benefits language is NOT eligibility. "Work from anywhere", "work from home or the beach", "flexible location" in a benefits blurb describes flexibility for people the company can already employ — it does not state where the company can legally hire. Only output Worldwide when the posting states hiring/employment eligibility globally (e.g. "open to candidates in any country", "we hire worldwide", "location: Remote - Worldwide" in the location/eligibility section). If the only signal is perk language, set eligibility_stated=false.
 - Location-field qualifiers count as stated: "Remote - US" means US only; "Remote (EMEA)" means Europe+Middle East+Africa.
 - "Must be authorized to work in the US" (or similar) is a work_auth fact AND implies US eligibility.
 - Statements like "we hire in 30+ countries" with a list: put the listed countries in countries and their regions in regions.
-- "US only", "US-based": regions=["US"]. EMEA: ["Europe","Middle East","Africa"]. APAC: ["Asia","Oceania"]. LATAM: ["Latin America"]. "anywhere"/"globally": ["Worldwide"].
+- "US only", "US-based": regions=["US"]. EMEA: ["Europe","Middle East","Africa"]. APAC: ["Asia","Oceania"]. LATAM: ["Latin America"].
 - evidence must be a verbatim quote from the posting (<=200 chars) that supports your extraction. If eligibility_stated is false, evidence is null.
 - Timezone overlap requirements ("4 hours overlap with EST") go in timezone, shortened."""
 
@@ -170,34 +173,45 @@ def extract_one(api_key, job, desc):
         f"Remote label: {job.get('remote_label')}\n\n"
         f"Job description:\n{desc}"
     )
-    payload = json.dumps({
-        "model": MODEL,
-        "max_tokens": 1000,
-        "system": SYSTEM_PROMPT,
-        "messages": [{"role": "user", "content": user_msg}],
-        "output_config": {"format": {"type": "json_schema", "schema": OUTPUT_SCHEMA}},
-    }).encode()
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages", data=payload,
-        headers={
-            "x-api-key": api_key,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-            "user-agent": scrape.UA,
-        })
-    with urllib.request.urlopen(req, timeout=90) as r:
-        resp = json.loads(r.read().decode())
-    if resp.get('stop_reason') == 'refusal':
-        raise RuntimeError('refusal')
-    text = next(b['text'] for b in resp['content'] if b['type'] == 'text')
-    return json.loads(text)
+    return llm.extract_json(SYSTEM_PROMPT, user_msg, OUTPUT_SCHEMA, tier='small')
+
+
+VERIFY_MODEL = "claude-sonnet-5"
+
+VERIFY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "is_hiring_eligibility": {
+            "type": "boolean",
+            "description": "true only if the quote states the company can hire/employ candidates anywhere; false if it describes work flexibility for existing/eligible staff",
+        },
+        "reason": {"type": "string"},
+    },
+    "required": ["is_hiring_eligibility", "reason"],
+    "additionalProperties": False,
+}
+
+def verify_worldwide(api_key, job, evidence):
+    """Second-opinion check on rare Worldwide claims: hiring eligibility, or perk copy?"""
+    user_msg = (
+        "A job-posting analyzer claims this posting hires worldwide, citing the quote below. "
+        "Distinguish carefully: statements about WHERE THE COMPANY CAN LEGALLY HIRE "
+        "(\"open to candidates in any country\", \"we hire globally\", \"Remote - Worldwide\" as the location) "
+        "are hiring eligibility. Statements about WORK FLEXIBILITY "
+        "(\"work from home or anywhere\", \"work on your terms\", office/home/travel perks) are NOT — "
+        "they describe how eligible employees may work, not who can be hired.\n\n"
+        f"Job: {job.get('title')} at {job.get('company')} (location field: {job.get('location')})\n"
+        f"Quote: \"{evidence}\"")
+    return llm.extract_json("You judge job-posting eligibility claims precisely.",
+                            user_msg, VERIFY_SCHEMA, tier='judge')
 
 
 def main():
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    api_key = llm.provider()
     if not api_key:
-        print("ANTHROPIC_API_KEY not set — skipping eligibility extraction", file=sys.stderr)
+        print("no LLM API key set — skipping eligibility extraction", file=sys.stderr)
         return
+    print(f"eligibility extraction via {api_key}", file=sys.stderr)
 
     with open(os.path.join(BASE, 'final_jobs_sorted.json')) as f:
         jobs = json.load(f)
@@ -227,6 +241,12 @@ def main():
                          'timezone': None, 'work_auth': None, 'evidence': None,
                          'note': 'no description available', 'extracted_at': now_iso}
         result = extract_one(api_key, job, desc)
+        if 'Worldwide' in result.get('regions', []):
+            v = verify_worldwide(api_key, job, result.get('evidence') or '')
+            if not v.get('is_hiring_eligibility'):
+                result = {'eligibility_stated': False, 'regions': [], 'countries': [],
+                          'timezone': result.get('timezone'), 'work_auth': result.get('work_auth'),
+                          'evidence': None, 'note': f"worldwide claim rejected: {v.get('reason', '')[:140]}"}
         result['extracted_at'] = now_iso
         return key, result
 

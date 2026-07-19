@@ -1,15 +1,14 @@
 import json, html, os
 from urllib.parse import urlparse
 
+import company_score
 from refresh import state_key
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
-try:
-    with open(os.path.join(BASE, 'eligibility.json')) as f:
-        ELIGIBILITY = json.load(f)
-except FileNotFoundError:
-    ELIGIBILITY = {}
+_data = company_score.load_all()
+ELIGIBILITY = _data['eligibility']
+VERDICTS = company_score.all_company_verdicts(_data)
 
 def hires_display(e):
     """Short display string for stated eligibility, or None."""
@@ -61,6 +60,25 @@ rows = []
 for j in jobs:
     key = state_key(j.get('source_url') or j.get('apply_url') or '')
     e = ELIGIBILITY.get(key)
+    bkey = company_score.board_key_of(j.get('source_url') or '')
+    v = VERDICTS.get(bkey) if bkey else None
+    eff = company_score.job_effective(j, e, v)
+
+    display = hires_display(e)
+    src = 'stated'
+    note = ' · '.join(filter(None, [
+        (e or {}).get('timezone'), (e or {}).get('work_auth'),
+        ('"' + e['evidence'] + '"') if (e or {}).get('evidence') else None,
+    ])) or None
+    if not display and eff['source'] == 'company' and eff['regions'] and j.get('remote_label') == 'Remote':
+        display = ', '.join(eff['regions'][:4])
+        src = 'company'
+        ev = (v or {}).get('evidence') or []
+        note = ' · '.join(filter(None, [
+            f"company-level ({(v or {}).get('posture')}, {(v or {}).get('confidence')} confidence)",
+            ('"' + ev[0]['quote'][:140] + '"') if ev else None,
+        ]))
+
     rows.append({
         'key': key,
         'company': j.get('company') or '',
@@ -71,12 +89,10 @@ for j in jobs:
         'salary': j.get('salary'),
         'apply_url': j.get('apply_url'),
         'source': ats_name(j.get('source_url') or j.get('apply_url')),
-        'hires': hires_display(e),
-        'hregions': (e or {}).get('regions') or [],
-        'hnote': ' · '.join(filter(None, [
-            (e or {}).get('timezone'), (e or {}).get('work_auth'),
-            ('"' + e['evidence'] + '"') if (e or {}).get('evidence') else None,
-        ])) or None,
+        'hires': display,
+        'hsrc': src,
+        'hregions': eff['regions'],
+        'hnote': note,
     })
 
 data_json = json.dumps(rows, ensure_ascii=False)
@@ -142,6 +158,12 @@ html_out = """<title>Product Marketing Job Board</title>
   .hchip.active { background: #fdf1e2; border-color: #D97757; color: #91591a; }
   .hires-cell { font-size: 12.5px; color: #4a4438; }
   .hires-cell .hires-known { border-bottom: 1px dotted #b0a68f; cursor: help; }
+  .hires-cell .hires-companylvl { font-style: italic; color: #6b6255; }
+  .hires-cell .hires-src {
+    font-style: normal; font-size: 9.5px; font-weight: 700;
+    background: #eee3d8; color: #7a4a2c; border-radius: 4px;
+    padding: 1px 4px; margin-left: 5px; vertical-align: 1px;
+  }
   .hires-cell .hires-unknown { color: #b3aa8f; }
 
   #toast {
@@ -501,7 +523,9 @@ function render(filterText) {
         '<td class="cell-remote"><span class="badge ' + badgeClass(j.remote) + '">' + escapeHtml(j.remote) + '</span></td>' +
         '<td class="hires-cell cell-hires">' +
           (j.hires
-            ? '<span class="hires-known"' + (j.hnote ? ' title="' + escapeHtml(j.hnote) + '"' : '') + '>' + escapeHtml(j.hires) + '</span>'
+            ? '<span class="hires-known' + (j.hsrc === 'company' ? ' hires-companylvl' : '') + '"' +
+              (j.hnote ? ' title="' + escapeHtml(j.hnote) + '"' : '') + '>' + escapeHtml(j.hires) +
+              (j.hsrc === 'company' ? '<span class="hires-src">co</span>' : '') + '</span>'
             : '<span class="hires-unknown">' + (j.remote === 'Remote' ? 'not stated' : '&#8212;') + '</span>') +
         '</td>' +
         '<td class="posted-date cell-posted">' + escapeHtml(dateStr) +
