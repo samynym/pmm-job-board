@@ -8,79 +8,27 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "workday:('alteryx.wd108.myworkdayjobs.com', 'alteryxcareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('ambarella.wd108.myworkdayjobs.com', 'Ambarella')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('cryoport.wd12.myworkdayjobs.com', 'external')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('merative.wd12.myworkdayjobs.com', 'external_career_site')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
- },
- {
-  "board": "workday:('salesforce.wd12.myworkdayjobs.com', 'External_Career_Site')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('spscommerce.wd108.myworkdayjobs.com', 'SPS')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('texascapitalbank.wd12.myworkdayjobs.com', 'careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  },
  {
   "board": "rippling:caqh",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:alphasense",
-  "error": "The read operation timed out"
- },
- {
   "board": "ashby:evenup",
   "error": "HTTP Error 404: Not Found"
- },
- {
-  "board": "greenhouse:nebius",
-  "error": "The read operation timed out"
  },
  {
   "board": "lever:Loop AI",
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Product-Marketing-Manager--Agent---Application-Experiences_R12218",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Sr-Product-Marketing-Manager--CDP---Data-Connectivity_R12284",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/Edge-AI-Silicon-Product-Marketing-Director_JR100066",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Technical-Product-Marketing-Manager_R12082-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Sr-Product-Marketing-Manager--CDP---Data-Connectivity_R12285",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://boards.greenhouse.io/nubank/jobs/7746464",
+  "url": "https://boards.greenhouse.io/greenhouse/jobs/8016211",
   "error": "HTTP 404"
  },
  {
@@ -88,16 +36,8 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://cryoport.wd12.myworkdayjobs.com/external/job/Product-Marketing-Manager_JR101525",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
   "error": "delisted or no data"
- },
- {
-  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Principal--Medicaid-Product-Marketing_R-421746",
-  "error": "HTTP 403"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
@@ -112,7 +52,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/superhuman platform inc/0fa67642-52ff-4bf4-a36b-5e5bccc757da",
+  "url": "https://jobs.ashbyhq.com/ideals/520eeefb-0704-4bea-bd5f-52bb3b725b55",
   "error": "delisted or no data"
  },
  {
@@ -120,56 +60,8 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Analyst_JR01655",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Manager_JR01577",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Consultant_JR01668-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Manager_JR01656",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/PMM-Director_JR334051",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Partner-Marketing-Lead---Technical-PMM_JR344764",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Director_JR341883",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Director_JR350364-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Lead---TPMM---Release-Marketing_JR345733",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager_JR346770",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead---Data-Governance---Privacy-_JR351274",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -180,26 +72,6 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Director--Product-Marketing--GTM-and-Adoption_JR350621",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Manager--GTM-Product-Marketing_JR349494",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Manager--Trusted-Services_JR347890",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Director--Product-Marketing--Agentforce-Sales-Portfolio-Messaging---Activation_JR346116",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/Corporate-Product-Marketer--Customer-Marketing_R-000652",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "url": "https://westwing.jobs.personio.de/job/2633129",
   "error": "delisted or no data"
  },
@@ -208,7 +80,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Product-Marketing-Lead---Corporate---Investment-Bank_JR105727",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://visual-components.jobs.personio.de/job/2604835",
+  "error": "delisted or no data"
  }
 ]

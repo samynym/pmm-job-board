@@ -1,7 +1,11 @@
 {
- "ran_at": "2026-07-18T05:19:12+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-07-19T05:45:55+00:00",
+ "new_boards": [
+  "personio:aviloo-gmbh.jobs.personio.de",
+  "personio:ecovacs-europe-gmbh.jobs.personio.de",
+  "personio:visual-components.jobs.personio.de"
+ ],
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 30
+ "dork_offset": 4
 }
