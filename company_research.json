@@ -6150,6 +6150,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:affirm": {
+  "company": "Affirm",
+  "confidence": "high",
+  "distribution_summary": "Most Affirm employees appear to be in the United States (many); small presence (few) in Canada, the UK, Australia, India and Singapore; none detected in the remaining listed countries (or searches were inconclusive).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US, Canada, Poland, Spain, UK); no EOR noted in postings",
+  "evidence": [
+   {
+    "claim": "Remote\u2011first company with offices/entities across US, Canada, Poland, Spain, and UK.",
+    "quote": "We built remote work into the DNA\u2026 offices in Chicago, New York City, Pittsburgh, San Francisco, Seattle, Toronto, Warsaw, Madrid and London.",
+    "url": "https://www.affirm.com/careers?cPath=1&main_page=index"
+   },
+   {
+    "claim": "Country-of-employment limitation (legal/entity-based) stated in job postings.",
+    "quote": "The majority of our roles are remote and you can work almost anywhere within the country of employment.",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003"
+   },
+   {
+    "claim": "Active remote roles in the US and Canada.",
+    "quote": "Senior Director, Enterprise Risk Strategy Remote US; \u2026 Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm?error=true"
+   },
+   {
+    "claim": "Active remote hiring in the UK.",
+    "quote": "Location - Remote UK",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7546216003"
+   },
+   {
+    "claim": "Active remote hiring in continental Europe (Poland).",
+    "quote": "Location - Remote Poland \u2026 The majority of our roles can be located anywhere in Poland.",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7731646003"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "likely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-20T06:13:51+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:alphasense": {
   "company": "AlphaSense",
   "confidence": "high",
@@ -6558,6 +6626,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:cordance": {
+  "company": "Cordance",
+  "confidence": "medium",
+  "distribution_summary": "Cordance\u2019s employees appear concentrated in the United States (many) with a noticeable presence in the United Kingdom (many) and a smaller presence in India (few); other listed countries show none based on public LinkedIn profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (e.g., Cordance Personnel LLC \u2013 US; Permanent Software Group Canada Ltd. \u2013 Canada; Cloud Dev Ltd. \u2013 New Zealand)",
+  "evidence": [
+   {
+    "claim": "Cordance lists most openings as United States - Remote, indicating active remote hiring in the US.",
+    "quote": "# Current openings at Cordance ... 20 jobs ... Account Executive United States - Remote ... Integration Specialist United States - Remote ... Product Marketing Manager United States - Remote",
+    "url": "https://job-boards.greenhouse.io/cordance"
+   },
+   {
+    "claim": "At least one role is open remotely in both Canada and the US, showing Canada remote eligibility.",
+    "quote": "Customer Success & Account Manager \u2014 Canada - Remote; United States - Remote",
+    "url": "https://job-boards.greenhouse.io/cordance/jobs/5079498008"
+   },
+   {
+    "claim": "Their US-only remote roles reinforce US remote eligibility.",
+    "quote": "Product Marketing Manager \u2014 United States - Remote",
+    "url": "https://job-boards.greenhouse.io/cordance/jobs/5267844008"
+   },
+   {
+    "claim": "They hire in the UK, but that posting is hybrid (not fully remote), suggesting UK employment capability but not clear UK-remote hiring.",
+    "quote": "Location: Leeds, United Kingdom (Hybrid \u2013 2 days per week in the office)",
+    "url": "https://job-boards.greenhouse.io/cordance/jobs/5285599008"
+   },
+   {
+    "claim": "Cordance confirms employees and legal entities in the US, Canada, and New Zealand, supporting employment via own entities and likely Oceania capability.",
+    "quote": "\u201ca diverse team of approximately 500 people working across the US, Canada, and New Zealand. Staff in the US are employed by our subsidiary, Cordance Personnel LLC, while our Canadian staff are employed by Permanent Software Group Canada Ltd., and our team in New Zealand is employed by Cloud Dev Ltd.\u201d",
+    "url": "https://cordance.co/wp-content/uploads/2025/06/Modern-Slavery-Act-Statement-reporting-period-2024-post.pdf"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-20T06:13:51+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:corestory": {
   "company": "corestory",
   "confidence": "medium",
@@ -6761,6 +6897,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
+ },
+ "greenhouse:figure": {
+  "company": "Figure Lending",
+  "confidence": "high",
+  "distribution_summary": "Figure Lending\u2019s employees are concentrated in the United States (many), with a small number likely in Canada, the UK and Australia (few), and essentially none in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote roles are open but scoped to the United States.",
+    "quote": "This is the compensation range for the role in the United States.",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8573981002"
+   },
+   {
+    "claim": "US work authorization is required; no visa sponsorship.",
+    "quote": "Figure will not sponsor work visas for this position.",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8573981002"
+   },
+   {
+    "claim": "Job postings explicitly list remote alongside US office hubs, indicating US-based remote.",
+    "quote": "Remote; New York, NY; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8509324002"
+   },
+   {
+    "claim": "Application flow targets US residents (state-specific).",
+    "quote": "What state do you currently reside in?",
+    "url": "https://job-boards.greenhouse.io/figure/jobs/8509324002"
+   },
+   {
+    "claim": "Company lists only US offices, suggesting a US-centric employment footprint.",
+    "quote": "Our offices: San Francisco, CA; New York, NY; Reno, NV; St. Louis, MO; Charlotte, NC",
+    "url": "https://www.figure.com/careers/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-20T06:13:51+00:00",
+  "scope_basis": "legal-entity"
  },
  "greenhouse:fingerprint": {
   "company": "Fingerprint",
@@ -7442,6 +7646,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:minio": {
+  "company": "MinIO",
+  "confidence": "medium",
+  "distribution_summary": "MinIO\u2019s employees are concentrated in the United States and India, with smaller numbers in Western Europe, APAC countries (Canada, Australia, Japan, Singapore, Brazil), and little-to-no presence visible in the listed African and some Latin American country LinkedIn indexes.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "many",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "MinIO describes itself as remote-first and globally distributed.",
+    "quote": "Remote-first, globally distributed work environment",
+    "url": "https://www.min.io/careers"
+   },
+   {
+    "claim": "MinIO hires remotely in the United States.",
+    "quote": "Director, Product Marketing - Nvidia Partnership\nRemote, US",
+    "url": "https://job-boards.greenhouse.io/minio/jobs/5229770008"
+   },
+   {
+    "claim": "MinIO hires remotely in South Korea (Asia).",
+    "quote": "Site Reliability Engineer - South Korea\nRemote - South Korea",
+    "url": "https://job-boards.greenhouse.io/minio/jobs/5363288008"
+   },
+   {
+    "claim": "MinIO hires remotely in Saudi Arabia (Middle East).",
+    "quote": "Software Engineer\nRemote - Riyadh, Saudi Arabia",
+    "url": "https://job-boards.greenhouse.io/minio/jobs/5257237008"
+   },
+   {
+    "claim": "MinIO has listed remote roles in the UK and in Europe (France).",
+    "quote": "Field Architect New\nRemote - UK \u2026 Enterprise Account Executive - France New\nRemote - France",
+    "url": "https://job-boards.greenhouse.io/minio"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "yes",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-20T06:13:51+00:00",
+  "scope_basis": "unclear"
+ },
  "greenhouse:mozilla": {
   "company": "mozilla",
   "confidence": "medium",
@@ -8115,6 +8387,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "mixed"
+ },
+ "greenhouse:rithumliboard": {
+  "company": "Rithum LinkedIn Board",
+  "confidence": "high",
+  "distribution_summary": "Rithum\u2019s employees are concentrated in the United States, United Kingdom, and Australia, with a smaller presence in Canada, India, Germany and France, and little-to-no presence across the listed African, Latin American, Gulf, and several Asian country codes.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "Remote\u2011first company with region-specific benefits coverage (US, AU, IE, ES, UK).",
+    "quote": "Remote-first work environment \u2026 Total Rewards guides by region US AU IE ES UK.",
+    "url": "https://www.rithum.com/company/careers/"
+   },
+   {
+    "claim": "Some roles are remote but constrained to US time zones/regions.",
+    "quote": "Senior Strategic Program Manager \u2014 Eastern or Central United States - Remote.",
+    "url": "https://job-boards.greenhouse.io/rithum/jobs/8031847"
+   },
+   {
+    "claim": "Hires remotely in the UK and requires UK work location.",
+    "quote": "This role requires that you currently reside and work from the UK.",
+    "url": "https://job-boards.greenhouse.io/rithum/jobs/7816371"
+   },
+   {
+    "claim": "Hires remotely in continental Europe (example: Spain).",
+    "quote": "Technical Account Manager Spain - Remote.",
+    "url": "https://job-boards.greenhouse.io/rithumliboard/jobs/6871852"
+   },
+   {
+    "claim": "Operates via its own legal entities in ES, UK, IE, and AU (supports hiring there); APAC coverage includes Australia.",
+    "quote": "\u2026 ensuring accurate, compliant, and timely payroll processing and benefits administration across Rithum's international entities in Spain, the United Kingdom, Ireland, and Australia.",
+    "url": "https://job-boards.greenhouse.io/rithum/jobs/7913351"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-20T06:13:51+00:00",
   "scope_basis": "mixed"
  },
  "greenhouse:rushstreetinteractive": {

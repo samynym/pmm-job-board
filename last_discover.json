@@ -1,13 +1,20 @@
 {
- "ran_at": "2026-07-19T14:15:54+00:00",
+ "ran_at": "2026-07-20T06:11:10+00:00",
  "new_boards": [
-  "smartrecruiters:NBCUniversal3",
-  "smartrecruiters:Promptcloud",
-  "smartrecruiters:Wix2",
-  "smartrecruiters:mirantis",
-  "smartrecruiters:oneclick-ui"
+  "greenhouse:affirm",
+  "greenhouse:clerk-ai",
+  "greenhouse:cordance",
+  "greenhouse:figure",
+  "greenhouse:flowfuse",
+  "greenhouse:fosphamarketing",
+  "greenhouse:icapitalnetwork",
+  "greenhouse:minio",
+  "greenhouse:planetlabs",
+  "greenhouse:rithumliboard",
+  "greenhouse:smartsheet",
+  "greenhouse:soldejaneiro"
  ],
- "new_urls": 5,
+ "new_urls": 12,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }

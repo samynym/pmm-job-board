@@ -24,31 +24,7 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Home-Internet---Converged--_R-115369",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Performance-Measurement_R-115196",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Intake-and-Prioritization_R-115198",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing_R-115326",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Strategy_R-115173",
+  "url": "https://axis.wd3.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Marketing_R-123407",
   "error": "HTTP 403"
  },
  {
@@ -56,7 +32,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/instead/jobs/7761475003",
+  "url": "https://boards.greenhouse.io/elastic/jobs/7843350",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/elastic/jobs/7952164",
   "error": "HTTP 404"
  },
  {
@@ -68,15 +48,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clera/d3fefbd5-7aa5-4e5a-9cf4-e4db8f523338",
   "error": "delisted or no data"
  },
  {
@@ -86,6 +70,10 @@
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead---Data-Governance---Privacy-_JR351274",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

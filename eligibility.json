@@ -262,6 +262,17 @@
 "timezone": null,
 "work_auth": "Applicants must be legally authorized to work in the United States for any employer without requiring current or future visa sponsorship"
 },
+"greenhouse:affirm:7773695003": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "\"Remote US\"; \"Please note that visa sponsorship is not available for this position.\"",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "US work authorization required (no visa sponsorship)"
+},
 "greenhouse:alphasense:8540789002": {
 "countries": [],
 "eligibility_stated": true,
@@ -330,6 +341,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:cordance:5267844008": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "\"United States - Remote\"",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:extrahopnetworks:6100876004": {
 "countries": [],
 "eligibility_stated": false,
@@ -338,6 +360,19 @@
 "regions": [],
 "timezone": null,
 "work_auth": null
+},
+"greenhouse:figure:8573981002": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Figure will not sponsor work visas for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "US work authorization required"
 },
 "greenhouse:fingerprint:5844562004": {
 "countries": [],
@@ -450,6 +485,39 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:minio:5229770008": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, US",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:minio:5231774008": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, US",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:minio:5284422008": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, US",
+"extracted_at": "2026-07-20T06:13:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:muralhealth:4178943009": {
 "countries": [],
 "eligibility_stated": true,
@@ -521,6 +589,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: United States - Remote",
 "extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:rithumliboard:8070498": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "United States - Remote",
+"extracted_at": "2026-07-20T06:13:42+00:00",
 "regions": [
 "US"
 ],
