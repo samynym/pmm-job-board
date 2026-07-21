@@ -1,20 +1,15 @@
 {
- "ran_at": "2026-07-20T06:11:10+00:00",
+ "ran_at": "2026-07-21T05:44:09+00:00",
  "new_boards": [
-  "greenhouse:affirm",
-  "greenhouse:clerk-ai",
-  "greenhouse:cordance",
-  "greenhouse:figure",
-  "greenhouse:flowfuse",
-  "greenhouse:fosphamarketing",
-  "greenhouse:icapitalnetwork",
-  "greenhouse:minio",
-  "greenhouse:planetlabs",
-  "greenhouse:rithumliboard",
-  "greenhouse:smartsheet",
-  "greenhouse:soldejaneiro"
+  "recruitee:amperecloud",
+  "recruitee:deephealth",
+  "recruitee:greatminds",
+  "recruitee:theras",
+  "recruitee:up42gmbh",
+  "workable:bizee",
+  "workable:mindgard"
  ],
- "new_urls": 12,
+ "new_urls": 7,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }

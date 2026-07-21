@@ -429,6 +429,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:instacart:7991599": {
+"countries": [
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.",
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:ionq:6111192004": {
 "countries": [],
 "eligibility_stated": true,
@@ -616,6 +629,17 @@
 "Canada",
 "Europe",
 "Latin America"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:saasgroup:4932860101": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, Europe",
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [
+"Europe"
 ],
 "timezone": null,
 "work_auth": null
@@ -828,6 +852,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/bizee/j/69050886e3": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This employer participates in E-verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.",
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "US work authorization required"
+},
 "https://apply.workable.com/blueprint-bryanjohnson/j/56ff799b79": {
 "countries": [],
 "eligibility_stated": true,
@@ -887,6 +924,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/mindgard/j/38efdef922": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -1317,6 +1367,24 @@
 "Asia"
 ],
 "timezone": "EST overlap, available until 3:00 AM IST",
+"work_auth": null
+},
+"https://clanx.recruitee.com/o/founding-marketer-product-marketing-remote": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://deephealth.recruitee.com/o/associate-director-product-marketing": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-21T05:46:36+00:00",
+"regions": [],
+"timezone": null,
 "work_auth": null
 },
 "https://digitalzoneinc.applytojob.com/apply/1bppphdsfc": {

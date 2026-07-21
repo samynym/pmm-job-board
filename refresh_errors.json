@@ -24,27 +24,27 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://axis.wd3.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Marketing_R-123407",
-  "error": "HTTP 403"
+  "url": "https://apply.workable.com/mealsuite/j/736587311B",
+  "error": "HTTP 404"
  },
  {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/elastic/jobs/7843350",
+  "url": "https://boards.greenhouse.io/databricks/jobs/8493857002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/elastic/jobs/7952164",
+  "url": "https://boards.greenhouse.io/gofundme/jobs/6081057",
   "error": "HTTP 404"
- },
- {
-  "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
-  "error": "delisted or no data"
  },
  {
   "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
@@ -60,19 +60,31 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/d3fefbd5-7aa5-4e5a-9cf4-e4db8f523338",
+  "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
-  "error": "delisted or no data"
+  "url": "https://jobs.lever.co/cloudwalk/eccf79ed-c4f9-46c7-b36c-0ea067bba54a",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/1cb19959-7279-4206-b501-4a22eccb4dc9",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/21538375-b7ee-440f-bfed-7dcad00d91fd",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Technical-Product-Marketing-Manager---AI-Infrastructure_JR2021528",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead---Data-Governance---Privacy-_JR351274",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Director--Product-Marketing--Agentforce-Sales-Portfolio-Messaging---Activation_JR346116",
   "error": "HTTP 403"
  },
  {
@@ -84,8 +96,8 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://visual-components.jobs.personio.de/job/2604835",
-  "error": "delisted or no data"
+  "url": "https://stp-one.jobs.personio.de/job/2638972",
+  "error": "HTTP 404"
  },
  {
   "url": "https://westwing.jobs.personio.de/job/2633129",

@@ -11785,6 +11785,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "lever:sapiosciences": {
+  "company": "sapiosciences",
+  "confidence": "medium",
+  "distribution_summary": "No current-employee LinkedIn profiles for \"sapiosciences\" were found by the X\u2011ray searches across the listed country LinkedIn subdomains (company exists but individual public profiles were not discoverable).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Live roles show remote hiring in the US plus one role pinned to London, UK.",
+    "quote": "Strategic Account Manager (Boston) Remote \u2014 Full-Time Boston, MA \u2026 Scientific Business Analyst Remote \u2014 Full-Time EST USA \u2026 Solutions Architect Remote \u2014 Full-Time London, UK \u2026 Staff Accountant Remote \u2014 Full-Time Remote USA / EST USA \u2026 Product Manager Remote \u2014 Full-Time Remote USA.",
+    "url": "https://jobs.lever.co/sapiosciences"
+   },
+   {
+    "claim": "Product Manager explicitly open to candidates in the US (East Coast preferred) or the UK, indicating US+UK remote scope.",
+    "quote": "Working Location This is a remote-first role. We are open to candidates based in the US (East Coast preferred) or the UK.",
+    "url": "https://jobs.lever.co/sapiosciences/4f539ed0-952c-47f0-9035-9d9de7719da0"
+   },
+   {
+    "claim": "Scientific Business Analyst role requires US East Coast location and states the team is globally distributed with offices in the US and UK.",
+    "quote": "This is a remote role based on the East Coast of the United States\u2026 Our employees are distributed across the world, with physical offices in York, PA, Fort Lauderdale, and London.",
+    "url": "https://jobs.lever.co/sapiosciences/db97a597-5e50-4da3-a9ec-067aaf3a3de5"
+   },
+   {
+    "claim": "Careers page highlights a Sapio employee based in the Netherlands, showing non-UK Europe presence.",
+    "quote": "Yuri de Lugt, Global Director of Field Marketing Overijssel, Netherlands",
+    "url": "https://www.sapiosciences.com/careers/"
+   },
+   {
+    "claim": "Canada: public LinkedIn profile post indicates a Canada-based person joined Sapio Sciences as an Application Engineer (evidence of at least one hire).",
+    "quote": "I am beyond excited to share that I have joined Sapio Sciences as an Application Engineer!",
+    "url": "https://ca.linkedin.com/in/jarrick-pang"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-21T05:46:46+00:00",
+  "scope_basis": "mixed"
+ },
  "lever:swordhealth": {
   "company": "swordhealth",
   "confidence": "high",
@@ -12191,6 +12259,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "mixed"
+ },
+ "recruitee:deephealth": {
+  "company": "DeepHealth",
+  "confidence": "high",
+  "distribution_summary": "Searches for public LinkedIn profiles matching \"DeepHealth\" (using country subdomains) returned ambiguous or no definitive current-employee results, so the employee-location distribution is unknown.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "US and EU remote hiring with timezone notes; no visa sponsorship.",
+    "quote": "Preferred work location: EU/USA \u2026 Remote \u2013 US (Eastern Time Zone)\u2026 Candidates do not need to be located in the eastern time zone\u2026 NOTE: We are not sponsoring work visas at the moment.",
+    "url": "https://deephealth.recruitee.com/o/senior-product-marketing-manager-us-only"
+   },
+   {
+    "claim": "Europe: remote from most EU countries is possible.",
+    "quote": "This position is preferably based in the Netherlands or the UK, but working from most EU countries is a possibility\u2026 Do you have the legal right to work within Europe?",
+    "url": "https://deephealth.recruitee.com/o/information-security-specialist"
+   },
+   {
+    "claim": "UK: hires candidates with UK work rights (no sponsorship).",
+    "quote": "Do you have the legal right to work in the UK without sponsorship?",
+    "url": "https://deephealth.recruitee.com/o/devops-engineer-cimar"
+   },
+   {
+    "claim": "DeepHealth has an NL-based entity integrated via acquisition (own-entity hiring capability in EU).",
+    "quote": "Aidence was acquired in 2022 by RadNet, Inc., \u2026 then integrated into DeepHealth, a wholly owned subsidiary of RadNet.",
+    "url": "https://deephealth.com/aidence/"
+   },
+   {
+    "claim": "DeepHealth has a UK entity integrated (own-entity hiring capability in UK).",
+    "quote": "RadNet \u2026 announced today the acquisition of CIMAR UK\u2026 CIMAR will be integrated into DeepHealth, RadNet\u2019s wholly owned subsidiary\u2026",
+    "url": "https://deephealth.com/press-releases/radnet-acquires-cimar-ukempowering-deephealth-to-accelerate-ai-powered-imaging-reporting-and-image-based-screening/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-21T05:46:46+00:00",
   "scope_basis": "mixed"
  },
  "recruitee:tidiocareer": {
@@ -15439,6 +15575,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workable:bizee": {
+  "company": "bizee",
+  "confidence": "medium",
+  "distribution_summary": "Employees are concentrated in the United States (Bizee is headquartered in Houston, TX) with a small presence in India, Canada and the UK based on public LinkedIn profiles. ([linkedin.com](https://www.linkedin.com/company/bizee-com?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first; states staff can work anywhere and operate on CST hours (timezone preference).",
+    "quote": "We are 100% remote, so you can work from anywhere in the world. It\u2019s important to note that we work CST hours, so there is a consistent schedule for everyone.",
+    "url": "https://bizee.com/careers"
+   },
+   {
+    "claim": "Legal/payroll constraints and US work authorization note; visas not sponsored.",
+    "quote": "Bizee participates in E-verify\u2026 Due to regulatory and security reasons, there are a small number of countries where we cannot have Bizee team members based. We also do not sponsor visas. Bizee team members must be authorized to work from their home location.",
+    "url": "https://bizee.com/careers"
+   },
+   {
+    "claim": "Active remote role limited to the United States (confirms US hiring).",
+    "quote": "Senior Manager, Financial Planning & Analysis \u2014 Remote \u2014 United States\u2026 Are you currently located/do you reside in the USA?",
+    "url": "https://apply.workable.com/bizee/j/F47D4D629B/apply/"
+   },
+   {
+    "claim": "Active engineering role based in Mexico (confirms LATAM hiring in Mexico).",
+    "quote": "Senior, Full Stack Engineering - C1 English - Hybrid \u2026 Zapopan, Jalisco, Mexico",
+    "url": "https://apply.workable.com/bizee/j/871A7FBF1F/apply/"
+   },
+   {
+    "claim": "Another US-based remote product role (reinforces US remote eligibility).",
+    "quote": "Principal Growth Product Manager \u2014 Houston, TX \u2014 Remote",
+    "url": "https://www.indeed.com/viewjob?jk=4c0ea0bd62cda7ec"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "unknown",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-21T05:46:46+00:00",
+  "scope_basis": "mixed"
+ },
  "workable:blueprint-bryanjohnson": {
   "company": "blueprint-bryanjohnson",
   "confidence": "medium",
@@ -16250,6 +16454,69 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "workable:mindgard": {
+  "company": "mindgard",
+  "confidence": "medium",
+  "distribution_summary": "Mindgard\u2019s employees appear to be concentrated in the US (Boston HQ) and the UK (London) with a small presence in Canada and little-to-no presence visible on LinkedIn for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (Mindgard, Inc. in the US; Mindgard Limited in the UK). No public EOR mention found.",
+  "evidence": [
+   {
+    "claim": "They are hiring for roles marked Remote, indicating remote-friendly hiring.",
+    "quote": "IT & Security Engineer Governance, Risk and Compliance \u2013 Remote, Full time",
+    "url": "https://mindgard.ai/careers"
+   },
+   {
+    "claim": "Company is based in both the US and UK, implying ability to employ there.",
+    "quote": "Spun out of more than a decade of AI security research at Lancaster University and headquartered in Boston and London, Mindgard enables organizations to identify, assess, and mitigate real-world AI threats.",
+    "url": "https://mindgard.ai/about"
+   },
+   {
+    "claim": "They have legal entities/addresses in the US and the UK, supporting employment in those countries.",
+    "quote": "MINDGARD, INC., a company incorporated in Delaware, having an office at \u201c470 Atlantic Avenue, Floor 12, Boston, MA 02210, USA\u201d if Customer is located in the United States or Mindgard Limited, a company incorporated in England and Wales\u2026 \u201c34 Lime Street, London, EC3M 7AT, United Kingdom\u201d if Customer is located in any other country.",
+    "url": "https://mindgard.ai/legal/master-services-agreement"
+   },
+   {
+    "claim": "Public company profile reiterates Boston/London footprint and US HQ presence.",
+    "quote": "Mindgard is\u2026 headquartered in Boston and London\u2026 Headquarters Boston, Massachusetts.",
+    "url": "https://www.linkedin.com/company/mindgard"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-21T05:46:46+00:00",
+  "scope_basis": "legal-entity"
  },
  "workable:mlabs": {
   "company": "mlabs",
