@@ -7034,6 +7034,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "greenhouse:fleetio": {
+  "company": "Fleetio",
+  "confidence": "high",
+  "distribution_summary": "Fleetio is primarily US-based (many LinkedIn current-employee profiles), with smaller groups of employees visible in Canada, the UK, Australia and India (few), and little-to-no current-employee presence on LinkedIn in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Many roles are open remotely across the United States, Canada, and Mexico.",
+    "quote": "This is a remote opportunity and is open to candidates in the United States, Canada, or Mexico.",
+    "url": "https://job-boards.greenhouse.io/fleetio/jobs/5139310007"
+   },
+   {
+    "claim": "Some roles are restricted to the United States only (no sponsorship).",
+    "quote": "This is a remote role based in the United States. \u2026 Do you reside in the United States? Please note, this role is only open to candidates who live in the US.",
+    "url": "https://job-boards.greenhouse.io/fleetio/jobs/5177987007"
+   },
+   {
+    "claim": "Fleetio\u2019s public job list repeatedly labels roles as Remote - USA, CAN, MEX.",
+    "quote": "Senior Software Engineer, Actionable Intelligence Remote - USA, CAN, MEX \u2026 Senior Software Engineer, Fleet Maintenance Remote - USA, CAN, MEX \u2026 Director of Engineering, Leverage Remote - USA, CAN, MEX",
+    "url": "https://www.fleetio.com/careers/apply"
+   },
+   {
+    "claim": "They have posted UK-remote roles, indicating ability to hire in the UK.",
+    "quote": "SaaS Associate Customer Support Specialist (Remote - UK) \u2026 Do you reside in the United Kingdom?",
+    "url": "https://job-boards.greenhouse.io/fleetio/jobs/5100557007"
+   },
+   {
+    "claim": "Company identifies as remote-friendly long-term, supporting distributed work.",
+    "quote": "Remote working friendly since 2012 #LI-Remote",
+    "url": "https://job-boards.greenhouse.io/fleetio/jobs/5139310007"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unlikely",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-22T05:45:42+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:fourkites": {
   "company": "fourkites",
   "confidence": "medium",
@@ -12055,6 +12123,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "lever:upguard": {
+  "company": "upguard",
+  "confidence": "medium",
+  "distribution_summary": "UpGuard\u2019s employees are concentrated in the United States and Australia, with substantial presence in India and smaller groups in the Philippines, Singapore, Canada and the UK; little-to-no presence was found for the listed African, Middle Eastern, Latin American, and several European country codes.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "US hiring is remote but limited to specific states.",
+    "quote": "For applications to positions in the United States, please note, at this time we can only support hiring in the following US states: CA, MD, MA, IL, OR, WA, CO, TX, FL, PA, LA, MO, or DC.",
+    "url": "https://jobs.lever.co/upguard/507fe2e4-b65c-4295-a906-e01b515b65b8"
+   },
+   {
+    "claim": "Asia: actively hires remotely in India.",
+    "quote": "Customer Success Manager \u2014 Mumbai / Delhi / Noida / Gurugram \u2014 Remote.",
+    "url": "https://jobs.lever.co/upguard/b186627d-42a0-4d95-89b8-faab96ac653a"
+   },
+   {
+    "claim": "Oceania: actively hires remotely across Australia and New Zealand.",
+    "quote": "Senior/Staff Platform Engineer \u2014 Melbourne / Sydney / Hobart / Brisbane / Auckland \u2014 Remote.",
+    "url": "https://jobs.lever.co/upguard/02fdac5e-b4cb-40bb-a504-1c7ac4583eac"
+   },
+   {
+    "claim": "UK: actively hires remotely in the United Kingdom.",
+    "quote": "Sales Development Representative (SDR) \u2014 London \u2014 Remote.",
+    "url": "https://jobs.lever.co/upguard/cf6bd3f7-b0ff-4621-a83b-8780f4bbed0c"
+   },
+   {
+    "claim": "Africa: has hired remotely in South Africa.",
+    "quote": "Content Writer \u2014 Remote \u2014 Full-time \u2014 Cape Town / Johannesburg / Durban / Soweto.",
+    "url": "https://jobs.lever.co/upguard/?location=Cape+Town"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-22T05:45:42+00:00",
   "scope_basis": "legal-entity"
  },
  "personio:stp-one.jobs.personio.de": {
@@ -18330,6 +18466,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('salesforce.wd12.myworkdayjobs.com', 'External_Career_Site')": {
+  "company": "611 salesforce.com India Private Limited",
+  "confidence": "medium",
+  "distribution_summary": "Public LinkedIn profiles for \"Salesforce.com India Private Limited\" are concentrated in India (many results on in.linkedin.com); searches on other country-specific LinkedIn subdomains returned no matching current-employee profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "United States: Salesforce lists fully remote roles available across many U.S. states.",
+    "quote": "remote type    Remote Home-Based \u2026 locations    Alabama - Remote \u2026 Florida - Remote \u2026 Indiana - Remote \u2026 View All 50 Locations",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-AI-and-Data-Architect_JR342472-1"
+   },
+   {
+    "claim": "United Kingdom: postings show UK remote eligibility.",
+    "quote": "locations    United Kingdom - England - Remote",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---England---Remote/Named-Account-Executive---Local-Goverment_JR347049-1"
+   },
+   {
+    "claim": "Asia: India roles include fully remote (home-based) options.",
+    "quote": "remote type    Remote Home-Based \u2026 locations    India - Mumbai",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Territory-Account-Executive_JR324470"
+   },
+   {
+    "claim": "Latin America: multiple countries explicitly eligible for remote hiring.",
+    "quote": "locations    Argentina - Remote; Brazil - Remote; Chile - Remote; Colombia - Remote; Mexico - Remote",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/argentina---remote/technical-architect_jr332956"
+   },
+   {
+    "claim": "Employment model: in\u2011house legal/employment capability across JAPAC implies direct employment via Salesforce entities, not EOR.",
+    "quote": "lead a team \u2026 covering the JAPAC region (India, Singapore, Thailand, the Philippines, Indonesia, Japan, Korea, Taiwan, Australia, and New Zealand) to provide \u2026 employment law support",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-Director--APAC-Labour---Employment_JR342745-1"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "yes",
+   "Canada": "likely",
+   "Europe": "likely",
+   "Latin America": "yes",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-22T05:45:42+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('talentmanagementsolution.wd3.myworkdayjobs.com', 'VestaUK')": {

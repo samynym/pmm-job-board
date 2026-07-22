@@ -385,6 +385,17 @@
 "timezone": null,
 "work_auth": "authorized to work from their home location"
 },
+"greenhouse:fleetio:5192196007": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:harnessinc:5110436007": {
 "countries": [],
 "eligibility_stated": true,
@@ -2047,6 +2058,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/revenuecat/a528c0d2-ea6a-4254-84b3-6da0ffc0dd00": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: EMEA",
+"extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [
+"Europe",
+"Middle East",
+"Africa"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/searchstax/63edd732-458e-418f-bf3a-604e292e0fb5": {
 "countries": [],
 "eligibility_stated": true,
@@ -2345,6 +2369,19 @@
 "regions": [
 "Americas",
 "Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/progress/job/odfwafwi": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This will be a hybrid role working between your home office and our Vienna VA office.",
+"extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null
@@ -2843,6 +2880,15 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:servicenow:744000138956800": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:thenielsencompany:3743990012679947": {
 "countries": [],
 "eligibility_stated": true,
@@ -3289,6 +3335,19 @@
 "US"
 ],
 "timezone": "Eastern business hours",
+"work_auth": null
+},
+"workday:salesforce.wd12.myworkdayjobs.com:JR348019": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "California - Remote",
+"extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
 "work_auth": null
 },
 "workday:talentmanagementsolution.wd3.myworkdayjobs.com:R52170-1": {

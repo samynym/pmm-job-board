@@ -24,31 +24,55 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/mealsuite/j/736587311B",
+  "url": "https://advantagegroup.applytojob.com/apply/PfYNfNRSgF",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://apply.workable.com/schoox/j/B8100A1759",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/2CAD06A528",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/uworld/j/DF3FEFE2C3",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/swoopishiring/jobs/54a533a5-cdc0-4e58-9f72-5c7298b5a3c9",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://ats.rippling.com/rippling/jobs/295b9ebe-2ebe-4551-a748-97c36e07465c",
+  "error": "delisted or no data"
  },
  {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/databricks/jobs/8493857002",
+  "url": "https://boards.greenhouse.io/alphasense/jobs/8445015002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/gofundme/jobs/6081057",
+  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7656911",
   "error": "HTTP 404"
  },
  {
-  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
-  "error": "delisted or no data"
+  "url": "https://boards.greenhouse.io/ripple/jobs/8010197",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7562399",
+  "error": "HTTP 404"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
   "error": "delisted or no data"
  },
  {
@@ -56,7 +80,19 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://insightful.breezy.hr/p/6d65fe0735f4-product-marketing-lead",
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/reflexai/e196e633-dcf0-4c48-9f0e-5a0484431153",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/revenuecat/6411a31b-7f9e-40c7-b92e-11395d241c58",
   "error": "delisted or no data"
  },
  {
@@ -64,19 +100,23 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/cloudwalk/eccf79ed-c4f9-46c7-b36c-0ea067bba54a",
+  "url": "https://jobs.jobvite.com/leadventure/job/oU09Afwn",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/2fa77c7d-d679-4d14-b551-fa74bd4454a2",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/1cb19959-7279-4206-b501-4a22eccb4dc9",
+  "url": "https://jobs.lever.co/jobgether/68a3841b-583f-4776-b8fb-bcad3bd9b16c",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/21538375-b7ee-440f-bfed-7dcad00d91fd",
+  "url": "https://jobs.lever.co/upguard/772f6cb6-300b-4715-8488-c542c49ec238",
   "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Technical-Product-Marketing-Manager---AI-Infrastructure_JR2021528",
+  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Analyst_JR01655",
   "error": "HTTP 403"
  },
  {
@@ -84,7 +124,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Director--Product-Marketing--Agentforce-Sales-Portfolio-Messaging---Activation_JR346116",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193",
   "error": "HTTP 403"
  },
  {
@@ -94,10 +134,6 @@
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
- },
- {
-  "url": "https://stp-one.jobs.personio.de/job/2638972",
-  "error": "HTTP 404"
  },
  {
   "url": "https://westwing.jobs.personio.de/job/2633129",

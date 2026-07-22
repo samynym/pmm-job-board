@@ -1,15 +1,9 @@
 {
- "ran_at": "2026-07-21T05:44:09+00:00",
+ "ran_at": "2026-07-22T05:43:11+00:00",
  "new_boards": [
-  "recruitee:amperecloud",
-  "recruitee:deephealth",
-  "recruitee:greatminds",
-  "recruitee:theras",
-  "recruitee:up42gmbh",
-  "workable:bizee",
-  "workable:mindgard"
+  "workable:gotyme-ph-philippines"
  ],
- "new_urls": 7,
+ "new_urls": 1,
  "errors": 3,
- "dork_offset": 22
+ "dork_offset": 28
 }
