@@ -273,6 +273,17 @@
 "timezone": null,
 "work_auth": "US work authorization required (no visa sponsorship)"
 },
+"greenhouse:alphasense:8427577002": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - United States",
+"extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:alphasense:8540789002": {
 "countries": [],
 "eligibility_stated": true,
@@ -837,6 +848,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/activtrak/j/1fe4e160fb": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Position is remote within US",
+"extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/anza-xyz/j/c171153fd1": {
 "countries": [],
 "eligibility_stated": true,
@@ -935,6 +959,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/m-files/j/307c311d65": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "While this role is remote, we are currently only considering candidates who reside in the San Francisco Bay Area.",
+"extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -1095,6 +1132,19 @@
 "eligibility_stated": true,
 "evidence": "Location: United States (remote)",
 "extracted_at": "2026-07-19T14:18:34+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/talentpluto/j/a2df651dc5": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States (remote)",
+"extracted_at": "2026-07-23T05:51:39+00:00",
 "regions": [
 "US"
 ],
@@ -2791,6 +2841,19 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:experian:744000138202619": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States, UNITED STATES, United States",
+"extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:improvado:743999825614570": {
 "countries": [],
 "eligibility_stated": false,
@@ -3110,6 +3173,17 @@
 "timezone": null,
 "work_auth": "US export control compliance required for technology access"
 },
+"workday:athenahealth.wd1.myworkdayjobs.com:R15288": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - NC",
+"extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:att.wd1.myworkdayjobs.com:R-115170": {
 "countries": [],
 "eligibility_stated": true,
@@ -3344,6 +3418,19 @@
 "eligibility_stated": true,
 "evidence": "California - Remote",
 "extracted_at": "2026-07-22T05:45:32+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:salesforce.wd12.myworkdayjobs.com:JR352761": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "California - Remote",
+"extracted_at": "2026-07-23T05:51:39+00:00",
 "regions": [
 "US"
 ],

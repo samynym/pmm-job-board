@@ -15580,6 +15580,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "timezone-preference"
  },
+ "workable:activtrak": {
+  "company": "activtrak",
+  "confidence": "high",
+  "distribution_summary": "Most ActivTrak employees appear to be located in the United States, with smaller numbers (few) in a handful of other countries (Canada, UK, Australia, India, Singapore, Japan) and none found for many other ccTLDs (based on quick LinkedIn X\u2011ray searches).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first company employing across many U.S. states (signals U.S.-only footprint).",
+    "quote": "We\u2019re 160+ people across 35 states, remote-first with roots in Austin, TX.",
+    "url": "https://www.activtrak.com/careers/"
+   },
+   {
+    "claim": "Explicit statement that the company is fully remote across U.S. states.",
+    "quote": "We are fully remote across 35+ states.",
+    "url": "https://www.activtrak.com/careers/"
+   },
+   {
+    "claim": "Job applications screen for U.S. work authorization, implying U.S.-based hiring only.",
+    "quote": "Do you have authorization (both now and in the future) to work in the United States without need for sponsorship?",
+    "url": "https://apply.workable.com/activtrak/j/8B29504386/apply/"
+   },
+   {
+    "claim": "Role explicitly limited to remote within the U.S.",
+    "quote": "Position is remote within US",
+    "url": "https://apply.workable.com/activtrak/j/965D93EE42/"
+   },
+   {
+    "claim": "Open role listings show Remote with Austin, Texas, United States as the location anchor.",
+    "quote": "Remote \u2026 Austin, Texas, United States",
+    "url": "https://apply.workable.com/activtrak/j/5DB4A68154"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-23T05:51:50+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workable:anza-xyz": {
   "company": "anza-xyz",
   "confidence": "medium",
@@ -16590,6 +16658,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "workable:m-files": {
+  "company": "m-files",
+  "confidence": "medium",
+  "distribution_summary": "M-Files\u2019 LinkedIn-visible employees are concentrated in the US, UK, Germany, France, India and Canada (many), with smaller presences in Australia, Singapore, Japan, Brazil and Mexico (few), and no LinkedIn current-employee profiles found for several African, Middle East and some Latin American country subdomains in this X\u2011ray.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "many",
+   "co": "none",
+   "de": "many",
+   "fr": "many",
+   "in": "many",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (global corporate offices in US, Canada, Finland, France, Germany, Norway, Sweden, UK, Australia, India)",
+  "evidence": [
+   {
+    "claim": "Their WFA benefit is time\u2011boxed and tied to M\u2011Files office countries; it is not a blanket \u201cwork anywhere permanently.\u201d",
+    "quote": "Flexible Work & WFA \u2014 You can choose the right work location for you, in consultation with your supervisor. Work From Anywhere (WFA) means you can work in any country with an M-Files office for a maximum of 60 days or anywhere else for a maximum of 30 days.",
+    "url": "https://www.m-files.com/careers/"
+   },
+   {
+    "claim": "EMEA roles are remote only within specific operating countries and require existing work authorization, indicating a legal-entity scope.",
+    "quote": "This role is open for remote work within Europe in one of our M-Files countries (Finland, Sweden, Norway, Germany, or the UK). Candidates must already be located in and have a valid work permit for the country of employment.",
+    "url": "https://apply.workable.com/m-files/j/0CDB6818E4"
+   },
+   {
+    "claim": "US postings are remote but require US residency and unrestricted work authorization, showing both timezone preference and legal constraints.",
+    "quote": "Are you eligible to work within the United States? Applicants are expected to have a residency and a valid work permit/green card in the US. We are unable to offer sponsorship or relocation for this role.",
+    "url": "https://apply.workable.com/m-files/j/2A83DBA121/apply?s=BuiltInNationwide"
+   },
+   {
+    "claim": "They are actively hiring remote in Canada.",
+    "quote": "Team Manager, AI (Remote, Canada) \u2014 M\u2011Files \u2026 Base pay range CA$140,000.00/yr - CA$170,000.00/yr.",
+    "url": "https://ca.linkedin.com/jobs/view/team-manager-ai-remote-canada-at-m-files-4405852285"
+   },
+   {
+    "claim": "They operate via their own global corporate offices, including Australia (supports Oceania eligibility) and other countries.",
+    "quote": "M\u2011Files now has international offices in the UK, France, Germany, and Australia.",
+    "url": "https://www.m-files.com/about/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-23T05:51:50+00:00",
+  "scope_basis": "mixed"
  },
  "workable:mindgard": {
   "company": "mindgard",
@@ -17854,6 +17990,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('athenahealth.wd1.myworkdayjobs.com', 'External')": {
+  "company": "athenahealth, Inc.",
+  "confidence": "medium",
+  "distribution_summary": "Most athenahealth employees appear to be located in the United States and India (many); notable smaller presence in Australia (many) and scattered (few) LinkedIn profiles in the UK, Germany, Poland, Mexico, Canada, Japan, Singapore, and the Philippines; several countries (Brazil, South Africa, Nigeria, Kenya, UAE, Saudi Arabia, Colombia, France) showed no current-employee LinkedIn profiles in the X\u2011ray searches.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "none",
+   "in": "many",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "few",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US and India); no EOR mentioned in postings",
+  "evidence": [
+   {
+    "claim": "athenahealth supports hybrid work with flexibility to work remotely depending on role/team.",
+    "quote": "Our vibrant offices are designed to inspire collaboration, and our hybrid work model gives athenistas the flexibility to work alongside colleagues, remotely, or a combination that\u2019s right for your role and your team.",
+    "url": "https://careers.athenahealth.com/us/en/"
+   },
+   {
+    "claim": "US remote hiring is supported company-wide (roles list \u201cRemote USA\u201d).",
+    "quote": "locations\n    Boston MA\n    Remote USA\n    Austin TX\n    Atlanta GA",
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Account-Executive_R14371"
+   },
+   {
+    "claim": "US remote roles can be tied to specific states and also list \u201cRemote USA.\u201d",
+    "quote": "locations\n    Remote - NC\n    Remote USA",
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/associate--small-group-marketing_r15112"
+   },
+   {
+    "claim": "India-based fully remote roles exist (remote within India).",
+    "quote": "This role is based in India and is fully remote.",
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Release-Readiness-Manager_R15038"
+   },
+   {
+    "claim": "The company operates through offices in the US and India (indicating own entities there).",
+    "quote": "Headquartered in Boston, we have offices in Atlanta, Austin, Belfast, Burlington, and in India: Bangalore, Chennai and Pune.",
+    "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Senior-Associate--Product-Operations-_R14732"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unknown",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-23T05:51:50+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('att.wd1.myworkdayjobs.com', 'ATTGeneral')": {

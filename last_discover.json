@@ -1,9 +1,11 @@
 {
- "ran_at": "2026-07-22T05:43:11+00:00",
+ "ran_at": "2026-07-23T05:48:36+00:00",
  "new_boards": [
-  "workable:gotyme-ph-philippines"
+  "rippling:workspan-inc",
+  "workable:activtrak",
+  "workable:elevate-semiconductor"
  ],
- "new_urls": 1,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 28
+ "dork_offset": 2
 }

@@ -16,6 +16,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "rippling:plenful",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "ashby:evenup",
   "error": "HTTP Error 404: Not Found"
  },
@@ -24,27 +28,23 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://advantagegroup.applytojob.com/apply/PfYNfNRSgF",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://apply.workable.com/schoox/j/B8100A1759",
+  "url": "https://apply.workable.com/theta-systems-ltd/j/DAC4B106A6",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/tp-link-usa-corp/j/2CAD06A528",
+  "url": "https://apply.workable.com/timescapes-co/j/00A7F9164E",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/uworld/j/DF3FEFE2C3",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://ats.rippling.com/swoopishiring/jobs/54a533a5-cdc0-4e58-9f72-5c7298b5a3c9",
+  "url": "https://ats.rippling.com/inrule/jobs/c9b562b9-03a2-486a-8e3e-552f0a8ddf14",
   "error": "delisted or no data"
  },
  {
-  "url": "https://ats.rippling.com/rippling/jobs/295b9ebe-2ebe-4551-a748-97c36e07465c",
+  "url": "https://ats.rippling.com/plenful/jobs/102fc31c-066c-4cfb-818a-a6592d6febcd",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://ats.rippling.com/shippo/jobs/398ecce1-5798-4e6e-a9fa-2938c407d283",
   "error": "delisted or no data"
  },
  {
@@ -52,19 +52,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/alphasense/jobs/8445015002",
+  "url": "https://boards.greenhouse.io/faire/jobs/8612411002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7656911",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/ripple/jobs/8010197",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7562399",
+  "url": "https://boards.greenhouse.io/okta/jobs/7833580",
   "error": "HTTP 404"
  },
  {
@@ -88,11 +80,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/reflexai/e196e633-dcf0-4c48-9f0e-5a0484431153",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/revenuecat/6411a31b-7f9e-40c7-b92e-11395d241c58",
+  "url": "https://jobs.ashbyhq.com/mintlify/ba7fea3c-8440-4bfd-bfbe-3eb75e5191ee",
   "error": "delisted or no data"
  },
  {
@@ -100,32 +88,52 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/leadventure/job/oU09Afwn",
+  "url": "https://jobs.jobvite.com/asus/job/odQjAfwG",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/2fa77c7d-d679-4d14-b551-fa74bd4454a2",
+  "url": "https://jobs.lever.co/captivateiq/59cebc18-3e7f-48ef-935f-96a1680b53fd",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/68a3841b-583f-4776-b8fb-bcad3bd9b16c",
+  "url": "https://jobs.lever.co/disqo/7652e8cc-35cb-4d20-8372-d1063ddf8d6a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/upguard/772f6cb6-300b-4715-8488-c542c49ec238",
+  "url": "https://jobs.lever.co/jobgether/e6aecdf7-ef75-4f1c-ba54-047c7a40973b",
   "error": "HTTP 404"
  },
  {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Analyst_JR01655",
+  "url": "https://jobs.lever.co/jobgether/e8b4862c-6556-464a-b4bc-67fbf780e211",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/standtogether/ceb804f1-d00e-413a-8d0c-66a4c610b1e9",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/thunkable/71e8148f-fc37-4095-b4be-5dc6b927d1bd",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/zerohomes/e5786082-7721-45cb-a957-4f44b11d7d55",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Product-Marketing-Manager_147263-2",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Consultant_JR01668-1",
   "error": "HTTP 403"
+ },
+ {
+  "url": "https://pixalate.applytojob.com/apply/oU59SEs0c9",
+  "error": "HTTP 410"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Manager--Strategic-Partnerships_JR346193",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -133,10 +141,6 @@
  },
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://westwing.jobs.personio.de/job/2633129",
   "error": "delisted or no data"
  },
  {
