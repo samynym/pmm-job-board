@@ -805,6 +805,7 @@ https://jobs.lever.co/beaverprocess/f35a14b9-ea83-43d9-95ae-3d8863b627dc
 https://jobs.lever.co/binance/e904a594-870c-42bb-9a1a-1ddfc0e53057
 https://jobs.lever.co/businesswire/77d61591-4e12-4e1f-8e5e-40ffb6d9f1c9
 https://jobs.lever.co/canarytechnologies/d0795f41-1634-4c7a-9363-79a5bd452191
+https://jobs.lever.co/canvasmedical/5508e8a5-4aa0-4907-b6a9-350a3ffede7e
 https://jobs.lever.co/captivateiq/ec2db847-c98b-4aa8-b7a1-8b02b181cb3c
 https://jobs.lever.co/caseware/bfb19cce-245d-4971-9c07-d5d1b76f0165
 https://jobs.lever.co/cloudwalk/eccf79ed-c4f9-46c7-b36c-0ea067bba54a
@@ -821,10 +822,12 @@ https://jobs.lever.co/fieldnation/7c4a002f-2186-4d70-a055-dc93956e9a19
 https://jobs.lever.co/finch/5085ce27-f2e7-4863-b16c-e3b36ae8ae35
 https://jobs.lever.co/foxitsoftware/79151dbd-0f87-471d-ba3a-270ef7d667b9
 https://jobs.lever.co/fulcrumpro/6513058d-7137-42f1-a112-2bc3f0a41e04
+https://jobs.lever.co/getcircuit/a6f79a84-d65f-4521-8019-07164a8dcf61
 https://jobs.lever.co/goodleap/1aecf524-4ba8-4145-a48d-e3cce42aecdd
 https://jobs.lever.co/h1/45bdc0dc-ac3f-4749-bc1a-8e7a4d9d5a50
 https://jobs.lever.co/happyco/39fa87f5-6d53-4b00-900b-694e554d13ef
 https://jobs.lever.co/hevodata/ec8d8975-d200-4c20-a53c-e095c964230e
+https://jobs.lever.co/includedhealth/c93aaf09-c024-4323-a05a-e3baa6e3e4b2
 https://jobs.lever.co/jam-loop/9a8be825-d1d8-4df2-bae4-b7ff37e0f6bd
 https://jobs.lever.co/jam-loop/af7ea6ba-70e8-443f-96ff-a24230656890
 https://jobs.lever.co/jobgether/03121fd9-f693-4d0f-ad9d-83b8c427c509
@@ -850,6 +853,7 @@ https://jobs.lever.co/panopto/642a00ec-020a-490c-af89-16108a3833d8
 https://jobs.lever.co/penumbrainc/1b8ef4d1-b483-4c80-a411-694c0ae7059e
 https://jobs.lever.co/penumbrainc/a6ee1794-e663-49a9-82eb-8db68492d824
 https://jobs.lever.co/penumbrainc/cdd7f284-ed28-4ce2-9695-82b7366c8c11
+https://jobs.lever.co/piccollage/1253638c-09e4-466e-8aaa-8821e53c6d6d
 https://jobs.lever.co/pigment/dfef7ea9-a325-4262-b9ca-bc925d1534ec
 https://jobs.lever.co/protolabs/72dd40b8-59e3-44ce-8bab-df725241475d
 https://jobs.lever.co/ridezum/ce62ca95-3035-4bef-8a70-8636e5cf9854
@@ -865,6 +869,7 @@ https://jobs.lever.co/swordhealth/50f0de15-dc1d-4099-9228-0cd4d0c64eb3
 https://jobs.lever.co/syw.com/c5775928-6a27-44f8-89f2-daf13963855d
 https://jobs.lever.co/thunkable/71e8148f-fc37-4095-b4be-5dc6b927d1bd
 https://jobs.lever.co/tonkean/261a66ca-b869-4612-9b3e-42c724fcecf2
+https://jobs.lever.co/tutorintelligence/08bd8119-f585-472d-9068-6601048f50b6
 https://jobs.lever.co/upguard/772f6cb6-300b-4715-8488-c542c49ec238
 https://jobs.lever.co/upguard/f3092f08-6d0d-4a92-a5df-e4c030e268e4
 https://jobs.lever.co/veeva/21abdfb7-f1e1-44cd-b63f-ae47b3f47617

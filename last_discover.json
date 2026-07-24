@@ -1,11 +1,13 @@
 {
- "ran_at": "2026-07-23T05:48:36+00:00",
+ "ran_at": "2026-07-24T05:44:26+00:00",
  "new_boards": [
-  "rippling:workspan-inc",
-  "workable:activtrak",
-  "workable:elevate-semiconductor"
+  "lever:canvasmedical",
+  "lever:getcircuit",
+  "lever:includedhealth",
+  "lever:piccollage",
+  "lever:tutorintelligence"
  ],
- "new_urls": 3,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 2
+ "dork_offset": 8
 }

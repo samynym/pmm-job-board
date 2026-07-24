@@ -2380,6 +2380,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "ashby:lucidlink": {
+  "company": "lucidlink",
+  "confidence": "medium",
+  "distribution_summary": "Most LucidLink employees appear to be concentrated in the United States (many) and Canada (many), with smaller groups distributed across Australia, the UK, parts of Europe, India, and several APAC/LatAm markets (mostly few); several African markets show no current profiles.",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "few",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "They hire remotely in the UK (Europe).",
+    "quote": "Location\n\nUK\n\n... \n\nLocation Type\n\nRemote",
+    "url": "https://www.lucidlink.com/careers/Business-Development-Representative---EMEA"
+   },
+   {
+    "claim": "They hire remotely in the United States.",
+    "quote": "Location\n\nUS Remote\n\n... \n\nLocation Type\n\nRemote",
+    "url": "https://www.lucidlink.com/careers/Director-of-Cloud-Cost-Optimization"
+   },
+   {
+    "claim": "Company states they have remote employees across North America, Europe, and Australia (multi\u2011region posture, not worldwide).",
+    "quote": "LucidLink is headquartered in San Francisco, California, has an engineering office in Sofia, Bulgaria, and remote employees across North America, Europe, and Australia.",
+    "url": "https://www.lucidlink.com/careers/Senior-Product-Manager-Platform"
+   },
+   {
+    "claim": "Direct evidence of an employee in Canada (supports North America beyond the US).",
+    "quote": "I\u2019m excited to share that I\u2019ve started a new role as Strategic Account Director at LucidLink.",
+    "url": "https://ca.linkedin.com/in/jeff-nelson-267b7a62"
+   },
+   {
+    "claim": "Direct evidence of an employee in Australia (supports Oceania).",
+    "quote": "As of today, I am Engineering Manager at LucidLink.",
+    "url": "https://au.linkedin.com/in/craig-e-5512382"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-24T05:47:24+00:00",
+  "scope_basis": "unclear"
+ },
  "ashby:mem.ai": {
   "company": "mem.ai",
   "confidence": "medium",
@@ -3861,6 +3929,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "ashby:sift": {
+  "company": "sift",
+  "confidence": "medium",
+  "distribution_summary": "Most Sift employees appear to be in the United States (San Francisco HQ) with smaller employee presence visible on LinkedIn in Canada, the UK, India and Australia; searches for many other country LinkedIn domains returned no current-employee profiles or were ambiguous due to multiple different companies named \u201cSift.\u201d",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "US hiring is fully remote across the country.",
+    "quote": "Location Remote - USA",
+    "url": "https://jobs.ashbyhq.com/sift/52eaa74c-fc08-496e-8309-8aa10c81d8ef/"
+   },
+   {
+    "claim": "US roles also list optional hubs (San Francisco, Seattle), indicating remote-first with hub options.",
+    "quote": "Location Remote - USA; San Francisco, California; Seattle, Washington",
+    "url": "https://jobs.ashbyhq.com/sift/059a1510-a14c-4941-afd4-23cde9b8b25e/"
+   },
+   {
+    "claim": "Europe/EMEA hiring is limited to specific countries (Ireland and UK) for at least one role.",
+    "quote": "Location Remote - Ireland; Remote - United Kingdom",
+    "url": "https://jobs.ashbyhq.com/sift/fd490694-a66f-4d4d-b8da-37e434335a74/"
+   },
+   {
+    "claim": "Eastern Europe: Sift is hiring remotely in Ukraine and Poland.",
+    "quote": "Location Ukraine; Poland",
+    "url": "https://jobs.ashbyhq.com/sift/b69c84f6-2565-42cb-a33f-944183eb39c7"
+   },
+   {
+    "claim": "Company describes a remote-friendly operating model (\u201cBorderless Sift\u201d).",
+    "quote": "Borderless Sift \u2014 Great work can happen anywhere. At Sift, we intentionally design where and how we work...",
+    "url": "https://sift.com/careers/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-24T05:47:24+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:sparrow": {
   "company": "sparrow",
@@ -11512,6 +11648,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
+ },
+ "lever:includedhealth": {
+  "company": "Included Health",
+  "confidence": "high",
+  "distribution_summary": "Included Health is primarily a U.S.-based, remote company (many employees in the U.S.); small numbers of employees appear in Canada, the U.K., and Australia, and little-to-no presence in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own US entity (no EOR mentioned)",
+  "evidence": [
+   {
+    "claim": "Company states it is remote with employees nationwide (US).",
+    "quote": "We are a remote company with employees nationwide.",
+    "url": "https://includedhealth.com/contact-us/"
+   },
+   {
+    "claim": "Company describes itself as remote-first.",
+    "quote": "Join a remote-first health tech company redefining care for millions.",
+    "url": "https://includedhealth.com/careers/tech-jobs/"
+   },
+   {
+    "claim": "Applications ask for U.S. work authorization, indicating U.S.-only employment eligibility.",
+    "quote": "Are you legally authorized to work in the U.S.?",
+    "url": "https://jobs.lever.co/includedhealth/69b2a64d-1109-4f7e-ae62-cb3ad54905d9/apply"
+   },
+   {
+    "claim": "Compensation language is explicitly scoped to United States hires (example role).",
+    "quote": "The United States new hire base salary target ranges for this full-time position are:",
+    "url": "https://jobs.lever.co/includedhealth/52d003b5-b635-4950-9d1b-7aa988ac9c8f"
+   },
+   {
+    "claim": "Another non-clinical role also scopes pay to the United States, reinforcing U.S.-only hiring.",
+    "quote": "The base salary range for this full-time position is $100,030 \u2013 $130,944 per year in the United States.",
+    "url": "https://jobs.lever.co/includedhealth/c93aaf09-c024-4323-a05a-e3baa6e3e4b2"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-24T05:47:24+00:00",
+  "scope_basis": "legal-entity"
  },
  "lever:leadershipconnect": {
   "company": "Leadership Connect",

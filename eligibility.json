@@ -520,6 +520,21 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:mercury:6123795004": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+"extracted_at": "2026-07-24T05:47:14+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:minio:5229770008": {
 "countries": [],
 "eligibility_stated": true,
@@ -1119,6 +1134,19 @@
 "eligibility_stated": true,
 "evidence": "Location: United States (remote)",
 "extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/talentpluto/j/2bf6244650": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States (remote)",
+"extracted_at": "2026-07-24T05:47:14+00:00",
 "regions": [
 "US"
 ],
@@ -1742,6 +1770,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/hostinger/dea5d905-5be4-47dd-866e-bf4a2f2ff3de": {
+"countries": [
+"Lithuania"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Vilnius",
+"extracted_at": "2026-07-24T05:47:14+00:00",
+"regions": [
+"Europe"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/ideals/520eeefb-0704-4bea-bd5f-52bb3b725b55": {
 "countries": [
 "United Kingdom"
@@ -1813,6 +1854,17 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/lucidlink/0b6c6658-a539-4b83-b873-49b00d078552": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: US Remote",
+"extracted_at": "2026-07-24T05:47:14+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -1913,6 +1965,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-24T05:47:14+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -2548,6 +2609,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/includedhealth/c93aaf09-c024-4323-a05a-e3baa6e3e4b2": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-24T05:47:14+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },

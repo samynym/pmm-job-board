@@ -28,36 +28,40 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/theta-systems-ltd/j/DAC4B106A6",
+  "url": "https://apply.workable.com/talentpluto/j/A2DF651DC5",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/timescapes-co/j/00A7F9164E",
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/606843E5B7",
   "error": "HTTP 404"
  },
  {
-  "url": "https://ats.rippling.com/inrule/jobs/c9b562b9-03a2-486a-8e3e-552f0a8ddf14",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://ats.rippling.com/plenful/jobs/102fc31c-066c-4cfb-818a-a6592d6febcd",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://ats.rippling.com/shippo/jobs/398ecce1-5798-4e6e-a9fa-2938c407d283",
-  "error": "delisted or no data"
+  "url": "https://apply.workable.com/wisedocs-ai/j/9E16589F8A",
+  "error": "HTTP 404"
  },
  {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/faire/jobs/8612411002",
+  "url": "https://boards.greenhouse.io/alphasense/jobs/8427577002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/okta/jobs/7833580",
+  "url": "https://boards.greenhouse.io/axon/jobs/7751230003",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/okta/jobs/7833584",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Product-Marketing-Manager---Financial-Crimes-and-Managed-Services-Solutions_R-100510",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Product-Marketing-Manager_R-100521",
+  "error": "HTTP 403"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -80,60 +84,40 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/mintlify/ba7fea3c-8440-4bfd-bfbe-3eb75e5191ee",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/asus/job/odQjAfwG",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/captivateiq/59cebc18-3e7f-48ef-935f-96a1680b53fd",
+  "url": "https://jobs.lever.co/jobgether/6ebf4a9f-7f7d-4e5a-b658-29e527d1d7eb",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/disqo/7652e8cc-35cb-4d20-8372-d1063ddf8d6a",
+  "url": "https://jobs.lever.co/jobgether/952d8e8b-cf6a-4a53-a25d-356eafc56fff",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/e6aecdf7-ef75-4f1c-ba54-047c7a40973b",
+  "url": "https://jobs.lever.co/jobgether/e6e7db31-c4b3-4adc-a2b9-3821176a33ea",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/e8b4862c-6556-464a-b4bc-67fbf780e211",
+  "url": "https://jobs.lever.co/jobgether/a2569fdb-b106-46c3-a818-185eaf8e4c4a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/standtogether/ceb804f1-d00e-413a-8d0c-66a4c610b1e9",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/thunkable/71e8148f-fc37-4095-b4be-5dc6b927d1bd",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/zerohomes/e5786082-7721-45cb-a957-4f44b11d7d55",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Product-Marketing-Manager_147263-2",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Consultant_JR01668-1",
+  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Manager_JR01656",
   "error": "HTTP 403"
- },
- {
-  "url": "https://pixalate.applytojob.com/apply/oU59SEs0c9",
-  "error": "HTTP 410"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Associate-Manager_JR352761",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager_JR346770",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
