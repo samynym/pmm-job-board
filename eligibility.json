@@ -1520,6 +1520,19 @@
 "timezone": null,
 "work_auth": "must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship"
 },
+"https://jobs.ashbyhq.com/absorblms/6f3be708-fc9d-4143-ae01-b7b8b2be47b0": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote US",
+"extracted_at": "2026-07-25T05:40:51+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship."
+},
 "https://jobs.ashbyhq.com/absorblms/9edd7351-fcf1-4673-9566-a4b3c869ddd6": {
 "countries": [
 "Canada"

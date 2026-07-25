@@ -1,13 +1,17 @@
 {
- "ran_at": "2026-07-24T05:44:26+00:00",
+ "ran_at": "2026-07-25T05:38:28+00:00",
  "new_boards": [
-  "lever:canvasmedical",
-  "lever:getcircuit",
-  "lever:includedhealth",
-  "lever:piccollage",
-  "lever:tutorintelligence"
+  "greenhouse:acronis",
+  "greenhouse:canonicaljobs",
+  "greenhouse:dept",
+  "greenhouse:khanacademy",
+  "greenhouse:ledgerinvesting",
+  "greenhouse:okx",
+  "greenhouse:veriforce",
+  "greenhouse:workato",
+  "workable:usercentrics"
  ],
- "new_urls": 5,
+ "new_urls": 9,
  "errors": 3,
- "dork_offset": 8
+ "dork_offset": 14
 }

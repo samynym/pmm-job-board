@@ -7646,6 +7646,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:khanacademy": {
+  "company": "khanacademy",
+  "confidence": "high",
+  "distribution_summary": "Khan Academy\u2019s LinkedIn-visible employees are concentrated in the United States and Canada, with smaller numbers (typically a few profiles) across several other markets (UK, Australia, India, EU countries, parts of LATAM and Asia) and little-to-no presence visible in some countries.",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "few",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "few"
+  },
+  "employs_via": "own entities (US nonprofit; Khan Academy India; Khan Academy Brasil). Also uses contractors for some India content roles.",
+  "evidence": [
+   {
+    "claim": "US and Canada remote hiring is allowed for many roles.",
+    "quote": "ELA Assessment Content Creator, Elementary Grades 3-5 (24 month Fixed Term) Mountain View, CA / Remote (Continental US + Hawaii + Canada Only)",
+    "url": "https://job-boards.greenhouse.io/khanacademy"
+   },
+   {
+    "claim": "Some roles are restricted to US-only remote.",
+    "quote": "District Success Manager, East Mountain View, CA / Remote (US Only)",
+    "url": "https://job-boards.greenhouse.io/khanacademy"
+   },
+   {
+    "claim": "India-based remote roles exist (Khan Academy India).",
+    "quote": "Project Manager - Content Operations India (Remote)",
+    "url": "https://job-boards.greenhouse.io/khanacademy"
+   },
+   {
+    "claim": "Khan Academy India explicitly describes the role as remote-working.",
+    "quote": "This is a remote working opportunity. You will have the liberty to work from your home.",
+    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/7765105"
+   },
+   {
+    "claim": "Khan Academy operates a Brazil legal entity (supports \u2018own entities\u2019 employment internationally).",
+    "quote": "KHAN ACADEMY BRASIL - 44.640.250/0001-61 ... SAO PAULO ... SP",
+    "url": "https://casadosdados.com.br/solucao/cnpj/khan-academy-brasil-44640250000161"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-25T05:40:56+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:lastpass": {
   "company": "LastPass",
   "confidence": "high",
@@ -12395,6 +12463,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-22T05:45:42+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "personio:jedox.jobs.personio.de": {
+  "company": "jedox",
+  "confidence": "high",
+  "distribution_summary": "Most Jedox employees appear to be in Germany (headquarters) and the United States, with smaller employee groups in several European countries and select APAC markets; many other markets show little or no presence.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "many",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "Jedox hires fully remote in Germany.",
+    "quote": "Senior Frontend Engineer (m/f/d) \u2013 Germany remote",
+    "url": "https://jedox.jobs.personio.com/job/2520360?language=en"
+   },
+   {
+    "claim": "Jedox hires fully remote in Finland.",
+    "quote": "Sales Account Executive Finland (m/f/d) \u2013 Finland remote",
+    "url": "https://jedox.jobs.personio.com/job/2669925"
+   },
+   {
+    "claim": "Jedox hires fully remote in the United States.",
+    "quote": "Solution Advisory Manager - US (m/w/d) \u2013 US remote",
+    "url": "https://jedox.jobs.personio.com/job/2641818"
+   },
+   {
+    "claim": "Jedox also hires in the UK (role lists UK as a location alongside Germany-remote).",
+    "quote": "Revenue Programs & Sales Enablement Manager (m/f/d) \u2013 Germany remote, UK - England and Wales",
+    "url": "https://jedox.jobs.personio.com/job/2653168"
+   },
+   {
+    "claim": "Jedox operates via its own legal entities (example: UK subsidiary/office hub).",
+    "quote": "Jedox expands its reach with UK subsidiary to meet global demand for EPM solutions\u2026 opening of a new office hub in the United Kingdom.",
+    "url": "https://www.jedox.com/en/about/newsroom/jedox-expands-reach-epm-demand/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-25T05:40:56+00:00",
   "scope_basis": "legal-entity"
  },
  "personio:stp-one.jobs.personio.de": {
@@ -17786,6 +17922,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:storyteq": {
+  "company": "storyteq",
+  "confidence": "medium",
+  "distribution_summary": "Storyteq\u2019s employees appear concentrated in the UK and the United States (many), with smaller numbers in Germany, France, Australia and Canada (few) and none found for most other listed markets.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "UK remote hiring is supported (country-restricted).",
+    "quote": "Remote Technology Implementation Full time \u2014 United Kingdom",
+    "url": "https://apply.workable.com/storyteq/j/2EF8419E90"
+   },
+   {
+    "claim": "Netherlands remote hiring is supported (country-restricted).",
+    "quote": "Remote R&D Full time \u2014 Netherlands",
+    "url": "https://apply.workable.com/storyteq/j/6C529DB5AE/apply/"
+   },
+   {
+    "claim": "South Africa remote hiring is supported.",
+    "quote": "Remote R&D Full time \u2014 South Africa",
+    "url": "https://apply.workable.com/storyteq/j/F768E97028/"
+   },
+   {
+    "claim": "Latin America hiring: explicit remote role in Colombia.",
+    "quote": "This role is based remotely from Colombia to support our US-based clients.",
+    "url": "https://co.linkedin.com/jobs/view/project-manager-at-storyteq-4357453336"
+   },
+   {
+    "claim": "Company has offices across the UK, EU, US and New Zealand (indicates likely ability to employ locally in those places).",
+    "quote": "5 offices across the UK, EU, US and New Zealand",
+    "url": "https://storyteq.com/about/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "likely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-25T05:40:56+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:talentpluto": {
