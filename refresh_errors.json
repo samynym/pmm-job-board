@@ -8,28 +8,8 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "workday:('cryoport.wd12.myworkdayjobs.com', 'external')",
-  "error": "HTTP Error 500: Internal Server Error"
- },
- {
-  "board": "workday:('merative.wd12.myworkdayjobs.com', 'external_career_site')",
-  "error": "HTTP Error 500: Internal Server Error"
- },
- {
   "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
- },
- {
-  "board": "workday:('salesforce.wd12.myworkdayjobs.com', 'External_Career_Site')",
-  "error": "HTTP Error 500: Internal Server Error"
- },
- {
-  "board": "workday:('ffive.wd5.myworkdayjobs.com', 'f5jobs')",
-  "error": "HTTP Error 502: Bad Gateway"
- },
- {
-  "board": "workday:('texascapitalbank.wd12.myworkdayjobs.com', 'careers')",
-  "error": "HTTP Error 500: Internal Server Error"
  },
  {
   "board": "rippling:caqh",
@@ -64,44 +44,8 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Specialist-Mgr-5_R169082-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://apply.workable.com/driftrock/j/9420DE0681",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/zero100/j/2D0749C09D",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://ats.rippling.com/anaconda/jobs/389f3c6c-eb29-47d9-9ed0-07d3ec603b37",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://ats.rippling.com/foundant-careers/jobs/366b0ea8-a310-4a6e-9118-bd2955aca94e",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://boards.greenhouse.io/amplitude/jobs/8525067002",
-  "error": "HTTP 404"
- },
- {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
- },
- {
-  "url": "https://boards.greenhouse.io/datadog/jobs/7759965",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/elastic/jobs/7590696",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/stripe/jobs/7914005",
-  "error": "HTTP 404"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -116,68 +60,20 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://infobip.wd3.myworkdayjobs.com/InfobipCareers/job/Product-Marketing-Manager_JR104524",
-  "error": "HTTP 403"
- },
- {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/claylabs/4856566b-d259-4709-bdb5-d131378b79fe",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/claylabs/36433562-94e5-4444-a5e2-13acf5da5213",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/openai/e1002ef2-1c5d-48bb-86a7-841367036dde",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/egnyte/job/oqsVzfw6",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/foxitsoftware/79151dbd-0f87-471d-ba3a-270ef7d667b9",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/5bce4a11-e67c-42e9-9fb2-e1f069fbe8bc",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/6588a9bc-70c3-42bb-87f2-7a6d057a8f18",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/f8b7a719-4274-4665-ac87-e194b307e4b5",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/protolabs/2524572f-db61-46ec-b8da-fe56adcabec7",
-  "error": "HTTP 404"
- },
- {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Partner-Marketing-Lead---Technical-PMM_JR344764",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Lead---TPMM---Release-Marketing_JR345733",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -186,10 +82,6 @@
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
- },
- {
-  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Monitoring-Product-Marketing-Manager_R55612",
-  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",

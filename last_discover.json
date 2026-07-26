@@ -1,17 +1,7 @@
 {
- "ran_at": "2026-07-25T05:38:28+00:00",
- "new_boards": [
-  "greenhouse:acronis",
-  "greenhouse:canonicaljobs",
-  "greenhouse:dept",
-  "greenhouse:khanacademy",
-  "greenhouse:ledgerinvesting",
-  "greenhouse:okx",
-  "greenhouse:veriforce",
-  "greenhouse:workato",
-  "workable:usercentrics"
- ],
- "new_urls": 9,
+ "ran_at": "2026-07-26T05:54:59+00:00",
+ "new_boards": [],
+ "new_urls": 0,
  "errors": 3,
- "dork_offset": 14
+ "dork_offset": 20
 }
