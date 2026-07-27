@@ -1,7 +1,14 @@
 {
- "ran_at": "2026-07-26T05:54:59+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-07-27T06:23:07+00:00",
+ "new_boards": [
+  "workday:('capitalone.wd12.myworkdayjobs.com', 'Capital_One')",
+  "workday:('castandcrew.wd503.myworkdayjobs.com', 'CastandCrew')",
+  "workday:('guidewire.wd5.myworkdayjobs.com', 'external')",
+  "workday:('neogen.wd5.myworkdayjobs.com', 'neogencareers')",
+  "workday:('razer.wd3.myworkdayjobs.com', 'Careers')",
+  "workday:('wk.wd3.myworkdayjobs.com', 'External')"
+ ],
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 20
+ "dork_offset": 26
 }

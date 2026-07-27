@@ -44,7 +44,15 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://apply.workable.com/talentpluto/j/2BF6244650",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://digitalzoneinc.applytojob.com/apply/1BPppHDsFC",
   "error": "delisted or no data"
  },
  {
@@ -56,15 +64,15 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
@@ -74,6 +82,14 @@
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Governance_JR351624-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Integration_JR351613",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

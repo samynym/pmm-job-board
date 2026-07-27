@@ -18808,6 +18808,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workday:('guidewire.wd5.myworkdayjobs.com', 'external')": {
+  "company": "Guidewire Software, Inc. (US)",
+  "confidence": "high",
+  "distribution_summary": "Based on public LinkedIn profiles, Guidewire\u2019s employees are concentrated in the United States and India (many), with smaller but visible presence in the UK, Canada, Australia and Japan (few); data for several countries is unknown because X\u2011ray searches returned ambiguous or no results.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "few",
+   "br": "unknown",
+   "ca": "few",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "many",
+   "jp": "few",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": "own entities (no EOR mentioned)",
+  "evidence": [
+   {
+    "claim": "US and Canada remote hiring is active.",
+    "quote": "AI Architect ... locations United States - Remote; Canada - Remote.",
+    "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/united-states---remote/ai-architect_jr_14870"
+   },
+   {
+    "claim": "EMEA remote hiring is limited to specific countries where Guidewire has entities (IE, UK, DE, PL, ES, DK, IT).",
+    "quote": "Location: EMEA Remote, you must be located in one of our following entities; Ireland, UK, Germany, Poland, Spain, Denmark, Italy.",
+    "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/germany---remote/engagement-manager---french-speaking_jr_15026"
+   },
+   {
+    "claim": "Latin America remote hiring is active (Brazil).",
+    "quote": "locations Brazil - Remote.",
+    "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/brazil---remote/digital-architect-consultant--professional-services_jr_14812"
+   },
+   {
+    "claim": "Asia remote hiring is active (Malaysia).",
+    "quote": "locations ... United States - Remote; Canada - Remote; Poland - Remote; Germany - Remote; Malaysia - Remote.",
+    "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/united-states---remote/senior-manager--go-to-market-capabilities_jr_14610-1"
+   },
+   {
+    "claim": "Oceania remote hiring is active (Australia).",
+    "quote": "locations Australia - Remote.",
+    "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/australia---remote/senior-architect_jr_14145"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unlikely",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-27T06:26:10+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workday:('healthcare.wd1.myworkdayjobs.com', 'search')": {
   "company": "USA Solventum Health Information Systems, Inc.",
   "confidence": "high",

@@ -1153,6 +1153,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/talentpluto/j/4bc442a170": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States (remote)",
+"extracted_at": "2026-07-27T06:26:02+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/talentpluto/j/8a54f74a1f": {
 "countries": [
 "United States"
@@ -2900,6 +2913,15 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:dev2:743999785188847": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-27T06:26:02+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:dev2:743999950342224": {
 "countries": [],
 "eligibility_stated": true,
@@ -3416,6 +3438,17 @@
 ],
 "timezone": null,
 "work_auth": "Applicants must be authorized to work in the United States without the need for sponsorship now or in the future."
+},
+"workday:guidewire.wd5.myworkdayjobs.com:14589": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote (USA)",
+"extracted_at": "2026-07-27T06:26:02+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
 },
 "workday:healthcare.wd1.myworkdayjobs.com:R01131909": {
 "countries": [],
