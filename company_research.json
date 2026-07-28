@@ -1881,6 +1881,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "ashby:heidihealth.com.au": {
+  "company": "heidihealth",
+  "confidence": "medium",
+  "distribution_summary": "Heidi Health\u2019s employees appear concentrated in Canada, the UK, Australia and the US, with a smaller presence in Germany and France and little-to-no presence in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "US: They advertise fully remote roles based in the United States.",
+    "quote": "Pre-sales Solutions Engineer - US Remote",
+    "url": "https://www.heidihealth.com/careers"
+   },
+   {
+    "claim": "Canada: Country-wide remote employment is explicitly offered.",
+    "quote": "Fully remote across Canada. We measure output, not hours logged or office attendance",
+    "url": "https://www.heidihealth.com/en-gb/careers/04e94809-4082-4474-856b-b3eb285e635e"
+   },
+   {
+    "claim": "Europe and UK: Multiple open roles located in both the EU and the UK.",
+    "quote": "Forward Deployed Engineer - IrelandIreland View role \u2192 Forward Deployed Engineer - UKLondon View role \u2192",
+    "url": "https://www.heidihealth.com/careers"
+   },
+   {
+    "claim": "Middle East: They post roles specifically for GCC/Middle East (Dubai).",
+    "quote": "Customer Success Manager | GCC EMEA | Middle East | Dubai",
+    "url": "https://www.heidihealth.com/careers"
+   },
+   {
+    "claim": "Africa, Asia, Latin America: Their CX team works with teammates in South Africa, the Philippines and Mexico (showing hires in these regions).",
+    "quote": "You are part of a follow-the-sun team that covers every timezone, working alongside teammates in South Africa, the Philippines and Mexico.",
+    "url": "https://www.heidihealth.com/en-NZ/careers/a97bb7fa-6a9a-405a-91fa-8c5c93c5d46d"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "likely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "likely",
+   "Middle East": "likely",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-28T05:43:49+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:hinge-health": {
   "company": "hinge-health",
   "confidence": "high",
@@ -9930,6 +9998,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
+ },
+ "jazzhr:cytovale.applytojob.com": {
+  "company": "Cytovale",
+  "confidence": "high",
+  "distribution_summary": "Cytovale\u2019s employees appear concentrated in the United States (many), with a small presence in Canada and Australia (few) and a few LinkedIn profiles in the UK; no current-employee LinkedIn profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Careers page confirms they offer hybrid/remote options only for specific roles, not a worldwide policy.",
+    "quote": "Flexible work schedules, as well as hybrid and remote options for specific roles.",
+    "url": "https://cytovale.com/about/careers/"
+   },
+   {
+    "claim": "Several postings explicitly require U.S. work eligibility, indicating U.S.-only hiring.",
+    "quote": "Ability to work in the United States.",
+    "url": "https://cytovale.applytojob.com/apply/i2zHy6RtXr/Associate-DirectorDirector-Medical-Communications"
+   },
+   {
+    "claim": "Remote field role restricted to specific U.S. states (regional, U.S.-only).",
+    "quote": "This is a remote, field based role. Candidates must live in TEXAS, GEORGIA or FLORIDA to be considered.",
+    "url": "https://cytovale.applytojob.com/apply/jZc3KvItnk/Field-Application-Scientist"
+   },
+   {
+    "claim": "Remote field service role tied to U.S. locations.",
+    "quote": "Location: Texas or Florida with the Dallas/Ft. Worth area being preferred",
+    "url": "https://cytovale.applytojob.com/apply/JVr4ixw840/Field-Service-Engineer-II"
+   },
+   {
+    "claim": "Another remote field service role tied to U.S. metro areas.",
+    "quote": "Location: Milwaukee, WI / Chicago, IL or surrounding areas",
+    "url": "https://cytovale.applytojob.com/apply/8hWdzk0ha7/Field-Service-Engineer-II"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-28T05:43:49+00:00",
+  "scope_basis": "legal-entity"
  },
  "jazzhr:digitalzoneinc.applytojob.com": {
   "company": "Digitalzone, Inc.",

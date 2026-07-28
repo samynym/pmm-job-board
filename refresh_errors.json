@@ -44,12 +44,48 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/talentpluto/j/2BF6244650",
+  "url": "https://apply.workable.com/datacom1/j/3713FF34EE",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/datacom1/j/65BB1BD301",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/paramount-commerce/j/CB792873B3",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/seeq/j/519AE21AD3",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/talentpluto/j/4BC442A170",
   "error": "HTTP 404"
  },
  {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/databricks/jobs/8407915002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/eulerity/jobs/4687455006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/gofundme/jobs/7166369",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/snorkelai/jobs/6004760004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/7921325",
+  "error": "HTTP 404"
  },
  {
   "url": "https://digitalzoneinc.applytojob.com/apply/1BPppHDsFC",
@@ -72,23 +108,87 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.ashbyhq.com/Hyperbound/af7ad7cb-86e4-49ea-b190-8a197c9d0a36",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/Peec/24d61655-ca46-46b0-a724-38514e2d24e5",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clera/a79564f5-2d2c-4b8b-a297-deeeab067c42",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/creditgenie/92e0dc10-535f-4ded-bad0-9e73a19bc62d",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/heidihealth.com.au/8f6522be-f507-4a3c-a717-8afaba35a062",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/liquid-ai/15a949cd-2db3-426e-a142-0bd9e1b26b7b",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/serval/13e123af-76a9-4af7-b137-17653c0e61e4",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.jobvite.com/laborie/job/oqD1zfwn",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.jobvite.com/progress/job/ornnAfwv",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/38ae7d83-f729-46ad-a134-f8531239528d",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/49f61808-9164-4564-9ad2-1f6efd7b1358",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/8f7a2e08-2ba6-4db1-9209-ff2ba6f74b68",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.smartrecruiters.com/Vention/744000130465680",
+  "error": "HTTP 400"
+ },
+ {
+  "url": "https://jobs.smartrecruiters.com/Vention/744000136527394",
+  "error": "HTTP 400"
+ },
+ {
+  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Energy-Network--48V----Electrification-Product-Marketing-Engineer--f-m-d-_R-10062279",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Governance_JR351624-1",
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Senior-Product-Marketing-Manager_JR2026007035",
   "error": "HTTP 403"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Integration_JR351613",
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Software-Product-Evangelist--AI_JR2026007027",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead---Data-Governance---Privacy-_JR351274",
   "error": "HTTP 403"
  },
  {
