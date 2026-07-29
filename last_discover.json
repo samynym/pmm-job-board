@@ -1,10 +1,15 @@
 {
- "ran_at": "2026-07-28T05:40:59+00:00",
+ "ran_at": "2026-07-29T05:45:32+00:00",
  "new_boards": [
-  "jazzhr:cytovale.applytojob.com",
-  "jazzhr:openprise.applytojob.com"
+  "ashby:aditude",
+  "ashby:audiohook",
+  "ashby:highlightai",
+  "ashby:ltv",
+  "ashby:middesk",
+  "ashby:midstream",
+  "ashby:roboflow"
  ],
- "new_urls": 2,
+ "new_urls": 7,
  "errors": 3,
- "dork_offset": 0
+ "dork_offset": 6
 }

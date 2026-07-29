@@ -1577,6 +1577,19 @@
 "timezone": null,
 "work_auth": "E-Verify employment eligibility confirmation required"
 },
+"https://jobs.ashbyhq.com/aditude/0d5fd5ec-a330-458c-9a8f-b508244615b0": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-07-29T05:48:27+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/altruistiq/1c15faf8-bc11-47be-8af4-2f0027e78bfb": {
 "countries": [],
 "eligibility_stated": false,
@@ -1592,6 +1605,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-07-29T05:48:27+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -1925,6 +1951,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/middesk/4f430902-9ff2-4e1c-85ca-258123f3ab0c": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We follow a hybrid work model, and for this role, there is an expectation of 2 days per week in our SF office. Candidates should be based within a commutable distance.",
+"extracted_at": "2026-07-29T05:48:27+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/mui/7e1d14d3-03e9-46f8-9453-ffe1c7a3b8d8": {
 "countries": [],
 "eligibility_stated": true,
@@ -2213,6 +2252,17 @@
 "Europe",
 "Middle East",
 "Africa"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/roboflow/a9169904-d7a7-44f2-aad2-0ae68910a818": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "NY, SF or Remote (US)",
+"extracted_at": "2026-07-29T05:48:27+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null

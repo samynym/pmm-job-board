@@ -679,6 +679,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:aditude": {
+  "company": "aditude",
+  "confidence": "high",
+  "distribution_summary": "Aditude\u2019s employees are concentrated in the United States and the United Kingdom (many profiles), with a small presence in Canada and Australia (few); other listed countries show no current-employee LinkedIn profiles found.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Roles are remote but restricted to candidates located in the United States.",
+    "quote": "Location\n\nUnited States\n\nLocation Type\n\nRemote",
+    "url": "https://jobs.ashbyhq.com/aditude/0d5fd5ec-a330-458c-9a8f-b508244615b0"
+   },
+   {
+    "claim": "Multiple postings on their Ashby board specify United States as the location for remote roles.",
+    "quote": "# Software Engineer (Front End)\n\nLocation\n\nUnited States\n\nLocation Type\n\nRemote\n...\nWhy join Aditude:\n\u2022 100% remote with a global footprint",
+    "url": "https://jobs.ashbyhq.com/aditude/93f1c6c3-545f-4538-9c9d-716bf4c37ced"
+   },
+   {
+    "claim": "Senior commercial role also lists United States as the location while being remote.",
+    "quote": "# Senior Director, App Business Development\n\nLocation\n\nUnited States\n\nLocation Type\n\nRemote\n...\n\u2022 100% remote with a global footprint",
+    "url": "https://jobs.ashbyhq.com/aditude/a124f98b-fbd1-4703-b347-139c1dd2ddc6"
+   },
+   {
+    "claim": "Company careers page reiterates US-only scope on specific roles (Remote (US)).",
+    "quote": "# Software Engineer (Frontend)\n\nRemote (US)\n...\n\u2022 100% remote with a global footprint",
+    "url": "https://www.aditude.com/careers/software-engineer-frontend"
+   },
+   {
+    "claim": "Another careers listing on the company site explicitly states Remote (US).",
+    "quote": "# Business Intelligence Analyst\n\nRemote (US)\n...\n\u2022 100% remote with a global footprint",
+    "url": "https://www.aditude.com/careers/business-intelligence-analyst"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-29T05:48:32+00:00",
+  "scope_basis": "unclear"
+ },
  "ashby:altruistiq": {
   "company": "altruistiq",
   "confidence": "medium",
@@ -882,6 +950,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "ashby:audiohook": {
+  "company": "audiohook",
+  "confidence": "high",
+  "distribution_summary": "Audiohook\u2019s employees appear to be located primarily in the United States (Ogden/Orem/Austin/Portland/etc.), with no evidence of current-employee LinkedIn profiles in the other country subdomains searched. ([linkedin.com](https://www.linkedin.com/company/getaudiohook?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Roles list Location: United States with Location Type: Remote, indicating US\u2011only remote hiring.",
+    "quote": "Location United States \u2026 Location Type Remote.",
+    "url": "https://jobs.ashbyhq.com/audiohook/e31b4497-4761-4d79-841d-e96be363b20a"
+   },
+   {
+    "claim": "Product Marketing Manager also specifies United States as the hiring location and Remote as the location type.",
+    "quote": "Location United States \u2026 Location Type Remote.",
+    "url": "https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa"
+   },
+   {
+    "claim": "Multiple other Audiohook roles repeat the same US\u2011only remote scope and note a fully remote work environment.",
+    "quote": "Location United States \u2026 What We Offer \u2014 Fully remote work environment.",
+    "url": "https://jobs.ashbyhq.com/audiohook/82e4f219-a4d3-45a0-bdc7-c3e97ee04a35"
+   },
+   {
+    "claim": "Audiohook\u2019s own careers listings present roles as Remote Work but do not name countries outside the US.",
+    "quote": "Find Your Calling Within Our Team \u2026 Senior Sales Executive \u2014 Remote Work \u2014 Full Time.",
+    "url": "https://www.audiohook.com/careers"
+   },
+   {
+    "claim": "Company is US\u2011based (Ogden, Utah), supporting a US\u2011focused hiring footprint.",
+    "quote": "Headquarters Ogden, Utah.",
+    "url": "https://www.linkedin.com/company/getaudiohook"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-29T05:48:32+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:benchling": {
   "company": "benchling",
@@ -2647,6 +2783,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:middesk": {
+  "company": "middesk",
+  "confidence": "medium",
+  "distribution_summary": "Middesk\u2019s current LinkedIn-visible employees appear to be concentrated in the United States (many), with a small presence in Canada (few) and no or no-detected current-employee profiles in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Middesk\u2019s hubs are in San Francisco and New York; careers page explicitly lists these office addresses.",
+    "quote": "Where we work \u2014 San Francisco: 85 2nd St #710, San Francisco, CA 94105 \u2026 New York: 1239 Broadway, 12th Floor, New York, NY 10001.",
+    "url": "https://www.middesk.com/careers"
+   },
+   {
+    "claim": "Their live careers page shows at least one role that includes a Remote option alongside SF/NY.",
+    "quote": "Government Relations Lead New York, Remote, San Francisco.",
+    "url": "https://www.middesk.com/careers"
+   },
+   {
+    "claim": "The Government Relations Lead posting itself lists Location as New York; Remote; San Francisco (i.e., remote allowed for this role).",
+    "quote": "Location New York; Remote; San Francisco.",
+    "url": "https://jobs.ashbyhq.com/middesk/723f7f9f-24b4-4476-84a2-7606a734c31b/?source=jdpreferred.com"
+   },
+   {
+    "claim": "The sample role Product Marketing Associate is hybrid and requires in-office presence in SF, indicating hub-based expectations.",
+    "quote": "Location: San Francisco \u2026 Location Type: Hybrid \u2026 We follow a hybrid work model, and for this role, there is an expectation of 2 days per week in our SF office.",
+    "url": "https://jobs.ashbyhq.com/middesk/4f430902-9ff2-4e1c-85ca-258123f3ab0c/"
+   },
+   {
+    "claim": "A remote-role aggregator mirrors that the Government Relations Lead is United States-only, implying country-limited remote eligibility.",
+    "quote": "Location requirements \u2014 United States \u2026 United States only.",
+    "url": "https://himalayas.app/companies/middesk/jobs/government-relations-lead"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-07-29T05:48:32+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:mui": {
   "company": "mui",
   "confidence": "medium",
@@ -3997,6 +4201,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "ashby:roboflow": {
+  "company": "roboflow",
+  "confidence": "medium",
+  "distribution_summary": "Most Roboflow employees are located in the United States (many); smaller numbers appear in Canada, the UK, Australia, and India (few); other listed countries returned no current-employee LinkedIn profiles in the X\u2011ray searches.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Most open roles are remote but limited to the United States.",
+    "quote": "Product Marketing \u2014 Remote (US) \u2026 Infrastructure Engineer \u2014 NY, SF or Remote / Remote (US).",
+    "url": "https://www.ycombinator.com/companies/roboflow/jobs"
+   },
+   {
+    "claim": "Their own job pages repeatedly scope roles to NY, SF, or Remote (US), and describe a US\u2011distributed team with hubs.",
+    "quote": "NY, SF or Remote (US) \u2026 Roboflow is a distributed team across the US, with hubs in New York City and San Francisco.",
+    "url": "https://jobs.ashbyhq.com/roboflow/48f0f38f-b223-47fe-979d-4934c6371278"
+   },
+   {
+    "claim": "Careers page states they are distributed with offices in NYC and SF and support remote work with travel stipends.",
+    "quote": "We\u2019re a distributed company with dedicated offices in NYC and SF\u2026 While we\u2019re set up to support remote work\u2026 We host two company-wide onsites each year and provide a $4,000 annual travel stipend.",
+    "url": "https://roboflow.com/careers"
+   },
+   {
+    "claim": "Company blog describes team presence outside the US, including the UK and Brazil, and mentions a Brazil hub.",
+    "quote": "Roboflow\u2019s team spans multiple countries, including the United States, the UK, and Brazil\u2026 Our hubs in San Francisco, New York, and Brazil provide dedicated spaces for in-person collaboration.",
+    "url": "https://blog.roboflow.com/how-we-work-together-at-roboflow/"
+   },
+   {
+    "claim": "Some listings note US working hours, indicating a time-zone expectation even when remote.",
+    "quote": "Roboflow primarily operates during the daytime hours in the US and there are some synchronous meetings you\u2019ll be expected to attend each week.",
+    "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-roboflow-4318511468"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-29T05:48:32+00:00",
+  "scope_basis": "mixed"
  },
  "ashby:sift": {
   "company": "sift",

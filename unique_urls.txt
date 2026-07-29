@@ -582,6 +582,7 @@ https://jobs.ashbyhq.com/Wisdom-AI/326b0bb8-f16d-4f50-af78-2e108982806e
 https://jobs.ashbyhq.com/Zello/f9aa0205-1fef-4973-ae52-e0b785acbd3f
 https://jobs.ashbyhq.com/absorblms/2e56dfb4-0d95-486d-8667-0d4e9fd19d9a
 https://jobs.ashbyhq.com/acorns/ca5f0d7c-19da-4507-9935-72db5fdc15b9
+https://jobs.ashbyhq.com/aditude/0d5fd5ec-a330-458c-9a8f-b508244615b0
 https://jobs.ashbyhq.com/altruistiq/1c15faf8-bc11-47be-8af4-2f0027e78bfb
 https://jobs.ashbyhq.com/arcadeai/dfaea34f-4688-41cd-9624-afb48ea8581f
 https://jobs.ashbyhq.com/artian/248514e2-45a6-45d6-b233-c55aae1cf37b
@@ -590,6 +591,7 @@ https://jobs.ashbyhq.com/athena-hq/86916f81-e3d3-4ed5-9c80-a0a4e4e3f9cd
 https://jobs.ashbyhq.com/atira/023bfb7d-3919-4b3d-94b2-77e8a6ea629d
 https://jobs.ashbyhq.com/atira/20dc28c6-539b-4694-a654-5c85c9b6e6a8
 https://jobs.ashbyhq.com/atira/3ff8ca9b-05ca-44cb-8469-32ebc6d90e2c
+https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa
 https://jobs.ashbyhq.com/basis-ai/07c5f888-840a-4a73-b9aa-1f962bacb0ba
 https://jobs.ashbyhq.com/benchling/bf61a428-56af-4587-9c61-7e0f855a5fd4
 https://jobs.ashbyhq.com/bureau/232e9eeb-1a58-44e7-a452-448a1149030e
@@ -632,6 +634,7 @@ https://jobs.ashbyhq.com/happyscribe.com/2bb3fea8-cf49-49da-84e8-cb5ff43119ec
 https://jobs.ashbyhq.com/hatch/32605aec-37a4-4ffb-b829-87ccf8e78350
 https://jobs.ashbyhq.com/hedra/0c6654ec-a00e-47d7-8b21-a7edb41ef4f5
 https://jobs.ashbyhq.com/heidihealth.com.au/8f6522be-f507-4a3c-a717-8afaba35a062
+https://jobs.ashbyhq.com/highlightai/54cde00a-30ee-4077-a778-a2be7e44b844
 https://jobs.ashbyhq.com/hinge-health/0634a070-06e7-4556-9e8a-cfd285ae896c
 https://jobs.ashbyhq.com/hostinger/3e870285-355e-4668-9ff8-2c6daa8fced3
 https://jobs.ashbyhq.com/hyperexponential/0d3452d6-0a17-4fcd-8224-8623dd46883a
@@ -652,9 +655,12 @@ https://jobs.ashbyhq.com/legora/fdecc0c6-31ce-43b6-af32-9f79711397c2
 https://jobs.ashbyhq.com/lightsource/e2cbe65f-2e2b-4757-b681-d371361cc1b0
 https://jobs.ashbyhq.com/lio/0190e374-4836-44c2-9a9d-689a2fde92e1
 https://jobs.ashbyhq.com/liquid-ai/15a949cd-2db3-426e-a142-0bd9e1b26b7b
+https://jobs.ashbyhq.com/ltv/a5d344b5-9696-4623-bd8b-6fc67308ad2e
 https://jobs.ashbyhq.com/lucidlink/0b6c6658-a539-4b83-b873-49b00d078552
 https://jobs.ashbyhq.com/mem.ai/c8255936-9d6f-43df-ad01-d66f768931c8
 https://jobs.ashbyhq.com/mento/4c34361d-7a2e-4cd5-a3f7-e43f55a97af9
+https://jobs.ashbyhq.com/middesk/4f430902-9ff2-4e1c-85ca-258123f3ab0c
+https://jobs.ashbyhq.com/midstream/35b53ebc-410a-4dfb-86ae-c40bb03946d3
 https://jobs.ashbyhq.com/mintlify/ba7fea3c-8440-4bfd-bfbe-3eb75e5191ee
 https://jobs.ashbyhq.com/modal/e784797b-2578-4668-b1f6-1a1b57d1f589
 https://jobs.ashbyhq.com/mui/7e1d14d3-03e9-46f8-9453-ffe1c7a3b8d8
@@ -690,6 +696,7 @@ https://jobs.ashbyhq.com/replit/234c9a82-2857-4691-af83-308100806df3
 https://jobs.ashbyhq.com/replit/7ff74387-ff7f-4bd7-9e23-a09177f8e2a6
 https://jobs.ashbyhq.com/restate/6d76699a-96ea-4a71-83f1-f92981a6a4fd
 https://jobs.ashbyhq.com/revenuecat/6411a31b-7f9e-40c7-b92e-11395d241c58
+https://jobs.ashbyhq.com/roboflow/a9169904-d7a7-44f2-aad2-0ae68910a818
 https://jobs.ashbyhq.com/sapien/4fe70d9d-3710-4471-8d7d-7bc8e90929fa
 https://jobs.ashbyhq.com/saronic/b425a6ee-febb-4e19-8532-2d320e67a3db
 https://jobs.ashbyhq.com/sequence/2354b86d-d72f-4853-99a7-2e3cabbfa26e

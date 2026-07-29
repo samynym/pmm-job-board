@@ -44,56 +44,52 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/datacom1/j/3713FF34EE",
+  "url": "https://apply.workable.com/assist-rx/j/9A4A85ABB4",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/datacom1/j/65BB1BD301",
+  "url": "https://apply.workable.com/connexity/j/A3CE8364AB",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/paramount-commerce/j/CB792873B3",
+  "url": "https://apply.workable.com/realadvisor/j/0CCEEDCA2F",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/seeq/j/519AE21AD3",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/talentpluto/j/4BC442A170",
-  "error": "HTTP 404"
+  "url": "https://aritzia.wd3.myworkdayjobs.com/External/job/Marketing---Senior-Analyst-Analyst--Product-Marketing_R0023296",
+  "error": "HTTP 403"
  },
  {
   "url": "https://aviloo-gmbh.jobs.personio.de/job/2656343",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/databricks/jobs/8407915002",
+  "url": "https://boards.greenhouse.io/alphasense/jobs/8540789002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/eulerity/jobs/4687455006",
+  "url": "https://boards.greenhouse.io/formlabs/jobs/8070547",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/gofundme/jobs/7166369",
+  "url": "https://boards.greenhouse.io/murj/jobs/5265500008",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/snorkelai/jobs/6004760004",
+  "url": "https://boards.greenhouse.io/scopely/jobs/5323853008",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/stripe/jobs/7921325",
+  "url": "https://castandcrew.wd503.myworkdayjobs.com/CastandCrew/job/Director--Product-Marketing_JR100601-1",
   "error": "HTTP 404"
- },
- {
-  "url": "https://digitalzoneinc.applytojob.com/apply/1BPppHDsFC",
-  "error": "delisted or no data"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Senior-Associate--Product-Marketing_R2410-2",
+  "error": "HTTP 404"
  },
  {
   "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
@@ -108,35 +104,23 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/Hyperbound/af7ad7cb-86e4-49ea-b190-8a197c9d0a36",
-  "error": "delisted or no data"
+  "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Associate--Product-Marketing_R-14255",
+  "error": "HTTP 403"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/Peec/24d61655-ca46-46b0-a724-38514e2d24e5",
+  "url": "https://jobs.ashbyhq.com/dailypay/4059ddc9-1d6d-4ef2-b802-adfdee2d505f",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/a79564f5-2d2c-4b8b-a297-deeeab067c42",
+  "url": "https://jobs.ashbyhq.com/openai/cc9333e3-028c-4cf4-872b-c55c894b5277",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/creditgenie/92e0dc10-535f-4ded-bad0-9e73a19bc62d",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/heidihealth.com.au/8f6522be-f507-4a3c-a717-8afaba35a062",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/liquid-ai/15a949cd-2db3-426e-a142-0bd9e1b26b7b",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/serval/13e123af-76a9-4af7-b137-17653c0e61e4",
+  "url": "https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648",
   "error": "delisted or no data"
  },
  {
@@ -144,35 +128,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/laborie/job/oqD1zfwn",
+  "url": "https://jobs.jobvite.com/progress/job/onP6zfwB",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/progress/job/ornnAfwv",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/38ae7d83-f729-46ad-a134-f8531239528d",
+  "url": "https://jobs.lever.co/jobgether/625742bb-fa1e-45f3-99ae-785910c07c36",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/49f61808-9164-4564-9ad2-1f6efd7b1358",
+  "url": "https://jobs.lever.co/jobgether/954ad1ab-09be-4a49-821d-ec0145cf998e",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/8f7a2e08-2ba6-4db1-9209-ff2ba6f74b68",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.smartrecruiters.com/Vention/744000130465680",
-  "error": "HTTP 400"
- },
- {
-  "url": "https://jobs.smartrecruiters.com/Vention/744000136527394",
-  "error": "HTTP 400"
- },
- {
-  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Energy-Network--48V----Electrification-Product-Marketing-Engineer--f-m-d-_R-10062279",
+  "url": "https://nexperia.wd3.myworkdayjobs.com/careers/job/Senior-Product-Marketing-Manager_R-20014040",
   "error": "HTTP 403"
  },
  {
@@ -180,15 +148,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Senior-Product-Marketing-Manager_JR2026007035",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Software-Product-Evangelist--AI_JR2026007027",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead---Data-Governance---Privacy-_JR351274",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Lead--SMB-Messaging_JR353221-1",
   "error": "HTTP 403"
  },
  {
@@ -198,6 +158,10 @@
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://texascapitalbank.wd12.myworkdayjobs.com/careers/job/Product-Marketing-Lead---Corporate---Investment-Bank_JR105727",
+  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
