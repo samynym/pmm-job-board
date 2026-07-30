@@ -1,15 +1,9 @@
 {
- "ran_at": "2026-07-29T05:45:32+00:00",
+ "ran_at": "2026-07-30T05:34:22+00:00",
  "new_boards": [
-  "ashby:aditude",
-  "ashby:audiohook",
-  "ashby:highlightai",
-  "ashby:ltv",
-  "ashby:middesk",
-  "ashby:midstream",
-  "ashby:roboflow"
+  "workable:quandela"
  ],
- "new_urls": 7,
+ "new_urls": 1,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }

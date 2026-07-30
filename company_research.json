@@ -14501,6 +14501,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:veracityinsurance-careers": {
+  "company": "veracityinsurance careers",
+  "confidence": "high",
+  "distribution_summary": "Most employees appear to be located in the United States (many); a small presence in Canada (few); none detected in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their Rippling ATS shows roles as Remote (United States), indicating U.S.-only remote eligibility.",
+    "quote": "Remote (Pleasant Grove, Utah, US) \u2014 Remote (United States)",
+    "url": "https://ats.rippling.com/veracityinsurance-careers/jobs"
+   },
+   {
+    "claim": "Example marketing role is listed as Remote (United States) on the ATS.",
+    "quote": "Remote (United States) \u2014 Remote (Pleasant Grove, UT, US)",
+    "url": "https://ats.rippling.com/veracityinsurance-careers/jobs/5423d403-4d13-4509-a07a-65a0ac18e90e"
+   },
+   {
+    "claim": "Customer Service Representative role states it is remote and U.S.-based.",
+    "quote": "this remote role is responsible\u2026 ; Remote (United States)",
+    "url": "https://ats.rippling.com/veracityinsurance-careers/jobs/e66acee0-bce6-4fec-bacd-06e31065795d"
+   },
+   {
+    "claim": "Technical roles (e.g., Lead AI Engineer) are also constrained to Remote (United States).",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/veracityinsurance-careers/jobs/458b8f67-011b-45b5-a0f3-a92689c55a4a"
+   },
+   {
+    "claim": "Some roles are Hybrid at the Pleasant Grove, UT hub, reinforcing a U.S.-centric hiring model.",
+    "quote": "Hybrid (Pleasant Grove, UT, US)",
+    "url": "https://ats.rippling.com/veracityinsurance-careers/jobs/a6d76028-e0e3-46cb-979a-b2bf8b3882db"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-30T05:36:57+00:00",
+  "scope_basis": "unclear"
+ },
  "rippling:whisker-labs-careers": {
   "company": "Whisker Labs",
   "confidence": "high",

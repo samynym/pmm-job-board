@@ -284,6 +284,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:alphasense:8428321002": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote - United States",
+"extracted_at": "2026-07-30T05:36:47+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:alphasense:8540789002": {
 "countries": [],
 "eligibility_stated": true,
@@ -2368,6 +2381,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/vantage/435eddc1-e7a2-4097-9f2c-a8f4517df9b4": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "At this time Vantage is only set up to employ in the United States.",
+"extracted_at": "2026-07-30T05:36:47+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/vantage/a165b788-f497-4087-b63d-0233674f41ae": {
 "countries": [],
 "eligibility_stated": true,
@@ -3492,6 +3518,19 @@
 "eligibility_stated": true,
 "evidence": "Visa Sponsorship: We are unable to offer visa sponsorship for this position. Applicants must be authorized to work in the United States without the need for sponsorship now or in the future.",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "Applicants must be authorized to work in the United States without the need for sponsorship now or in the future."
+},
+"workday:csiweb.wd1.myworkdayjobs.com:R-100610": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "\"Applicants must be authorized to work in the United States without the need for sponsorship now or in the future.\"",
+"extracted_at": "2026-07-30T05:36:47+00:00",
 "regions": [
 "US"
 ],
