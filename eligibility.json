@@ -790,6 +790,21 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:stripe:8097731": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto",
+"extracted_at": "2026-07-31T06:09:15+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:temporaltechnologies:5044184007": {
 "countries": [],
 "eligibility_stated": true,
@@ -979,6 +994,19 @@
 "Europe"
 ],
 "timezone": "US or EMEA timezones",
+"work_auth": null
+},
+"https://apply.workable.com/irth-solutions/j/c44f969200": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-07-31T06:09:15+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
 "work_auth": null
 },
 "https://apply.workable.com/keyvoto/j/1ab8ab561b": {
@@ -1384,6 +1412,16 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/prudentia-sciences/jobs/1c8c1cec-bf3a-48f4-941f-6477e221c7b2": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-31T06:09:15+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
@@ -2146,6 +2184,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-07-31T06:09:15+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null

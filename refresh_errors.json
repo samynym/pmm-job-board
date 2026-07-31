@@ -44,47 +44,51 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/privy-2/j/CC9B41C644",
+  "url": "https://apply.workable.com/therideplatform/j/88353586A0",
   "error": "HTTP 404"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
+  "url": "https://boards.greenhouse.io/acquia/jobs/8010804",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/acquia/jobs/7859184",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/alarmcom/jobs/8491761002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/axon/jobs/7792131003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/goguardian/jobs/4684465006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/parloa/jobs/4903064101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/8093374",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://clanx.recruitee.com/o/founding-marketer-product-marketing-remote",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Product-Marketing-Manager_REQ-2026-2428-1",
   "error": "HTTP 403"
  },
  {
-  "url": "https://boards.greenhouse.io/boulevard/jobs/4678942006",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/boulevard/jobs/4679237006",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/crunchyroll/jobs/7997326",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/figure/jobs/8573981002",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/harnessinc/jobs/5110436007",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/pendo/jobs/8526974002",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/pendo/jobs/8558208002",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
+  "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
+  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
   "error": "delisted or no data"
  },
  {
@@ -96,19 +100,27 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Senior-Marketer--Product-Marketing_R-13967",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/character/5ae538da-6b75-4b10-9c3e-a2a500b63575",
+  "url": "https://jobs.ashbyhq.com/altruistiq/1c15faf8-bc11-47be-8af4-2f0027e78bfb",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/gc-ai/a6eefabd-0ac1-489e-830d-f6912a48a145",
+  "url": "https://jobs.ashbyhq.com/hedra/0c6654ec-a00e-47d7-8b21-a7edb41ef4f5",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/vantage/a165b788-f497-4087-b63d-0233674f41ae",
+  "url": "https://jobs.ashbyhq.com/lio/0190e374-4836-44c2-9a9d-689a2fde92e1",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/modal/e784797b-2578-4668-b1f6-1a1b57d1f589",
   "error": "delisted or no data"
  },
  {
@@ -116,35 +128,27 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/canarytechnologies/d0795f41-1634-4c7a-9363-79a5bd452191",
+  "url": "https://jobs.lever.co/jobgether/c17f5eca-a072-4c84-85c0-8787833693b9",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/14835654-25b3-47bd-9308-1f416242702b",
-  "error": "HTTP 404"
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2636803",
+  "error": "HTTP 403"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/4e0981df-a067-4269-9a38-e9588342b253",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/62dac114-cf11-400a-9eb7-64890c8d1c9d",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/6e5990cc-595b-4a14-aefa-71987e928b8b",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/mindtickle/1538441d-fb7c-45b6-855d-d9328b3e7a46",
-  "error": "HTTP 404"
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Technical-Product-Marketing-Engineer_JR2018791",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
-  "url": "https://pluxee.wd3.myworkdayjobs.com/Pluxee_Career_Site/job/Apprentie-Assistante-Product-Marketing-Manager-F-H_R5024",
+  "url": "https://pluxee.wd3.myworkdayjobs.com/Pluxee_Career_Site/job/Product-Marketing-Leader_R5133",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/PMM-Director_JR334051",
   "error": "HTTP 403"
  },
  {
@@ -156,7 +160,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56353",
+  "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Product-Marketing-Manager-Level-5_R0046152",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56626",
   "error": "HTTP 403"
  },
  {

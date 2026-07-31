@@ -14229,6 +14229,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "rippling:prudentia-sciences": {
+  "company": "Prudentia Sciences",
+  "confidence": "medium",
+  "distribution_summary": "Most employees appear to be based in the United States (Cambridge, MA HQ); small numbers in Canada, the UK and India; no publicly indexed current LinkedIn profiles found for the other listed country subdomains.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their live job board lists roles as Remote (United States) and US city-specific remote options.",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/prudentia-sciences/jobs"
+   },
+   {
+    "claim": "Director, Customer Success explicitly offers Remote (United States) with US city options.",
+    "quote": "Remote (United States)\nBoston, MA\nNew York, NY\nSan Francisco, CA",
+    "url": "https://ats.rippling.com/prudentia-sciences/jobs/c51625d7-0c81-4f1f-8e01-8bc8d2172f07"
+   },
+   {
+    "claim": "Multiple postings state they are remote-first but want team members located in the U.S. Northeast (timezone/hub preference).",
+    "quote": "We are a remote-first company, but looking for team members to be located in the Northeast (Boston, New York, DC, etc.)",
+    "url": "https://ats.rippling.com/prudentia-sciences/jobs/1c8c1cec-bf3a-48f4-941f-6477e221c7b2"
+   },
+   {
+    "claim": "Engineering role repeats the remote-first but Northeast location requirement.",
+    "quote": "We are a remote-first company, but looking for team members to be located in the Northeast (Boston, New York, DC, etc.)",
+    "url": "https://ats.rippling.com/prudentia-sciences/jobs/022a615b-0286-43cd-8a15-9a82e1e1a6fe"
+   },
+   {
+    "claim": "Careers page mentions Flexible remote work and links to open roles that show U.S.-only remote locations.",
+    "quote": "Flexible remote work",
+    "url": "https://www.prudentiasciences.com/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-07-31T06:09:19+00:00",
+  "scope_basis": "mixed"
+ },
  "rippling:rhythm-energy": {
   "company": "Rhythm Energy",
   "confidence": "high",
@@ -17252,6 +17320,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "workable:irth-solutions": {
+  "company": "irth-solutions",
+  "confidence": "medium",
+  "distribution_summary": "Irth Solutions\u2019 LinkedIn-visible employees are concentrated in the United States and India (many profiles), with a small presence in Canada (few); no current-employee profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Actively hires remotely in the United States.",
+    "quote": "Senior Customer Success Manager - AIP \u2014 Remote United States; Temporary Rippling & Finance Systems Consultant \u2014 Remote United States (Workable job list). ([jobs.workable.com](https://jobs.workable.com/company/sqR447VigYtCXwWEvHzdPL/jobs-at-irth-solutions?utm_source=openai))",
+    "url": "https://jobs.workable.com/company/sqR447VigYtCXwWEvHzdPL/jobs-at-irth-solutions"
+   },
+   {
+    "claim": "Actively hires remotely in Canada.",
+    "quote": "Senior Project Manager - AIP \u2014 Remote Canada; Gestionnaire de comptes bilingue (FR/EN) \u2014 Remote Quebec, Canada (Workable job list). ([jobs.workable.com](https://jobs.workable.com/company/sqR447VigYtCXwWEvHzdPL/jobs-at-irth-solutions?utm_source=openai))",
+    "url": "https://jobs.workable.com/company/sqR447VigYtCXwWEvHzdPL/jobs-at-irth-solutions"
+   },
+   {
+    "claim": "Job posting explicitly lists Remote with eligible locations Canada and United States.",
+    "quote": "UX-UI Designer \u2014 Remote \u2026 Canada \u2026 United States (Workable apply page). ([apply.workable.com](https://apply.workable.com/irth-solutions/j/D4946545AF/?utm_source=openai))",
+    "url": "https://apply.workable.com/irth-solutions/j/D4946545AF/"
+   },
+   {
+    "claim": "Actively hires remotely in Australia (APAC).",
+    "quote": "Business Analyst - APAC \u2014 Remote \u2026 Australia (Workable apply page). ([apply.workable.com](https://apply.workable.com/irth-solutions/j/3E1B222863/?utm_source=openai))",
+    "url": "https://apply.workable.com/irth-solutions/j/3E1B222863/"
+   },
+   {
+    "claim": "Actively hires remotely in India (Asia).",
+    "quote": "Operations Analyst- EDO \u2014 Remote \u2026 India (Workable apply/application page). ([apply.workable.com](https://apply.workable.com/irth-solutions/j/D80DA46937/apply/?utm_source=openai))",
+    "url": "https://apply.workable.com/irth-solutions/j/D80DA46937/apply/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-07-31T06:09:19+00:00",
+  "scope_basis": "unclear"
  },
  "workable:keyvoto": {
   "company": "keyvoto",
