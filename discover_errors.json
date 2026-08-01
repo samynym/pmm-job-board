@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "apply.workable.com|product marketing",
+  "query": "myworkdayjobs.com|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "apply.workable.com|product marketer",
+  "query": "icims.com|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {

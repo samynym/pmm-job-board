@@ -1,11 +1,11 @@
 {
- "ran_at": "2026-07-31T06:06:15+00:00",
+ "ran_at": "2026-08-01T05:49:56+00:00",
  "new_boards": [
-  "breezy:wevideo",
-  "workable:irth-solutions",
-  "workable:umbra"
+  "teamtailor:implicity.teamtailor.com",
+  "workday:('buildertrend.wd108.myworkdayjobs.com', 'External_Careers')",
+  "workday:('cengage.wd5.myworkdayjobs.com', 'CengageNorthAmericaCareers')"
  ],
  "new_urls": 3,
  "errors": 3,
- "dork_offset": 18
+ "dork_offset": 24
 }

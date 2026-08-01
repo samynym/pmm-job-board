@@ -19216,6 +19216,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workday:('buildertrend.wd108.myworkdayjobs.com', 'External_Careers')": {
+  "company": "Buildertrend Solutions, Inc.",
+  "confidence": "high",
+  "distribution_summary": "Search for public LinkedIn profiles using the X\u2011ray method failed or returned no reliable results, so I cannot estimate where employees live.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their careers page lists roles as United States \u2013 Remote (and Omaha, NE \u2013 Hybrid), indicating U.S.-only remote hiring.",
+    "quote": "Director, Payments and Risk Operations \u2014 United States \u2013 Remote \u2026 Product Marketing Manager \u2014 United States \u2013 Remote or Omaha, NE \u2013 Hybrid.",
+    "url": "https://buildertrend.com/careers/"
+   },
+   {
+    "claim": "Workday postings specify Remote - USA and clarify location scope as Hybrid - Omaha, NE or Remote - United States.",
+    "quote": "remote type: Fully Remote; locations: Omaha, NE; Remote - USA \u2026 Location: Hybrid - Omaha, NE or Remote - United States.",
+    "url": "https://buildertrend.wd108.myworkdayjobs.com/en-US/External_Careers/job/Sales-Executive_JR-000262-1"
+   },
+   {
+    "claim": "Product Marketing Manager role explicitly states U.S.-only remote eligibility.",
+    "quote": "Location: United States \u2013 Remote or Omaha, NE - Hybrid.",
+    "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Product-Marketing-Manager_JR-000396"
+   },
+   {
+    "claim": "Forward Deployed AI Engineer role reiterates U.S.-only remote or Omaha hybrid.",
+    "quote": "Location: United States \u2013 Remote or Omaha, NE - Hybrid.",
+    "url": "https://buildertrend.wd108.myworkdayjobs.com/external_careers/job/remote---usa/forward-deployed-ai-engineer_jr-000418"
+   },
+   {
+    "claim": "Additional technical roles also show Remote - USA / United States \u2013 Remote scope, reinforcing U.S.-only remote hiring.",
+    "quote": "Location: Omaha, NE \u2013 Hybrid or United States \u2013 Remote.",
+    "url": "https://buildertrend.wd108.myworkdayjobs.com/en-US/External_Careers/job/Senior-Software-Engineer_JR-000388"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-01T05:52:51+00:00",
+  "scope_basis": "unclear"
+ },
  "workday:('cambiumlearning.wd1.myworkdayjobs.com', 'camb')": {
   "company": "LXA Lexia Voyager Sopris Inc.",
   "confidence": "high",
@@ -19283,6 +19351,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "workday:('cengage.wd5.myworkdayjobs.com', 'CengageNorthAmericaCareers')": {
+  "company": "Cengage Learning Inc.",
+  "confidence": "medium",
+  "distribution_summary": "Cengage\u2019s employees are concentrated in the United States and other English-speaking markets (UK, India, Canada, Australia), with a smaller presence in selected European, Latin American and APAC countries and little-to-no presence on LinkedIn from several African/Middle East country subdomains.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "few",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "US remote hiring with broad state eligibility.",
+    "quote": "locations \u2014 Massachusetts, USA; Virtual US CT; Virtual US AL; Virtual US NH; Virtual US CA \u2026 View All 20 Locations.",
+    "url": "https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/massachusetts-usa/strategic-account-director--remote-_r2026-394-1"
+   },
+   {
+    "claim": "Canada remote hiring (Ontario/BC listed among locations).",
+    "quote": "locations \u2026 Ontario, CAN; British Columbia, CAN \u2026 View All 7 Locations",
+    "url": "https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/california-usa/customer-success-consultant--remote-_r2026-395-1"
+   },
+   {
+    "claim": "UK fully remote roles allowed nationwide.",
+    "quote": "The position is fully remote and can be based anywhere in the United Kingdom.",
+    "url": "https://cengage.wd5.myworkdayjobs.com/cengageemeacareers/job/gb-remote-united-kingdom/customer-success-specialist--maternity-cover-_r2026-561"
+   },
+   {
+    "claim": "EMEA posting lists a Virtual Dubai option (evidence of Middle East remote feasibility).",
+    "quote": "locations \u2014 GB-Remote-United Kingdom; ES-Madrid-Spain; Virtual EMEA Dubai",
+    "url": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageEMEACareers/job/Manager--Customer-Success_R2026-232"
+   },
+   {
+    "claim": "Operates via own international entities (example: UK subsidiary).",
+    "quote": "CENGAGE LEARNING (EMEA) LIMITED \u2026 Cheriton House, North Way, Andover, Hampshire, SP10 5BE.",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/00903535"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-01T05:52:51+00:00",
+  "scope_basis": "mixed"
  },
  "workday:('cengage.wd5.myworkdayjobs.com', 'cengagenorthamericacareers')": {
   "company": "Cengage Learning Inc.",

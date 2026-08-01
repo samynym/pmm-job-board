@@ -1044,6 +1044,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/mydbsync/j/86a8a9bd53": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "Job Location: Bangalore (Remote)",
+"extracted_at": "2026-08-01T05:52:41+00:00",
+"regions": [
+"Asia"
+],
+"timezone": "UK Shift (1:30 PM\u201310:30 PM IST)",
+"work_auth": null
+},
 "https://apply.workable.com/mydbsync/j/f86b18f41b": {
 "countries": [],
 "eligibility_stated": true,
@@ -3501,6 +3514,19 @@
 "eligibility_stated": true,
 "evidence": "Colorado, USA - Remote",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:buildertrend.wd108.myworkdayjobs.com:JR-000396": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States \u2013 Remote or Omaha, NE - Hybrid",
+"extracted_at": "2026-08-01T05:52:41+00:00",
 "regions": [
 "US"
 ],
