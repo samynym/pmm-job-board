@@ -1,10 +1,10 @@
 [
  {
-  "board": "personio:archlet.jobs.personio.de",
+  "board": "personio:eye-able.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "personio:eye-able.jobs.personio.de",
+  "board": "personio:archlet.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -44,34 +44,6 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Director--Product-Marketing--ProDesign_R166863-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://ats.rippling.com/rippling/jobs/1aa2b1d6-159b-4362-bcb8-11c27392710e",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Head-of-Product-Marketing_141596",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/asteralabs/jobs/4646965005",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/omadahealth/jobs/7680866",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/mixpanel/jobs/7974980",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/pubmatic/jobs/4939580008",
-  "error": "HTTP 404"
- },
- {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
@@ -80,36 +52,20 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Product-Marketing-Manager---HPE-Alletra-Storage_1206661",
-  "error": "HTTP 403"
- },
- {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/centivo/ea8c286c-8763-48c3-b8eb-233831a163f4",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/493847d4-7c4b-4dfb-afbf-c825fda20335",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://neolytix.applytojob.com/apply/kgzXzKXFLU",
-  "error": "HTTP 410"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
