@@ -1,10 +1,10 @@
 [
  {
-  "board": "personio:eye-able.jobs.personio.de",
+  "board": "personio:archlet.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "personio:archlet.jobs.personio.de",
+  "board": "personio:eye-able.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -44,6 +44,22 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Strategy_R-115173",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Performance-Measurement_R-115196",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://bizaway.applytojob.com/apply/uvRsKRKgBX",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
@@ -56,11 +72,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
@@ -70,6 +86,10 @@
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Product-Marketing-Manager_R0035608-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
