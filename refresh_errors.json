@@ -8,6 +8,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "workday:('cvshealth.wd1.myworkdayjobs.com', 'CVS_Health_Careers')",
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ {
   "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
@@ -32,6 +36,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:tekion",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:veriforce",
   "error": "HTTP Error 404: Not Found"
  },
@@ -44,20 +52,44 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Strategy_R-115173",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Performance-Measurement_R-115196",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://bizaway.applytojob.com/apply/uvRsKRKgBX",
+  "url": "https://ats.rippling.com/community-phone-careers/jobs/b0b1ec9b-6161-483b-99ac-c4c7bc1bd248",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/VP--Solutions-Product-Marketing_JR1329",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/attentive/jobs/4280722009",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/make/jobs/7707508003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/make/jobs/7750815003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/klaviyo/jobs/7710126003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Product-Marketing-Manager---Security-Protocol-Engines---Technologies_R54066",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Senior-Associate--Product-Marketing-Strategy--New-To-Credit--Hybrid-_R245883-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://digitalzoneinc.applytojob.com/apply/1BPppHDsFC",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://enfuceoy.teamtailor.com/jobs/7888331-product-marketing-manager",
+  "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -68,27 +100,55 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
+  "url": "https://jobs.ashbyhq.com/Juicebox/fd329c43-55f2-4890-a3d3-7a1a4b28cb80",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://jobs.ashbyhq.com/serval/731d92c0-eafd-4517-874a-6d4be5a6be09",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/1e06ccc9-eb8d-4297-b34b-7f41b2a2c240",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/31c29f72-fc5e-4c6a-9926-de1b77280bea",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/36936068-0ab2-4083-87ad-5cebc47d35a7",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/b2153c2e-dcd2-431a-a331-282a29ef4690",
+  "error": "HTTP 404"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
-  "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Product-Marketing-Manager_R0035608-1",
+  "url": "https://outdooractive.jobs.personio.de/job/2335848",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Director_JR353144",
   "error": "HTTP 403"
  },
  {
@@ -102,6 +162,10 @@
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Product-Marketing-Manager_R0058885-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",

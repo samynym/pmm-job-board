@@ -1,9 +1,11 @@
 {
- "ran_at": "2026-08-03T06:15:16+00:00",
+ "ran_at": "2026-08-04T05:42:13+00:00",
  "new_boards": [
-  "personio:screeningeagle.jobs.personio.de"
+  "smartrecruiters:Eurofins",
+  "smartrecruiters:Freshworks",
+  "smartrecruiters:LVMHPerfumesCosmetics"
  ],
- "new_urls": 1,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 4
+ "dork_offset": 10
 }

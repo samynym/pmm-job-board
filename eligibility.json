@@ -453,6 +453,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:hubspotjobs:7982144": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-08-04T05:46:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:instacart:7991597": {
 "countries": [],
 "eligibility_stated": true,
@@ -1581,6 +1592,19 @@
 ],
 "timezone": null,
 "work_auth": "Applicants must be based in the US and authorized to work in the US at the time of hire."
+},
+"https://hubcareers-docusign.icims.com/jobs/29628/job": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Applicants must already be authorized to work in the United States on a full-time, permanent basis without the need for current or future sponsorship.",
+"extracted_at": "2026-08-04T05:46:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "US work authorization required"
 },
 "https://idera.applytojob.com/apply/7etxijtz2p": {
 "countries": [],
@@ -3113,6 +3137,19 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:experian:744000141350519": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Our compensation reflects the cost of labor across several U.S. geographic markets.",
+"extracted_at": "2026-08-04T05:46:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:improvado:743999825614570": {
 "countries": [],
 "eligibility_stated": false,
@@ -3208,6 +3245,19 @@
 "evidence": null,
 "extracted_at": "2026-07-22T05:45:32+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:servicenow:744000141346118": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Santa Clara, CALIFORNIA, United States",
+"extracted_at": "2026-08-04T05:46:26+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
