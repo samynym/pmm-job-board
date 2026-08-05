@@ -1,11 +1,13 @@
 {
- "ran_at": "2026-08-04T05:42:13+00:00",
+ "ran_at": "2026-08-05T05:41:07+00:00",
  "new_boards": [
-  "smartrecruiters:Eurofins",
-  "smartrecruiters:Freshworks",
-  "smartrecruiters:LVMHPerfumesCosmetics"
+  "greenhouse:chainguard",
+  "greenhouse:globalizationpartners",
+  "greenhouse:postman",
+  "greenhouse:shopmy",
+  "greenhouse:tines"
  ],
- "new_urls": 3,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }

@@ -7034,6 +7034,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:chainguard": {
+  "company": "Chainguard",
+  "confidence": "medium",
+  "distribution_summary": "Chainguard\u2019s employees appear concentrated in the United States, United Kingdom, and India, with smaller presence in Germany, Australia, Canada, Singapore and scattered/none in many other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "unknown",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Chainguard states it is a fully remote company (remote-first).",
+    "quote": "We\u2019re a fully remote team, but we stay closely connected.",
+    "url": "https://www.chainguard.dev/careers"
+   },
+   {
+    "claim": "Europe and UK eligibility shown on live board via Benelux and UK remote roles.",
+    "quote": "Business Development Representative - Benelux Netherlands - Remote; United Kingdom - Remote",
+    "url": "https://job-boards.greenhouse.io/chainguard"
+   },
+   {
+    "claim": "Asia eligibility shown by a Singapore remote role.",
+    "quote": "Singapore - Remote",
+    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4674013006"
+   },
+   {
+    "claim": "Latin America eligibility shown by a Brazil remote role.",
+    "quote": "Brazil - Remote",
+    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4671409006"
+   },
+   {
+    "claim": "US, Canada, and UK explicitly listed as hiring locations in application form; indicates country-based (legal) scope.",
+    "quote": "Will you be performing the work from the United States of America, Canada, or the United Kingdom?",
+    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4700937006"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-05T05:43:48+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:colabsoftware": {
   "company": "CoLab Software",
   "confidence": "high",
@@ -7644,6 +7712,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "greenhouse:globalizationpartners": {
+  "company": "G-P",
+  "confidence": "high",
+  "distribution_summary": "Search ambiguous \u2014 I couldn\u2019t reliably identify which \u2018G\u2011P\u2019 company you mean, so I couldn\u2019t perform LinkedIn x\u2011ray searches; please give a disambiguator (full legal name, website/domain, industry, or a city) and I\u2019ll run the location estimate.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Active roles list country-specific remote-first hiring across multiple regions (US, Canada, LATAM, Europe, Asia).",
+    "quote": "Human Resources Specialist New Canada - Ontario (Remote- First) \u2026 Payroll & Billing Specialist Mexico (Remote-First) \u2026 Sr. Workday Adaptive Analyst Brazil (Remote-First) \u2026 Sr Compensation Partner Ireland (Remote-First) \u2026 Sr Compensation Partner United Kingdom (Remote-First) \u2026 Sr Director, Sales (APAC) Singapore (Remote-First) \u2026 Business Development Representative China (Remote-First).",
+    "url": "https://job-boards.greenhouse.io/GlobalizationPartners"
+   },
+   {
+    "claim": "G-P states it is a remote-first, globally distributed team (supports remote posture).",
+    "quote": "Globally remote\u2014 from the start. \u2026 As a global remote-first team, supporting the needs of our team members is paramount.",
+    "url": "https://www.globalization-partners.com/careers/"
+   },
+   {
+    "claim": "Evidence of employment in Africa (Nigeria) via public employee profile.",
+    "quote": "G-P/Globalization Partners \u2026 Delta State, Nigeria.",
+    "url": "https://ng.linkedin.com/in/akpai-abraham-36b4a126a"
+   },
+   {
+    "claim": "Evidence of employment in the Middle East (UAE) via public employee profile.",
+    "quote": "G-P/Globalization Partners \u2026 Dubai, United Arab Emirates.",
+    "url": "https://ae.linkedin.com/in/mikaren18"
+   },
+   {
+    "claim": "Job postings require candidates to already be eligible to work in the country of the posting (indicates country-by-country legal basis for hiring).",
+    "quote": "Are you currently eligible to work in the country where this role is posted without visa sponsorship?",
+    "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7791586003"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "yes",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-05T05:43:48+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:harnessinc": {
@@ -9794,6 +9930,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "greenhouse:tines": {
+  "company": "tines",
+  "confidence": "medium",
+  "distribution_summary": "Most Tines employees (many) appear to be in the United States, with smaller groups (few) in the UK and Australia; no current-employee LinkedIn profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US & Ireland); no EOR mentioned",
+  "evidence": [
+   {
+    "claim": "Hires fully\u2011remote in Ireland.",
+    "quote": "You can work fully remotely from anywhere in Ireland.",
+    "url": "https://job-boards.greenhouse.io/tines/jobs/6108006004"
+   },
+   {
+    "claim": "Multiple US\u2011remote roles; some restricted to working from the US and to US citizens (GovCloud).",
+    "quote": "Due to the nature of this role and associated U.S. Government customer requirements, applicants must be U.S. citizens and must perform work while located within the United States.",
+    "url": "https://job-boards.greenhouse.io/tines/jobs/5973812004"
+   },
+   {
+    "claim": "Some North America roles are remote but require specific time zones (overlap requirement).",
+    "quote": "This is a remote role that must be based in EST or CST.",
+    "url": "https://job-boards.greenhouse.io/tines/jobs/5972580004"
+   },
+   {
+    "claim": "US work\u2011authorization required for certain North America remote postings (no visa sponsorship).",
+    "quote": "Applicants for this opportunity must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.",
+    "url": "https://job-boards.greenhouse.io/tines/jobs/5972580004"
+   },
+   {
+    "claim": "Operates with own legal entities in Ireland and the US (supports \u2018own entities\u2019 employment in those countries).",
+    "quote": "Our European headquarters. Tines Limited, 10 Westland Square, Pearse Street, Dublin\u2026 Our US headquarters. Tines Technology Inc., 99 High Street, 14th Floor, Boston, MA, 02110, United States.",
+    "url": "https://www.tines.com/contact/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unlikely",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-05T05:43:48+00:00",
+  "scope_basis": "mixed"
  },
  "greenhouse:valtech": {
   "company": "valtech",

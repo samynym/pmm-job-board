@@ -352,6 +352,43 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:boulevard:4700762006": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-08-05T05:43:40+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:chainguard:4689624006": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote",
+"extracted_at": "2026-08-05T05:43:40+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:chainguard:4689646006": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "United States - Remote",
+"extracted_at": "2026-08-05T05:43:40+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:colabsoftware:5204990008": {
 "countries": [],
 "eligibility_stated": true,
@@ -420,6 +457,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:globalizationpartners:7791586003": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States (Remote-First)",
+"extracted_at": "2026-08-05T05:43:40+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:harnessinc:5110436007": {
 "countries": [],
 "eligibility_stated": true,
@@ -447,6 +497,19 @@
 "eligibility_stated": true,
 "evidence": "Location: North America Work location preference eligibility: Remote / Hybrid. Location field states 'Remote - USA'",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:hubspotjobs:7906029": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location: United States",
+"extracted_at": "2026-08-05T05:43:40+00:00",
 "regions": [
 "US"
 ],
@@ -3278,6 +3341,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:thenielsencompany:3743990014431847": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote, Remote, United States",
+"extracted_at": "2026-08-05T05:43:40+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
