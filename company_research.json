@@ -14904,6 +14904,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "rippling:workspan-inc": {
+  "company": "Workspan Inc",
+  "confidence": "high",
+  "distribution_summary": "WorkSpan\u2019s public LinkedIn profiles are concentrated in the US, India and Canada (many); a small presence in the UK (few); little to no observable current-employee profiles in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "many",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "WorkSpan lists Customer Success role eligible in both the United States (remote) and the United Kingdom, indicating UK hiring capability.",
+    "quote": "Remote (United States)\n\nUnited Kingdom",
+    "url": "https://ats.rippling.com/en-GB/workspan-inc/jobs/a2610f37-26d7-47ed-b954-0cc8ab4a845a"
+   },
+   {
+    "claim": "Multiple marketing roles list Canada and Remote (United States), showing hiring in Canada and US-remote.",
+    "quote": "Canada\nRemote (United States)",
+    "url": "https://ats.rippling.com/workspan-inc/jobs/53babe60-2009-4dc8-b336-35408305b9e1"
+   },
+   {
+    "claim": "Field Marketing Manager also shows Canada and Remote (United States), reinforcing US/Canada eligibility.",
+    "quote": "Canada\nRemote (United States)",
+    "url": "https://ats.rippling.com/workspan-inc/jobs/f8bd4795-f86b-4e7a-9653-9eaf9adad428"
+   },
+   {
+    "claim": "Support role explicitly shows Remote (Mexico) and Brazil, indicating LATAM hiring capability (at least Mexico remotely and Brazil).",
+    "quote": "Remote (Mexico)\n\nBrazil",
+    "url": "https://ats.rippling.com/en-GB/workspan-inc/jobs/c7363363-1ee0-4b1d-a095-76b29dc29a26"
+   },
+   {
+    "claim": "Sales role lists Remote (CA, US), confirming US-remote hiring (California).",
+    "quote": "Remote (CA, US)",
+    "url": "https://ats.rippling.com/en-GB/workspan-inc/jobs/aeb3e839-b327-4ded-89c1-37065565d58c"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-06T05:45:26+00:00",
+  "scope_basis": "legal-entity"
+ },
  "smartrecruiters:CASEYFOODSOPCPRIVATELIMITED": {
   "company": "CASEY FOODS (OPC) PRIVATE LIMITED",
   "confidence": "medium",
@@ -17365,6 +17433,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
+ },
+ "workable:gomining": {
+  "company": "gomining",
+  "confidence": "medium",
+  "distribution_summary": "GoMining\u2019s public company LinkedIn page lists ~179 employees and shows multiple current employees based in the United States and the UK (many); several current profiles appear in Canada, India, Australia, Singapore, Brazil, Mexico, France and Germany (few); for several other country codes the X\u2011ray searches were ambiguous or returned no clear current-employee profiles (unknown). ([linkedin.com](https://www.linkedin.com/company/gmtio?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "unknown",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "few",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "They hire remotely across multiple European countries and parts of Asia (e.g., Georgia, Cyprus, Serbia, Latvia, Thailand).",
+    "quote": "Product Manager (Payments) \u2014 Remote IT \u2014 Georgia; Cyprus; Serbia; Latvia; Thailand",
+    "url": "https://apply.workable.com/gomining/j/E46E1E6D43/"
+   },
+   {
+    "claim": "They hire in the UK specifically (supporting UK eligibility).",
+    "quote": "AI Creative \u2013 Copywriter \u2014 Remote \u2014 England, United Kingdom; Portugal; Serbia; Spain",
+    "url": "https://apply.workable.com/gomining/j/31FCA37B1C"
+   },
+   {
+    "claim": "They hire remotely in the Middle East (UAE).",
+    "quote": "Business Development Manager \u2013 Banks & Wallets \u2014 Remote BD \u2014 Cyprus; Serbia; Poland; Dubai, Dubai, United Arab Emirates",
+    "url": "https://apply.workable.com/gomining/j/3C0C4E517F/"
+   },
+   {
+    "claim": "US remote hiring appears uncommon: even a \u201cFinancial Manager (US)\u201d role lists allowed locations only in Europe.",
+    "quote": "Financial Manager (US) \u2014 Remote Finance \u2014 Serbia; Georgia; Cyprus; Latvia; Poland",
+    "url": "https://apply.workable.com/gomining/j/F0770B9CC3/"
+   },
+   {
+    "claim": "Their site lists legal entities in Latvia and Cyprus, supporting that country-by-country eligibility is likely driven by legal/payroll capability rather than time zones.",
+    "quote": "SIA GoMining Latvia \u2026 GoMining (Cyprus) Limited \u2026 registered address \u2026 Limassol, Cyprus.",
+    "url": "https://gomining.com/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "yes",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "unlikely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-06T05:45:26+00:00",
+  "scope_basis": "legal-entity"
  },
  "workable:hero-software": {
   "company": "hero software",

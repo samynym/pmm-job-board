@@ -1,13 +1,10 @@
 {
- "ran_at": "2026-08-05T05:41:07+00:00",
+ "ran_at": "2026-08-06T05:42:23+00:00",
  "new_boards": [
-  "greenhouse:chainguard",
-  "greenhouse:globalizationpartners",
-  "greenhouse:postman",
-  "greenhouse:shopmy",
-  "greenhouse:tines"
+  "recruitee:talk360",
+  "workable:gomining"
  ],
- "new_urls": 5,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }

@@ -1058,6 +1058,41 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/gomining/j/2ab065f537": {
+"countries": [
+"Cyprus"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Cyprus",
+"extracted_at": "2026-08-06T05:45:14+00:00",
+"regions": [
+"Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/gomining/j/91177f2914": {
+"countries": [
+"Cyprus"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Cyprus",
+"extracted_at": "2026-08-06T05:45:14+00:00",
+"regions": [
+"Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/gomining/j/9cb0ee3b47": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-06T05:45:14+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/hospitable/j/58eaeae59d": {
 "countries": [],
 "eligibility_stated": true,
@@ -1564,6 +1599,16 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/workspan-inc/jobs/53babe60-2009-4dc8-b336-35408305b9e1": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-06T05:45:14+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://careers-hyland.icims.com/jobs/14220/job": {
 "countries": [],
 "eligibility_stated": true,
@@ -1766,6 +1811,19 @@
 "eligibility_stated": true,
 "evidence": "Location field: United States",
 "extracted_at": "2026-07-29T05:48:27+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/benchling/874062e7-7903-4fd3-9930-ea538a4cac1e": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "San Francisco, CA\n\nWe offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).",
+"extracted_at": "2026-08-06T05:45:14+00:00",
 "regions": [
 "US"
 ],
