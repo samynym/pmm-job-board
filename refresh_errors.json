@@ -48,39 +48,59 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://3m.wd1.myworkdayjobs.com/Search/job/Global-Product-Marketing-Specialist_R01168174",
+  "url": "https://apply.workable.com/mindgard/j/38EFDEF922",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/wisedocs-ai/j/9E16589F8A",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/pdq/jobs/af7ceb21-7296-48cc-8468-db6b32afd8fd",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
   "error": "HTTP 403"
  },
  {
-  "url": "https://apply.workable.com/weekday-1/j/88A20FFA9B",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/weekday-1/j/5C3D1A480C",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Media---Entertainment-Product-Marketing-Manager_26WD98602-1",
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Local-Performance-Measurement_R-115196",
   "error": "HTTP 403"
  },
  {
-  "url": "https://boards.greenhouse.io/acquia/jobs/8010839",
+  "url": "https://boards.greenhouse.io/adyen/jobs/7938302",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/stripe/jobs/7990812",
+  "url": "https://boards.greenhouse.io/oscar/jobs/8003844",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/7913503",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Product-Marketing-Manager_REQ-4366",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Principal-Marketing---Product-Marketing-Analyst_RP1038261-1",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://henryscheinone.applytojob.com/apply/8HOiKPMnkh",
+  "url": "https://imanagecom.applytojob.com/apply/FHcvLtJBGu",
   "error": "delisted or no data"
  },
  {
@@ -88,19 +108,19 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/fcd91f78-04e3-410f-b75c-63cdfafef147",
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/cohere/5cf3bd63-cf1d-441a-9db5-2032ca8449b8",
+  "url": "https://jobs.ashbyhq.com/klarity-ai/26745ae7-d66c-463d-a6a3-7ca594bbc0ae",
   "error": "delisted or no data"
  },
  {
@@ -108,19 +128,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/progress/job/oDfwAfwI",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/4bdeb311-8b82-434a-ad52-82d258c731a5",
+  "url": "https://jobs.lever.co/Flex/01c78791-f19c-49be-9aec-5726d8561f50",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/7e497660-e826-4543-9ca8-c514684120c7",
+  "url": "https://jobs.lever.co/jam-loop/9a8be825-d1d8-4df2-bae4-b7ff37e0f6bd",
   "error": "HTTP 404"
  },
  {
-  "url": "https://merative.wd12.myworkdayjobs.com/external_career_site/job/Product-Marketing-Analyst_JR01655",
+  "url": "https://jobs.lever.co/jobgether/e4bb17b1-65b5-446c-b28c-3dfc9ae84921",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2633802",
   "error": "HTTP 403"
  },
  {
@@ -132,6 +152,18 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Director_JR341883",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Integration_JR351613",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Manager--GTM-Product-Marketing_JR349494",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
@@ -140,8 +172,20 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/VestaUK/job/Product-Marketing-Manager_R52170-1",
-  "error": "HTTP 403"
+  "url": "https://talk360.recruitee.com/o/senior-product-marketing-manager",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://timedoctor.recruitee.com/o/product-marketing-consultant-part-time",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://transperfect.recruitee.com/o/product-marketing-lead-1",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://transperfect.recruitee.com/o/product-marketing-lead-self-service-saas",
+  "error": "HTTP 404"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",

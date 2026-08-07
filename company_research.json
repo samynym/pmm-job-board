@@ -3816,6 +3816,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:ramp": {
+  "company": "ramp",
+  "confidence": "high",
+  "distribution_summary": "Most Ramp employees (many) appear to be located in the United States; small groups (few) are visible in Canada, the UK, India, Singapore, and Australia; no or negligible presence was found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (e.g., Sweden via Billhop AB; Canada presence incl. Toronto). No evidence of EOR usage.",
+  "evidence": [
+   {
+    "claim": "Ramp hires remotely in the US and Canada.",
+    "quote": "Location\n\nNew York, NY (HQ); Remote (Canada); Remote (US); San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Ramp/be496b52-cfbf-494e-b862-61fb4a188b24/"
+   },
+   {
+    "claim": "Ramp hires remotely in Latin America (Argentina).",
+    "quote": "Location\n\nRemote (Buenos Aires, Argentina)",
+    "url": "https://jobs.ashbyhq.com/Ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
+   },
+   {
+    "claim": "Ramp hires remotely in Europe (Sweden) and operates via a Swedish entity (Billhop AB).",
+    "quote": "Location\n\nRemote (Sweden) \u2026 for Billhop AB, our Swedish\u2011regulated Payment Institution.",
+    "url": "https://jobs.ashbyhq.com/ramp/1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1"
+   },
+   {
+    "claim": "Ramp has a UK presence (London office).",
+    "quote": "As one of the first members of the Business Development team in our London office, you will be focused on building Ramp\u2019s presence in the European market.",
+    "url": "https://jobs.ashbyhq.com/ramp/c495a261-789f-4718-9286-3bba81052b4b/"
+   },
+   {
+    "claim": "Ramp\u2019s North America footprint includes Toronto (supports Canadian hiring).",
+    "quote": "Location\n\nRemote (US); Miami, FL; New York, NY (HQ); Remote (Canada); San Francisco, CA; Toronto, ON",
+    "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-07T04:53:25+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:realitydefender": {
   "company": "realitydefender",
   "confidence": "medium",
