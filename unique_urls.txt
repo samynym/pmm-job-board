@@ -160,6 +160,7 @@ https://ats.rippling.com/anaconda/jobs/92a3897d-92ec-4acd-868f-4a293926369e
 https://ats.rippling.com/apptega/jobs/1e5356c7-7553-4f5f-87c3-eb89825cf5b1
 https://ats.rippling.com/athennian/jobs/6e4fe965-28a5-4d96-bcc9-3eabdb4f1b7a
 https://ats.rippling.com/blitzy-jobs/jobs/3e8d74c9-286b-4222-9ad2-d78caada41ec
+https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b
 https://ats.rippling.com/briowt/jobs/352cde27-c782-4927-ac53-3d0e4c5d7e2c
 https://ats.rippling.com/button/jobs/859e0a82-217a-41b4-b9a6-d834b9d72521
 https://ats.rippling.com/caqh/jobs/8b08f885-fa56-43ba-9b70-57439b59d52d

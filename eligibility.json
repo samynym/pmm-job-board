@@ -1439,6 +1439,16 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-08T04:10:23+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/community-phone-careers/jobs/b0b1ec9b-6161-483b-99ac-c4c7bc1bd248": {
 "countries": [],
 "eligibility_stated": false,
@@ -1968,6 +1978,17 @@
 "timezone": "within 3h of EST",
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/gamechanger/376f4036-4104-45c2-b9f7-9bd90804108f": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Work remotely throughout the US* or from our well-furnished, modern office in Manhattan, NY.",
+"extracted_at": "2026-08-08T04:10:23+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/gc-ai/66c360bf-de4d-49be-9009-37fc41c71a8d": {
 "countries": [],
 "eligibility_stated": false,
@@ -2294,6 +2315,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/openai/f8f026e4-043d-40d1-ae45-d97b0a460ee7": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.",
+"extracted_at": "2026-08-08T04:10:23+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -2926,6 +2960,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/colibrigroup/dba987a5-27e6-4ccd-a1f4-4c4575b7bff6": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-08T04:10:23+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null

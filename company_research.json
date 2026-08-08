@@ -1745,6 +1745,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "timezone-preference"
  },
+ "ashby:gamechanger": {
+  "company": "gamechanger",
+  "confidence": "high",
+  "distribution_summary": "Searches for public LinkedIn profiles using X\u2011ray queries failed/returned ambiguous results, so I cannot reliably estimate where Gamechanger\u2019s employees live. I can retry with clarifying details (exact company domain, full company name, or product name) if you want.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first but only within the United States.",
+    "quote": "Work From Anywhere in the United States",
+    "url": "https://gc.com/careers"
+   },
+   {
+    "claim": "They explicitly say they hire across the U.S. and note state-by-state requirements.",
+    "quote": "Is GameChanger fully remote? Yes... we hire across the United States. You can work from anywhere in the U.S., though some roles may have specific state-based hiring requirements.",
+    "url": "https://gc.com/careers"
+   },
+   {
+    "claim": "Job postings list location as Remote - US and exclude specific U.S. states, reinforcing U.S.-only hiring and legal/payroll limits.",
+    "quote": "DICK\u2019S Sporting Goods has company-wide practices\u2026 we are unable to hire in AK, DE, HI, IA, LA, MS, MT, OK, and SC.",
+    "url": "https://jobs.ashbyhq.com/gamechanger/8d8b547e-e88f-4838-9364-849b38de799f"
+   },
+   {
+    "claim": "Recent postings show \u2018GameChanger Remote - US\u2019.",
+    "quote": "Engineering Manager, Revenue Growth - gamechanger - GameChanger Remote - US / New York, New York, United States",
+    "url": "https://www.reddit.com/r/RemoteJobs/comments/1u0fytg/remote_jobs_with_listed_salary_08062026_usa/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-08T04:10:28+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:gc-ai": {
   "company": "gc-ai",
   "confidence": "high",
@@ -2515,6 +2578,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
+ },
+ "ashby:lawhive": {
+  "company": "lawhive",
+  "confidence": "medium",
+  "distribution_summary": "Most Lawhive employees found on LinkedIn are in the UK (many); a small presence appears in the US (few); other listed countries showed no current-employee profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "few",
+   "za": "none"
+  },
+  "employs_via": "own entities (Lawhive U.S. Inc.; Lawhive Legal US, LLC; Lawhive Ltd; Lawhive Legal Ltd)",
+  "evidence": [
+   {
+    "claim": "Lawhive operates across the US and UK (primary markets).",
+    "quote": "Founded in the UK and now operating across the US and UK, Lawhive supports tens of thousands of clients each year...",
+    "url": "https://www.linkedin.com/company/joinlawhive"
+   },
+   {
+    "claim": "US legal/employment presence via US entities.",
+    "quote": "Our site is operated by Lawhive U.S. Inc. We are registered in Delaware and have our principal office at 600 Congress St\u2026 Austin TX 78717\u2026 Lawhive Legal US, LLC is authorized and licensed by the Arizona Supreme Court, license number 70122.",
+    "url": "https://lawhive.com/legal/terms-of-use"
+   },
+   {
+    "claim": "Remote hiring in the United States is explicitly supported in job posts.",
+    "quote": "Location Type: Remote\u2026 Salary: $75,000\u2013$150,000\u2026 Location: Remote in the US.",
+    "url": "https://jobs.ashbyhq.com/lawhive/9ca35ffd-7113-4f6f-b65d-438572db0bb9"
+   },
+   {
+    "claim": "Remote hiring in the United Kingdom is explicitly supported in job posts (timezone noted as US hours on one role).",
+    "quote": "Sales Development Representative (US Hours)\u2026 Location: Remote - UK.",
+    "url": "https://jobs.ashbyhq.com/lawhive/7457a297-a1a6-4091-a98e-80085ac996c8"
+   },
+   {
+    "claim": "Some roles are on-site at hubs (NYC), indicating a mixed remote/on-site model.",
+    "quote": "Head of Demand Generation\u2026 Location: New York City\u2026 Location Type: On-site\u2026 Location: New York City - On-site 5 days per week.",
+    "url": "https://jobs.ashbyhq.com/lawhive/7229859d-6abb-4667-b775-7bb79135c9d3/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-08T04:10:28+00:00",
+  "scope_basis": "mixed"
  },
  "ashby:liquid-ai": {
   "company": "liquid-ai",
@@ -12261,6 +12392,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "lever:colibrigroup": {
+  "company": "Colibri Group",
+  "confidence": "medium",
+  "distribution_summary": "Most Colibri Group employees appear to be based in the United States (many), with smaller groups in India (many) and a handful in Canada, the U.K., and Australia (few); few or no LinkedIn current-employee profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Several current openings are listed as Remote roles, indicating a remote-friendly posture.",
+    "quote": "Senior Specialist, Tax Curriculum Remote \u2014 Full Time 1 Remote",
+    "url": "https://jobs.lever.co/colibrigroup?location=1+Remote"
+   },
+   {
+    "claim": "At least one leadership role explicitly restricts remote location to the United States.",
+    "quote": "VP, Business Transformation Remote \u2014 United States",
+    "url": "https://jobs.lever.co/colibrigroup"
+   },
+   {
+    "claim": "The detailed posting for that role shows the location as United States and marked Remote.",
+    "quote": "United States ... Remote",
+    "url": "https://jobs.lever.co/colibrigroup/150c5323-cb10-4f33-8ba2-302456943cf6"
+   },
+   {
+    "claim": "A third\u2011party listing on Remote.com shows the company configured as hiring remote in the United States only.",
+    "quote": "remote - United States only",
+    "url": "https://remote.com/jobs/colibri-group-c1xdam94"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-08T04:10:28+00:00",
+  "scope_basis": "legal-entity"
+ },
  "lever:employ": {
   "company": "Employ",
   "confidence": "medium",
@@ -13938,6 +14132,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "rippling:bonusly": {
+  "company": "Bonusly",
+  "confidence": "high",
+  "distribution_summary": "Most Bonusly employees appear to be located in the United States (headquartered in Boulder, CO) with smaller presences in Canada, the UK, Australia and India; little or no detectable presence in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "All current openings list Remote (United States).",
+    "quote": "Bonusly Open Positions \u2026 Remote (United States)",
+    "url": "https://ats.rippling.com/bonusly/jobs"
+   },
+   {
+    "claim": "At least one posting explicitly states Fully remote (US-based).",
+    "quote": "Fully remote (US-based)",
+    "url": "https://ats.rippling.com/bonusly/jobs/ebbe65a3-9080-4458-8646-ef8e0ef40ef6"
+   },
+   {
+    "claim": "Role descriptions reinforce remote-first culture, while location remains US-only.",
+    "quote": "Is this role fully remote? Yes. We operate as a remote-first, highly collaborative team.",
+    "url": "https://ats.rippling.com/bonusly/jobs/c2131232-d71c-46b8-a8a9-3d8a3f713f75"
+   },
+   {
+    "claim": "Company careers page indicates remote employees across the country (US).",
+    "quote": "Bonusly is headquartered in Boulder, CO, and we have remote employees across the country.",
+    "url": "https://bonusly.com/company/working-at-bonusly"
+   },
+   {
+    "claim": "Sample role shows pay and location tied to Remote (United States).",
+    "quote": "117,000 - 170,000 USD per year (Remote (United States))",
+    "url": "https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-08T04:10:28+00:00",
+  "scope_basis": "legal-entity"
  },
  "rippling:community-phone-careers": {
   "company": "Community Phone",
