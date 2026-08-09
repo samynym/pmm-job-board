@@ -12523,6 +12523,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "lever:gauntlet": {
+  "company": "Gauntlet",
+  "confidence": "high",
+  "distribution_summary": "Employees are concentrated in the United States (Gauntlet is headquartered in New York and several current employees list US locations on LinkedIn).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first but only within the United States and Canada.",
+    "quote": "Remote first \u2014 work from anywhere in the US & CAN!",
+    "url": "https://jobs.lever.co/gauntlet/e277e612-2b24-42bb-bd39-9b45cb21413b"
+   },
+   {
+    "claim": "Hiring eligibility is restricted to the contiguous United States and Canada.",
+    "quote": "Please note at this time our hiring is reserved for potential employees who are able to work within the contiguous United States and Canada.",
+    "url": "https://jobs.lever.co/gauntlet/4fa821d9-324f-465e-bf6a-b6f5eb9fa1f3"
+   },
+   {
+    "claim": "The application form explicitly limits supported remote locations to the U.S. or Canada.",
+    "quote": "We currently support remote work from the United States & Canada. Which of these two locations will you be working from?",
+    "url": "https://jobs.lever.co/gauntlet/96a7d351-c57e-4c46-b1ef-0e5645a4545d/apply?lever-origin=applied&lever-source%5B%5D=BuiltInNationwide"
+   },
+   {
+    "claim": "Another current posting repeats the U.S. & Canada-only remote policy.",
+    "quote": "Remote first - work from anywhere in the US & CAN! ... hiring is reserved for potential employees who are able to work within the contiguous United States and Canada.",
+    "url": "https://jobs.lever.co/gauntlet/5df7d87c-08df-475b-8328-bf2b8169030e"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "yes",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-09T04:16:09+00:00",
+  "scope_basis": "legal-entity"
+ },
  "lever:goodleap": {
   "company": "GoodLeap",
   "confidence": "high",

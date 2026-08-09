@@ -48,23 +48,7 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/mydbsync/j/86A8A9BD53",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/mydbsync/j/F86B18F41B",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Product-Marketing-Engineer_11673",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/datadog/jobs/8002922",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/iconcareers/jobs/5977202004",
+  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7656911",
   "error": "HTTP 404"
  },
  {
@@ -84,6 +68,10 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
@@ -92,52 +80,12 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/75f6e845-b797-4ed3-a354-d5258a69efeb",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/dovetail/aeb6aeac-8014-411b-9900-736d3ad45932",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/hinge-health/759829ac-b2cb-41df-bcde-f6be24c826c5",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/enable/f5231c9a-3833-4007-b141-218590daba15",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/fieldnation/7c4a002f-2186-4d70-a055-dc93956e9a19",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/6f4fa790-76fb-4add-b6da-db6132e1f5a8",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/merklescience/d4dd0bcc-609a-429e-9077-ca1aba90dfc7",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/merklescience/58663666-c7b8-461b-a82f-610b6ed3a946",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://odaiaintelligenceinc.applytojob.com/apply/tKm6uiPeSi",
-  "error": "HTTP 410"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -148,20 +96,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing_R117955",
-  "error": "HTTP 403"
- },
- {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
- },
- {
-  "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Product-Marketing-Manager_R475",
-  "error": "HTTP 404"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",

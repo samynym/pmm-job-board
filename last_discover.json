@@ -1,9 +1,11 @@
 {
- "ran_at": "2026-08-08T04:07:52+00:00",
+ "ran_at": "2026-08-09T04:13:29+00:00",
  "new_boards": [
-  "rippling:bonusly"
+  "lever:deliverect",
+  "lever:gauntlet",
+  "smartrecruiters:thenielsencompany"
  ],
- "new_urls": 1,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 2
+ "dork_offset": 8
 }

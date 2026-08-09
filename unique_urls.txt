@@ -846,6 +846,7 @@ https://jobs.lever.co/caseware/bfb19cce-245d-4971-9c07-d5d1b76f0165
 https://jobs.lever.co/cloudwalk/eccf79ed-c4f9-46c7-b36c-0ea067bba54a
 https://jobs.lever.co/colibrigroup/72f937d2-d7b6-499f-8e14-e48019e6b4c0
 https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a
+https://jobs.lever.co/deliverect/5c98550e-42e8-4154-9756-aa94601a55b8
 https://jobs.lever.co/disqo/7652e8cc-35cb-4d20-8372-d1063ddf8d6a
 https://jobs.lever.co/dnb/96b473af-c547-4003-9e1f-4b3b57e3d6e3
 https://jobs.lever.co/drivetrain/e1d2e2b2-d9a5-40f6-b3c7-fbc75a715608
@@ -857,6 +858,7 @@ https://jobs.lever.co/fieldnation/7c4a002f-2186-4d70-a055-dc93956e9a19
 https://jobs.lever.co/finch/5085ce27-f2e7-4863-b16c-e3b36ae8ae35
 https://jobs.lever.co/foxitsoftware/79151dbd-0f87-471d-ba3a-270ef7d667b9
 https://jobs.lever.co/fulcrumpro/6513058d-7137-42f1-a112-2bc3f0a41e04
+https://jobs.lever.co/gauntlet/e277e612-2b24-42bb-bd39-9b45cb21413b
 https://jobs.lever.co/getcircuit/a6f79a84-d65f-4521-8019-07164a8dcf61
 https://jobs.lever.co/goodleap/1aecf524-4ba8-4145-a48d-e3cce42aecdd
 https://jobs.lever.co/h1/45bdc0dc-ac3f-4749-bc1a-8e7a4d9d5a50
@@ -993,6 +995,7 @@ https://jobs.smartrecruiters.com/Wise/744000129172790-product-marketing-lead-glo
 https://jobs.smartrecruiters.com/Wix2/744000128032309-ai-product-marketer
 https://jobs.smartrecruiters.com/mirantis/744000117712267-technical-product-marketer-k0rdent-ai
 https://jobs.smartrecruiters.com/oneclick-ui/company
+https://jobs.smartrecruiters.com/thenielsencompany/3743990014431847-product-marketing-manager
 https://jobs.smartrecruiters.com/wirelessxfactor/743999729257922-director-of-product-marketing-santa-clara-networking-and-security
 https://jobs.smartrecruiters.com/wirelessxfactor/743999729260333-product-marketing-manager-cloud-native-usa-remote
 https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager--PMM-_2636545

@@ -3008,6 +3008,21 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/gauntlet/e277e612-2b24-42bb-bd39-9b45cb21413b": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Remote first \u2014 work from anywhere in the US & CAN!",
+"extracted_at": "2026-08-09T04:16:05+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/goodleap/1aecf524-4ba8-4145-a48d-e3cce42aecdd": {
 "countries": [],
 "eligibility_stated": true,
