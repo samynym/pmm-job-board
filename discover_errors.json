@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "jobs.smartrecruiters.com|product marketer",
+  "query": "job-boards.greenhouse.io|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "jobs.jobvite.com|product marketing",
+  "query": "job-boards.greenhouse.io|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {

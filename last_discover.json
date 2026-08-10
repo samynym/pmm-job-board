@@ -1,11 +1,14 @@
 {
- "ran_at": "2026-08-09T04:13:29+00:00",
+ "ran_at": "2026-08-10T04:24:58+00:00",
  "new_boards": [
-  "lever:deliverect",
-  "lever:gauntlet",
-  "smartrecruiters:thenielsencompany"
+  "greenhouse:alma",
+  "greenhouse:bottomlinetechnologies",
+  "greenhouse:jobber",
+  "greenhouse:practicebetter",
+  "greenhouse:recordedfuture",
+  "greenhouse:urbanfootprint"
  ],
- "new_urls": 3,
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 8
+ "dork_offset": 14
 }

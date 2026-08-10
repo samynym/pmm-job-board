@@ -24,7 +24,15 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:alma",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:canonicaljobs",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:jobber",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -33,6 +41,10 @@
  },
  {
   "board": "greenhouse:tekion",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:urbanfootprint",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -48,15 +60,15 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7656911",
-  "error": "HTTP 404"
+  "url": "https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Home-Internet---Converged--_R-115369",
+  "error": "HTTP 403"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -64,20 +76,24 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
@@ -88,12 +104,20 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.lever.co/kraken123/020b320e-30e4-41c6-95d3-e0ee7bfba2bf",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Data-Governance_JR351624-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
