@@ -1,14 +1,11 @@
 {
- "ran_at": "2026-08-10T04:24:58+00:00",
+ "ran_at": "2026-08-11T04:15:03+00:00",
  "new_boards": [
-  "greenhouse:alma",
-  "greenhouse:bottomlinetechnologies",
-  "greenhouse:jobber",
-  "greenhouse:practicebetter",
-  "greenhouse:recordedfuture",
-  "greenhouse:urbanfootprint"
+  "workable:1kosmos",
+  "workable:schoolinks",
+  "workable:valsoft-corp"
  ],
- "new_urls": 6,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 14
+ "dork_offset": 20
 }

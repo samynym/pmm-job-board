@@ -19405,6 +19405,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workable:valsoft-corp": {
+  "company": "valsoft-corp",
+  "confidence": "medium",
+  "distribution_summary": "Valsoft Corporation\u2019s current employee LinkedIn profiles are concentrated in Canada and the United States (many), with a small presence in the UK, India, Philippines and Australia (few), and none found in the other listed countries based on X\u2011ray searches.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "many",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own and portfolio-company legal entities; no EOR mentioned in postings",
+  "evidence": [
+   {
+    "claim": "United States \u2014 multiple roles are explicitly remote and based in the U.S.",
+    "quote": "Remote Viova, Sales Full time \u2014 United States",
+    "url": "https://apply.workable.com/valsoft-corp/j/E7DB2B2BA6/"
+   },
+   {
+    "claim": "Canada \u2014 postings list remote roles based in Canada.",
+    "quote": "Account Manager, Chamber Management SaaS \u2014 Remote \u2014 Canada",
+    "url": "https://apply.workable.com/valsoft-corp/j/91A4931C31/"
+   },
+   {
+    "claim": "Europe (non\u2011UK) \u2014 roles based in EU countries are explicitly remote.",
+    "quote": "Location: Germany (Remote) | Employment Type: Full-time",
+    "url": "https://apply.workable.com/valsoft-corp/j/547C01625F/"
+   },
+   {
+    "claim": "United Kingdom \u2014 roles require UK work authorization, indicating country\u2011specific hiring and legal basis.",
+    "quote": "Are you authorised to work in the UK, without sponsorship?",
+    "url": "https://apply.workable.com/valsoft-corp/j/C668DAC737/apply/"
+   },
+   {
+    "claim": "Asia \u2014 India postings are remote; some also require EST hours, showing time\u2011zone constraints on top of location eligibility.",
+    "quote": "Remote Aspire Software India\u2026 Bengaluru, Karnataka, India\u2026 Chennai, Tamil Nadu, India \u2026 Are you willing to work in EST timezone?",
+    "url": "https://apply.workable.com/valsoft-corp/j/9B9D7ED0BF/apply/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-11T04:18:05+00:00",
+  "scope_basis": "mixed"
+ },
  "workable:vasion": {
   "company": "vasion",
   "confidence": "medium",

@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "job-boards.greenhouse.io|product marketing",
+  "query": "recruitee.com|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "job-boards.greenhouse.io|product marketer",
+  "query": "teamtailor.com|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {

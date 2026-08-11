@@ -319,6 +319,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:backblaze:5373599008": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - US",
+"extracted_at": "2026-08-11T04:17:57+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:boulevard:4678942006": {
 "countries": [],
 "eligibility_stated": true,
@@ -1355,6 +1366,32 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/valsoft-corp/j/435713e085": {
+"countries": [
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Work fully remotely within the UK with a supportive international team.",
+"extracted_at": "2026-08-11T04:17:57+00:00",
+"regions": [
+"UK"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/valsoft-corp/j/dc82effcd6": {
+"countries": [
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Canada",
+"extracted_at": "2026-08-11T04:17:57+00:00",
+"regions": [
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/vasion/j/b742e0151e": {
 "countries": [],
 "eligibility_stated": false,
@@ -2288,6 +2325,32 @@
 "evidence": null,
 "extracted_at": "2026-07-24T05:47:14+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/openai/38388825-65f9-46c5-b5f4-c783d1fb17d4": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week",
+"extracted_at": "2026-08-11T04:17:57+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/openai/8960d7b6-b345-478f-a5ad-67beaa32f425": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.",
+"extracted_at": "2026-08-11T04:17:57+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3473,6 +3536,19 @@
 "eligibility_stated": true,
 "evidence": "Santa Clara, CALIFORNIA, United States",
 "extracted_at": "2026-08-04T05:46:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:servicenow:744000141346719": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: New York, New York, United States",
+"extracted_at": "2026-08-11T04:17:57+00:00",
 "regions": [
 "US"
 ],
