@@ -3879,6 +3879,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "ashby:plain": {
+  "company": "plain",
+  "confidence": "high",
+  "distribution_summary": "I need clarification \u2014 \u201cplain\u201d is a very common word; please confirm which company you mean (e.g., Plain the fintech startup, Plain the design agency, provide a website or product name). Once you confirm I will run the LinkedIn X\u2011ray searches and return the country distribution.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote hiring is offered within Europe (explicit job location).",
+    "quote": "Senior Product Designer \u2014 Remote, Europe",
+    "url": "https://www.plain.com/careers/senior-product-designer"
+   },
+   {
+    "claim": "US roles are hybrid/in-office in San Francisco; team also has teammates across Europe.",
+    "quote": "We\u2019re a small, tight-knit team with offices in San Francisco and London, and teammates across Europe. This role is hybrid (3 days in-office) from our San Francisco office.",
+    "url": "https://www.plain.com/careers/supportengineer-sf"
+   },
+   {
+    "claim": "Another SF role confirms hybrid requirement and offices in SF and London.",
+    "quote": "This role is hybrid \u2013 3 days a week in our SF office. We\u2019re a small, tight-knit crew with offices in SF and London.",
+    "url": "https://www.plain.com/careers/solutions-engineer-sf"
+   },
+   {
+    "claim": "London engineering roles require hybrid presence in the London office.",
+    "quote": "This role is hybrid with 3 days a week in our London office.",
+    "url": "https://www.plain.com/careers/senior-product-engineer"
+   },
+   {
+    "claim": "Benefits indicate payroll arrangements in UK/Ireland and the USA (suggesting entities/payroll there, not worldwide).",
+    "quote": "UK and Ireland: Employer matching up to 5%. USA: Contribute to your 401k pre-tax, with no employer match.",
+    "url": "https://www.plain.com/careers/solutions-engineer-sf"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "unlikely"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-12T04:45:54+00:00",
+  "scope_basis": "unclear"
+ },
  "ashby:planera": {
   "company": "planera",
   "confidence": "medium",
@@ -19813,6 +19881,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workday:('arcticwolf.wd1.myworkdayjobs.com', 'External')": {
+  "company": "Arctic Wolf Networks, Inc.\u00a0",
+  "confidence": "medium",
+  "distribution_summary": "Based on LinkedIn X\u2011ray checks I found many current Arctic Wolf employees in the United States and Canada; a small presence in the UK and Germany; searches for other country subdomains were inconclusive or returned no clear current-employee profiles (marked unknown).",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "many",
+   "co": "unknown",
+   "de": "few",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": "own entities (e.g., UK LTD, Germany GmbH, Canada Inc.)",
+  "evidence": [
+   {
+    "claim": "US and Canada have fully remote roles open.",
+    "quote": "locations    Remote, United States    Remote, Canada",
+    "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote-United-States/Senior-Workday-Analyst_R26_825-1"
+   },
+   {
+    "claim": "United Kingdom has fully remote roles open.",
+    "quote": "Remote, United Kingdom",
+    "url": "https://arcticwolf.wd1.myworkdayjobs.com/external/job/remote-united-kingdom/account-executive-south-west_r26_789"
+   },
+   {
+    "claim": "Continental Europe (e.g., Germany) has fully remote roles open.",
+    "quote": "Cyber Security Consultant (m/w/d) \u2013 Security Advisor | 100% Remote in Deutschland",
+    "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-Germany/Cyber-Security-Consultant--m-w-d----Security-Advisor---100--Remote-in-Deutschland_R26_778"
+   },
+   {
+    "claim": "Asia (India) has fully remote roles open.",
+    "quote": "locations    Remote - IND - Karnataka",
+    "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote---IND---Karnataka/Manager--Governance--Risk----Compliance_R26_588"
+   },
+   {
+    "claim": "They operate via owned legal entities in multiple countries (supports legal-entity hiring scope).",
+    "quote": "Pursuant to Article 27 of the UK GDPR, Arctic Wolf Networks, Inc., Arctic Wolf Networks Germany GmbH, and Arctic Wolf Networks Canada, Inc. have appointed EDPO UK Ltd\u2026 Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Arctic Wolf Networks UK LTD has appointed [EDPO] as its GDPR Representative in the EU.",
+    "url": "https://arcticwolf.com/wp-content/uploads/2025/12/Candidate_Privacy-Notice_2025.12-FINAL.pdf"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-12T04:45:54+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workday:('athenahealth.wd1.myworkdayjobs.com', 'External')": {
   "company": "athenahealth, Inc.",
   "confidence": "medium",
@@ -20763,6 +20899,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-22T05:45:42+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('strideinc.wd1.myworkdayjobs.com', 'SK')": {
+  "company": "003 K12 Management Inc.",
+  "confidence": "high",
+  "distribution_summary": "I found no current-employee LinkedIn profiles for \u201c003 K12 Management Inc.\u201d on the country-specific LinkedIn subdomains; public job listings indicate the organization is active in the U.S., but LinkedIn X\u2011ray searches returned zero matching current-employee profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Stride/003 K12 Management operates as a remote\u2011first company with staff across the U.S.",
+    "quote": "Built on a remote-first culture with employees across the country, we embrace the same flexibility we champion for our learners.",
+    "url": "https://www.linkedin.com/company/stride-learning"
+   },
+   {
+    "claim": "Most roles are remote-first; company states ~90% of employees are remote.",
+    "quote": "Remote-first work environment (90% of Stride is remote) so you can handle school business from where you work best.",
+    "url": "https://www.stridelearning.com/careers/"
+   },
+   {
+    "claim": "Corporate roles are U.S.-only remote; employment governed by U.S. state law.",
+    "quote": "US Nationwide - Remote... This is a remote (i.e. at home) position\u2026 All employment is \u201cat-will\u201d as governed by the law of the state where the employee works.",
+    "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/Product-Marketing-Specialist_JR114266"
+   },
+   {
+    "claim": "Some postings explicitly restrict eligibility to residents of the 50 U.S. states and D.C.",
+    "quote": "Residency Requirements: This position is virtual and open to residents of the 50 states, D.C.",
+    "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/Portfolio-Academic-Administrator_JR112485"
+   },
+   {
+    "claim": "School-based roles often require residence in a specific U.S. state.",
+    "quote": "Residency Requirement: Must reside in Virginia\u2026 This is primarily a REMOTE position.",
+    "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/English-Language-Learner-Teacher_JR114091"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-12T04:45:54+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('talentmanagementsolution.wd3.myworkdayjobs.com', 'VestaUK')": {

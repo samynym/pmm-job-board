@@ -1,11 +1,13 @@
 {
- "ran_at": "2026-08-11T04:15:03+00:00",
+ "ran_at": "2026-08-12T04:43:00+00:00",
  "new_boards": [
-  "workable:1kosmos",
-  "workable:schoolinks",
-  "workable:valsoft-corp"
+  "workday:('alteryx.wd108.myworkdayjobs.com', 'AlteryxCareers')",
+  "workday:('arcticwolf.wd1.myworkdayjobs.com', 'External')",
+  "workday:('edwards.wd5.myworkdayjobs.com', 'EdwardsCareers')",
+  "workday:('hpe.wd5.myworkdayjobs.com', 'acjobsite')",
+  "workday:('strideinc.wd1.myworkdayjobs.com', 'SK')"
  ],
- "new_urls": 3,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 20
+ "dork_offset": 26
 }

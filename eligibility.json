@@ -2452,6 +2452,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064": {
 "countries": [],
 "eligibility_stated": false,
@@ -2467,6 +2476,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/plain/865d8882-8c80-4145-b139-a644b40ff1e7": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "\"this role is based in SF, and we work together in the office at least 3 days a week.\"",
+"extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -2832,6 +2854,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/egnyte/job/oykbafwd": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "PRODUCT MARKETING MANAGER \u2013 FINANCIAL SERVICES REMOTE, US; RALEIGH, NC; DRAPER, UT; MOUNTAIN VIEW, CA",
+"extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3588,6 +3623,19 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:thenielsencompany:3743990014431956": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote, Remote, United States",
+"extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:wirelessxfactor:743999729260333": {
 "countries": [],
 "eligibility_stated": true,
@@ -3788,6 +3836,19 @@
 ],
 "timezone": null,
 "work_auth": "US export control compliance required for technology access"
+},
+"workday:arcticwolf.wd1.myworkdayjobs.com:870": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote, United States",
+"extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
 },
 "workday:athenahealth.wd1.myworkdayjobs.com:R15288": {
 "countries": [],
@@ -4084,6 +4145,17 @@
 "eligibility_stated": true,
 "evidence": "California - Remote",
 "extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:strideinc.wd1.myworkdayjobs.com:JR115857": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "US Nationwide - Remote",
+"extracted_at": "2026-08-12T04:45:45+00:00",
 "regions": [
 "US"
 ],
