@@ -1199,6 +1199,19 @@
 "timezone": "4h overlap with US business hours",
 "work_auth": null
 },
+"https://apply.workable.com/pavago/j/6aed343853": {
+"countries": [
+"Colombia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Colombia; Full-Time | Remote | Flexible U.S. Business Hours",
+"extracted_at": "2026-08-13T04:49:26+00:00",
+"regions": [
+"Latin America"
+],
+"timezone": "Flexible U.S. Business Hours",
+"work_auth": null
+},
 "https://apply.workable.com/pavago/j/9f377cb514": {
 "countries": [],
 "eligibility_stated": true,
@@ -1606,6 +1619,16 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/rhythm-energy/jobs/c5ecb38b-231b-43fa-8f56-5ff884d1003c": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-13T04:49:26+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/shippo/jobs/398ecce1-5798-4e6e-a9fa-2938c407d283": {
 "countries": [],
 "eligibility_stated": false,
@@ -1969,6 +1992,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e": {
+"countries": [
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United Kingdom",
+"extracted_at": "2026-08-13T04:49:26+00:00",
+"regions": [
+"UK"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3999,6 +4035,19 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"workday:cengage.wd5.myworkdayjobs.com:R2026-989": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Ohio, USA",
+"extracted_at": "2026-08-13T04:49:26+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },

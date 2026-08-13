@@ -3811,6 +3811,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:permitflow": {
+  "company": "permitflow",
+  "confidence": "medium",
+  "distribution_summary": "PermitFlow\u2019s employees are concentrated in the United States (many) with additional teams in India (many) and smaller presence in the Philippines and Canada (few); little-to-no presence was found on country-specific LinkedIn subdomains for the other listed countries. ([linkedin.com](https://www.linkedin.com/company/permitflow?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "Rippling (PEO) for US; outside-US approach unclear",
+  "evidence": [
+   {
+    "claim": "Canada is included for some fully-remote roles.",
+    "quote": "Location\n\nUSA; Canada\n\nLocation Type\n\nRemote",
+    "url": "([jobs.ashbyhq.com](https://jobs.ashbyhq.com/permitflow/88554acb-8afe-4804-81bb-dc981ea37819?utm_source=openai))"
+   },
+   {
+    "claim": "Engineering includes Canada in scope for senior remote hiring.",
+    "quote": "Location\n\nUSA; Canada",
+    "url": "([jobs.ashbyhq.com](https://jobs.ashbyhq.com/permitflow/596578fa-47b5-4951-99b0-388683518b31/?utm_source=openai))"
+   },
+   {
+    "claim": "Many roles are US-only remote, indicating North America\u2013focused hiring rather than worldwide.",
+    "quote": "Location\n\nUSA\n\nLocation Type\n\nRemote",
+    "url": "([jobs.ashbyhq.com](https://jobs.ashbyhq.com/permitflow/6134b96b-d60b-4927-bf94-e74ce934a7fe?utm_source=openai))"
+   },
+   {
+    "claim": "Some roles state a timezone restriction (PT/MT), showing time-overlap limits in addition to location limits.",
+    "quote": "This position would be remote from Pacific or Mountain timezones.",
+    "url": "([jobs.ashbyhq.com](https://jobs.ashbyhq.com/permitflow/51aafa09-a4fb-48d2-9690-b0dfea3ff172?utm_source=openai))"
+   },
+   {
+    "claim": "They run HR/payroll via a PEO (Rippling) and maintain a hybrid NYC hub, supporting US employment and an office cadence.",
+    "quote": "Our HQ is in New York City with a hybrid schedule (3 in-office days per week). \u2026 We use Rippling (PEO)",
+    "url": "([jobs.ashbyhq.com](https://jobs.ashbyhq.com/permitflow/4f4f0990-acb5-4d80-88b6-eb5b19a5a5d3/?utm_source=openai))"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-13T04:49:36+00:00",
+  "scope_basis": "mixed"
+ },
  "ashby:perplexity": {
   "company": "perplexity",
   "confidence": "medium",
@@ -8047,6 +8115,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-08-05T05:43:48+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "greenhouse:gofundme": {
+  "company": "gofundme",
+  "confidence": "medium",
+  "distribution_summary": "GoFundMe\u2019s employees appear concentrated in the United States, with notable teams in the UK and India and smaller groups in Canada and Australia (based on LinkedIn public profiles).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US + GoFundMe Ireland, Limited; GFM International Services UK Limited; GoFundMe Argentina S.R.L.; GoFundMe Australia Pty Limited; GoFundMe Poland sp. z.o.o.)",
+  "evidence": [
+   {
+    "claim": "They post fully remote roles with U.S. compensation, indicating U.S.-based remote hiring is supported.",
+    "quote": "Business Development Representative \u2014 Remote. The annual U.S. salary range for this full-time position is $69,500 - $104,500.",
+    "url": "https://job-boards.greenhouse.io/gofundme/jobs/8103881"
+   },
+   {
+    "claim": "GoFundMe operates through multiple legal entities (IE, UK, AR, AU, PL), indicating ability to employ in those countries.",
+    "quote": "GoFundMe Inc. together with its affiliates and subsidiaries, including GoFundMe Ireland, Limited\u2026 GFM International Services UK Limited\u2026 GoFundMe Argentina S.R.L.\u2026 GoFundMe Australia Pty Limited\u2026 GoFundMe Poland sp. z.o.o.",
+    "url": "https://www.gofundme.com/c/personnel-privacy-notice-for-gofundme"
+   },
+   {
+    "claim": "Active hiring in Argentina (LATAM) with local on-site/hybrid requirement shows employment capability there.",
+    "quote": "Senior Software Engineer (Payments) \u2014 Buenos Aires, Argentina\u2026 This is a hybrid position. Candidates considered for this role will be located in Buenos Aires, Argentina.",
+    "url": "https://job-boards.greenhouse.io/gofundme/jobs/8097624"
+   },
+   {
+    "claim": "Active hiring in Ireland (EU) with local on-site/hybrid requirement shows employment capability there.",
+    "quote": "Senior Analyst, Regulatory Reporting (English & French Fluency) \u2014 Dublin, Ireland\u2026 The salary range for this position is \u20ac65,000.00 - \u20ac97,000.00\u2026 #LI-HYBRID",
+    "url": "https://job-boards.greenhouse.io/gofundme/jobs/8096800"
+   },
+   {
+    "claim": "Evidence of GoFundMe personnel located in Canada suggests they can (or have) employed there.",
+    "quote": "Ved Khan \u2014 GoFundMe \u2014 Toronto, ON",
+    "url": "https://ca.linkedin.com/in/vedkhan"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-13T04:49:36+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:harnessinc": {
@@ -19811,6 +19947,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-19T14:18:38+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('alteryx.wd108.myworkdayjobs.com', 'AlteryxCareers')": {
+  "company": "Alteryx, Inc.",
+  "confidence": "medium",
+  "distribution_summary": "Alteryx\u2019s employees are concentrated in the United States and major markets in Europe, India and Canada (many), with smaller presences across APAC, the Middle East and Latin America (few), and little-to-no presence in the listed African markets (none).",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "many",
+   "co": "few",
+   "de": "many",
+   "fr": "many",
+   "in": "many",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "few",
+   "sa": "few",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "Remote eligibility is limited to countries where Alteryx has a business entity (policy signal).",
+    "quote": "This is a remote-friendly position, where Alteryx has a business entity.",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Software-Engineer_R11907"
+   },
+   {
+    "claim": "United States \u2014 active remote hiring.",
+    "quote": "locations\n    US - Remote",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Sr-Software-Engineer_R11906"
+   },
+   {
+    "claim": "Canada \u2014 active remote hiring (multiple provinces).",
+    "quote": "locations\n    British Columbia, Canada - Remote\n    Ontario, Canada - Remote",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Sales-Representative--Canada-_R11746"
+   },
+   {
+    "claim": "United Kingdom \u2014 active remote hiring.",
+    "quote": "locations\n    United Kingdom - Remote",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Account-Executive---UK_R11853"
+   },
+   {
+    "claim": "Europe (non\u2011UK) \u2014 active remote hiring (Germany).",
+    "quote": "locations\n    Germany - Remote",
+    "url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/VP-Sales---Continental-Europe_R11997"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-13T04:49:36+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('alteryx.wd108.myworkdayjobs.com', 'alteryxcareers')": {

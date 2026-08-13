@@ -1,13 +1,10 @@
 {
- "ran_at": "2026-08-12T04:43:00+00:00",
+ "ran_at": "2026-08-13T04:46:43+00:00",
  "new_boards": [
-  "workday:('alteryx.wd108.myworkdayjobs.com', 'AlteryxCareers')",
-  "workday:('arcticwolf.wd1.myworkdayjobs.com', 'External')",
-  "workday:('edwards.wd5.myworkdayjobs.com', 'EdwardsCareers')",
-  "workday:('hpe.wd5.myworkdayjobs.com', 'acjobsite')",
-  "workday:('strideinc.wd1.myworkdayjobs.com', 'SK')"
+  "jazzhr:activeprospect.applytojob.com",
+  "jazzhr:payreto.applytojob.com"
  ],
- "new_urls": 5,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 26
+ "dork_offset": 0
 }
