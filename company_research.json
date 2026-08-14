@@ -1,4 +1,72 @@
 {
+ "ashby:1password": {
+  "company": "1password",
+  "confidence": "high",
+  "distribution_summary": "Most 1Password employees on public LinkedIn profiles appear to be in the US, Canada, and the UK; smaller numbers show up in Germany, France, India, and Australia, and I found no public current-employee profiles for many of the other listed countries.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "few",
+   "br": "none",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "unknown",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "1Password is remote-first and its workforce is distributed across five countries (not worldwide).",
+    "quote": "We\u2019re a remote-first company that values intentional, in-person collaboration\u2026 Our workforce is distributed across 5 countries and continuing to grow.",
+    "url": "https://1password.com/careers"
+   },
+   {
+    "claim": "Current hiring footprint explicitly includes the US, Canada, UK, Netherlands, and Germany.",
+    "quote": "Design scalable org structures that support 15-20% annual growth across a global, multi-jurisdictional footprint (US, Canada, UK, Netherlands, Germany, and growing).",
+    "url": "https://jobs.ashbyhq.com/1password/ad24aedf-59d9-405a-89a8-bdc5fae79ffe"
+   },
+   {
+    "claim": "They hire fully remote in the United States and Canada.",
+    "quote": "Location: Remote (United States | Canada)\u2026 This is a remote opportunity within Canada and the US.",
+    "url": "https://jobs.ashbyhq.com/1password/7cc29a43-a6ac-46f5-8cfd-c090f23b3289"
+   },
+   {
+    "claim": "They hire fully remote in the United Kingdom.",
+    "quote": "Location: United Kingdom\u2026 This is a remote opportunity within the UK.",
+    "url": "https://jobs.ashbyhq.com/1password/10000591-7b47-4bbe-8a1d-d5c3684536f5"
+   },
+   {
+    "claim": "Remote work must be from your home country (payroll/legal scope, not \u2018work from anywhere\u2019).",
+    "quote": "Remote work is a part of our DNA\u2026 That said, remote work at 1Password does mean working from your home country.",
+    "url": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "likely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:Blee": {
   "company": "Blee",
   "confidence": "medium",
@@ -1087,6 +1155,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:bestow": {
+  "company": "bestow",
+  "confidence": "high",
+  "distribution_summary": "Bestow\u2019s LinkedIn-visible current employees are concentrated in the United States (many); a small number appear in the UK, Canada and Australia (few); I found no LinkedIn evidence of current employees in the other listed countries (none).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own US entity (E-Verify); no EOR mentioned",
+  "evidence": [
+   {
+    "claim": "Bestow describes itself as remote-first with an office option in Dallas.",
+    "quote": "Remote-first. Results-first. Employees work where they work best. And if they work best in an office, we have a pretty nice one in Dallas.",
+    "url": "https://www.bestow.com/careers"
+   },
+   {
+    "claim": "Their public company profile confirms a remote-first hybrid setup and notes some roles must be tied to an office.",
+    "quote": "Bestow is a remote-first hybrid company; however, some roles will need to be connected to an office based on the job.",
+    "url": "https://builtin.com/company/bestow"
+   },
+   {
+    "claim": "Open roles (including Director, Product Marketing) are scoped to the US only.",
+    "quote": "Director, Product Marketing \u2014 Remote or Hybrid \u2014 US",
+    "url": "https://builtin.com/company/bestow"
+   },
+   {
+    "claim": "Some postings specify remote or hybrid from the Dallas headquarters.",
+    "quote": "The role is remote or can be a hybrid role from our Dallas headquarters. #LI-Remote",
+    "url": "https://simplify.jobs/p/e477d388-563b-4339-a8fe-3a7c9ed1c189/Senior-Product-Manager"
+   },
+   {
+    "claim": "They use E-Verify for employment eligibility (indicator of US employment only).",
+    "quote": "Bestow uses E-Verify to confirm the employment eligibility of all newly hired employees.",
+    "url": "https://simplify.jobs/p/eea0a864-f3bc-4916-8187-c20926004392/Product-Designer-2"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:centivo": {
   "company": "centivo",
   "confidence": "medium",
@@ -1382,6 +1518,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "ashby:convex-dev": {
+  "company": "convex-dev",
+  "confidence": "high",
+  "distribution_summary": "Searches across country-coded LinkedIn subdomains did not surface any current-employee profiles for \"convex-dev\" (searches were ambiguous or returned no results).",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Convex requires commuting to its San Francisco office and operates a hybrid schedule (3 days in-office, up to 2 days remote).",
+    "quote": "Our hybrid approach is designed to capture the best of both worlds: three days in the office to engage and connect, with (up to two) days working remotely... Therefore, interested candidates need to be able to commute to our office in San Francisco.",
+    "url": "https://www.convex.dev/jobs"
+   },
+   {
+    "claim": "Open roles are listed for San Francisco, indicating no remote locations.",
+    "quote": "Engineering Manager, API/Product \u2014 San Francisco \u2022 Full time",
+    "url": "https://www.convex.dev/jobs"
+   },
+   {
+    "claim": "Marketing roles (e.g., Product Marketer) are also San Francisco-based, not remote.",
+    "quote": "Product Marketer\nSan Francisco \u2022 Full time",
+    "url": "https://www.convex.dev/jobs"
+   },
+   {
+    "claim": "The company\u2019s own job board currently shows the count of openings, corroborating the single-location postings.",
+    "quote": "Open Positions \u2014 13",
+    "url": "https://www.convex.dev/jobs"
+   },
+   {
+    "claim": "Multiple roles on the page consistently show the San Francisco location only.",
+    "quote": "Head of Marketing \u2014 San Francisco \u2022 Full time",
+    "url": "https://www.convex.dev/jobs"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "no"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "unclear"
+ },
  "ashby:dailypay": {
   "company": "dailypay",
   "confidence": "medium",
@@ -1448,6 +1652,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:delinea": {
+  "company": "delinea",
+  "confidence": "medium",
+  "distribution_summary": "Delinea\u2019s LinkedIn-visible employees are concentrated in the US, UK, India, Canada, Australia, Germany, France and Singapore, with smaller (1\u20133) presences across several other countries.",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "many",
+   "br": "few",
+   "ca": "many",
+   "co": "few",
+   "de": "many",
+   "fr": "many",
+   "in": "many",
+   "jp": "few",
+   "ke": "few",
+   "mx": "few",
+   "ng": "few",
+   "ph": "few",
+   "pl": "few",
+   "sa": "few",
+   "sg": "many",
+   "uk": "many",
+   "us": "many",
+   "za": "few"
+  },
+  "employs_via": "own entities + external vendors (unspecified)",
+  "evidence": [
+   {
+    "claim": "Company states flexibility to work remotely and hybrid; overall remote-friendly posture.",
+    "quote": "We offer flexibility to work where you're most productive and create connections in a hybrid world.",
+    "url": "https://delinea.com/careers"
+   },
+   {
+    "claim": "Active remote hiring in the US and UK.",
+    "quote": "Location: U.S. Remote; Home Office (United Kingdom)",
+    "url": "https://jobs.ashbyhq.com/delinea/ecb176ec-7d20-48c1-946d-519652ab7d61"
+   },
+   {
+    "claim": "Hiring remotely in continental Europe (Italy).",
+    "quote": "Location\n\nHome Office (Italy)",
+    "url": "https://jobs.ashbyhq.com/delinea/ce0a7a67-91c3-4692-9220-a114c915ae54"
+   },
+   {
+    "claim": "Hiring remotely in Asia (Singapore).",
+    "quote": "Location\n\nHome Office (Singapore)",
+    "url": "https://jobs.ashbyhq.com/delinea/e3d34e47-384d-4eef-89a4-b195c28f82cc/?source=GoInhouse.com"
+   },
+   {
+    "claim": "People Ops role confirms employees in Mexico and other global locations incl. US, Canada, UAE, Philippines, Australia, Singapore.",
+    "quote": "supporting employees and leaders across Mexico and other global locations including the United States, Canada, UAE, Philippines, Australia, and Singapore.",
+    "url": "https://jobs.ashbyhq.com/delinea/7a29d13c-667f-443b-add0-246ed7a094ef"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "likely",
+   "Middle East": "likely",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-14T04:47:16+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:dovetail": {
@@ -2148,6 +2420,74 @@
   "researched_at": "2026-07-28T05:43:49+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:hilberts": {
+  "company": "hilberts",
+  "confidence": "high",
+  "distribution_summary": "Company name \"hilberts\" is ambiguous or returned no clear LinkedIn X\u2011ray profile hits across country subdomains; employee-location distribution cannot be determined without disambiguation (unknown).",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": "EOR/PEO relationships (provider not specified)",
+  "evidence": [
+   {
+    "claim": "US hiring includes remote eligibility for at least some roles.",
+    "quote": "Location: San Francisco; Remote (US)",
+    "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945"
+   },
+   {
+    "claim": "They hire remotely in T\u00fcrkiye and across the EU (Europe).",
+    "quote": "Location: T\u00fcrkiye; EU \u2014 Location Type: Remote",
+    "url": "https://jobs.ashbyhq.com/hilberts/d6c4e0fd-9fa9-4d1e-a872-5935310a6db1"
+   },
+   {
+    "claim": "They are actively hiring in the UK (London, UK&I market).",
+    "quote": "Location UK \u2014 London preferred",
+    "url": "https://jobs.ashbyhq.com/hilberts/03b4b6af-edb6-411f-b2a9-3f8b8958c1e4"
+   },
+   {
+    "claim": "Timezone overlap is part of their remote expectations (supports non-global, region/timezone-scoped hiring).",
+    "quote": "San Francisco, or Istanbul \u2026 At least 5 hours overlap with PST timezone (7am\u20135pm)",
+    "url": "https://jobs.ashbyhq.com/hilberts/989d547f-1f23-43b9-b8e8-c8771d7d4286"
+   },
+   {
+    "claim": "They use or plan to use EOR/PEO arrangements to employ in new countries.",
+    "quote": "Own global employment logistics: contractor-to-employee conversions, EOR/PEO relationships, local labor law compliance, and entity setup support as Hilbert enters new markets.",
+    "url": "https://jobs.ashbyhq.com/hilberts/a7938870-a415-40a5-961c-8a81b8b2c0aa"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "mixed"
+ },
  "ashby:hinge-health": {
   "company": "hinge-health",
   "confidence": "high",
@@ -2511,6 +2851,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "timezone-preference"
  },
+ "ashby:langchain": {
+  "company": "langchain",
+  "confidence": "medium",
+  "distribution_summary": "Most LangChain employees appear to be in the United States (many); a handful are visible in the UK, Germany, Canada and Brazil (few) \u2014 based on public LinkedIn profiles and the company\u2019s LinkedIn page. ([linkedin.com](https://www.linkedin.com/company/langchain?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Europe hiring is remote across the region with a country carve\u2011out.",
+    "quote": "Location: This role is fully remote within Europe, excluding France.",
+    "url": "https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d?departmentId=e0c46dbe-77f6-4ff2-8549-4f74a8dbede3"
+   },
+   {
+    "claim": "They hire remote in the United States.",
+    "quote": "Remote - US",
+    "url": "https://jobs.ashbyhq.com/langchain/7441ccb7-bc77-4966-8d2f-e9ff487bc651"
+   },
+   {
+    "claim": "They have UK hiring/presence (London).",
+    "quote": "Customer Engineer (London)",
+    "url": "https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a/"
+   },
+   {
+    "claim": "They have team members and provide localized benefits in APAC (supports Asia, suggests broader APAC footprint).",
+    "quote": "Team members in the EU, UK, and APAC receive locally competitive benefits aligned with regional norms and regulations.",
+    "url": "https://jobs.ashbyhq.com/langchain/e82ce858-bbaf-4444-885f-cfe357ed4292"
+   },
+   {
+    "claim": "They employ in Canada (dedicated sales hire announced).",
+    "quote": "I\u2019ve started a new role at LangChain, opening up Canada as the first sales executive in the region \ud83c\udde8\ud83c\udde6",
+    "url": "https://ca.linkedin.com/in/hayknar"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:latent": {
   "company": "latent",
   "confidence": "medium",
@@ -2714,6 +3122,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
+ },
+ "ashby:livekit": {
+  "company": "livekit",
+  "confidence": "high",
+  "distribution_summary": "Most LiveKit employees (per public LinkedIn profiles) appear to be located in the United States.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "LiveKit hires fully remote in the United States.",
+    "quote": "Senior Product Engineer \u2014 Location: Remote, U.S",
+    "url": "https://jobs.ashbyhq.com/livekit/463e2769-bb85-4429-96a3-3a175eb228cd"
+   },
+   {
+    "claim": "LiveKit can hire in Canada (alongside the U.S.) for some roles.",
+    "quote": "Data Engineer \u2014 Location: Remote, U.S; Remote, Canada",
+    "url": "https://jobs.ashbyhq.com/livekit/10c672df-37aa-412e-8011-3408f517f672?workplaceType=Remote"
+   },
+   {
+    "claim": "LiveKit hires in the United Kingdom.",
+    "quote": "Technical Account Manager \u2014 Location: United Kingdom; Remote, England; Remote, London; Remote, Scotland; Remote, Wales",
+    "url": "https://jobs.ashbyhq.com/livekit/d806a913-1f7a-4425-904d-d7c0bc4b0105"
+   },
+   {
+    "claim": "LiveKit hires in Ireland (EU/Europe).",
+    "quote": "Technical Account Manager \u2014 Location: Remote, Ireland",
+    "url": "https://jobs.ashbyhq.com/livekit/54698407-c1db-4a44-a409-3207b2d4c921"
+   },
+   {
+    "claim": "LiveKit hires in India (Asia).",
+    "quote": "Developer Success Engineer \u2014 Location: Remote, India",
+    "url": "https://jobs.ashbyhq.com/livekit/e1b8bdab-8713-456d-9445-0e0f8aa2332e"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:lucidlink": {
   "company": "lucidlink",
@@ -4081,6 +4557,69 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:posh-ai": {
+  "company": "posh-ai",
+  "confidence": "medium",
+  "distribution_summary": "Public LinkedIn profiles for 'Posh AI' employees are concentrated in the United States (many); I found no indexed current-employee profiles on the other country subdomains searched. ([linkedin.com](https://www.linkedin.com/in/nadiayoussef?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Company is remote-first with a Boston office (flexible where you work).",
+    "quote": "Remote-first with an open policy \u2026 Office located in Boston \u2026 Posh is a remote-first company. Join us in Boston, or wherever!",
+    "url": "https://www.posh.ai/careers"
+   },
+   {
+    "claim": "Some roles prefer hybrid in Boston and require U.S. work authorization (no visa sponsorship).",
+    "quote": "Preference for this role is hybrid out of our office in Boston, MA. \u2026 Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.",
+    "url": "https://www.builtinboston.com/job/director-implementation/8191060"
+   },
+   {
+    "claim": "LinkedIn posting states U.S. work authorization and notes employees across the United States & Canada.",
+    "quote": "Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time. \u2026 Posh is a hybrid workforce, with employees located across the United States & Canada, and our home base located in Boston, MA.",
+    "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-posh-4319214431"
+   },
+   {
+    "claim": "Built In company/role pages show Boston HQ address, reinforcing U.S.-centric hiring footprint.",
+    "quote": "Posh AI Boston, Massachusetts, USA Office \u2026 33 Arch St, FL 17, Boston, Massachusetts, United States, 02110",
+    "url": "https://www.builtinboston.com/job/director-implementation/8191060"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-14T04:47:16+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:ramp": {
