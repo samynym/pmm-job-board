@@ -9943,6 +9943,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:pendo": {
+  "company": "Pendo",
+  "confidence": "medium",
+  "distribution_summary": "Pendo\u2019s employees appear concentrated in the US and the UK, with small presences in Germany, Australia and Canada; for several countries (notably many in EMEA/APAC and LATAM) public LinkedIn X\u2011ray hits were none or the search was ambiguous/insufficient.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (global offices listed; no EOR mentioned)",
+  "evidence": [
+   {
+    "claim": "Global hubs indicate office-centric hiring across specific cities worldwide.",
+    "quote": "Global offices \u2014 Work across the globe in the cities that we love: Raleigh, San Francisco, New York, Herzliya, Tokyo, Sydney, London, and Sheffield.",
+    "url": "https://www.pendo.io/careers/"
+   },
+   {
+    "claim": "US remote is explicitly supported for some roles; company is hybrid unless designated remote.",
+    "quote": "This is a remote role in the US. We have offices in San Francisco, CA, Raleigh, NC, or New York, NY. \u2026 Location: Pendo is a hybrid culture. In-office 3 days per week unless designated remote.",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8558208002"
+   },
+   {
+    "claim": "Some Product roles allow Remote (EST), showing timezone-limited US remote eligibility.",
+    "quote": "Raleigh, NC / NYC / Remote (EST) \u2026 This is a role based in-office in Raleigh or New York, or Remote in East Coast.",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8566832002"
+   },
+   {
+    "claim": "Customer Engineering has US remote roles tied to a West Coast territory, reinforcing US-only remote pattern by territory/timezone.",
+    "quote": "San Francisco, CA / Seattle, WA / Denver, CO / Remote \u2026 This is a remote role supporting a West Coast territory.",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8525009002"
+   },
+   {
+    "claim": "EMEA roles are typically office/hybrid rather than remote.",
+    "quote": "London, UK \u2026 In-office 3 days per week unless designated remote.",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8531282002"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "unknown",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-15T03:36:13+00:00",
+  "scope_basis": "mixed"
+ },
  "greenhouse:pingidentity": {
   "company": "pingidentity",
   "confidence": "medium",
@@ -10009,6 +10077,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "greenhouse:reddit": {
+  "company": "reddit",
+  "confidence": "medium",
+  "distribution_summary": "Most LinkedIn profiles for current Reddit employees surface in the United States (many), with a small presence visible in Singapore (few); searches for other listed country subdomains returned ambiguous or no clear current-employee profile counts so those are marked unknown.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "few",
+   "uk": "unknown",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": "own entities (e.g., Reddit Netherlands B.V.; Reddit UK Limited). No EOR mentioned.",
+  "evidence": [
+   {
+    "claim": "Reddit limits remote eligibility to countries where it has a physical presence (legal-entity basis).",
+    "quote": "Reddit has a flexible workforce!... Don\u2019t live near one of our offices? No worries: You can apply to work remotely in any country in which we have a physical presence.",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6909091"
+   },
+   {
+    "claim": "Reddit is actively hiring remote roles in Canada, the Netherlands, the United Kingdom, and Ireland.",
+    "quote": "Machine Learning Systems Engineer, Ads ML Platform \u2014 Remote - The Netherlands; Remote - United Kingdom \u2026 Senior SRE, Ads \u2014 Remote - Ireland \u2026 Senior Business Engineer \u2014 Remote - Ontario, Canada \u2026 Senior Machine Learning Engineer \u2014 Remote - Ontario, Canada \u2026 Senior, Business Risk & AI Automation \u2014 Remote - British Columbia, Canada.",
+    "url": "https://redditinc.com/careers?trk=public_post_main-feed-card-text"
+   },
+   {
+    "claim": "Reddit lists remote roles in Germany (Europe).",
+    "quote": "EMEA Insights Specialist \u2014 Remote - Germany \u2026 Revenue Growth & Strategy Partner \u2014 Remote - Germany.",
+    "url": "https://redditinc.com/careers?trk=storyline-update_viral-update_share-update_update-text"
+   },
+   {
+    "claim": "Reddit has physical presence in Australia (supports Oceania \"likely\" via the policy above).",
+    "quote": "Lead, Advertising Measurement (Australia) \u2014 Sydney, Australia.",
+    "url": "https://redditinc.com/careers?trk=storyline-update_viral-update_share-update_update-text"
+   },
+   {
+    "claim": "Reddit operates via its own European entities (supports \"own entities\").",
+    "quote": "This statement\u2026 describes the measures adopted by Reddit Netherlands B.V. and Reddit UK Limited to combat slavery and human trafficking\u2026",
+    "url": "https://redditinc.com/policies/reddits-anti-slavery-and-human-trafficking-statement"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-15T03:36:13+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:rithum": {
@@ -12187,6 +12323,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "jobvite:conair": {
+  "company": "BaBylissPRO",
+  "confidence": "medium",
+  "distribution_summary": "BaBylissPRO appears to have sizable employee presence in the US, UK and France, a small number of LinkedIn current-employee profiles in Canada, Australia, Germany and India, and little-to-no visible presence in the listed African, Latin American and many APAC markets (estimates based on LinkedIn X\u2011ray searches and the company LinkedIn page).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "many",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Conair\u2019s Jobvite board covers BaBylissPRO roles (so BaBylissPRO hiring flows through this board).",
+    "quote": "The portfolio of Conair brands includes CONAIR, Cuisinart, BaBylissPro, Sc\u00fcnci, TRAVELSMART by CONAIR, and Waring.",
+    "url": "https://jobs.jobvite.com/conair/jobs"
+   },
+   {
+    "claim": "BaBylissPRO-specific role appears tied to the Stamford, CT hub (on-site).",
+    "quote": "Director, Social - BabylissPRO | Stamford, Connecticut",
+    "url": "https://jobs.jobvite.com/conair/jobs"
+   },
+   {
+    "claim": "Marketing leadership roles (matching the samples) are listed for Stamford, CT rather than remote.",
+    "quote": "Senior Manager Product Marketing | Stamford, Connecticut",
+    "url": "https://jobs.jobvite.com/conair/jobs"
+   },
+   {
+    "claim": "Another sampled marketing role is location-bound to Stamford, CT.",
+    "quote": "Sr. Director, Product Marketing, Cookware | Stamford, Connecticut",
+    "url": "https://jobs.jobvite.com/conair/jobs"
+   },
+   {
+    "claim": "There are some U.S.-remote openings, indicating remote eligibility is limited to the United States.",
+    "quote": "National Account Manager | Remote, United States",
+    "url": "https://jobs.jobvite.com/conair/jobs"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-15T03:36:13+00:00",
+  "scope_basis": "unclear"
  },
  "jobvite:egnyte": {
   "company": "Egnyte",

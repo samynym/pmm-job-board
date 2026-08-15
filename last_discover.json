@@ -1,16 +1,12 @@
 {
- "ran_at": "2026-08-14T04:44:24+00:00",
+ "ran_at": "2026-08-15T03:33:04+00:00",
  "new_boards": [
-  "ashby:1password",
-  "ashby:bestow",
-  "ashby:convex-dev",
-  "ashby:cubist",
-  "ashby:delinea",
-  "ashby:hilberts",
-  "ashby:livekit",
-  "ashby:posh-ai"
+  "jobvite:conair",
+  "workable:invicti-security",
+  "workable:suade",
+  "workable:teguar-corporation"
  ],
- "new_urls": 8,
+ "new_urls": 4,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }

@@ -551,6 +551,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:hubspotjobs:8103701": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:instacart:7991597": {
 "countries": [],
 "eligibility_stated": true,
@@ -757,6 +770,32 @@
 ],
 "timezone": null,
 "work_auth": "e-verify employer in the USA"
+},
+"greenhouse:pendo:8526974002": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This is a remote role in the US.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:pendo:8558208002": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This is a remote role in the US.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
 },
 "greenhouse:rithum:8068419": {
 "countries": [],
@@ -2501,12 +2540,38 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/openai/c6cb3f11-8e1f-4e34-b407-6a3327e39f2e": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/openai/cc9333e3-028c-4cf4-872b-c55c894b5277": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/openai/d45d6005-ad46-4c3c-8cfc-d312bffe01d5": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role is based in San Francisco, CA.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -2992,6 +3057,45 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/conair/job/o8ozafwp": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role requires on-site presence in the Stamford, CT office Monday through Thursday, with the flexibility to work remotely on Fridays.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/conair/job/oolyafwr": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This position is on-site in the Stamford, CT office Monday - Thursday and remote on Fridays.",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/conair/job/oz2bafww": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role requires on-site presence in the Stamford, CT office Monday through Thursday",
+"extracted_at": "2026-08-15T03:36:05+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
