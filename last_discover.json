@@ -1,12 +1,7 @@
 {
- "ran_at": "2026-08-15T03:33:04+00:00",
- "new_boards": [
-  "jobvite:conair",
-  "workable:invicti-security",
-  "workable:suade",
-  "workable:teguar-corporation"
- ],
- "new_urls": 4,
+ "ran_at": "2026-08-16T03:42:22+00:00",
+ "new_boards": [],
+ "new_urls": 0,
  "errors": 3,
- "dork_offset": 12
+ "dork_offset": 18
 }
