@@ -64,6 +64,14 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
@@ -72,15 +80,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -90,6 +94,10 @@
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",

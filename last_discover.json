@@ -1,7 +1,10 @@
 {
- "ran_at": "2026-08-16T03:42:22+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-08-17T03:43:45+00:00",
+ "new_boards": [
+  "teamtailor:maxwoodfurniture.na.teamtailor.com",
+  "teamtailor:puzzel.teamtailor.com"
+ ],
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 18
+ "dork_offset": 24
 }

@@ -4001,6 +4001,21 @@
 "timezone": null,
 "work_auth": null
 },
+"teamtailor:puzzel.teamtailor.com:8200463": {
+"countries": [
+"United Kingdom",
+"Netherlands",
+"Norway",
+"Denmark",
+"Sweden"
+],
+"eligibility_stated": true,
+"evidence": "Please note that we are not able to provide sponsorship for this role, so you must have eligibility to work in the country you are applying for.",
+"extracted_at": "2026-08-17T03:46:41+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": "Please note that we are not able to provide sponsorship for this role, so you must have eligibility to work in the country you are applying for."
+},
 "teamtailor:shd.teamtailor.com:6641763": {
 "countries": [],
 "eligibility_stated": false,

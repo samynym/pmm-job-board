@@ -17781,6 +17781,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "teamtailor:puzzel.teamtailor.com": {
+  "company": "Puzzel",
+  "confidence": "high",
+  "distribution_summary": "Puzzel\u2019s employees appear concentrated in the UK and the US, with smaller numbers in Germany, France, India, Canada, Australia, Singapore and none or negligible presence in the listed African, Latin American and Gulf markets.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "They list specific European hiring countries and are not worldwide.",
+    "quote": "Hiring in countries \u2026 Denmark \u2026 Netherlands \u2026 Norway \u2026 Sweden \u2026 United Kingdom.",
+    "url": "https://flexa.careers/companies/puzzel"
+   },
+   {
+    "claim": "UK is remote\u2011first; other entities are more hybrid.",
+    "quote": "In the UK, we take a remote-first approach\u2026 In our other entities, employees typically work 2-3 days/week in the office and the rest from home.",
+    "url": "https://flexa.careers/companies/puzzel"
+   },
+   {
+    "claim": "Roles require local work authorization; no sponsorship provided.",
+    "quote": "Please note that we are not able to provide sponsorship for this role, so you must have eligibility to work in the country you are applying for.",
+    "url": "https://puzzel.teamtailor.com/jobs/8200463-product-marketing-associate"
+   },
+   {
+    "claim": "They actively hire fully\u2011remote in the Netherlands (within country).",
+    "quote": "Commercial \u00b7 Netherlands \u00b7 Fully Remote",
+    "url": "https://puzzel.teamtailor.com/jobs/8049366-account-executive-netherlands"
+   },
+   {
+    "claim": "They operate (and/or have entities) across specific European countries, indicating entity\u2011based hiring.",
+    "quote": "We have entities across Norway, Sweden, Denmark, Netherlands, UK & Bulgaria\u2026",
+    "url": "https://flexa.careers/companies/puzzel"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unlikely",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "unlikely"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-17T03:47:04+00:00",
+  "scope_basis": "legal-entity"
+ },
  "teamtailor:shd.teamtailor.com": {
   "company": "SHD",
   "confidence": "medium",
