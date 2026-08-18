@@ -1277,6 +1277,19 @@
 "timezone": "Flexible U.S. Business Hours",
 "work_auth": null
 },
+"https://apply.workable.com/pavago/j/76385b86a3": {
+"countries": [
+"Pakistan"
+],
+"eligibility_stated": true,
+"evidence": "Location: Pakistan; Working Hours: U.S. Client Business Hours",
+"extracted_at": "2026-08-18T03:41:39+00:00",
+"regions": [
+"Asia"
+],
+"timezone": "US business hours",
+"work_auth": null
+},
 "https://apply.workable.com/pavago/j/9f377cb514": {
 "countries": [],
 "eligibility_stated": true,
@@ -2814,6 +2827,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/replit/e73e86e8-405e-4d19-928b-fd190cd650ba": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-18T03:41:39+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/restate/6d76699a-96ea-4a71-83f1-f92981a6a4fd": {
 "countries": [],
 "eligibility_stated": true,
@@ -3799,6 +3821,19 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:renesaselectronics:744000143821269": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This role may be based remotely in either the San Diego, California or Phoenix, Arizona area. Candidates must be locally based in one of these two markets to be considered.",
+"extracted_at": "2026-08-18T03:41:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:servicenow:744000135339719": {
 "countries": [],
 "eligibility_stated": false,
@@ -4121,6 +4156,19 @@
 "eligibility_stated": true,
 "evidence": "Remote, United States",
 "extracted_at": "2026-08-12T04:45:45+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:arcticwolf.wd1.myworkdayjobs.com:914": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Remote, United States",
+"extracted_at": "2026-08-18T03:41:39+00:00",
 "regions": [
 "US"
 ],

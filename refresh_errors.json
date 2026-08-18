@@ -36,10 +36,6 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:jobber",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:ledgerinvesting",
   "error": "HTTP Error 404: Not Found"
  },
@@ -56,6 +52,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "ashby:cubist",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "ashby:evenup",
   "error": "HTTP Error 404: Not Found"
  },
@@ -64,11 +64,47 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
+  "board": "greenhouse:jobber",
+  "error": "The read operation timed out"
+ },
+ {
+  "url": "https://apply.workable.com/maker-lab/j/F429C267E2",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/pavago/j/A923DA9976",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/vasion/j/B742E0151E",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/weekday-1/j/DCC8F85598",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/athennian/jobs/6e4fe965-28a5-4d96-bcc9-3eabdb4f1b7a",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Product-Marketing-Manager_142654",
   "error": "HTTP 403"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing---Local-Marketing-GTM_R-115199",
+  "url": "https://boards.greenhouse.io/greenhouse/jobs/7411199",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/mercury/jobs/6013499004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/rushstreetinteractive/jobs/6110846004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Product-Marketing-Manager_JR-000396",
   "error": "HTTP 403"
  },
  {
@@ -82,6 +118,10 @@
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://fullcreative.recruitee.com/o/product-marketing-manager",
+  "error": "HTTP 404"
  },
  {
   "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
@@ -104,12 +144,40 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://jobs.ashbyhq.com/openrouter/3db2aabd-e379-4ee8-b479-30e5159c9fa4",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/81bae370-7dc8-4f57-9157-cadf64805939",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/myob-2/d7af9a89-6767-4aa2-9bc0-0ab6beec125b",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/outreach/39303d33-b32a-4a66-8e35-475e0892b038",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/penumbrainc/7dc660d2-d67d-407b-ace1-e9861c4c2be9",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/wattpad/b7eec0f8-ebdf-47a0-9729-3eb9cec15b80",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Operations-Manager_JR2022257",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -120,12 +188,20 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
+  "url": "https://softswiss.teamtailor.com/jobs/7811918-product-marketing-manager-senior",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56888",
+  "error": "HTTP 403"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
