@@ -9200,6 +9200,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:masterclass": {
+  "company": "masterclass",
+  "confidence": "high",
+  "distribution_summary": "Searches returned UK and India LinkedIn profiles referencing organisations named \u201cMasterclass\u201d (several different companies/brands); the results were ambiguous between the US online platform MasterClass and multiple unrelated firms called Masterclass (training/education), so I flagged only \u2018few\u2019 for the UK and India and marked other countries unknown.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": "own entities (US, Canada); US temps via TCW Global",
+  "evidence": [
+   {
+    "claim": "MasterClass self-describes as remote-first with collaborative workspaces in San Francisco and Kitchener and employees across several U.S. states.",
+    "quote": "We\u2019re a remote-first workforce with collaborative work spaces in San Francisco and Kitchener, Ontario, and employees in several U.S. states.",
+    "url": "https://job-boards.greenhouse.io/masterclass/jobs/8052628"
+   },
+   {
+    "claim": "A current remote role lists eligible locations limited to selected U.S. states plus Ontario and British Columbia in Canada.",
+    "quote": "This role is open to applicants based in the following locations: AZ, CA, CT, FL, GA, IL, MA, MI, NH, NJ, NY, NC, OH, PA, TN, TX, UT, WA or Ontario and British Columbia, Canada.",
+    "url": "https://job-boards.greenhouse.io/masterclass/jobs/8052628"
+   },
+   {
+    "claim": "A current \u2018Remote\u2019 posting specifies U.S.-only eligibility and notes employment via staffing partner TCW Global for the temporary engagement.",
+    "quote": "Remote (U.S.) \u2026 Temporary, full-time employment via our staffing partner TCW Global\u2026",
+    "url": "https://job-boards.greenhouse.io/masterclass/jobs/8084169"
+   },
+   {
+    "claim": "The careers site lists offices in San Francisco (HQ) and Kitchener, Ontario, indicating Canadian entity/presence.",
+    "quote": "MasterClass has office locations in San Francisco (HQ) and Kitchener, Ontario.",
+    "url": "https://careers.masterclass.com/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-19T03:43:32+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:medicalinformaticsengineering": {
   "company": "Medical Informatics Engineering/Enterprise Health",
   "confidence": "medium",
