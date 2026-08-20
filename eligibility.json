@@ -955,6 +955,21 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:stripe:8142770": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Remote in the US, Chicago, Toronto",
+"extracted_at": "2026-08-20T03:43:48+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:temporaltechnologies:5044184007": {
 "countries": [],
 "eligibility_stated": true,
@@ -3711,6 +3726,15 @@
 "timezone": null,
 "work_auth": "legal right to work in the country where the job is located"
 },
+"smartrecruiters:dnanexus:744000142733020": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-20T03:43:48+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:experian:744000131226930": {
 "countries": [
 "United States"
@@ -3897,6 +3921,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:servicenow:744000144403864": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-20T03:43:48+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -4406,6 +4439,17 @@
 "eligibility_stated": true,
 "evidence": "Remote (USA)",
 "extracted_at": "2026-07-27T06:26:02+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:guidewire.wd5.myworkdayjobs.com:15155": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "United States - Remote",
+"extracted_at": "2026-08-20T03:43:48+00:00",
 "regions": [
 "US"
 ],

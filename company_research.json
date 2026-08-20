@@ -9467,6 +9467,74 @@
   "researched_at": "2026-07-20T06:13:51+00:00",
   "scope_basis": "unclear"
  },
+ "greenhouse:mixpanel": {
+  "company": "mixpanel",
+  "confidence": "medium",
+  "distribution_summary": "Mixpanel\u2019s public LinkedIn profiles (current employees) are concentrated in the US and Australia, with smaller numbers across Canada, the UK and several APAC markets; little-to-no presence was found on the country-specific LinkedIn subdomains for many African, Latin American, and some European countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Mixpanel states it hires strategically in hub locations worldwide and that remote vs in-person depends on the job; page lists global hubs.",
+    "quote": "Both in-person and remote work drive value, depending on the job. We strategically hire in hub locations\u2026 San Francisco \u2026 Los Angeles / Orange County \u2026 Seattle \u2026 Austin \u2026 New York \u2026 Mexico City \u2026 Sao Paulo \u2026 London \u2026 Barcelona \u2026 Tel Aviv \u2026 Bangalore \u2026 Singapore \u2026 Tokyo \u2026 Sydney.",
+    "url": "https://mixpanel.com/jobs/"
+   },
+   {
+    "claim": "US remote eligibility is explicit on multiple current openings.",
+    "quote": "Staff Design Engineer \u2014 San Francisco, US (Remote) \u2026 Software Engineer, DevInfra \u2014 San Francisco, US (Remote) \u2026 Revenue Strategy & Operations Manager \u2014 New York City, US (Remote).",
+    "url": "https://job-boards.greenhouse.io/mixpanel"
+   },
+   {
+    "claim": "Remote hiring in the US is sometimes scoped to specific \u2018remote hubs\u2019 (location/time-zone driven).",
+    "quote": "We are focusing our hiring efforts on candidates located in one of our West-Coast employee hubs listed below: Los Angeles / Orange County (remote hub), San Diego (remote hub), San Francisco / Bay Area (office hub), Seattle (remote hub).",
+    "url": "https://boards.greenhouse.io/embed/job_app?gh_src=beca423f1&token=6813805"
+   },
+   {
+    "claim": "Evidence of remote hiring in Latin America (Mexico).",
+    "quote": "Procurement Operations Analyst \u2014 Mexico City, Mexico (Remote) \u2026 Procurement Counsel \u2014 Mexico City, Mexico (Remote).",
+    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/6774466"
+   },
+   {
+    "claim": "Active hiring presence in Europe/UK hubs (primarily hybrid), supporting a hub-based EMEA posture.",
+    "quote": "Senior Security Engineer \u2014 London, UK (Hybrid) \u2026 Customer Success Architect \u2014 Barcelona, Spain (Hybrid).",
+    "url": "https://job-boards.greenhouse.io/mixpanel"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "unlikely",
+   "Europe": "likely",
+   "Latin America": "likely",
+   "Middle East": "likely",
+   "Oceania": "likely",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-20T03:43:54+00:00",
+  "scope_basis": "timezone-preference"
+ },
  "greenhouse:mozilla": {
   "company": "mozilla",
   "confidence": "medium",
@@ -9738,6 +9806,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "greenhouse:obsidiansecurity": {
+  "company": "obsidiansecurity",
+  "confidence": "medium",
+  "distribution_summary": "Obsidian Security\u2019s employees appear concentrated in the US and the UK, with smaller numbers in Canada, several European countries and select APAC markets; many other listed countries show no public LinkedIn current-employee profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "They hire fully remotely in the US (multiple roles).",
+    "quote": "Head of Customer Support \u2014 US Remote (East/Central)",
+    "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5271305008"
+   },
+   {
+    "claim": "They hire fully remotely in the UK.",
+    "quote": "Sr Channel Account Manager (EMEA) \u2014 UK - Remote \u2026 This is a UK based remote role with preference for candidates based in the Greater London region.",
+    "url": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5022752008"
+   },
+   {
+    "claim": "Additional confirmation of UK remote (100% remote).",
+    "quote": "This is a 100% remote role with preference for candidates located in the Greater London metro.",
+    "url": "https://uk.linkedin.com/jobs/view/senior-solutions-engineer-uk-at-obsidian-security-4250245496"
+   },
+   {
+    "claim": "They are actively hiring and operating in Australia (ANZ), indicating APAC presence (not necessarily remote).",
+    "quote": "Following rapid business growth in A/NZ, the local team is expanding with Obsidian currently hiring for an Account Executive and a Partner Account Manager.",
+    "url": "https://www.obsidiansecurity.com/news/obsidian-security-expands-to-australia"
+   },
+   {
+    "claim": "Multiple public LinkedIn profiles list Obsidian Security roles in Canada, indicating Canada-based employees.",
+    "quote": "Manish Raval \u2014 Toronto, Ontario, Canada \u2026 At Obsidian Security, my focus is on forging the path for our brand's expansion\u2026",
+    "url": "https://ca.linkedin.com/in/manraval"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "likely",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-20T03:43:54+00:00",
+  "scope_basis": "mixed"
  },
  "greenhouse:omadahealth": {
   "company": "Omada Health",
@@ -19914,6 +20050,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:pressreader": {
+  "company": "pressreader",
+  "confidence": "medium",
+  "distribution_summary": "PressReader\u2019s employees appear concentrated in the United States, Canada and the UK, with smaller numbers distributed across several other countries (mostly single-digit presences in Australia, India, Singapore, Japan, Brazil, Mexico, Colombia, parts of Europe and some Middle East/Africa locations).",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "many",
+   "co": "few",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "few",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "few"
+  },
+  "employs_via": "own entities (Canada, Ireland, Philippines)",
+  "evidence": [
+   {
+    "claim": "Active roles are tied to the Richmond, BC hub; mix of on-site and hybrid.",
+    "quote": "Receptionist / Administrative Assistant \u2014 On-site \u2014 Richmond, British Columbia, Canada \u2026 Business Development Representative \u2014 Hybrid \u2014 Richmond, British Columbia, Canada.",
+    "url": "https://jobs.workable.com/company/bvC91nCHeuuNNb4HCAiMjd/jobs-at-pressreader"
+   },
+   {
+    "claim": "Hybrid roles require regular in-office presence in Richmond and Canadian work eligibility.",
+    "quote": "This position is based in our Richmond, BC office and requires to be on-premises two days a week\u2026 Only qualified candidates legally eligible to work in Canada will be directly contacted.",
+    "url": "https://jobs.workable.com/view/6kuN8CYUzJiKLdB5NZELyd/hybrid-senior-area-manager%2C-americas-in-richmond-at-pressreader"
+   },
+   {
+    "claim": "Job ads describe the overall model as hybrid (remote when not in office).",
+    "quote": "PressReader offers a hybrid work environment\u2026 When not in the office, employees have the opportunity to work remotely.",
+    "url": "https://jobs.workable.com/view/bxPBsFDZcuXkMv74gV7KyQ/hybrid-growth-coordinator---b2c-in-richmond-at-pressreader"
+   },
+   {
+    "claim": "They also hire in Dublin with an in-office requirement (EU hub).",
+    "quote": "Employees are required to work from the Dublin, Ireland office once a week.",
+    "url": "https://swooped.co/job-postings/account-manager-hospitality-dublin-pressreader-5ca6b"
+   },
+   {
+    "claim": "They hire in the Philippines (Asia hub), with multiple Makati roles listed.",
+    "quote": "Administrative Assistant (Front Office) \u2014 Makati \u2014 PHP 25,000 - PHP 30,000 a month\u2026 There are 4 jobs PressReader has to offer.",
+    "url": "https://ph.indeed.com/cmp/Pressreader"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "unknown"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-20T03:43:54+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:privy-2": {

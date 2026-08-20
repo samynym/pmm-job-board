@@ -1,12 +1,11 @@
 {
- "ran_at": "2026-08-19T03:40:38+00:00",
+ "ran_at": "2026-08-20T03:41:03+00:00",
  "new_boards": [
-  "personio:plentyone.jobs.personio.de",
-  "personio:swissbit.jobs.personio.de",
-  "personio:tonies.jobs.personio.de",
-  "personio:xayn.jobs.personio.de"
+  "smartrecruiters:dnanexus",
+  "smartrecruiters:experian",
+  "smartrecruiters:renesaselectronics"
  ],
- "new_urls": 4,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 4
+ "dork_offset": 10
 }
