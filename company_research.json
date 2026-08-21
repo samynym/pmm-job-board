@@ -7636,6 +7636,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:amplitude": {
+  "company": "Amplitude ",
+  "confidence": "medium",
+  "distribution_summary": "Most Amplitude employees appear to be located in the United States (many); there are smaller numbers (few) listed in Canada, UK, Germany, France, India, Australia, Japan, Singapore, Brazil, and Mexico; several countries returned no obvious current-employee profiles (e.g., South Africa, Nigeria, Kenya, UAE, Saudi Arabia) while a few (Poland, Colombia, Philippines) were ambiguous/unknown based on these X\u2011ray searches. ([linkedin.com](https://www.linkedin.com/in/chengcst?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "unknown",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Active openings include explicit Remote - USA roles, indicating the company hires fully remote within the United States.",
+    "quote": "Staff Software Engineer- UI Foundations Team \u2014 Remote - USA",
+    "url": "https://job-boards.greenhouse.io/amplitude"
+   },
+   {
+    "claim": "Amplitude has posted remote roles tied to specific European countries (e.g., Poland, Germany), showing selective remote hiring in Europe.",
+    "quote": "Emerging Enterprise Account Executive (EMEA - Emerging Markets) \u2014 Remote - Poland \u2026 Enterprise Account Executive - DACH \u2014 Remote - Germany",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8316353002"
+   },
+   {
+    "claim": "Amplitude has posted a Middle East role with an explicit remote location in Dubai, indicating the ability to hire remotely in at least part of the Middle East.",
+    "quote": "Emerging Enterprise Account Executive (Middle East & Israel) \u2014 Remote - Dubai",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8168351002"
+   },
+   {
+    "claim": "Some postings list U.S. time-zone based remote options (Remote - Central/East/USA) plus Canadian cities, suggesting mixed constraints (time zone plus specific legal entities) rather than \u2018anywhere\u2019.",
+    "quote": "Senior Technical Success Manager III - Strategic \u2026 Remote - Central; Remote - East; Remote - USA; \u2026 Toronto, ON, Canada; Vancouver, BC, Canada",
+    "url": "https://job-boards.greenhouse.io/amplitude?gh_src=Blind"
+   },
+   {
+    "claim": "Official contact page shows established hubs (e.g., San Francisco HQ; New York; Vancouver; Amsterdam EMEA HQ; London; Paris; Singapore), supporting a hub-based footprint rather than \u2018work from anywhere\u2019.",
+    "quote": "Where you can find us \u2026 Headquarters \u2014 San Francisco, CA \u2026 Vancouver, Canada \u2026 EMEA Headquarters \u2014 Amsterdam, The Netherlands \u2026 London \u2026 Paris \u2026 Singapore",
+    "url": "https://www.amplitude.com/contact"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-21T03:47:37+00:00",
+  "scope_basis": "mixed"
+ },
  "greenhouse:apolloio": {
   "company": "Apollo.io",
   "confidence": "medium",
@@ -8179,6 +8247,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "greenhouse:creativex": {
+  "company": "CreativeX",
+  "confidence": "medium",
+  "distribution_summary": "Most employees appear to be in the United States (many current LinkedIn profiles found), with a few in the UK and no matching current-employee LinkedIn profiles found for the other listed countries. ([linkedin.com](https://www.linkedin.com/company/creativex?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote eligibility is explicitly limited to the US or UK (not worldwide).",
+    "quote": "Product Marketing Lead US / UK Remote",
+    "url": "https://job-boards.greenhouse.io/creativex/jobs/5720793004"
+   },
+   {
+    "claim": "Most open roles are tied to the London or New York hubs, indicating an office-centered model.",
+    "quote": "Client Success Manager (NYC/London)London or New York",
+    "url": "https://job-boards.greenhouse.io/creativex"
+   },
+   {
+    "claim": "US and UK-specific benefits suggest employment is set up in those two countries.",
+    "quote": "Fully paid medical, dental, and vision (US) and Private medical insurance (UK)",
+    "url": "https://www.creativex.com/careers"
+   },
+   {
+    "claim": "Another listing tied to hubs reinforces the London/NY focus.",
+    "quote": "Global Client Partner New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/creativex"
+   },
+   {
+    "claim": "US/UK-specific time-off policy further supports US/UK employment footprint.",
+    "quote": "Unlimited paid time off (US) and Generous time off and bank holidays (UK)",
+    "url": "https://www.creativex.com/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-21T03:47:37+00:00",
+  "scope_basis": "unclear"
  },
  "greenhouse:epickids": {
   "company": "epickids",
@@ -8791,6 +8927,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "greenhouse:hightouch": {
+  "company": "Hightouch",
+  "confidence": "high",
+  "distribution_summary": "Most Hightouch employees appear to be in the United States (many); smaller, distributed groups show up in India, Canada, the UK and Australia (few); no LinkedIn profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "They run many region-scoped remote roles in North America and state a remote\u2011first posture.",
+    "quote": "Remote (North America) \u2026 which is location\u2011independent in accordance with our remote\u2011first policy.",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6147286004"
+   },
+   {
+    "claim": "They hire fully remote in Europe.",
+    "quote": "Remote (Europe)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5770046004"
+   },
+   {
+    "claim": "They hire in Asia (India) on a remote basis.",
+    "quote": "Remote (India)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5842464004"
+   },
+   {
+    "claim": "They hire in Oceania (Australia) for APAC roles.",
+    "quote": "Field Marketing Manager (APAC) \u2014 Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6143685004"
+   },
+   {
+    "claim": "They explicitly include UK and broader EMEA for some roles, indicating UK coverage and wider EMEA consideration.",
+    "quote": "Europe - Austria/Switzerland/Netherlands/UKI \u2026 Must be based outside of Germany, in EMEA.",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5832133004"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "yes",
+   "Canada": "likely",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "likely",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-21T03:47:37+00:00",
+  "scope_basis": "timezone-preference"
  },
  "greenhouse:hubspotjobs": {
   "company": "HubSpot",
@@ -9738,6 +9942,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "greenhouse:neosecurityinc": {
+  "company": "Neo Security Inc",
+  "confidence": "high",
+  "distribution_summary": "Most LinkedIn public profiles for \u2018Neo Security\u2019 appear concentrated in Japan (many); a small number of profiles are visible in the UK, Germany, France, Australia and the US; no current-employee profiles were found for the listed African, Latin American, Indian or Southeast Asian country subdomains.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "none",
+   "jp": "many",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "few",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote roles are limited to the United States (example: Product Marketing Manager).",
+    "quote": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/neosecurityinc/jobs/4323668009"
+   },
+   {
+    "claim": "Some postings say simply \u201cRemote\u201d but still require being US\u2011based (Demand Generation).",
+    "quote": "Based in the United States, able to work across U.S. time zones.",
+    "url": "https://job-boards.greenhouse.io/neosecurityinc/jobs/4323692009"
+   },
+   {
+    "claim": "Another \u201cRemote\u201d posting explicitly requires US location (NA Field Marketing).",
+    "quote": "Based in the United States, able to work across U.S. time zones.",
+    "url": "https://job-boards.greenhouse.io/neosecurityinc/jobs/4323680009"
+   },
+   {
+    "claim": "Multiple marketing roles show \u2018Remote - USA\u2019 and require US location (Social Media Manager).",
+    "quote": "Remote - USA \u2026 Based in the United States, able to work across U.S. time zones.",
+    "url": "https://job-boards.greenhouse.io/neosecurityinc/jobs/4323691009"
+   },
+   {
+    "claim": "R&D roles are in Tel Aviv (onsite), indicating non\u2011US hiring is office\u2011based rather than remote.",
+    "quote": "Frontend Engineer \u2014 Tel Aviv",
+    "url": "https://job-boards.greenhouse.io/neosecurityinc/jobs/4323675009"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-21T03:47:37+00:00",
+  "scope_basis": "mixed"
  },
  "greenhouse:newsela": {
   "company": "newsela",
@@ -17481,6 +17753,74 @@
   "researched_at": "2026-07-19T14:18:38+00:00",
   "scope_basis": "legal-entity"
  },
+ "smartrecruiters:dnanexus": {
+  "company": "DNAnexus",
+  "confidence": "medium",
+  "distribution_summary": "DNAnexus\u2019s employees are concentrated in the United States and the United Kingdom, with small groups in Canada, Australia, India, Germany, France, Japan and Singapore, and little-to-no presence on LinkedIn from the other listed countries. ([linkedin.com](https://www.linkedin.com/company/dnanexus?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first culture and EU hiring with country-specific eligibility (Czech Republic), plus team presence in Vietnam and the US.",
+    "quote": "Comfortable working in a distributed, remote-first environment\u2026 Location: Prague, Czech Republic (preferred) or remote within the Czech Republic\u2026 Team footprint: Prague (primary), Vietnam, United States.",
+    "url": "https://jobs.smartrecruiters.com/DNAnexus/744000126008710-vp-engineering"
+   },
+   {
+    "claim": "US and EU hubs with a global employee base.",
+    "quote": "230 + Global Employees \u2022 US Headquarters in Mountain View, CA \u2022 EU Headquarters in Prague, Czech Republic",
+    "url": "https://www.dnanexus.com/careers"
+   },
+   {
+    "claim": "Active US remote hiring for marketing role.",
+    "quote": "Hiring Remotely in Mountain View, CA, USA \u2022 In-Office or Remote",
+    "url": "https://builtin.com/job/product-marketing-coordinator/10610204"
+   },
+   {
+    "claim": "Workforce concentrated across the United States and Europe (supports multi-region scope).",
+    "quote": "Headquartered in Mountain View, California, with over 220 team members across the United States and Europe, DNAnexus is experiencing rapid growth and market adoption.",
+    "url": "https://jobs.smartrecruiters.com/DNAnexus/744000130849539-director-head-of-it"
+   },
+   {
+    "claim": "Evidence of UK-based employees at DNAnexus (supports UK eligibility).",
+    "quote": "Jethro Rainford \u2014 Cambridge, England, United Kingdom \u2026 DNAnexus",
+    "url": "https://uk.linkedin.com/in/jethro-rainford"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-21T03:47:37+00:00",
+  "scope_basis": "legal-entity"
+ },
  "smartrecruiters:mirantis": {
   "company": "mirantis",
   "confidence": "medium",
@@ -20821,6 +21161,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:weekday-1": {
+  "company": "weekday 1",
+  "confidence": "high",
+  "distribution_summary": "Searches were ambiguous or failed \u2014 I couldn't reliably find current-employee LinkedIn profiles for a company named exactly \"weekday 1\"; please provide a disambiguating domain, alternate spelling (e.g., \"Weekday1\", \"Weekday\", or the company website), or confirm the country so I can rerun country-specific X-ray searches.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": "contractors",
+  "evidence": [
+   {
+    "claim": "Remote roles explicitly open to US, UK, Canada, Europe and Australia; implies exclusions for LATAM, Africa, Middle East, most of Asia.",
+    "quote": "Candidates must be based in the United States, United Kingdom, Canada, Europe, or Australia.",
+    "url": "https://apply.workable.com/weekday-1/j/7EA6A8E615/"
+   },
+   {
+    "claim": "Country-specific remote list in Europe and North America (France, Portugal included).",
+    "quote": "Location: US, UK, Canada, France, Portugal (remote)",
+    "url": "https://apply.workable.com/weekday-1/j/F82C26C43D"
+   },
+   {
+    "claim": "Many expert/raters are engaged as independent contractors (how they employ).",
+    "quote": "This is a fully remote, independent contractor opportunity with a flexible part-time schedule.",
+    "url": "https://apply.workable.com/weekday-1/j/B69FB0134A/"
+   },
+   {
+    "claim": "Asia evidence: remote hiring in India for engineering roles.",
+    "quote": "Remote Weekday's Client via platform Full time \u2014 India",
+    "url": "https://apply.workable.com/weekday-1/j/B78F6807B6/"
+   },
+   {
+    "claim": "US-specific remote eligibility on client role.",
+    "quote": "Location: United States",
+    "url": "https://apply.workable.com/weekday-1/j/0D00EE84A7"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-21T03:47:37+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:writesonic": {

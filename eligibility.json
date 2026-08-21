@@ -321,6 +321,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:amplitude:8733872002": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-08-21T03:47:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:apolloio:6001895004": {
 "countries": [],
 "eligibility_stated": true,
@@ -437,6 +450,21 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:creativex:5720793004": {
+"countries": [
+"United States",
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "US / UK Remote",
+"extracted_at": "2026-08-21T03:47:26+00:00",
+"regions": [
+"US",
+"UK"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:extrahopnetworks:6100876004": {
 "countries": [],
 "eligibility_stated": false,
@@ -504,6 +532,17 @@
 ],
 "timezone": null,
 "work_auth": null
+},
+"greenhouse:hightouch:6147286004": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "\"Remote (North America)\"; \"Hightouch participates in E-Verify. After you join the team, we'll verify your eligibility to work in the U.S.\"",
+"extracted_at": "2026-08-21T03:47:26+00:00",
+"regions": [
+"Americas"
+],
+"timezone": null,
+"work_auth": "US work authorization required"
 },
 "greenhouse:hubspotjobs:7562399": {
 "countries": [],
@@ -721,6 +760,19 @@
 "eligibility_stated": true,
 "evidence": "Remote - US",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:neosecurityinc:4323668009": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote - USA",
+"extracted_at": "2026-08-21T03:47:26+00:00",
 "regions": [
 "US"
 ],
@@ -2294,6 +2346,17 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/hinge-health/bc1b6c25-5841-45c0-b0f3-762b92492504": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "San Francisco, CA (up to 40% telecommuting permitted)",
+"extracted_at": "2026-08-21T03:47:26+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },

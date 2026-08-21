@@ -1,11 +1,14 @@
 {
- "ran_at": "2026-08-20T03:41:03+00:00",
+ "ran_at": "2026-08-21T03:44:26+00:00",
  "new_boards": [
-  "smartrecruiters:dnanexus",
-  "smartrecruiters:experian",
-  "smartrecruiters:renesaselectronics"
+  "greenhouse:boloai",
+  "greenhouse:creativex",
+  "greenhouse:hightouch",
+  "greenhouse:neosecurityinc",
+  "greenhouse:vulncheck",
+  "greenhouse:yurtsai"
  ],
- "new_urls": 3,
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }
