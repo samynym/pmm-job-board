@@ -1,14 +1,10 @@
 {
- "ran_at": "2026-08-21T03:44:26+00:00",
+ "ran_at": "2026-08-22T03:36:10+00:00",
  "new_boards": [
-  "greenhouse:boloai",
-  "greenhouse:creativex",
-  "greenhouse:hightouch",
-  "greenhouse:neosecurityinc",
-  "greenhouse:vulncheck",
-  "greenhouse:yurtsai"
+  "recruitee:tiugotech",
+  "workable:qhms"
  ],
- "new_urls": 6,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }

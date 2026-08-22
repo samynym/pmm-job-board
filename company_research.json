@@ -13810,6 +13810,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "lever:caseware": {
+  "company": "caseware",
+  "confidence": "medium",
+  "distribution_summary": "Most Caseware employees appear to be concentrated in Canada and the UK, with a small but visible presence in South Africa; LinkedIn X\u2011ray results for most other listed countries were sparse or inconclusive.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "many",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "many",
+   "us": "many",
+   "za": "few"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their ATS lists remote roles across multiple regions, including Europe (Romania) and Oceania (Australia).",
+    "quote": "Technical Product Manager, Core Platform Remote \u2014 Full Time - Permanent Cluj, Romania / Javascript Engineer Remote \u2014 Full Time - Permanent Melbourne, Australia",
+    "url": "https://jobs.lever.co/caseware?workplaceType=remote"
+   },
+   {
+    "claim": "United States: remote hiring restricted to candidates residing in and eligible to work in the US (legal-entity basis).",
+    "quote": "This role is remote and is open to all candidates who reside and are eligible to work in US (preferably on the East coast).",
+    "url": "https://jobs.lever.co/caseware/653a5e2d-1210-4a37-a25c-d3c0256018c6"
+   },
+   {
+    "claim": "Canada: remote hiring restricted to candidates residing in and eligible to work in Canada (legal-entity basis).",
+    "quote": "The role is completely remote and is available to all applicants residing and eligible to work in Canada.",
+    "url": "https://jobs.lever.co/caseware/9d91f80b-b545-4a13-8956-8e592c859c29"
+   },
+   {
+    "claim": "United Kingdom: remote role open to applicants residing and eligible to work in the UK.",
+    "quote": "The role is a remote role and is available to all applicants residing and eligible to work in the UK.",
+    "url": "https://jobs.lever.co/caseware/78f4de69-d89e-4c40-a633-1d313c7cebe9"
+   },
+   {
+    "claim": "Latin America: fully remote roles located in Colombia with local employment benefits.",
+    "quote": "This is a fully remote position located in Colombia. \u2026 \u201cContrato a termino Indefinido\u201d with all the legal benefits",
+    "url": "https://jobs.lever.co/caseware/76d9d7a0-bb5d-463e-998e-3f0198e8cca3"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-22T03:38:59+00:00",
+  "scope_basis": "legal-entity"
+ },
  "lever:colibrigroup": {
   "company": "Colibri Group",
   "confidence": "medium",
@@ -15318,6 +15386,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "recruitee:tiugotech": {
+  "company": "Tiugo Technologies",
+  "confidence": "medium",
+  "distribution_summary": "Most public LinkedIn profiles for Tiugo Technologies are located in Poland (many), a small presence in the UK (few), and no visible current-employee profiles on the other country LinkedIn subdomains searched. ([pl.linkedin.com](https://pl.linkedin.com/in/wmech?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "many",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": "own entities; contractors (B2B in PL)",
+  "evidence": [
+   {
+    "claim": "Remote-first culture with option to work from offices; mentions Australia and Poland offices.",
+    "quote": "Remote and flexible working environments or options to work from our offices in Australia or Poland.",
+    "url": "https://tiugotech.recruitee.com/"
+   },
+   {
+    "claim": "States distributed, remote culture.",
+    "quote": "As a remote, distributed culture we aren\u2019t always in the same room, but we are on the same page.",
+    "url": "https://tiugotech.recruitee.com/"
+   },
+   {
+    "claim": "Active US hiring: remote role anchored to Boston with \u2018Fully remote work environment\u2019 benefits.",
+    "quote": "Senior Marketing Operations Manager \u2014 Remote \u2014 Boston, United States \u2026 Fully remote work environment.",
+    "url": "https://tiugotech.recruitee.com/o/senior-marketing-operations-manager"
+   },
+   {
+    "claim": "Active EU hiring in Poland: remote role anchored to Warsaw with local currency and Polish language requirement.",
+    "quote": "Principal Product Engineer \u2014 Remote \u2014 Warsaw, Poland \u2014 PLN 38,000 - PLN 45,000 per month \u2026 Fluency in Polish and English (minimum C1 level).",
+    "url": "https://tiugotech.recruitee.com/o/principal-product-engineer"
+   },
+   {
+    "claim": "Use of B2B/contractor arrangements in Poland; role lists fully-remote benefit.",
+    "quote": "Senior Product Marketing Manager \u2014 Remote \u2014 Warsaw, Poland \u2026 Flexible schedule and fully remote work. \u2026 Expected salary (net for B2B / gross for CoE PLN).",
+    "url": "https://tiugotech.recruitee.com/o/senior-product-marketing-manager"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-22T03:38:59+00:00",
+  "scope_basis": "legal-entity"
  },
  "rippling:albert-invent-corp": {
   "company": "Albert Invent Corp",
