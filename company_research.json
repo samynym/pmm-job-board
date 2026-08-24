@@ -15455,6 +15455,74 @@
   "researched_at": "2026-08-22T03:38:59+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:agital-careers": {
+  "company": "Agital",
+  "confidence": "high",
+  "distribution_summary": "Most Agital employees appear to be located in the United States (many); small numbers appear in the UK and France; I found no current-employee LinkedIn profiles in the other listed countries based on X\u2011ray searches.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "few",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Agital\u2019s live ATS shows open roles listed as Remote (United States).",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/agital-careers/jobs"
+   },
+   {
+    "claim": "The Product Marketing Director role is US-remote and notes no visa sponsorship, implying US work authorization only.",
+    "quote": "At this time, we are unable to sponsor or transfer employment visas for this position. \u2026 Remote (United States)",
+    "url": "https://ats.rippling.com/agital-careers/jobs/c86bd9de-e109-460d-8fb0-1df0e5ce3578"
+   },
+   {
+    "claim": "Agital describes a U.S. office footprint, suggesting U.S.-based entities/operations.",
+    "quote": "With a national presence and offices in Boston, Washington, DC, Las Vegas, Phoenix, San Diego, and St Louis",
+    "url": "https://agital.com/about/press-room/agital-welcomes-jamie-farrell-senior-vice-president-of-marketing/"
+   },
+   {
+    "claim": "Group agency Go Fish Digital\u2019s ATS repeatedly lists roles as Remote (United States).",
+    "quote": "Media and Marketing Reporting Analyst \u2014 Remote (United States)",
+    "url": "https://ats.rippling.com/gofishdigital/jobs"
+   },
+   {
+    "claim": "REQ role under Agital lists a U.S. remote location and no visa support.",
+    "quote": "We cannot offer visa support at this time. \u2026 Remote (Washington, District of Columbia, US)",
+    "url": "https://ats.rippling.com/agital-careers/jobs/45020374-c5d4-4cad-b76a-0eef0358449e"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-24T03:51:56+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:albert-invent-corp": {
   "company": "Albert Invent Corp",
   "confidence": "medium",
@@ -16040,6 +16108,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "rippling:fello-careers": {
+  "company": "Fello",
+  "confidence": "medium",
+  "distribution_summary": "There are multiple distinct companies named \u201cFello\u201d (examples: Fello.ai in Cleveland, a US nonprofit Fello in Maryland, Fello Netherlands, Fello Sweden, Fello events in NJ, Fello Poland, etc.). Which specific \u201cFello\u201d do you want me to X\u2011ray on LinkedIn? If you don\u2019t know, I can run searches and return a best-effort country distribution for each identified Fello.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Fello hires remotely in both the US and Canada for GTM roles.",
+    "quote": "This is a remote role, offering you the flexibility to work from anywhere in the US or Canada.",
+    "url": "https://ats.rippling.com/fr-CA/fello-careers/jobs/cfbd3886-3c17-4363-b476-57495a0096f6"
+   },
+   {
+    "claim": "Multiple roles are US-only remote, confirming active US hiring eligibility.",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/es-419/fello-careers/jobs/a28e71a6-6ce9-4cc0-871d-506c69aba8c6"
+   },
+   {
+    "claim": "Fello hires remotely in India for product/technical roles.",
+    "quote": "This is a remote role based in India.",
+    "url": "https://ats.rippling.com/en-AU/fello-careers/jobs/5778e015-af41-4627-a977-6de8c04b9038"
+   },
+   {
+    "claim": "Another India posting states fully-remote within India, reinforcing India eligibility.",
+    "quote": "Location: This is a fully remote role, offering you the freedom to work from anywhere in India.",
+    "url": "https://fello.rippling-ats.com/job/807177/solutions-expert"
+   },
+   {
+    "claim": "Director of Product Marketing listing is remote in the United States, supporting US scope on senior roles.",
+    "quote": "Hiring Remotely in United States",
+    "url": "https://builtin.com/job/director-product-marketing/10293388"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-24T03:51:56+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:foundant-careers": {
   "company": "Foundant",
   "confidence": "medium",
@@ -16584,6 +16720,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:stayntouch": {
+  "company": "Stayntouch",
+  "confidence": "medium",
+  "distribution_summary": "Public LinkedIn profiles for Stayntouch show most employees located in the United States and Canada, with a smaller presence in the UK and Australia and little-to-no presence in the other listed countries. ([linkedin.com](https://www.linkedin.com/company/stayntouch?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "many",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "US hiring and remote-first culture.",
+    "quote": "Remote-first work environment with autonomy and trust \u2026 100,000 - 140,000 USD per year (Remote (United States)).",
+    "url": "https://ats.rippling.com/stayntouch/jobs/3bd06f08-69f2-480a-9d7f-1af80fa4a05f"
+   },
+   {
+    "claim": "EU hiring eligibility (role explicitly remote in EU).",
+    "quote": "This is a remote position based out of the EU \u2026 Salary Range: 80k-92k EUR.",
+    "url": "https://ats.rippling.com/stayntouch/jobs/fe04de8a-6e3a-4886-ad2f-b1c50cd9f1c2"
+   },
+   {
+    "claim": "Canada hiring (remote in multiple Canadian cities).",
+    "quote": "Remote (Vancouver, British Columbia, CA) \u2026 Remote (Calgary, Alberta, CA) \u2026 Canada.",
+    "url": "https://ats.rippling.com/stayntouch/jobs/a1d66613-c37a-4335-80ad-d8f8b6159a12"
+   },
+   {
+    "claim": "UK presence (employee located in the UK).",
+    "quote": "Stayntouch \u2026 London, England, United Kingdom.",
+    "url": "https://uk.linkedin.com/in/john-halligan-a8b594156"
+   },
+   {
+    "claim": "Africa presence (employee located in South Africa).",
+    "quote": "Experience \u2014 Stayntouch \u2014 South Africa.",
+    "url": "https://za.linkedin.com/in/johan-meiring-85096b105"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-24T03:51:56+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:swoopishiring": {
   "company": "Swoopishiring",
   "confidence": "high",
@@ -16651,6 +16855,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "rippling:tive-careers": {
+  "company": "Tive",
+  "confidence": "high",
+  "distribution_summary": "Tive is headquartered in Boston with a substantial US employee base and smaller groups (or individual employees) spread across major markets in North America, Europe, Latin America, and APAC.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Europe remote eligible; role explicitly open to candidates living anywhere in Europe, with remote option; specific postings for Remote (United Kingdom) and Remote (Germany), plus Netherlands.",
+    "quote": "Open to candidates living in Europe. \u2026 Office-based, hybrid, and remote options. Your choice. \u2026 Remote (United Kingdom) \u2026 Remote (Germany) \u2026 Netherlands",
+    "url": "https://ats.rippling.com/tive-careers/jobs/1eabd57c-87dd-49ff-a8ab-c34d0e36cb50"
+   },
+   {
+    "claim": "Latin America remote hiring evidenced in Colombia and Mexico for LATAM Account Executive role, with remote option.",
+    "quote": "Remote (Colombia) \u2026 Remote (Mexico) \u2026 Office-based, hybrid, and remote options. Your choice.",
+    "url": "https://ats.rippling.com/tive-careers/jobs/6d3e3685-1c57-4eae-a282-6a54edf3a2ef"
+   },
+   {
+    "claim": "United States remote hiring; Director, Product Marketing open remotely on East Coast and lists Remote (United States).",
+    "quote": "Location - Boston preferred, Remote available (East Coast). \u2026 Remote (United States)",
+    "url": "https://ats.rippling.com/tive-careers/jobs/0d677e4a-4706-453f-bb14-10e245ead6e9"
+   },
+   {
+    "claim": "Live ATS index shows multiple remote-eligible postings across US, UK, Germany, Colombia, and Mexico, confirming multi\u2011region scope.",
+    "quote": "Account Executive \u2026 Remote (United States) \u2026 EMEA Account Executive \u2026 Remote (United Kingdom) \u2026 Remote (Germany) \u2026 LATAM Account Executive \u2026 Remote (Colombia) \u2026 Remote (Mexico)",
+    "url": "https://ats.rippling.com/tive-careers/jobs"
+   },
+   {
+    "claim": "Tive presents itself as a global company with country-specific benefits, indicating employment varies by country but not implying worldwide eligibility.",
+    "quote": "Note that as a global company, Tive\u2019s benefits packages will vary based on the country you\u2019re hired in.",
+    "url": "https://www.tive.com/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-24T03:51:56+00:00",
+  "scope_basis": "timezone-preference"
  },
  "rippling:useorigin": {
   "company": "Useorigin",

@@ -80,15 +80,7 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "board": "lever:colibrigroup",
-  "error": "The read operation timed out"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager_R171343",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/eulerity/jobs/4700073006",
+  "url": "https://apply.workable.com/arpu-telecommunication-services/j/6663F431AF",
   "error": "HTTP 404"
  },
  {
@@ -104,15 +96,15 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
@@ -132,7 +124,23 @@
   "error": "HTTP 404"
  },
  {
+  "url": "https://jobs.lever.co/jobgether/c9a21755-71f6-4189-a0d5-f6290e30c760",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/4ebcd3f5-e2aa-424e-afc0-a6c6020370b9",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/tutorintelligence/08bd8119-f585-472d-9068-6601048f50b6",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Global-Product-Marketing-Manager--Mobile---Audio-Solutions_146141",
   "error": "HTTP 404"
  },
  {
@@ -144,11 +152,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {

@@ -1584,6 +1584,16 @@
 "timezone": "4-8 hours overlap with US Pacific (IST evenings)",
 "work_auth": null
 },
+"https://ats.rippling.com/agital-careers/jobs/c86bd9de-e109-460d-8fb0-1df0e5ce3578": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-24T03:51:55+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/albert-invent-corp/jobs/c49fe620-8743-400c-82ba-c0502f3bf27c": {
 "countries": [],
 "eligibility_stated": false,
@@ -1669,6 +1679,16 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/fello-careers/jobs/af59e649-2429-45fa-9464-a1a34a7ac33f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-24T03:51:55+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
@@ -1784,11 +1804,31 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/stayntouch/jobs/3bd06f08-69f2-480a-9d7f-1af80fa4a05f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-24T03:51:55+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/swoopishiring/jobs/54a533a5-cdc0-4e58-9f72-5c7298b5a3c9": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/tive-careers/jobs/0d677e4a-4706-453f-bb14-10e245ead6e9": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-24T03:51:55+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
