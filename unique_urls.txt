@@ -895,6 +895,7 @@ https://jobs.lever.co/elfbeauty/2e2edbdf-e994-4799-8020-567d590167da
 https://jobs.lever.co/employ/e5189c50-3c4d-421c-bf54-bf63bd5bb375
 https://jobs.lever.co/enable/f5231c9a-3833-4007-b141-218590daba15
 https://jobs.lever.co/esper/eada5ed9-f9f8-429d-a8fc-1f4b6257fea1
+https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62
 https://jobs.lever.co/fieldnation/7c4a002f-2186-4d70-a055-dc93956e9a19
 https://jobs.lever.co/finch/5085ce27-f2e7-4863-b16c-e3b36ae8ae35
 https://jobs.lever.co/foxitsoftware/79151dbd-0f87-471d-ba3a-270ef7d667b9
@@ -933,6 +934,7 @@ https://jobs.lever.co/penumbrainc/a6ee1794-e663-49a9-82eb-8db68492d824
 https://jobs.lever.co/penumbrainc/cdd7f284-ed28-4ce2-9695-82b7366c8c11
 https://jobs.lever.co/piccollage/1253638c-09e4-466e-8aaa-8821e53c6d6d
 https://jobs.lever.co/pigment/dfef7ea9-a325-4262-b9ca-bc925d1534ec
+https://jobs.lever.co/ppro/0c7f337a-e7c3-4296-aecd-56845fdd1895
 https://jobs.lever.co/protolabs/72dd40b8-59e3-44ce-8bab-df725241475d
 https://jobs.lever.co/ridezum/ce62ca95-3035-4bef-8a70-8636e5cf9854
 https://jobs.lever.co/rover/39d3ac92-277f-40f9-86cc-fdb5bc8d4bb1

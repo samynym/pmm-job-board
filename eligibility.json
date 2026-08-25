@@ -3184,6 +3184,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/act-on-software/job/owugafwq": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-25T03:45:08+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/androcles-group/job/oioa1fwb": {
 "countries": [],
 "eligibility_stated": false,
@@ -3495,6 +3504,15 @@
 "US"
 ],
 "timezone": "core Eastern Time (ET)",
+"work_auth": null
+},
+"https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-08-25T03:45:08+00:00",
+"regions": [],
+"timezone": null,
 "work_auth": null
 },
 "https://jobs.lever.co/flex/01c78791-f19c-49be-9aec-5726d8561f50": {

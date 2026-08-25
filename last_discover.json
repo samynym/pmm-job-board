@@ -1,15 +1,10 @@
 {
- "ran_at": "2026-08-24T03:49:13+00:00",
+ "ran_at": "2026-08-25T03:42:37+00:00",
  "new_boards": [
-  "rippling:agital-careers",
-  "rippling:exacare-inc",
-  "rippling:fello-careers",
-  "rippling:l2l-openings",
-  "rippling:pet-screening-job-board",
-  "rippling:stayntouch",
-  "rippling:tive-careers"
+  "lever:ethena",
+  "lever:ppro"
  ],
- "new_urls": 7,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 2
+ "dork_offset": 8
 }

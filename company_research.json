@@ -10079,6 +10079,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:nice": {
+  "company": "nice",
+  "confidence": "high",
+  "distribution_summary": "Current LinkedIn X\u2011ray results show NICE\u2019s employees concentrated in the UK, India, the US, Canada and Australia (representative LinkedIn profiles found for NICE in the UK and India; additional international profiles visible across other country subdomains). ([uk.linkedin.com](https://uk.linkedin.com/in/grahamspencernice?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "many",
+   "br": "few",
+   "ca": "many",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "many",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "NICE\u2019s remote policy: customer\u2011facing roles can be fully remote; most other roles use the NiCE\u2011FLEX hybrid model.",
+    "quote": "Enjoy a high level of flexibility, with fully remote roles for customer-facing positions, and our hybrid NiCE-FLEX model for all other positions.",
+    "url": "https://www.nice.com/careers/apply?q=net"
+   },
+   {
+    "claim": "Americas and Asia: NICE lists remote roles in the USA, Canada, India, and Mexico.",
+    "quote": "Account Executive USA - Remote ... Account Executive, Actimize Canada - Remote ... Account Executive India - Remote ... Partner Acceleration Executive Mexico - Remote",
+    "url": "https://www.nice.com/careers/apply?gh_src=my.greenhouse.search"
+   },
+   {
+    "claim": "Europe and UK: NICE lists remote roles in Germany and the United Kingdom.",
+    "quote": "Senior Account Executive Germany - Remote ... Senior Account Executive - UK&I United Kingdom - Remote",
+    "url": "https://www.nice.com/careers/apply?gh_src=my.greenhouse.search"
+   },
+   {
+    "claim": "Africa: NICE lists a South Africa remote role.",
+    "quote": "Lead Customer Success Manager South Africa - Remote",
+    "url": "https://www.nice.com/careers/apply?search=park+city"
+   },
+   {
+    "claim": "Oceania: NICE lists Australia remote roles.",
+    "quote": "AI Solution Strategist Australia - Remote",
+    "url": "https://www.nice.com/careers/apply?trk=organization_guest_main-feed-card-text"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-25T03:45:13+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:obsidiansecurity": {
   "company": "obsidiansecurity",
   "confidence": "medium",
@@ -12659,6 +12727,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "jobvite:act-on-software": {
+  "company": "Act-On Software",
+  "confidence": "medium",
+  "distribution_summary": "Most Act-On Software employees appear to be located in the United States (Portland area), with small presences in the UK, Canada, and Japan; few or no current-employee LinkedIn profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Act-On states it has employees across the U.S. and EMEA, and operations in the UK.",
+    "quote": "Headquartered in Portland, Oregon with operations in the UK and employees located throughout the U.S. and EMEA, we work with marketers wherever they are.",
+    "url": "https://act-on.com/careers/"
+   },
+   {
+    "claim": "Act-On lists physical hubs in Portland, Oregon (US) and Reading, UK.",
+    "quote": "Portland, Oregon\u2026 Address: 121 SW Morrison St. Suite 1600, Portland, OR 97204\u2026 Reading, UK\u2026 Phone +44 1189 515680",
+    "url": "https://act-on.com/contact-us/"
+   },
+   {
+    "claim": "Recent job postings have specified a U.S. location (Portland, Oregon), indicating active U.S. hiring.",
+    "quote": "Marketing Campaign Manager - Lead Gen \u2014 Marketing Portland, Oregon United States",
+    "url": "https://jobs.jobvite.com/act-on-software/job/oHucAfwH"
+   },
+   {
+    "claim": "LinkedIn shows Act-On\u2019s UK location in Reading, supporting ongoing UK operations and hiring capability there.",
+    "quote": "33 King\u2019s Rd, Part Third Floor, The White Building, Reading, Berkshire RG1 3AR, GB",
+    "url": "https://uk.linkedin.com/company/act-on-software"
+   },
+   {
+    "claim": "Act-On has public EMEA-focused roles, indicating hiring in the EMEA region.",
+    "quote": "We are looking for a dynamic, highly driven Strategic Account Executive to take Act-On to new heights in the EMEA region.",
+    "url": "https://portfoliojobs.tcv.com/companies/act-on-2-c929bd65-cf0a-47c7-9d45-09d24aa82c6c/jobs/69429674-strategic-account-executive-emea"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "likely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-25T03:45:13+00:00",
+  "scope_basis": "unclear"
+ },
  "jobvite:androcles-group": {
   "company": "Androcles-Group",
   "confidence": "medium",
@@ -14008,6 +14144,74 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
+ },
+ "lever:ethena": {
+  "company": "Ethena",
+  "confidence": "high",
+  "distribution_summary": "I found at least two distinct companies named \u201cEthena\u201d on LinkedIn (a compliance-training company and a crypto/\u2018Ethena Labs\u2019 firm). Which one should I X\u2011ray for? If you confirm which Ethena, I will run the country\u2011coded LinkedIn searches and return the per\u2011country estimates.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Ethena limits hiring to the United States for this role (despite being remote-first).",
+    "quote": "Ethena is a remote-first organization and is currently hiring candidates based in the United States.",
+    "url": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62"
+   },
+   {
+    "claim": "Ethena can hire in the United States or Canada for some roles.",
+    "quote": "Ethena is a remote-first organization and is currently hiring candidates based in the United States or Canada.",
+    "url": "https://jobs.lever.co/ethena/f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65"
+   },
+   {
+    "claim": "General application also states U.S. or Canada hiring scope.",
+    "quote": "Ethena is a remote-first organization and is currently hiring candidates based in the United States or Canada.",
+    "url": "https://jobs.lever.co/ethena/f7d6502a-c493-47c0-895a-f359066aca52"
+   },
+   {
+    "claim": "Some postings reiterate fully-remote workforce but U.S.-based eligibility.",
+    "quote": "You may notice that we have an HQ in Brooklyn, but our workforce is fully remote and this role is open to anyone based in the United States.",
+    "url": "https://jobs.lever.co/ethena/00f8b681-2d71-497b-9cde-96785ed0dcdb"
+   },
+   {
+    "claim": "Company characterizes itself as fully distributed (remote-first culture).",
+    "quote": "We\u2019re a fully distributed company with a shared passion for building better workplaces,",
+    "url": "https://www.goethena.com/about-us/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "likely",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-25T03:45:13+00:00",
+  "scope_basis": "unclear"
  },
  "lever:gauntlet": {
   "company": "Gauntlet",

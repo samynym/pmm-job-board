@@ -80,7 +80,23 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/arpu-telecommunication-services/j/6663F431AF",
+  "url": "https://apply.workable.com/quandela/j/97B681D978",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/boloai/jobs/4317468009",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/extrahopnetworks/jobs/6100876004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/7961101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/8060324",
   "error": "HTTP 404"
  },
  {
@@ -92,7 +108,15 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/Senior-Director--Global-Brand-and-Product-Marketing---HOKA_19645",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -100,7 +124,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
@@ -108,27 +132,47 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/elevenlabs/ae123687-766d-4007-bda8-fa89ecaeac69",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
-  "error": "HTTP 410"
+  "url": "https://jobs.ashbyhq.com/openai/8960d7b6-b345-478f-a5ad-67beaa32f425",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/saronic/b425a6ee-febb-4e19-8532-2d320e67a3db",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.jobvite.com/conair/job/oz2BAfww",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.lever.co/actian/0c78246b-3468-4bfd-8334-92eb738e16ed",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/actian/8aa32b00-1a52-48e6-9c71-2f03643f1f4e",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/c9a21755-71f6-4189-a0d5-f6290e30c760",
+  "url": "https://jobs.lever.co/jobgether/5c9673e3-f69b-40d0-8d61-6ad15958256f",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/4ebcd3f5-e2aa-424e-afc0-a6c6020370b9",
+  "url": "https://jobs.lever.co/jobgether/ac3717c5-dbfe-4f68-a15b-56a393b75285",
   "error": "HTTP 404"
  },
  {
@@ -136,12 +180,8 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/tutorintelligence/08bd8119-f585-472d-9068-6601048f50b6",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Global-Product-Marketing-Manager--Mobile---Audio-Solutions_146141",
-  "error": "HTTP 404"
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2638670",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -152,12 +192,16 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
-  "error": "delisted or no data"
+  "url": "https://talentminded74.applytojob.com/apply/epzUdGX5Fp",
+  "error": "HTTP 410"
  },
  {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
