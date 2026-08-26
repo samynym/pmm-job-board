@@ -8044,6 +8044,74 @@
   "researched_at": "2026-08-05T05:43:48+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:codeandtheory": {
+  "company": "codeandtheory",
+  "confidence": "medium",
+  "distribution_summary": "Code and Theory\u2019s employees are primarily located in the United States and the United Kingdom, with a smaller presence in India; other countries returned few or no current-employee LinkedIn profiles (searches for those countries were inconclusive).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "none",
+   "mx": "unknown",
+   "ng": "none",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "none",
+   "sg": "unknown",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities and network agencies; no public EOR usage found",
+  "evidence": [
+   {
+    "claim": "They state a remote-first model with teams across North America, South America, Europe and Asia.",
+    "quote": "With a remote-first approach to our people, we have teams distributed across North America, South America, Europe and Asia.",
+    "url": "https://www.codeandtheory.com/careers/8375713002?location=manila"
+   },
+   {
+    "claim": "Multiple US roles list \u201cUnited States; Remote,\u201d indicating remote eligibility within the US.",
+    "quote": "Location\nNew York, New York, United States; Remote",
+    "url": "https://www.codeandtheory.com/careers/8558982002?gh_jid=8558982002"
+   },
+   {
+    "claim": "They hire in the UK (London).",
+    "quote": "Lead Data Engineer (London)",
+    "url": "https://www.codeandtheory.com/careers/8329786002?location=london"
+   },
+   {
+    "claim": "They hire in India (Asia) via Bengaluru-based roles.",
+    "quote": "Engineer, AEM Front-end (India) \u2026 Bengaluru, Karnataka, India",
+    "url": "https://www.codeandtheory.com/careers/8581730002"
+   },
+   {
+    "claim": "Evidence of a Canada-based professional listing Code and Theory on their LinkedIn profile (supports Canada as likely).",
+    "quote": "Toronto, Ontario, Canada",
+    "url": "https://ca.linkedin.com/in/laurabeckford"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "likely",
+   "Europe": "likely",
+   "Latin America": "likely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-26T03:51:46+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:colabsoftware": {
   "company": "CoLab Software",
   "confidence": "high",
@@ -14344,6 +14412,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "lever:happyco": {
+  "company": "happyco",
+  "confidence": "high",
+  "distribution_summary": "Public LinkedIn profiles indicate most HappyCo employees are in the United States (many), with smaller numbers in Canada, Australia, and the UK; I found no indexed current-employee profiles on the listed country subdomains for the other countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Open roles explicitly limited to the United States (remote).",
+    "quote": "Brand Designer (USA) \u2014 United States \u2014 Remote",
+    "url": "https://jobs.lever.co/happyco/76fcfd71-56e8-44ee-961a-e02081cd9c3a"
+   },
+   {
+    "claim": "US roles ask about need for work sponsorship in the United States, indicating country-specific employment setup.",
+    "quote": "Will you require work sponsorship now or in the future to legally work in the United States?",
+    "url": "https://jobs.lever.co/happyco/76fcfd71-56e8-44ee-961a-e02081cd9c3a/apply"
+   },
+   {
+    "claim": "Open role explicitly limited to Canada (remote) with requirement for Canadian work authorization.",
+    "quote": "Senior Product Designer \u2014 Canada \u2014 Remote\u2026 Are you legally authorized to work in Canada without requiring work permit sponsorship from an employer?",
+    "url": "https://jobs.lever.co/happyco/cae68d58-cc05-4d2e-8828-19ccaebfb201/apply"
+   },
+   {
+    "claim": "Open role explicitly limited to Australia (remote).",
+    "quote": "Brand Designer (AU) \u2014 Remote (AU)",
+    "url": "https://jobs.lever.co/happyco/0b8d7031-bb42-4bdc-9266-fda91d1ae018"
+   },
+   {
+    "claim": "Company describes a remote-first, distributed team with members in the USA, Canada, Australia, and New Zealand.",
+    "quote": "Multiple locations, one tight-knit team\u2026 Whether logging in from somewhere in the USA, Canada, Australia, New Zealand, or elsewhere\u2026",
+    "url": "https://webflow.happy.co/company"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-26T03:51:46+00:00",
+  "scope_basis": "legal-entity"
+ },
  "lever:includedhealth": {
   "company": "Included Health",
   "confidence": "high",
@@ -20220,6 +20356,74 @@
    }
   }
  },
+ "workable:hunt-st": {
+  "company": "hunt-st",
+  "confidence": "high",
+  "distribution_summary": "Employees appear to be concentrated in Australia (headquarters) and the Philippines (many job listings / remote hires).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "many",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "many",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": "Direct independent contractors; can arrange Employer of Record (unspecified provider) if needed",
+  "evidence": [
+   {
+    "claim": "Business model focuses on hiring Filipino professionals and can use EOR if needed.",
+    "quote": "At Hunt St, we help Australian companies hire top Filipino professionals directly\u2026 We also guide you through compliant hiring, whether via contractor agreements or Employer of Record (EOR) setup if needed.",
+    "url": "https://www.huntst.com/about-us"
+   },
+   {
+    "claim": "Applications explicitly require Filipino citizenship and residence (Philippines-only hiring).",
+    "quote": "Are you a Filipino citizen currently residing in the Philippines?",
+    "url": "https://apply.workable.com/hunt-st/j/BC756996DC/apply/"
+   },
+   {
+    "claim": "Roles are set up as independent contractor engagements (not direct employment).",
+    "quote": "This is a remote role that will be set up as an independent contractor engagement.",
+    "url": "https://apply.workable.com/hunt-st/j/C42194FD08/"
+   },
+   {
+    "claim": "Workable postings show the job location as Philippines for remote roles.",
+    "quote": "Remote Recruitment Full time\n\nPhilippines",
+    "url": "https://apply.workable.com/hunt-st/j/CC64F3F4ED/apply/"
+   },
+   {
+    "claim": "Sample role Product Marketing Specialist (009-01251) targets Philippines-based candidates and contractor setup.",
+    "quote": "Looking for Philippines-based candidates\u2026 For this role, you will be engaged directly by the client as an independent contractor.",
+    "url": "https://jobs-radar.com/en/job/product-marketing-specialist-009-01251-at-hunt-st-739774"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "yes",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "no"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-26T03:51:46+00:00",
+  "scope_basis": "unclear"
+ },
  "workable:irth-solutions": {
   "company": "irth-solutions",
   "confidence": "medium",
@@ -21503,6 +21707,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "workable:stellar-cyber": {
+  "company": "stellar-cyber",
+  "confidence": "medium",
+  "distribution_summary": "Most publicly indexed Stellar Cyber current-employee LinkedIn profiles are in the United Kingdom and the United States, with a small presence in India and Canada (based on LinkedIn X\u2011ray search results). ([uk.linkedin.com](https://uk.linkedin.com/in/kostadin-dev?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "United States hires: multiple roles list Remote \u2013 United States on Stellar Cyber\u2019s Workable board.",
+    "quote": "Remote 040000 Products \u2014 United States.",
+    "url": "https://apply.workable.com/stellar-cyber/j/9229E42119/"
+   },
+   {
+    "claim": "Latin America hires (Mexico): LinkedIn posting confirms remote and in-country residency.",
+    "quote": "This is a remote role. Must reside in the Mexico City greater area.",
+    "url": "https://mx.linkedin.com/jobs/view/regional-sales-manager-mexico-at-stellar-cyber-4455953328"
+   },
+   {
+    "claim": "Europe hires (Germany/EMEA): LinkedIn posting states the EMEA SDR role is remote.",
+    "quote": "This is a remote position, allowing you to work flexibly while driving the growth of our global business.",
+    "url": "https://de.linkedin.com/jobs/view/sales-development-representative-emea-at-stellar-cyber-4359340284"
+   },
+   {
+    "claim": "UK hires: LinkedIn posting for Regional Sales Director UKI & Northern Europe confirms remote.",
+    "quote": "This is a remote role.",
+    "url": "https://uk.linkedin.com/jobs/view/regional-sales-director-uki-northern-europe-region-at-stellar-cyber-4422885917"
+   },
+   {
+    "claim": "Asia hires (Japan): Workable job listing shows Remote \u2013 Japan.",
+    "quote": "Remote Japan 060000 Customer Success Full-time.",
+    "url": "https://jobs.workable.com/view/6gNT7r5oH9pezRqAfkrNV3/remote-senior-technical-support-engineer-in-japan-at-stellar-cyber"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-26T03:51:46+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workable:storyteq": {
   "company": "storyteq",
   "confidence": "medium",
@@ -21637,6 +21909,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:uworld": {
+  "company": "uworld",
+  "confidence": "high",
+  "distribution_summary": "Based on LinkedIn X\u2011ray results, current UWorld employees are predominantly located in the United States (many profiles); I found no matching current-employee profiles on the other country-coded LinkedIn subdomains searched.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote roles are restricted to specific U.S. territories/metros (not global).",
+    "quote": "This is a remote role based out of the Los Angeles or Orange County areas. This position will support a Southern California territory.",
+    "url": "https://www.linkedin.com/jobs/view/attorney-sales-director-themis-bar-review-southern-california-at-uworld-4441271088"
+   },
+   {
+    "claim": "U.S. remote Account Executive roles require residence within the assigned territory.",
+    "quote": "PLEASE NOTE: Although this is a remote role, we require our Account Executives to reside within their assigned territory.",
+    "url": "https://www.monster.com/job-openings/account-executive-field-based-sales-college-readiness-austin-tx--1ac6767a-ac6f-4352-9eae-e38d0ab28a57"
+   },
+   {
+    "claim": "Multiple third\u2011party postings for UWorld remote roles reiterate the U.S.\u2011territory residency requirement.",
+    "quote": "PLEASE NOTE: Although this is a remote role, we require our Account Executives to reside within their assigned territory.",
+    "url": "https://dailyremote.com/remote-job/account-executive-field-based-sales-college-readiness-5310367"
+   },
+   {
+    "claim": "Some UWorld remote roles are explicitly U.S.-based.",
+    "quote": "Remote Nursing Contract 010726 \u2026 United States",
+    "url": "https://apply.workable.com/uworld/j/7FE7E6ABE8/"
+   },
+   {
+    "claim": "UWorld applications ask for U.S. work authorization, indicating U.S.-only employment for these roles.",
+    "quote": "Are you authorized to work lawfully in the United States?",
+    "url": "https://apply.workable.com/uworld/j/2AA507FF8B/apply/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-26T03:51:46+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:valsoft-corp": {

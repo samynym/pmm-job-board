@@ -1,10 +1,14 @@
 {
- "ran_at": "2026-08-25T03:42:37+00:00",
+ "ran_at": "2026-08-26T03:48:25+00:00",
  "new_boards": [
-  "lever:ethena",
-  "lever:ppro"
+  "greenhouse:cloudflare",
+  "greenhouse:coconutsoftware",
+  "greenhouse:smartbiz",
+  "greenhouse:strava",
+  "workable:hunt-st",
+  "workable:stellar-cyber"
  ],
- "new_urls": 2,
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 8
+ "dork_offset": 14
 }

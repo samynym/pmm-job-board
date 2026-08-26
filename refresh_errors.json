@@ -52,6 +52,14 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:smartbiz",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:strava",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:tekion",
   "error": "HTTP Error 404: Not Found"
  },
@@ -80,23 +88,39 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/quandela/j/97B681D978",
+  "url": "https://apply.workable.com/flexcompute/j/9BCF19270F",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/boloai/jobs/4317468009",
+  "url": "https://apply.workable.com/teguar-corporation/j/A517D24FFF",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/extrahopnetworks/jobs/6100876004",
+  "url": "https://apply.workable.com/twocircles/j/81763510A4",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/stripe/jobs/7961101",
+  "url": "https://boards.greenhouse.io/disguisetechnologiesltd/jobs/4911950101",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/stripe/jobs/8060324",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8035274",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/postman/jobs/7713692003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/sonderaustralia/jobs/8221889002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/stripe/jobs/7947510",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/yurtsai/jobs/5203419007",
   "error": "HTTP 404"
  },
  {
@@ -108,8 +132,8 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/Senior-Director--Global-Brand-and-Product-Marketing---HOKA_19645",
-  "error": "HTTP 403"
+  "url": "https://clanx.recruitee.com/o/director-of-product-marketing-saas-remote",
+  "error": "HTTP 404"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -124,27 +148,19 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
- },
- {
   "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/elevenlabs/ae123687-766d-4007-bda8-fa89ecaeac69",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/openai/8960d7b6-b345-478f-a5ad-67beaa32f425",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/saronic/b425a6ee-febb-4e19-8532-2d320e67a3db",
+  "url": "https://jobs.ashbyhq.com/overflow/6c8fc56d-c2c7-4573-b952-eaa75979c8cd",
   "error": "delisted or no data"
  },
  {
@@ -152,27 +168,39 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/conair/job/oz2BAfww",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/actian/0c78246b-3468-4bfd-8334-92eb738e16ed",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/actian/8aa32b00-1a52-48e6-9c71-2f03643f1f4e",
-  "error": "HTTP 404"
- },
- {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/5c9673e3-f69b-40d0-8d61-6ad15958256f",
+  "url": "https://jobs.lever.co/happyco/39fa87f5-6d53-4b00-900b-694e554d13ef",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/ac3717c5-dbfe-4f68-a15b-56a393b75285",
+  "url": "https://jobs.lever.co/jobgether/0689ed8b-a886-4dce-a003-b6d8c836fffd",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/6b696f81-6a19-4230-801c-9f7b4de2c9c2",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/db068227-e792-4de1-adbb-10df5409b3d5",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/e44a7fbe-c857-449b-9363-9be2d5c64fa4",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/6c74d195-4bfd-4c4c-ba64-d7f9649525c8",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/2d00d50b-f20e-4b27-b779-6eba97221388",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/matchgroup/fb436862-c9d3-4eb0-ad89-b70cad8a7480",
   "error": "HTTP 404"
  },
  {
@@ -180,7 +208,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2638670",
+  "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Product-Marketing-Manager_R20951",
   "error": "HTTP 403"
  },
  {
@@ -192,16 +220,24 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Product-Marketing-Intern--Furniture-_JR2026007762",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Product-Marketing-Intern--Lifestyle-_JR2026007763",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Manager--Product-Marketing---Samsung-TVPlus_R113511",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
- },
- {
-  "url": "https://talentminded74.applytojob.com/apply/epzUdGX5Fp",
-  "error": "HTTP 410"
  },
  {
   "url": "https://swissbit.jobs.personio.de/job/2668354",

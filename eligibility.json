@@ -1248,6 +1248,17 @@
 "timezone": "US or EMEA timezones",
 "work_auth": null
 },
+"https://apply.workable.com/hunt-st/j/a7e86cc45e": {
+"countries": [
+"Philippines"
+],
+"eligibility_stated": true,
+"evidence": "Looking for Philippines-based candidates",
+"extracted_at": "2026-08-26T03:51:34+00:00",
+"regions": [],
+"timezone": "align with AU business hours",
+"work_auth": null
+},
 "https://apply.workable.com/irth-solutions/j/c44f969200": {
 "countries": [
 "United States"
@@ -1294,6 +1305,19 @@
 "US"
 ],
 "timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/mydbsync/j/63d6fc1b97": {
+"countries": [
+"Mexico"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Mexico\nJob Location: Latin America (Remote) Work Shift: U.S Shift (8:00 AM CST to 5:00 PM CST)",
+"extracted_at": "2026-08-26T03:51:34+00:00",
+"regions": [
+"Latin America"
+],
+"timezone": "CST (8:00\u201317:00)",
 "work_auth": null
 },
 "https://apply.workable.com/mydbsync/j/86a8a9bd53": {
@@ -1459,6 +1483,19 @@
 "timezone": null,
 "work_auth": "Must be authorized to work in the country in which you reside. Seeq does not sponsor US F1 or H-1B work visas"
 },
+"https://apply.workable.com/stellar-cyber/j/758022bb94": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-08-26T03:51:34+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/talentpluto/j/020f517f01": {
 "countries": [
 "United States"
@@ -1518,6 +1555,19 @@
 "eligibility_stated": true,
 "evidence": "Location: United States (remote)",
 "extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/uworld/j/b71af2505c": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-08-26T03:51:34+00:00",
 "regions": [
 "US"
 ],
@@ -2086,6 +2136,17 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/ashby/1290fe74-72f6-4544-ad7d-562f89ecd780": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - US",
+"extracted_at": "2026-08-26T03:51:34+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
