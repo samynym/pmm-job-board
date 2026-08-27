@@ -1,14 +1,10 @@
 {
- "ran_at": "2026-08-26T03:48:25+00:00",
+ "ran_at": "2026-08-27T13:36:10+00:00",
  "new_boards": [
-  "greenhouse:cloudflare",
-  "greenhouse:coconutsoftware",
-  "greenhouse:smartbiz",
-  "greenhouse:strava",
-  "workable:hunt-st",
-  "workable:stellar-cyber"
+  "workable:packtpublishing",
+  "workable:supercritical"
  ],
- "new_urls": 6,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 14
+ "dork_offset": 20
 }

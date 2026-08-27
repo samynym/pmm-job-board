@@ -16924,6 +16924,74 @@
   "researched_at": "2026-07-31T06:09:19+00:00",
   "scope_basis": "mixed"
  },
+ "rippling:respondology-careers": {
+  "company": "Respondology",
+  "confidence": "high",
+  "distribution_summary": "Respondology\u2019s employees appear to be concentrated in the United States (headquarters in Boulder \u2014 many profiles), with small presence in the UK, Australia, and Canada (few); locations in other listed countries return no clear current-employee profiles or are ambiguous/unknown.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "unknown",
+   "pl": "none",
+   "sa": "none",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote hiring is available in the United States (per official PMM posting).",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/respondology-careers/jobs/ae9b591f-4da5-4763-8bf6-3b370f427dbe"
+   },
+   {
+    "claim": "Canada is an eligible hiring location for the Senior Applied Machine Learning Engineer role.",
+    "quote": "Canada",
+    "url": "https://ats.rippling.com/respondology-careers/jobs/67285f6c-cbee-4507-8c5b-c7f3466450ab"
+   },
+   {
+    "claim": "The ML Engineer role also lists the U.S. as an eligible remote location.",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/respondology-careers/jobs/67285f6c-cbee-4507-8c5b-c7f3466450ab"
+   },
+   {
+    "claim": "Some roles are hybrid and Boulder-based, indicating an office-leaning posture for certain functions.",
+    "quote": "This is a hybrid position based in Boulder, CO, with team members in the office 2\u20133 days per week.",
+    "url": "https://ats.rippling.com/respondology-careers/jobs/a7977c90-ce61-4cc5-8e0f-5e5ec03183bc"
+   },
+   {
+    "claim": "The live jobs list shows Engineering with \u2018Canada\u2019 and \u2018Remote (United States)\u2019, and Product with \u2018Hybrid (Boulder, Colorado, US)\u2019 and \u2018Remote (United States)\u2019.",
+    "quote": "Engineering \u2026 Canada \u2026 Remote (United States) \u2026 Product \u2026 Hybrid (Boulder, Colorado, US) \u2026 Remote (United States)",
+    "url": "https://ats.rippling.com/respondology-careers/jobs"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-27T13:39:02+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:rhythm-energy": {
   "company": "Rhythm Energy",
   "confidence": "high",
@@ -21048,6 +21116,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "workable:packtpublishing": {
+  "company": "packtpublishing",
+  "confidence": "medium",
+  "distribution_summary": "Searches for public LinkedIn profiles using the prescribed X\u2011ray queries returned no usable results (search failed/ambiguous), so the country-level distribution could not be determined.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Packt states it is a global, remote-first business with most of the team in India and the UK (supports remote posture and UK/India focus).",
+    "quote": "We are a global and remote-first business with most of our team based in India and the UK.",
+    "url": "https://apply.workable.com/packtpublishing/j/5B137D3DC0/"
+   },
+   {
+    "claim": "Active roles specify remote hiring in India (shows concrete current hiring geography).",
+    "quote": "Remote India",
+    "url": "https://jobs.workable.com/view/stm5VvFLP2N7xSSoc1Nz3d/remote-content-engineer-%28editorial%29-in-india-at-packt"
+   },
+   {
+    "claim": "Another current listing also shows location constrained to Remote \u2014 India.",
+    "quote": "Remote India",
+    "url": "https://jobs.workable.com/view/51uQVnd5uGbvbfEbZeRX5P/remote-project-manager-in-india-at-packt"
+   },
+   {
+    "claim": "Company maintains offices/entities in the UK and India (supports ability to employ in the UK and India).",
+    "quote": "Packt Publishing is an international IT book publishing company based in Birmingham, UK, and Mumbai, India.",
+    "url": "https://packtpub.hire.trakstar.com/"
+   },
+   {
+    "claim": "Recent Packt job advertising reiterates remote-first and India/UK team footprint (reinforces posture and geography).",
+    "quote": "We are a global and remote-first business with most of our team based in India and the UK.",
+    "url": "https://in.linkedin.com/jobs/view/growth-lead-at-packt-4445096308"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "likely",
+   "US": "unlikely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-27T13:39:02+00:00",
+  "scope_basis": "unclear"
  },
  "workable:pavago": {
   "company": "pavago",
