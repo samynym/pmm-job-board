@@ -1272,6 +1272,19 @@
 "timezone": "align with AU business hours",
 "work_auth": null
 },
+"https://apply.workable.com/invicti-security/j/3812b005ca": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-08-28T14:51:08+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/irth-solutions/j/c44f969200": {
 "countries": [
 "United States"
@@ -1318,6 +1331,19 @@
 "US"
 ],
 "timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/mydbsync/j/33ee6c783e": {
+"countries": [
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Job Location: Montreal, Canada (Remote)",
+"extracted_at": "2026-08-28T14:51:08+00:00",
+"regions": [
+"Canada"
+],
+"timezone": "U.S. Shift (8:00 AM CST to 5:00 PM CST)",
 "work_auth": null
 },
 "https://apply.workable.com/mydbsync/j/63d6fc1b97": {
@@ -2159,6 +2185,17 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/ashby/07201b7e-a581-46a6-bbd3-432824bd761f": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - US",
+"extracted_at": "2026-08-28T14:51:08+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -4437,6 +4474,17 @@
 "timezone": null,
 "work_auth": null
 },
+"workday:allstate.wd5.myworkdayjobs.com:R33249-1": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "\"US - Remote\"; \"Allstate generally does not sponsor individuals for employment-based visas for this position.\"",
+"extracted_at": "2026-08-28T14:51:08+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "No employment-based visa sponsorship (implies US work authorization required)"
+},
 "workday:alteryx.wd108.myworkdayjobs.com:R12082-1": {
 "countries": [],
 "eligibility_stated": true,
@@ -4603,6 +4651,19 @@
 ],
 "timezone": null,
 "work_auth": null
+},
+"workday:availity.wd1.myworkdayjobs.com:R0008268": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Sponsorship, in any form, is not available for this position. Location: Remote, US",
+"extracted_at": "2026-08-28T14:51:08+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "US work authorization required"
 },
 "workday:buildertrend.wd108.myworkdayjobs.com:JR-000396": {
 "countries": [

@@ -20492,6 +20492,74 @@
   "researched_at": "2026-08-26T03:51:46+00:00",
   "scope_basis": "unclear"
  },
+ "workable:invicti-security": {
+  "company": "invicti-security",
+  "confidence": "medium",
+  "distribution_summary": "Most current Invicti employees (many) appear to be based in the United States, with a small presence in the UK and Canada and little-to-no visible current-employee LinkedIn profiles in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (offices in US, Malta, Czech Republic, Turkey); no EOR mentioned",
+  "evidence": [
+   {
+    "claim": "Invicti advertises hybrid/remote work and lists office hubs in the US and EMEA (Austin, Boston, Malta, Brno, Turkey).",
+    "quote": "Hybrid/Remote Work\u2026 If you are local to one of our office locations, you can work a hybrid/home schedule\u2026 Where You\u2019ll Find Us\u2026 Austin, Texas\u2026 Boston, Massachusetts\u2026 Birkirkara, Malta\u2026 Brno, Czech Republic\u2026 Ankara and Istanbul, Turkey.",
+    "url": "https://www.invicti.com/careers"
+   },
+   {
+    "claim": "Remote hiring in the US is active (example role).",
+    "quote": "Senior Software Engineer, Agentic AI\u2026 Remote Full time\u2026 Austin, Texas, United States.",
+    "url": "https://apply.workable.com/invicti-security/j/F00F806207/"
+   },
+   {
+    "claim": "Remote hiring in the EU (Czechia) is active and limited to country residency.",
+    "quote": "Senior Technical Writer \u2014 Remote Full time \u2014 Czechia\u2026 *Are you already based in Czech Republic?*",
+    "url": "https://apply.workable.com/invicti-security/j/0384D411BD/apply"
+   },
+   {
+    "claim": "Active employee presence in Malta and Turkey (onsite events), supporting entity-based hiring in those countries.",
+    "quote": "Invictians in Malta and Turkey brought 42 kids to work for the day.",
+    "url": "https://cdn.invicti.com/app/uploads/2025/01/08065918/Invicti-DEIB-Report-2024.pdf"
+   },
+   {
+    "claim": "Employee presence in the UK, indicating capability to employ there.",
+    "quote": "Invicti \u2014 Belfast, Northern Ireland, United Kingdom\u2026 I\u2019m thrilled to share that I\u2019m starting a new chapter as a Federal Account Executive at Invicti Security!",
+    "url": "https://uk.linkedin.com/in/ciaran-smyth"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-28T14:51:27+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workable:irth-solutions": {
   "company": "irth-solutions",
   "confidence": "medium",
@@ -22523,6 +22591,74 @@
   "researched_at": "2026-07-19T14:18:38+00:00",
   "scope_basis": "legal-entity"
  },
+ "workday:('allstate.wd5.myworkdayjobs.com', 'allstate_careers')": {
+  "company": "Allstate Insurance Co.",
+  "confidence": "high",
+  "distribution_summary": "Most Allstate employees are in the United States (many); small presences likely in Canada and India (few); other countries are unknown based on the search results.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "few",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": "own entities (e.g., Allstate Canada; Allstate NI in the UK; Allstate India; Integon/National General in Mexico)",
+  "evidence": [
+   {
+    "claim": "Allstate\u2019s U.S. workforce is overwhelmingly remote/hybrid, confirming broad U.S. remote hiring.",
+    "quote": "Today, our U.S. workforce is 99% remote or hybrid.",
+    "url": "https://www.allstatecorporation.com/stories/future-of-flexible-work.aspx"
+   },
+   {
+    "claim": "Allstate Canada posts fully-remote roles limited to specific provinces, showing Canada remote hiring with geographic restrictions.",
+    "quote": "Role Designation: Remote (Ontario, Alberta, Nova Scotia, New Brunswick, Quebec)",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/CAN---ON-GTA-Remote/Risk-Quality-Specialist_R32984"
+   },
+   {
+    "claim": "Allstate hires remotely in Latin America via Integon/National General in Mexico, with fully remote roles.",
+    "quote": "locations Mexico (Remote) \u2026 remote type Fully Remote \u2026 Integon is a part of The Allstate Corporation",
+    "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/mexico-remote/software-engineer-senior-consultant-ii_r30712"
+   },
+   {
+    "claim": "Allstate NI clarifies that \u2018remote\u2019 roles are hybrid for NI residents and fully remote for candidates elsewhere in the UK, confirming UK remote eligibility.",
+    "quote": "When a role is listed as remote, this typically means a hybrid working model for colleagues based in Northern Ireland, and fully remote working for candidates based elsewhere in the UK.",
+    "url": "https://www.allstateni.com/careers/recruitment-faqs.aspx"
+   },
+   {
+    "claim": "Some U.S. remote roles are constrained by time zone, indicating timezone-based scope alongside legal/geographic limits.",
+    "quote": "Virtual Assist - Auto Adjuster - Mountain or Pacific Time Zone - Remote",
+    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Virtual-Assist---Auto-Adjuster---Mountain-or-Pacific-Time-Zone---Remote_R30084"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "unlikely",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-28T14:51:27+00:00",
+  "scope_basis": "mixed"
+ },
  "workday:('alteryx.wd108.myworkdayjobs.com', 'AlteryxCareers')": {
   "company": "Alteryx, Inc.",
   "confidence": "medium",
@@ -22929,6 +23065,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('availity.wd1.myworkdayjobs.com', 'Availity_Careers_US')": {
+  "company": "Availity",
+  "confidence": "medium",
+  "distribution_summary": "Most Availity employees (per LinkedIn X\u2011ray results) appear to be located in the United States, with a small presence in Canada, Australia, and India; no current-employee profiles were found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US HQ; Availity India office). No evidence of EOR usage.",
+  "evidence": [
+   {
+    "claim": "US roles are remote but require being located in the United States.",
+    "quote": "locations\n    Remote - United States ... Location: Remote, US",
+    "url": "https://availity.wd1.myworkdayjobs.com/en-US/Availity_Careers_US/job/Director--Product-Marketing--Remote-_R0008268"
+   },
+   {
+    "claim": "US jobs reference U.S. work authorization checks (I\u20119/E\u2011Verify), reinforcing US\u2011only employment.",
+    "quote": "NOTICE: Federal law requires all employers to verify the identity and employment eligibility of all persons hired to work in the United States. When required by state law or federal regulation, Availity uses I\u20119, Employment Eligibility Verification in conjunction with E\u2011Verify.",
+    "url": "https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Remote---United-States/Software-Engineer-III_R0007976"
+   },
+   {
+    "claim": "Company describes its distributed model as a remote workforce across the United States (not global).",
+    "quote": "With our headquarters in vibrant Jacksonville, FL, and an exciting office in Bangalore, India, along with an exceptional remote workforce across the United States, we're a global team united by a powerful mission.",
+    "url": "https://availity.wd1.myworkdayjobs.com/en-US/Availity_Careers_US/job/Remote---United-States/Director--Product-Operations--Remote-_R0008219"
+   },
+   {
+    "claim": "Corporate footprint shows only US HQ and an India office (supports own-entity hiring in India; no other regions listed).",
+    "quote": "Corporate Headquarters Jacksonville, Florida ... Availity India ... Nagavara, Bangalore, Karnataka 560045",
+    "url": "https://www.availity.com/locations/"
+   },
+   {
+    "claim": "India careers content confirms active hiring in Bengaluru/India.",
+    "quote": "Join the Availity India team! Our associates in Bangalore, India are developing cutting edge revenue cycle solutions and supporting our BPO business.",
+    "url": "https://www.availity.com/Careers/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-28T14:51:27+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('buildertrend.wd108.myworkdayjobs.com', 'External_Careers')": {
