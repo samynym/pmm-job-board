@@ -1,11 +1,10 @@
 {
- "ran_at": "2026-08-28T14:47:56+00:00",
+ "ran_at": "2026-08-29T09:38:29+00:00",
  "new_boards": [
-  "workday:('allstate.wd5.myworkdayjobs.com', 'allstate_careers')",
-  "workday:('availity.wd1.myworkdayjobs.com', 'Availity_Careers_US')",
-  "workday:('wpengine.wd1.myworkdayjobs.com', 'WP_Engine')"
+  "workable:blacklinesafety",
+  "workable:zipliens"
  ],
- "new_urls": 3,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 26
+ "dork_offset": 0
 }

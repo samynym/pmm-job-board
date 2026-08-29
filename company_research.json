@@ -5411,6 +5411,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:temporal": {
+  "company": "temporal",
+  "confidence": "medium",
+  "distribution_summary": "Most Temporal employees appear to be in the United States (many), with a small number in Canada and a few in India; little or no presence surfaced on the other country-specific LinkedIn subdomains.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "unknown",
+  "evidence": [
+   {
+    "claim": "Remote-first with most roles remote in-country and some remote within a region; actively hiring in the United States.",
+    "quote": "Location \u2014 United States \u2026 Temporal is remote-first. Most roles are remote in-country, some are remote within a region, and a few teams have an in-office hub.",
+    "url": "https://temporal.io/careers/25568018-4545-448c-acef-1ac481e67d5d"
+   },
+   {
+    "claim": "Hiring in Europe with EMEA-focused roles; example based in France.",
+    "quote": "Location \u2014 Paris, France \u2026 Temporal is a remote-first company; however, this role is focused on EMEA to better support our customers and collaborate more effectively with regional teammates.",
+    "url": "https://temporal.io/careers/8d36eacb-61cf-466d-ba9a-d5849d3312eb"
+   },
+   {
+    "claim": "Hiring in the United Kingdom.",
+    "quote": "Field Marketing Manager, Sponsorship & Experiential \u2014 United Kingdom \u2026 Create/scale programs that build Temporal\u2019s presence with developers and technical communities in London and across the UK. \u2026 Location \u2014 United Kingdom (London strongly preferred).",
+    "url": "https://jobs.ashbyhq.com/temporal/9a2e32f5-2f85-49ea-b1af-855178bb0af8"
+   },
+   {
+    "claim": "Hiring in Asia; example role based in Singapore (remote, in-country eligibility).",
+    "quote": "Location \u2014 Singapore, Singapore \u2026 Workplace \u2014 Remote \u2026 Reside in Singapore and are eligible to work without sponsorship.",
+    "url": "https://temporal.io/careers/d9b9d44f-0a87-4237-b101-360052373643"
+   },
+   {
+    "claim": "Canada likely supported; company recruiter indicates roles are 100% remote in US/CAN.",
+    "quote": "\u201c\u2026here\u2019s a small slice of what we\u2019re cooking currently @ Temporal Technologies (100% remote in US/CAN as well)\u2026\u201d.",
+    "url": "https://www.linkedin.com/posts/maxxsnow_hiring-remotejobs-activity-7447378629577052160-XSYs"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "likely",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-29T09:41:20+00:00",
+  "scope_basis": "mixed"
+ },
  "ashby:tesslcareers": {
   "company": "tesslcareers",
   "confidence": "medium",
@@ -22523,6 +22591,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "workable:zipliens": {
+  "company": "zipliens",
+  "confidence": "high",
+  "distribution_summary": "Zipliens\u2019 LinkedIn presence and employee profiles indicate the company\u2019s workforce is primarily located in the United States (Louisville/Franklin area and other U.S. cities).",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote roles require U.S. work authorization (implies U.S.-only employment).",
+    "quote": "Work Authorization: Applicants must be authorized to work in the United States without the need for employer-sponsored visa support now or in the future.",
+    "url": "https://jobs.workable.com/view/wzEgebfBbzUJnVxvXxkYEf/remote-corporate-counsel-in-kentucky-at-zipliens"
+   },
+   {
+    "claim": "A current remote role is explicitly marked USA Only.",
+    "quote": "Remote Location \ud83c\uddfa\ud83c\uddf8 USA Only",
+    "url": "https://remotive.com/remote/jobs/all-others/lien-resolution-agency-manager-5547719"
+   },
+   {
+    "claim": "Third-party remote-company directory lists ZipLiens as United States only for remote jobs.",
+    "quote": "United States only",
+    "url": "https://himalayas.app/companies/zipliens"
+   },
+   {
+    "claim": "Another active remote posting is tagged Remote in Kentucky (U.S.).",
+    "quote": "Remote in Kentucky",
+    "url": "https://www.indeed.com/viewjob?jk=7da9ba3d36d3c6c4"
+   },
+   {
+    "claim": "Company communications show hybrid roles tied to a U.S. office and separate remote roles, reinforcing U.S.-centric hiring.",
+    "quote": "IT Operations Manager Hybrid \u2014 Franklin, TN  SE Agency Manager, Lien Resolution \u2014 Remote",
+    "url": "https://om.linkedin.com/company/zipliens-llc"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-29T09:41:20+00:00",
+  "scope_basis": "legal-entity"
+ },
  "workday:('adobe.wd5.myworkdayjobs.com', 'external_experienced')": {
   "company": "ADUS-Adobe Inc.",
   "confidence": "high",
@@ -23881,6 +24017,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-22T05:45:42+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workday:('spscommerce.wd108.myworkdayjobs.com', 'SPS')": {
+  "company": "SPS Commerce Inc",
+  "confidence": "high",
+  "distribution_summary": "SPS Commerce\u2019s employees are concentrated in the United States (many) with notable presence in the UK and Australia (many); smaller numbers appear in Canada, India, Singapore, Germany, France and the Middle East (few), and no or negligible presence surfaced for several other listed countries.",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "many",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "United States: hires fully-remote across the US.",
+    "quote": "This is a fully remote role across the US.",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/United-States-Remote/Cloud-Engineer_R-000761-1"
+   },
+   {
+    "claim": "Canada: explicitly open to remote candidates anywhere in Canada.",
+    "quote": "We are also open to remote candidates located anywhere within Canada.",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS/job/Software-Engineer_R-000852"
+   },
+   {
+    "claim": "Europe: hires remote in Germany (role is fully remote while residing in Germany).",
+    "quote": "locations\n    Germany Remote\n...\nThis position is fully remote.",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/sps/job/germany-remote/account-executive_r-000948"
+   },
+   {
+    "claim": "Asia and Oceania: lists Philippines Remote and Australia Remote, with Australia open to candidates anywhere in-country.",
+    "quote": "locations\n    Australia Remote\n    Philippines Remote\n...\nThis role follows a fully remote work model and is open to candidates located anywhere in Australia.",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS/job/Sr-Payroll-Assistant_R-000755"
+   },
+   {
+    "claim": "Scope basis indicator: benefits are country-specific and aligned with local laws (implies country-by-country employment compliance vs. time-zone gating).",
+    "quote": "Benefits are country-specific and aligned with local laws and market practices.",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS/job/Product-Marketing-Manager_R-000657"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-29T09:41:20+00:00",
   "scope_basis": "legal-entity"
  },
  "workday:('strideinc.wd1.myworkdayjobs.com', 'SK')": {
