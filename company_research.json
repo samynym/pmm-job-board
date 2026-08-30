@@ -883,6 +883,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:archouse": {
+  "company": "archouse",
+  "confidence": "high",
+  "distribution_summary": "Public LinkedIn evidence indicates Archouse (ArcHouse/ArcHouse Architects) has employees primarily in the United Arab Emirates and a small presence linked to Kenya; no current-employee profiles were found for the other listed countries. (Sources: LinkedIn company/profile pages.)",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "few",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "none",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "ArcHouse hires remotely within the United States and lists NY/SF as optional hubs.",
+    "quote": "Location Remote - US; New York; San Francisco",
+    "url": "https://jobs.ashbyhq.com/archouse/64db294c-8b94-407b-9900-1bb0b2656619"
+   },
+   {
+    "claim": "ArcHouse describes itself as remote-first with optional co-working in New York and San Francisco.",
+    "quote": "ArcHouse is a remote-first company, with optional co-working offices in New York & San Francisco.",
+    "url": "https://jobs.ashbyhq.com/archouse/c14ad983-86c8-4c57-94de-a96b681666a0"
+   },
+   {
+    "claim": "Multiple open roles repeat the remote-first + NY/SF hubs language, reinforcing company-wide policy.",
+    "quote": "ArcHouse is a remote-first company, with optional co-working offices in New York & San Francisco.",
+    "url": "https://jobs.ashbyhq.com/archouse/184a3ca8-a1d5-4356-84a1-c821cf193776"
+   },
+   {
+    "claim": "ArcHouse is a US-based healthcare SaaS company (NY), supporting the inference that hiring is US-focused.",
+    "quote": "ArcHouse is a comprehensive, modern operations platform for hospice care. ... New York, NY",
+    "url": "https://www.metriport.com/customers/archouse"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-08-30T08:52:52+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:artian": {
   "company": "artian",
   "confidence": "high",
@@ -3820,6 +3883,74 @@
   "remote_posture": "hub-based",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
+ },
+ "ashby:omni": {
+  "company": "omni",
+  "confidence": "high",
+  "distribution_summary": "\u201cOmni\u201d is an ambiguous company name \u2014 I need you to specify which Omni (e.g., Omni Hotels & Resorts, Omni Financial/Payments, Omni Health, Omni (software), or provide the company\u2019s website) before I can run LinkedIn X\u2011ray searches and estimate employee locations.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Omni hires remotely across North America and in the UK/Ireland (explicit location scope).",
+    "quote": "Location: Remote - North America, Dublin (IE )& London (UK)",
+    "url": "https://jobs.ashbyhq.com/omni/21551f45-7485-48a1-8eb5-92994a6c8747/"
+   },
+   {
+    "claim": "Omni hires in the UK and Ireland for EMEA; Dublin role indicates in-office hybrid option there.",
+    "quote": "Location: Remote UK & IE \u2026 This role is hybrid in Dublin (3 days per week in-office).",
+    "url": "https://jobs.ashbyhq.com/omni/af69cdcb-078d-4695-9dac-48365f4733ef/"
+   },
+   {
+    "claim": "Omni hires in Australia, including fully remote roles in Sydney.",
+    "quote": "Location: Sydney, Australia \u2026 Location Type: Remote",
+    "url": "https://jobs.ashbyhq.com/omni/68b63058-00a4-40c0-a0dd-563ccdea4294"
+   },
+   {
+    "claim": "Omni hires remote across the United States.",
+    "quote": "Location: Remote - US",
+    "url": "https://jobs.ashbyhq.com/omni/d42d9a91-6c6a-480a-b1ad-04ee5550c827"
+   },
+   {
+    "claim": "Omni lists hubs across multiple regions, including Canada (Toronto), Ireland (Dublin), and Australia (Sydney).",
+    "quote": "We have teams across the world. They\u2019re centered around regional hubs to support our employees and customers wherever they work. \u2026 Toronto \u2026 Dublin \u2026 Sydney",
+    "url": "https://omni.co/about"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-30T08:52:52+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:onecrew": {
   "company": "onecrew",

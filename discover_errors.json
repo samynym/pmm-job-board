@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "applytojob.com|product marketer",
+  "query": "jobs.lever.co|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "ats.rippling.com|product marketing",
+  "query": "jobs.lever.co|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {

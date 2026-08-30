@@ -2192,6 +2192,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/archouse/64db294c-8b94-407b-9900-1bb0b2656619": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - US",
+"extracted_at": "2026-08-30T08:52:48+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/artian/248514e2-45a6-45d6-b233-c55aae1cf37b": {
 "countries": [],
 "eligibility_stated": false,
@@ -2766,6 +2777,17 @@
 "regions": [
 "UK",
 "Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/omni/d42d9a91-6c6a-480a-b1ad-04ee5550c827": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - US",
+"extracted_at": "2026-08-30T08:52:48+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null

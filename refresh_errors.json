@@ -84,47 +84,23 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "jobvite:panasas",
-  "error": "HTTP Error 500: Internal Server Error"
- },
- {
   "board": "lever:Loop AI",
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://ats.rippling.com/fello-careers/jobs/af59e649-2429-45fa-9464-a1a34a7ac33f",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://ats.rippling.com/respondology-careers/jobs/ae9b591f-4da5-4763-8bf6-3b370f427dbe",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://boards.greenhouse.io/anthropic/jobs/5385602008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/anthropic/jobs/5385651008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/postman/jobs/7729921003",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/temporaltechnologies/jobs/5044184007",
-  "error": "HTTP 404"
+  "board": "jobvite:panasas",
+  "error": "HTTP Error 500: Internal Server Error"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -136,6 +112,14 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
@@ -144,19 +128,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/Wisdom-AI/326b0bb8-f16d-4f50-af78-2e108982806e",
+  "url": "https://jobs.ashbyhq.com/clera/ec671d31-edbd-4864-929c-9c6245525ee3",
   "error": "delisted or no data"
  },
  {
@@ -164,11 +140,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/asus/job/oU6pAfwJ",
+  "url": "https://jobs.jobvite.com/egnyte/job/oYKBAfwD",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/progress/job/ornnAfwv",
+  "url": "https://jobs.jobvite.com/varonis-internal/job/oyaoAfwq",
   "error": "delisted or no data"
  },
  {
@@ -176,20 +152,12 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/b32d4a52-d54f-4460-b717-01d6087df3c5",
-  "error": "HTTP 404"
- },
- {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/veeva/0f983358-0e68-49dc-8f0d-b9d7f877f492",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/vivenu/56edfc4f-81c0-4558-9e9f-365036465a5d",
-  "error": "HTTP 404"
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---Autonomous-Vehicles_JR2019131",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -200,24 +168,16 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Category-Head_R119079",
-  "error": "HTTP 403"
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "delisted or no data"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
- },
- {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
   "error": "delisted or no data"
- },
- {
-  "url": "https://velixo.applytojob.com/apply/Ah3XWkt1to",
-  "error": "HTTP 410"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",

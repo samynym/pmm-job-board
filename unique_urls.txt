@@ -645,6 +645,7 @@ https://jobs.ashbyhq.com/acorns/ca5f0d7c-19da-4507-9935-72db5fdc15b9
 https://jobs.ashbyhq.com/aditude/0d5fd5ec-a330-458c-9a8f-b508244615b0
 https://jobs.ashbyhq.com/altruistiq/1c15faf8-bc11-47be-8af4-2f0027e78bfb
 https://jobs.ashbyhq.com/arcadeai/dfaea34f-4688-41cd-9624-afb48ea8581f
+https://jobs.ashbyhq.com/archouse/64db294c-8b94-407b-9900-1bb0b2656619
 https://jobs.ashbyhq.com/artian/248514e2-45a6-45d6-b233-c55aae1cf37b
 https://jobs.ashbyhq.com/ashby/dfc35159-ffe5-4d42-bea3-552b5dc17628
 https://jobs.ashbyhq.com/athena-hq/86916f81-e3d3-4ed5-9c80-a0a4e4e3f9cd
@@ -725,6 +726,7 @@ https://jobs.ashbyhq.com/ltv/a5d344b5-9696-4623-bd8b-6fc67308ad2e
 https://jobs.ashbyhq.com/lucidlink/0b6c6658-a539-4b83-b873-49b00d078552
 https://jobs.ashbyhq.com/mem.ai/c8255936-9d6f-43df-ad01-d66f768931c8
 https://jobs.ashbyhq.com/mento/4c34361d-7a2e-4cd5-a3f7-e43f55a97af9
+https://jobs.ashbyhq.com/merciv/5e566557-1db0-4447-aeb8-2e3b47018019
 https://jobs.ashbyhq.com/middesk/4f430902-9ff2-4e1c-85ca-258123f3ab0c
 https://jobs.ashbyhq.com/midstream/35b53ebc-410a-4dfb-86ae-c40bb03946d3
 https://jobs.ashbyhq.com/mintlify/ba7fea3c-8440-4bfd-bfbe-3eb75e5191ee
@@ -736,6 +738,7 @@ https://jobs.ashbyhq.com/northslope-technologies/f7ea43ce-eca6-4042-8d07-a47b2b2
 https://jobs.ashbyhq.com/nylas/2acb49b8-4e50-4829-830f-dfe773726d57
 https://jobs.ashbyhq.com/nylas/ebcf30ab-c9d1-4d77-a621-20a89009109b
 https://jobs.ashbyhq.com/omnea/d8616057-5031-4eef-9e14-55f315476c02
+https://jobs.ashbyhq.com/omni/d42d9a91-6c6a-480a-b1ad-04ee5550c827
 https://jobs.ashbyhq.com/onecrew/bb80eec6-2b5f-4872-b481-518facd7d343
 https://jobs.ashbyhq.com/openai/0e078d07-fb0b-4893-b90a-f50e413f3e13
 https://jobs.ashbyhq.com/openai/cc9333e3-028c-4cf4-872b-c55c894b5277
@@ -763,6 +766,7 @@ https://jobs.ashbyhq.com/replit/234c9a82-2857-4691-af83-308100806df3
 https://jobs.ashbyhq.com/replit/7ff74387-ff7f-4bd7-9e23-a09177f8e2a6
 https://jobs.ashbyhq.com/restate/6d76699a-96ea-4a71-83f1-f92981a6a4fd
 https://jobs.ashbyhq.com/revenuecat/6411a31b-7f9e-40c7-b92e-11395d241c58
+https://jobs.ashbyhq.com/roadrunner/931ec1ea-5bce-4687-b557-85580484d56c
 https://jobs.ashbyhq.com/roboflow/a9169904-d7a7-44f2-aad2-0ae68910a818
 https://jobs.ashbyhq.com/sapien/4fe70d9d-3710-4471-8d7d-7bc8e90929fa
 https://jobs.ashbyhq.com/saronic/b425a6ee-febb-4e19-8532-2d320e67a3db
