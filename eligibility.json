@@ -1307,6 +1307,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/lucidya/j/11dc58dd6f": {
+"countries": [
+"Saudi Arabia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Saudi Arabia",
+"extracted_at": "2026-08-31T09:16:42+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/m-files/j/307c311d65": {
 "countries": [
 "United States"
@@ -1344,6 +1355,19 @@
 "Canada"
 ],
 "timezone": "U.S. Shift (8:00 AM CST to 5:00 PM CST)",
+"work_auth": null
+},
+"https://apply.workable.com/mydbsync/j/4590d85472": {
+"countries": [
+"Colombia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Colombia\nJob Location: Latin America (Remote)\nWork Shift: U.S Shift (8:00 AM CST to 5:00 PM CST)",
+"extracted_at": "2026-08-31T09:16:42+00:00",
+"regions": [
+"Latin America"
+],
+"timezone": "US Shift (8:00 AM\u20135:00 PM CST)",
 "work_auth": null
 },
 "https://apply.workable.com/mydbsync/j/63d6fc1b97": {
@@ -3494,6 +3518,21 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/ezra/job/ozcqafwl": {
+"countries": [
+"United Kingdom",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Product Marketing Manager London or Toronto \u2013 Hybrid, 3 days per week",
+"extracted_at": "2026-08-31T09:16:42+00:00",
+"regions": [
+"UK",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/internetbrands/job/oiegzfwl": {
 "countries": [],
 "eligibility_stated": false,
@@ -3640,6 +3679,19 @@
 "eligibility_stated": true,
 "evidence": "Remote (U.S.)",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/veson/job/oydgafwb": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This is a hybrid position (2 days minimum per week in our Boston office)",
+"extracted_at": "2026-08-31T09:16:42+00:00",
 "regions": [
 "US"
 ],

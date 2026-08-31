@@ -10885,6 +10885,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "greenhouse:protonai": {
+  "company": "protonai",
+  "confidence": "medium",
+  "distribution_summary": "Proton.ai is headquartered in Cambridge/Boston (US) and most employees appear to be located in the United States, with a small presence in Canada, the UK and Australia based on LinkedIn signals.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "few",
+   "br": "unknown",
+   "ca": "few",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": "Oyster HR (international contractors/EOR)",
+  "evidence": [
+   {
+    "claim": "Their live Greenhouse board lists roles open remotely in Europe and LATAM/Europe, plus a role open as EU-remote; most US roles list Cambridge, MA.",
+    "quote": "Fullstack Software Engineer (AI-Native) Europe \u2026 Senior Data Engineer (AI-Native) \u2014 Data Layer LATAM / Europe (remote) \u2026 UI Product Designer Cambridge, MA or EU Remote",
+    "url": "https://job-boards.greenhouse.io/protonai"
+   },
+   {
+    "claim": "Designer role explicitly allows EU-remote or Cambridge hybrid, showing EU-only remote scope for that team.",
+    "quote": "Location: Cambridge, MA (hybrid, 3 days a week in Harvard Square) or remote in the EU.",
+    "url": "https://job-boards.greenhouse.io/protonai/jobs/6147656004"
+   },
+   {
+    "claim": "Engineering role states Europe with remote location, supporting Europe-remote eligibility.",
+    "quote": "Europe \u2026 Location: Remote",
+    "url": "https://job-boards.greenhouse.io/protonai/jobs/5994707004"
+   },
+   {
+    "claim": "They use Oyster HR to hire internationally and set collaboration hours for Europe/India, indicating timezone-driven remote scope and EOR usage.",
+    "quote": "Proton collaborates with Oyster HR to hire international employees as full time (long term) contractors\u2026 For collaboration purposes, all hires based in Europe or India are expected to be available for meetings from 9:00 AM to 1:00 PM EST.",
+    "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-proton-ai-4334048757"
+   },
+   {
+    "claim": "Careers page signals they employ outside the US (non\u2011US benefits discussed) and describe a global team.",
+    "quote": "Join a global team\u2026 Benefits may vary by country\u2026 For non-US staff, equivalent benefits can be discussed at the time of interview.",
+    "url": "https://www.proton.ai/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "likely",
+   "Oceania": "unlikely",
+   "UK": "likely",
+   "US": "unlikely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-31T09:16:49+00:00",
+  "scope_basis": "timezone-preference"
+ },
  "greenhouse:reddit": {
   "company": "reddit",
   "confidence": "medium",
@@ -13334,6 +13402,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "mixed"
  },
+ "jobvite:ezra": {
+  "company": "Ezra",
+  "confidence": "medium",
+  "distribution_summary": "There are multiple companies named \u201cEzra\u201d (e.g., Ezra the AI-powered MRI startup / ezra.com; Ezra (ezra.fi) in finance/AI; Ezra Medical Center; Ezra Insurance; etc.). Which \u201cEzra\u201d do you want me to X\u2011ray on LinkedIn? If you don\u2019t specify, I\u2019ll assume you mean the Ezra health / MRI company (ezra.com) and run the per-country LinkedIn site searches to estimate employee locations.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Most roles are tied to city hubs with hybrid in\u2011office expectations (e.g., UK/Canada).",
+    "quote": "London or Toronto \u2013 Hybrid, 3 days per week",
+    "url": "https://jobs.jobvite.com/ezra/job/oZCqAfwl"
+   },
+   {
+    "claim": "Canada: at least some roles are fully remote but provincially scoped (Ontario).",
+    "quote": "Location: Ontario - Remote",
+    "url": "https://jobs.jobvite.com/ezra/job/o233zfwr"
+   },
+   {
+    "claim": "US roles show hub-based hybrid attendance (not remote).",
+    "quote": "Location: New York or Chicago -  Hybrid, 3 days per week",
+    "url": "https://jobs.jobvite.com/ezra/job/oqYfAfwX"
+   },
+   {
+    "claim": "Asia example shows hybrid attendance in Singapore (not remote).",
+    "quote": "Location: Singapore (Hybrid - 3 days in Office)",
+    "url": "https://jobs.jobvite.com/ezra/job/oSdnzfwL"
+   },
+   {
+    "claim": "Oceania example shows hybrid attendance in Sydney (not remote).",
+    "quote": "Location: Sydney - Hybrid - 3 days in Office",
+    "url": "https://jobs.jobvite.com/ezra/job/o0NBAfwI"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "likely",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "unlikely"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-08-31T09:16:49+00:00",
+  "scope_basis": "unclear"
+ },
  "jobvite:internetbrands": {
   "company": "Internet Brands",
   "confidence": "high",
@@ -13871,6 +14007,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "jobvite:veson": {
+  "company": "Veson Nautical",
+  "confidence": "medium",
+  "distribution_summary": "Most Veson Nautical employees appear to be in the United States (many), with small numbers (few) in several other markets\u2014UK, Canada, Singapore, Australia, India, Japan, Germany, France, UAE, Brazil, Philippines\u2014and none found for several markets (South Africa, Nigeria, Kenya, Saudi Arabia, Poland, Mexico, Colombia) based on public LinkedIn profile X\u2011ray searches (company page and employee profiles).",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities",
+  "evidence": [
+   {
+    "claim": "Their Jobvite job alerts include remote-location options across regions (Americas, EMEA, APAC) and specific countries, indicating they sometimes post remote roles in those geographies.",
+    "quote": "Select Job Locations* \u2026 Americas Remote - US-RE; APAC Remote - AS RE; EMEA Remote - EU-RE; France-Remote; Indonesia-Remote; Norway (Remote); United Arab Emirates Remote - UAE \u2026",
+    "url": "https://jobs.jobvite.com/veson/jobAlerts"
+   },
+   {
+    "claim": "APAC example of a role flagged remote-compatible, supporting US hours, showing they support remote in Asia for some positions.",
+    "quote": "Junior Systems Administrator (3rd Shift) \u2014 Muntinlupa City, Philippines \u2026 Comfortable working independently and willingness to work US business hours \u2026 #LI-Remote",
+    "url": "https://jobs.jobvite.com/veson/job/owwsAfwO"
+   },
+   {
+    "claim": "They have hired fully remote within the United States for some roles (state-dependent).",
+    "quote": "This role may be performed remotely if Veson Nautical can support remote work arrangements in the state where you currently reside, which includes most states within the US.",
+    "url": "https://www.reddit.com/r/RemoteJobs/comments/yn273g"
+   },
+   {
+    "claim": "Not all roles are remote; some require hybrid/in-office presence, showing role-by-role flexibility rather than company-wide remote.",
+    "quote": "This is a hybrid position (2 days minimum per week in our Boston office).",
+    "url": "https://jobs.jobvite.com/veson/job/oyDGAfwb"
+   },
+   {
+    "claim": "They operate through local legal entities in some countries, suggesting employment via own entities rather than an EOR.",
+    "quote": "\u2026serve as a senior representative of Veson\u2019s Japanese legal entity\u2026",
+    "url": "https://jobs.jobvite.com/veson/job/oWd1zfwt"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-31T09:16:49+00:00",
   "scope_basis": "legal-entity"
  },
  "lever:Flex": {
@@ -21048,6 +21252,74 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "workable:lucidya": {
+  "company": "lucidya",
+  "confidence": "medium",
+  "distribution_summary": "Lucidya appears to be headquartered in Riyadh with a substantial employee presence in Saudi Arabia and smaller groups of current employees visible on LinkedIn in the UAE, United States, Australia, Canada and India; other countries returned few or no clear current-employee LinkedIn profiles from the X\u2011ray searches I ran.",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "unknown",
+   "ca": "few",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "many",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "few",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote Product roles list specific eligible countries across MENA (not worldwide).",
+    "quote": "Remote Product \u2014 Riyadh, Riyadh Province, Saudi Arabia \u2014 Egypt \u2014 Jordan \u2014 Qatar \u2014 Bahrain \u2014 Lebanon",
+    "url": "https://apply.workable.com/lucidya/j/37C1CAB41E/apply/"
+   },
+   {
+    "claim": "They hire remotely in India for growth/marketing.",
+    "quote": "Growth Specialist \u2014 Remote \u2014 India \u2014 Marketing \u2014 Full-time",
+    "url": "https://jobs.workable.com/view/vp9z5sJPwMbygStqTN5Uj6/remote-growth-specialist-in-india-at-lucidya"
+   },
+   {
+    "claim": "They hire remotely in Jordan for product roles.",
+    "quote": "Product Owner \u2014 Remote \u2014 Jordan \u2014 Product \u2014 Full-time",
+    "url": "https://jobs.workable.com/view/uVtf7TNj3YECQzgT5xuE6v/remote-product-owner-in-jordan-at-lucidya"
+   },
+   {
+    "claim": "They support remote roles based in Saudi Arabia as well (engineering).",
+    "quote": "DevOps Engineer \u2014 Remote \u2014 Riyadh, Riyadh Province, Saudi Arabia \u2014 Engineering \u2014 Full-time",
+    "url": "https://jobs.workable.com/view/jDj2HZesu9vpTc4b5GJJhg/remote-devops-engineer-in-riyadh-at-lucidya"
+   },
+   {
+    "claim": "Many roles are still location-bound (e.g., on-site and/or Saudi-only), indicating non-worldwide hiring.",
+    "quote": "Inside Sales Account Executive (Saudi National only) \u2014 On-site \u2014 Riyadh, Riyadh Province, Saudi Arabia",
+    "url": "https://apply.workable.com/lucidya/j/E258A7CDA9"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "yes",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "yes",
+   "Oceania": "unknown",
+   "UK": "unlikely",
+   "US": "unlikely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-08-31T09:16:49+00:00",
+  "scope_basis": "legal-entity"
  },
  "workable:m-files": {
   "company": "m-files",

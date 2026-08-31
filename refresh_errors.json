@@ -84,24 +84,40 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "lever:Loop AI",
-  "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
- },
- {
   "board": "jobvite:panasas",
   "error": "HTTP Error 500: Internal Server Error"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
+  "board": "lever:Loop AI",
+  "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
+ },
+ {
+  "board": "lever:jobgether",
+  "error": "The read operation timed out"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-manager_R170435-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
+  "error": "HTTP 403"
  },
  {
   "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Product-Marketing-Manager---Commercial-Banking-Solutions_R-100610",
+  "error": "HTTP 403"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -132,19 +148,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/ec671d31-edbd-4864-929c-9c6245525ee3",
+  "url": "https://jobs.ashbyhq.com/heidihealth.com.au/40db06ad-0f7f-4f14-95bb-d2c8d36a6774",
   "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.jobvite.com/egnyte/job/oYKBAfwD",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.jobvite.com/varonis-internal/job/oyaoAfwq",
   "error": "delisted or no data"
  },
  {
@@ -156,10 +164,6 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---Autonomous-Vehicles_JR2019131",
-  "error": "HTTP 403"
- },
- {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
@@ -168,11 +172,39 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Assistant--Manager--Ecommerce-Product-Marketing---Maternity-cover--6-months-Contract-_R119113",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director-of-Product-Marketing_R119561",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director---Product-Marketing_R119135",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing---Manager_R119776-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Manager_R119773",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Product-Marketing-Manager--Plano--TX-_R119178",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing_R117956",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
  },
  {

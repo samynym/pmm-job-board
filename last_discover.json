@@ -1,12 +1,11 @@
 {
- "ran_at": "2026-08-30T08:50:13+00:00",
+ "ran_at": "2026-08-31T09:12:46+00:00",
  "new_boards": [
-  "ashby:archouse",
-  "ashby:merciv",
-  "ashby:omni",
-  "ashby:roadrunner"
+  "jobvite:ezra",
+  "jobvite:veson",
+  "workable:lucidya"
  ],
- "new_urls": 4,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }
