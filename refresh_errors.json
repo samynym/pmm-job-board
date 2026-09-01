@@ -92,23 +92,47 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "board": "lever:jobgether",
-  "error": "The read operation timed out"
+  "url": "https://amperecloud.recruitee.com/o/praktikantin-brand-product-marketing-mwd",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-manager_R170435-1",
-  "error": "HTTP 403"
+  "url": "https://apply.workable.com/leap-legal-software/j/119CD0F500",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Director-Product-Marketing--Local-Strategy-_R-115170",
-  "error": "HTTP 403"
+  "url": "https://boards.greenhouse.io/adyen/jobs/7722854",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
+  "url": "https://boards.greenhouse.io/bitgo/jobs/8523881002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/gofundme/jobs/8148353",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/planetlabs/jobs/8160748",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/soldejaneiro/jobs/5170926007",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/supermetricsoy/jobs/4847114101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5189518007",
+  "error": "HTTP 404"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -116,7 +140,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Product-Marketing-Manager---Commercial-Banking-Solutions_R-100610",
+  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Senior-Therapy-Development-Specialist--THV_Req-49157",
   "error": "HTTP 403"
  },
  {
@@ -128,16 +152,16 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
  },
  {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
@@ -148,7 +172,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/heidihealth.com.au/40db06ad-0f7f-4f14-95bb-d2c8d36a6774",
+  "url": "https://jobs.ashbyhq.com/basis-ai/07c5f888-840a-4a73-b9aa-1f962bacb0ba",
   "error": "delisted or no data"
  },
  {
@@ -156,7 +180,23 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.lever.co/binance/4cf55d47-2202-435c-8f47-898c891d1eb2",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/43b04b36-7c62-45d0-91bb-ad9f458874de",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/ccef2957-2732-46f2-91c7-77c88bcbb60a",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/rovio-2/8d88e801-e2a7-4cc5-ab20-cb9418e76369",
   "error": "HTTP 404"
  },
  {
@@ -170,34 +210,6 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Assistant--Manager--Ecommerce-Product-Marketing---Maternity-cover--6-months-Contract-_R119113",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director-of-Product-Marketing_R119561",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director---Product-Marketing_R119135",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing---Manager_R119776-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Manager_R119773",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Product-Marketing-Manager--Plano--TX-_R119178",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing_R117956",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

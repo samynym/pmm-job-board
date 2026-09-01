@@ -30,6 +30,15 @@
 "timezone": null,
 "work_auth": null
 },
+"breezy:drips.breezy.hr:84bc168bca30": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "breezy:duolingo.breezy.hr:1fe4a7ab3917": {
 "countries": [],
 "eligibility_stated": true,
@@ -920,6 +929,19 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:samsara:8148044": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "This is a remote position open to candidates based in the U.S. We prefer candidates based in or near Washington, D.C., or those able to work Eastern time zone hours. All offers of employment are contingent upon an individual\u2019s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.",
+"extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [
+"US"
+],
+"timezone": "Eastern time",
+"work_auth": "ability to secure and maintain legal right to work in the specified work location"
+},
 "greenhouse:shipbobinc:4704511005": {
 "countries": [],
 "eligibility_stated": true,
@@ -1180,6 +1202,19 @@
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [
 "US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/bnberry/j/407868b8f9": {
+"countries": [
+"Serbia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Serbia",
+"extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [
+"Europe"
 ],
 "timezone": null,
 "work_auth": null
@@ -3518,6 +3553,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/ezra/job/oacqafww": {
+"countries": [
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Director of Product Marketing London, UK \u2013 Hybrid, 3 days per week",
+"extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [
+"UK"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/ezra/job/ozcqafwl": {
 "countries": [
 "United Kingdom",
@@ -4031,6 +4079,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://velixo.applytojob.com/apply/1ddz7ige1y": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "\"Location \u2013 This is a fully remote job, open to candidates in North America.\"",
+"extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [
+"Americas"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://velixo.applytojob.com/apply/ah3xwkt1to": {
 "countries": [
 "Canada",
@@ -4530,6 +4589,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"teamtailor:softswiss.teamtailor.com:8295522": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-01T08:15:24+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -5122,6 +5190,19 @@
 "eligibility_stated": true,
 "evidence": "Location field: USA - Remote",
 "extracted_at": "2026-08-14T04:46:55+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:workiva.wd503.myworkdayjobs.com:R12408": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: USA - Remote",
+"extracted_at": "2026-09-01T08:15:24+00:00",
 "regions": [
 "US"
 ],

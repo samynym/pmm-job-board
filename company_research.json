@@ -6381,6 +6381,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "breezy:drips": {
+  "company": "Drips",
+  "confidence": "high",
+  "distribution_summary": "Most Drips employees appear to be based in the United States (many); smaller numbers show up in Canada, the UK, India and Australia (few); searches returned no/zero profiles for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote-first company but hiring scope is across the U.S., not global.",
+    "quote": "Drips is one of the fastest-growing tech companies in the country \u2014 born in Akron, Ohio and now thriving across the U.S. We\u2019ve embraced a remote-first culture\u2026 While we prioritize flexibility and digital collaboration across the country\u2026",
+    "url": "https://drips.breezy.hr/"
+   },
+   {
+    "claim": "Individual role explicitly restricted to the United States.",
+    "quote": "Location: Remote (U.S.); Drips is headquartered in Akron, OH.",
+    "url": "https://drips.breezy.hr/p/abf6d4c1ae85-solutions-consultant"
+   },
+   {
+    "claim": "Another role explicitly marked Remote (U.S.).",
+    "quote": "Location: Remote (U.S.)",
+    "url": "https://drips.breezy.hr/p/9abff7ff4d52-production-build-specialist"
+   },
+   {
+    "claim": "Some postings restrict to specific U.S. states only, reinforcing U.S.-only hiring.",
+    "quote": "This is a remote part-time position only available to US residents of Ohio and Texas",
+    "url": "https://drips.breezy.hr/p/0f4a67eab919-production-qc-associate"
+   },
+   {
+    "claim": "Third-party remote directory lists Drips as hiring in the United States only.",
+    "quote": "United States only",
+    "url": "https://himalayas.app/companies/drips/jobs/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-01T08:20:22+00:00",
+  "scope_basis": "legal-entity"
+ },
  "breezy:duolingo": {
   "company": "Duolingo",
   "confidence": "medium",
@@ -17599,6 +17667,74 @@
   "researched_at": "2026-08-24T03:51:56+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:supplierio": {
+  "company": "supplierio",
+  "confidence": "medium",
+  "distribution_summary": "Most Supplier.io employees appear to be in the United States (many); a small number of profiles in India and Canada (few); little-to-no visible presence in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Active remote hiring in the US.",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/supplierio/jobs"
+   },
+   {
+    "claim": "US roles require existing work authorization; no visa sponsorship, indicating country-based eligibility.",
+    "quote": "Supplier.io is unable to sponsor work visas (e.g., H-1B, TN, OPT, etc.) for US positions.",
+    "url": "https://ats.rippling.com/supplierio/jobs/7f3ef48e-4ba4-44db-b93e-5c1b4ffc54f1"
+   },
+   {
+    "claim": "Active remote hiring in Asia (India) with explicit remote working style.",
+    "quote": "Location: Hyderabad, India ... Working Style: Remote",
+    "url": "https://ats.rippling.com/supplierio/jobs/be7ea8a8-4af2-446c-9a53-9de87c81dbce"
+   },
+   {
+    "claim": "Supplier.io group lists a Hyderabad office address (supports India employment footprint).",
+    "quote": "iLabs Centre, Block D, 6th Floor, Software Units Layout, Madhapur, Hyderabad 500081, IN",
+    "url": "https://mx.linkedin.com/company/cvm-solutions"
+   },
+   {
+    "claim": "Evidence of Supplier.io employees based in Canada (supports Canada hiring).",
+    "quote": "As a Customer Data Analyst at Supplier.io\u2026 Canada",
+    "url": "https://ca.linkedin.com/in/moiz-zafar"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-01T08:20:22+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:swoopishiring": {
   "company": "Swoopishiring",
   "confidence": "high",
@@ -20236,6 +20372,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "timezone-preference"
+ },
+ "workable:bnberry": {
+  "company": "bnberry",
+  "confidence": "medium",
+  "distribution_summary": "Most BnBerry employees appear to be located in the United States, with a small number in Canada, the UK, India and Australia, and none (or no publicly indexed LinkedIn current profiles) in the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Europe hiring with multiple specific countries supported via their ATS.",
+    "quote": "Senior Laravel Developer \u2014 Remote Engineering Full time \u2014 Poland \u2014 Portugal \u2014 Serbia \u2014 Spain \u2014 Czechia.",
+    "url": "https://apply.workable.com/bnberry/j/01F3166938/apply/"
+   },
+   {
+    "claim": "Asia hiring: role open in the Philippines (remote).",
+    "quote": "Customer Service Representative - Hospitality \u2014 at Bnberry \u2014 Remote Philippines \u2014 Operations \u2014 Full-time.",
+    "url": "https://jobs.workable.com/view/eguvF1ui6cbARn16Kg3Xjc/remote-customer-service-representative---hospitality-in-philippines-at-bnberry"
+   },
+   {
+    "claim": "United States hiring: sales role listed in the US.",
+    "quote": "Commercial Account Executive \u2014 BnBerry \u2014 United States.",
+    "url": "https://www.linkedin.com/jobs/view/commercial-account-executive-at-bnberry-4433358296"
+   },
+   {
+    "claim": "United Kingdom hiring: AE role listed in Greater London, UK.",
+    "quote": "Commercial Account Executive \u2014 BnBerry \u2014 Greater London, England, United Kingdom.",
+    "url": "https://uk.linkedin.com/jobs/view/commercial-account-executive-at-bnberry-4433246188"
+   },
+   {
+    "claim": "Latin America hiring: senior role listed in Brazil.",
+    "quote": "Senior Project Manager (New Ventures & Growth) \u2014 BnBerry \u2014 Brasil.",
+    "url": "https://br.linkedin.com/jobs/view/senior-project-manager-new-ventures-growth-at-bnberry-4425639113"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-01T08:20:22+00:00",
+  "scope_basis": "unclear"
  },
  "workable:coldquanta": {
   "company": "coldquanta",
