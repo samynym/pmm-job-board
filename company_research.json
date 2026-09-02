@@ -19471,6 +19471,74 @@
    }
   }
  },
+ "teamtailor:drdoctor.teamtailor.com": {
+  "company": "DrDoctor",
+  "confidence": "medium",
+  "distribution_summary": "Most DrDoctor employees appear to be in the UK (many), with a small number in the United States and India; searches for the other listed countries returned no current-employee LinkedIn profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "many",
+   "us": "few",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "All current live roles on their careers site are for the India Team (several marked Hybrid).",
+    "quote": "Commercial & Marketing \u00b7 India Team \u00b7 Hybrid",
+    "url": "https://drdoctor.teamtailor.com/"
+   },
+   {
+    "claim": "UK roles are remote-by-default; workforce is based across the UK and in India.",
+    "quote": "We operate a remote by default working approach\u2026 We have people based all over the UK, and in India and we\u2019re very well set up for remote working!",
+    "url": "https://uk.linkedin.com/jobs/view/transformation-lead-at-drdoctor-4441335872"
+   },
+   {
+    "claim": "Product Marketing Manager explicitly sits within DrDoctor India and works remotely while reporting to UK leadership.",
+    "quote": "You\u2019ll be part of DrDoctor India, working remotely and reporting to our Head of Growth in the UK.",
+    "url": "https://drdoctor.teamtailor.com/jobs/8167310-product-marketing-manager"
+   },
+   {
+    "claim": "India roles require UK-hours overlap (timezone constraint).",
+    "quote": "If you are not working from the office, you will be expected to work UK hours. This is a non negotiable for us\u2026",
+    "url": "https://drdoctor.teamtailor.com/jobs/8167310-product-marketing-manager"
+   },
+   {
+    "claim": "India-based roles require local work authorization (country/ legal-entity constraint).",
+    "quote": "Right to work in India",
+    "url": "https://drdoctor.teamtailor.com/jobs/8015626-product-support-specialist"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "likely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "yes",
+   "US": "unlikely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-02T07:33:55+00:00",
+  "scope_basis": "mixed"
+ },
  "teamtailor:enfuceoy.teamtailor.com": {
   "company": "Enfuce",
   "confidence": "high",
@@ -22585,6 +22653,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "workable:stay-group": {
+  "company": "stay group",
+  "confidence": "medium",
+  "distribution_summary": "Ambiguous company name: LinkedIn shows multiple different \"Stay Group\" entities (Colombia hospitality \u2014 HQ Medell\u00edn \u2014 many employees in Colombia; smaller Stay Group firms in UAE, UK and Australia with a few profiles; other countries unclear). I can run the exact LinkedIn X\u2011ray searches and produce a definitive per\u2011country estimate if you tell me which Stay Group (or confirm you want me to search all variants).",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "many",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "few",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Open roles are remote but scoped to candidates in Ukraine (example role).",
+    "quote": "Remote Ukraine Product Department",
+    "url": "https://jobs.workable.com/view/mTUmgPaYAdcRjGorY77fDX/remote-delivery-manager-in-ukraine-at-stay-group"
+   },
+   {
+    "claim": "Multiple postings show the same \u201cRemote \u2014 Ukraine\u201d scope, indicating a consistent geo restriction.",
+    "quote": "Remote Ukraine Operations Department Full-time",
+    "url": "https://jobs.workable.com/view/tAHPm1vXshEsG4A5f6xZkq/remote-customer-support-agent-in-ukraine-at-stay-group"
+   },
+   {
+    "claim": "Application page for a Stay Group role shows location as Ukraine.",
+    "quote": "Head of Affiliates \u2014 Remote \u2014 Ukraine",
+    "url": "https://apply.workable.com/stay-group/j/E978FC34DD/apply/"
+   },
+   {
+    "claim": "Some postings include global-flexibility perk language, but still do not list broader hiring countries.",
+    "quote": "Freedom to choose where to work: work from anywhere in the world with the freedom of remote options, or join our dynamic office in Kyiv.",
+    "url": "https://jobs.workable.com/view/gcpu1kZUEUhehmpckxARf1/remote-marketing-data-analyst-in-ukraine-at-stay-group"
+   },
+   {
+    "claim": "Company markets itself as remote-friendly in public channels, without specifying eligible countries.",
+    "quote": "All roles are remote and designed for people who value independence, clear goals, and measurable results.",
+    "url": "https://www.linkedin.com/company/staygroup"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "unknown"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-02T07:33:55+00:00",
+  "scope_basis": "unclear"
  },
  "workable:stellar-cyber": {
   "company": "stellar-cyber",

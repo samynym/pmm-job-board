@@ -845,6 +845,20 @@
 "timezone": null,
 "work_auth": "e-verify employer in the USA"
 },
+"greenhouse:parloa:4965878101": {
+"countries": [
+"Germany",
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Berlin Office; London Office; Munich Office; Remotely in Germany",
+"extracted_at": "2026-09-02T07:33:40+00:00",
+"regions": [
+"Europe"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:pendo:8526974002": {
 "countries": [
 "United States"
@@ -1542,6 +1556,19 @@
 "eligibility_stated": true,
 "evidence": "Based in the United States. Ability to travel 30% of the year.",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/schoox/j/94e1400cc1": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-09-02T07:33:40+00:00",
 "regions": [
 "US"
 ],
@@ -4525,6 +4552,19 @@
 "Europe"
 ],
 "timezone": null,
+"work_auth": null
+},
+"teamtailor:drdoctor.teamtailor.com:8167310": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "You\u2019ll be part of DrDoctor India, working remotely and reporting to our Head of Growth in the UK.",
+"extracted_at": "2026-09-02T07:33:40+00:00",
+"regions": [
+"Asia"
+],
+"timezone": "overlap with UK working hours",
 "work_auth": null
 },
 "teamtailor:enfuceoy.teamtailor.com:7888331": {
