@@ -1,15 +1,10 @@
 {
- "ran_at": "2026-09-02T07:31:02+00:00",
+ "ran_at": "2026-09-03T07:38:10+00:00",
  "new_boards": [
-  "teamtailor:bunnynet.teamtailor.com",
-  "teamtailor:deezer.teamtailor.com",
-  "teamtailor:drdoctor.teamtailor.com",
-  "teamtailor:ecoonline.teamtailor.com",
-  "teamtailor:graviteetopcoltd.teamtailor.com",
-  "teamtailor:hadean.teamtailor.com",
-  "teamtailor:henryscheinone.teamtailor.com"
+  "workable:flowxai",
+  "workable:vortexa"
  ],
- "new_urls": 7,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 24
+ "dork_offset": 30
 }

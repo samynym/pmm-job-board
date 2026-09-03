@@ -1515,6 +1515,19 @@
 "timezone": "U.S. Client Business Hours",
 "work_auth": null
 },
+"https://apply.workable.com/pavago/j/ccf7b860ca": {
+"countries": [
+"Colombia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Colombia; Remote | Flexible U.S. Business Hours",
+"extracted_at": "2026-09-03T07:41:32+00:00",
+"regions": [
+"Latin America"
+],
+"timezone": "Flexible U.S. Business Hours",
+"work_auth": null
+},
 "https://apply.workable.com/practicetek/j/fe130dd519": {
 "countries": [],
 "eligibility_stated": true,
