@@ -56,11 +56,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:strava",
+  "board": "greenhouse:tekion",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:tekion",
+  "board": "greenhouse:strava",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -92,39 +92,43 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Auto-Product-Marketing-Senior-Consultant-II_R33249-1",
-  "error": "HTTP 403"
+  "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
+  "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/pavago/j/6AED343853",
+  "url": "https://apply.workable.com/gomining/j/91177F2914",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/practicetek/j/FE130DD519",
+  "url": "https://apply.workable.com/irth-solutions/j/C44F969200",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/teleport-careers/j/D9F08CEC08",
+  "url": "https://ats.rippling.com/prudentia-sciences/jobs/1c8c1cec-bf3a-48f4-941f-6477e221c7b2",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/asana/jobs/7920824",
   "error": "HTTP 404"
  },
  {
-  "url": "https://availity.wd1.myworkdayjobs.com/Availity_Careers_US/job/Director--Product-Marketing--Remote-_R0008268",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/justworks/jobs/7930227",
+  "url": "https://boards.greenhouse.io/asana/jobs/8038681",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/motus/jobs/8023518",
+  "url": "https://boards.greenhouse.io/globalizationpartners/jobs/7791586003",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/shipbobinc/jobs/4704511005",
+  "url": "https://boards.greenhouse.io/ionq/jobs/5819604004",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/smartsheet/jobs/8050321",
+  "url": "https://boards.greenhouse.io/smartsheet/jobs/8070303",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/soldejaneiro/jobs/5180788007",
   "error": "HTTP 404"
  },
  {
@@ -136,7 +140,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -144,19 +148,19 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Manager--Product-Marketing--17-Month-Contract-_REQ-5093",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/Director--Product-Marketing---Data---ML_JR_14937",
-  "error": "HTTP 403"
- },
- {
   "url": "https://henryscheinone.applytojob.com/apply/XVHATwZKQc",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -164,7 +168,15 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
@@ -172,27 +184,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs-legrand.icims.com/jobs/9718/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://jobs.ashbyhq.com/Distyl/9b44203a-1398-4a7a-a3a2-2a7c3afd15d3",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/absorblms/2e56dfb4-0d95-486d-8667-0d4e9fd19d9a",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/hinge-health/bc1b6c25-5841-45c0-b0f3-762b92492504",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/ramp/e7f612e1-a9db-41a3-9e4f-9e6389c9111d",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/stuut-ai/032bf424-af99-4525-8ef8-8796f65db2ff",
+  "url": "https://jobs.ashbyhq.com/delinea/4766e246-3139-4ba9-834f-cbd9d0a73668",
   "error": "delisted or no data"
  },
  {
@@ -204,24 +196,20 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/5ed84f50-7d89-40dc-abac-962768d19ce7",
+  "url": "https://jobs.lever.co/jobgether/269bed74-425d-4552-8a4d-81141af44f2b",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/68de30a3-159c-4d39-ae1d-5b1df0c45ab3",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/585b064f-90be-4ed9-9084-b6e6d1a9d27f",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/a0ed2cbd-5b0a-4bf3-9685-45c675931942",
+  "url": "https://jobs.lever.co/jobgether/b87557f3-a974-4d60-b742-763a8bac2e80",
   "error": "HTTP 404"
  },
  {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://lendingclub.wd1.myworkdayjobs.com/External/job/Product-Marketing-Manager_R0007412-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -238,10 +226,6 @@
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
- },
- {
-  "url": "https://strideinc.wd1.myworkdayjobs.com/SK/job/Product-Marketing-Associate_JR115857",
-  "error": "HTTP 403"
  },
  {
   "url": "https://swissbit.jobs.personio.de/job/2668354",

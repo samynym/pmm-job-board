@@ -1,10 +1,9 @@
 {
- "ran_at": "2026-09-03T07:38:10+00:00",
+ "ran_at": "2026-09-04T07:37:01+00:00",
  "new_boards": [
-  "workable:flowxai",
-  "workable:vortexa"
+  "workable:komoju"
  ],
- "new_urls": 2,
+ "new_urls": 1,
  "errors": 3,
- "dork_offset": 30
+ "dork_offset": 4
 }

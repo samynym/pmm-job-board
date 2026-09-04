@@ -3303,6 +3303,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/sparrow/4328843f-bbdb-411e-99c4-72aaa849de26": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Sparrow is headquartered in San Francisco but all employees work remotely across the country.",
+"extracted_at": "2026-09-04T07:39:57+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/sparrow/f12ee405-8511-49bb-a9f4-b3e939357da1": {
 "countries": [],
 "eligibility_stated": true,
@@ -4497,6 +4508,19 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:thenielsencompany:3743990015047039": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Remote City, Remote, United States",
+"extracted_at": "2026-09-04T07:39:57+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:wirelessxfactor:743999729260333": {
 "countries": [],
 "eligibility_stated": true,
@@ -5014,6 +5038,19 @@
 "eligibility_stated": true,
 "evidence": "United States - Remote",
 "extracted_at": "2026-08-20T03:43:48+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:guidewire.wd5.myworkdayjobs.com:15176-1": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "United States - Remote",
+"extracted_at": "2026-09-04T07:39:57+00:00",
 "regions": [
 "US"
 ],
