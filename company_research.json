@@ -6676,6 +6676,74 @@
    }
   }
  },
+ "breezy:insightful": {
+  "company": "insightful",
+  "confidence": "high",
+  "distribution_summary": "I can run LinkedIn X\u2011ray searches (site:{cc}.linkedin.com/in \"at Insightful\" / site:www.linkedin.com/in for US) and return a country-by-country estimate \u2014 do you want me to proceed with those live searches now?",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "They describe themselves as remote-first.",
+    "quote": "Remote-first company with cozy office space in the heart of Belgrade",
+    "url": "https://careers.insightful.io/"
+   },
+   {
+    "claim": "They restrict fully-remote hiring to specific countries listed on the careers portal.",
+    "quote": "Czech Republic Poland Serbia Spain United States",
+    "url": "https://careers.insightful.io/"
+   },
+   {
+    "claim": "The remote option is explicitly limited to being within the chosen location(s).",
+    "quote": "Fully remote, within chosen location(s)",
+    "url": "https://careers.insightful.io/"
+   },
+   {
+    "claim": "They actively hire in the United States (New York).",
+    "quote": "Insightful is seeking an Enterprise Account Executive to join our dynamic New York, NY team.",
+    "url": "https://insightful.breezy.hr/p/92768de20460-enterprise-account-executive"
+   },
+   {
+    "claim": "Belgrade operates on a hybrid model, indicating a local hub plus remote flexibility.",
+    "quote": "Hybrid model - twice a week work from the cozy, pet-friendly office space in the heart of Belgrade",
+    "url": "https://insightful.breezy.hr/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-05T07:21:26+00:00",
+  "scope_basis": "legal-entity"
+ },
  "breezy:loribeds": {
   "company": "Lori Beds",
   "confidence": "medium",
@@ -19176,6 +19244,74 @@
   "researched_at": "2026-08-21T03:47:37+00:00",
   "scope_basis": "legal-entity"
  },
+ "smartrecruiters:innergy1": {
+  "company": "innergy1",
+  "confidence": "medium",
+  "distribution_summary": "Most current LinkedIn profiles for the name INNERGY are in the United States (many); a handful appear in the UK, Germany, France, Japan, Australia and Canada; no or zero results in most other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "none",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "U.S. hiring is remote but restricted to certain states (excludes pay-transparency states).",
+    "quote": "This is a U.S.-based remote role\u2026 we are only able to consider candidates who reside in U.S. states that do not currently mandate salary disclosure in job postings\u2026 Eligible states include\u2026 Texas, Florida, Missouri, Arizona, Indiana, North Carolina, and Wisconsin.",
+    "url": "https://jobs.smartrecruiters.com/INNERGY1/3743990011259426-general-application"
+   },
+   {
+    "claim": "Actively hires fully-remote in Australia and New Zealand.",
+    "quote": "This is a fully remote role, and candidates can be based in any city across New Zealand or Australia.",
+    "url": "https://jobs.smartrecruiters.com/innergy1/3743990012585086-solutions-engineer"
+   },
+   {
+    "claim": "Actively hires in Canada (Toronto).",
+    "quote": "Technical Support Specialist (Bilingual French and English) \u2014 INNERGY \u2014 Toronto, Ontario, Canada.",
+    "url": "https://ca.linkedin.com/jobs/view/technical-support-specialist-bilingual-french-and-english-at-innergy-4429540716"
+   },
+   {
+    "claim": "Employs in Europe (Poland).",
+    "quote": "Lukasz Folwarczny \u2014 Krak\u00f3w, Woj. Ma\u0142opolskie, Polska \u2026 Co\u2011founder of INNERGY.",
+    "url": "https://pl.linkedin.com/in/lfolwarczny"
+   },
+   {
+    "claim": "Employs in New Zealand.",
+    "quote": "Luke Rossiter \u2014 Canterbury, New Zealand \u2026 INNERGY.",
+    "url": "https://nz.linkedin.com/in/luke-rossiter-9728aa146"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-05T07:21:26+00:00",
+  "scope_basis": "legal-entity"
+ },
  "smartrecruiters:mirantis": {
   "company": "mirantis",
   "confidence": "medium",
@@ -20235,6 +20371,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:arcsite": {
+  "company": "arcsite",
+  "confidence": "high",
+  "distribution_summary": "Most ArcSite employees appear to be located in the United States (many); small presence in Canada and India (few); no visible current-employee LinkedIn profiles found for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "ArcSite\u2019s remote roles are scoped to the United States.",
+    "quote": "Remote (United States) \u2026 Hires remotely in United States",
+    "url": "https://wellfound.com/jobs/3991751-senior-product-manager-ai-workflow-automation"
+   },
+   {
+    "claim": "ArcSite lists US\u2011only remote roles on its Wellfound company jobs page.",
+    "quote": "Remote only \u2022 United States \u2026 Onsite or remote \u2022 Grand Rapids \u2022 Remote (United States)",
+    "url": "https://wellfound.com/company/arctuition/jobs"
+   },
+   {
+    "claim": "Job ads describe ArcSite as remote\u2011first and list the location as United States.",
+    "quote": "We\u2019re a remote-first team\u2026 Fully remote \u2026 United States",
+    "url": "https://dailyremote.com/remote-job/product-marketing-manager-5564857"
+   },
+   {
+    "claim": "Recent US\u2011scoped remote postings appear on third\u2011party boards.",
+    "quote": "Posted 11 hours ago \u2026 United States",
+    "url": "https://dailyremote.com/remote-job/senior-product-marketing-manager-5564858"
+   },
+   {
+    "claim": "Community job posts also specify US\u2011remote for ArcSite roles.",
+    "quote": "Company: ArcSite Location: Remote (United States)",
+    "url": "https://www.reddit.com/r/jobboardsearch/comments/1qogapo/hiring_a_senior_manager_web_amp_seo_at_arcsite_in/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-05T07:21:26+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:asiaverify": {

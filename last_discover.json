@@ -1,9 +1,15 @@
 {
- "ran_at": "2026-09-04T07:37:01+00:00",
+ "ran_at": "2026-09-05T07:17:42+00:00",
  "new_boards": [
-  "workable:komoju"
+  "smartrecruiters:Locinox",
+  "smartrecruiters:Nexthink",
+  "smartrecruiters:SmithsGroup2",
+  "smartrecruiters:innergy1",
+  "workable:arcsite",
+  "workable:openworks-engineering",
+  "workable:veritree"
  ],
- "new_urls": 1,
+ "new_urls": 7,
  "errors": 3,
- "dork_offset": 4
+ "dork_offset": 10
 }

@@ -26,6 +26,7 @@ https://apply.workable.com/9dtechnologies-1/j/4DF6C186E8
 https://apply.workable.com/activtrak/j/1FE4E160FB
 https://apply.workable.com/amax-1/j/4B862D14FF
 https://apply.workable.com/anza-xyz/j/C171153FD1
+https://apply.workable.com/arcsite/j/09DDC0818C
 https://apply.workable.com/arpu-telecommunication-services/j/6663F431AF
 https://apply.workable.com/asiaverify/j/70190329BA
 https://apply.workable.com/assist-rx/j/9A4A85ABB4
@@ -105,6 +106,7 @@ https://apply.workable.com/nelson-education/j/BCDC668276
 https://apply.workable.com/netcetera/j/2DF9E2B9BD
 https://apply.workable.com/nuvei/j/31C6991BF9
 https://apply.workable.com/octane-ai-1/j/13BEA33254
+https://apply.workable.com/openworks-engineering/j/DF61EEF7A9
 https://apply.workable.com/optisigns-inc/j/B5B595FC68
 https://apply.workable.com/packtpublishing/j/11A546CFD5
 https://apply.workable.com/panorama-education/j/174610D0A2
@@ -155,6 +157,7 @@ https://apply.workable.com/usercentrics/j/2EF0BAB180
 https://apply.workable.com/uworld/j/DF3FEFE2C3
 https://apply.workable.com/valsoft-corp/j/435713E085
 https://apply.workable.com/vasion/j/B742E0151E
+https://apply.workable.com/veritree/j/3B03BC6294
 https://apply.workable.com/versa-networks/j/CB860F279A
 https://apply.workable.com/volton/j/744BE0D1B6
 https://apply.workable.com/vortexa/j/D06C4900C2
@@ -1034,12 +1037,14 @@ https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000137740049-product-m
 https://jobs.smartrecruiters.com/LinkedIn3/744000127766279-vp-product-marketing-linkedin-talent-solutions
 https://jobs.smartrecruiters.com/LinkedIn3/744000130253009-senior-product-marketing-manager-lts-product-narrative
 https://jobs.smartrecruiters.com/LinkedIn3/744000135781829-director-of-solutions-marketing-linkedin-marketing-solutions
+https://jobs.smartrecruiters.com/Locinox/744000146481979-product-marketer
 https://jobs.smartrecruiters.com/MCPayment/743999716550745-product-marketing-interns
 https://jobs.smartrecruiters.com/MattelInc/744000119674052-associate-manager-toy-marketing-innovation-
 https://jobs.smartrecruiters.com/Microchip/744000124167899-senior-technical-staff-engineer-product-marketing
 https://jobs.smartrecruiters.com/MigrateCorp/744000131423088-product-marketing-manager-treasury-platform
 https://jobs.smartrecruiters.com/Mirantis/744000132244334-technical-product-marketer-k0rdent-ai-remote-in-the-us
 https://jobs.smartrecruiters.com/NBCUniversal3/744000137585419-product-manager-product-strategy-marketing
+https://jobs.smartrecruiters.com/Nexthink/744000143869762-product-manager
 https://jobs.smartrecruiters.com/PericomSemiconductorCorporation/77815288-director-of-product-marketing-
 https://jobs.smartrecruiters.com/PicsArt/743999756640857-product-marketing-specialist
 https://jobs.smartrecruiters.com/Promptcloud/744000120661087-technical-product-marketer-content-growth-genai-llm-longchain-ai-agent-
@@ -1052,6 +1057,7 @@ https://jobs.smartrecruiters.com/SEEK/744000121145143-apac-senior-product-market
 https://jobs.smartrecruiters.com/Salomon/744000134477865-sports-marketing-product-marketing-manager-freeski
 https://jobs.smartrecruiters.com/ScalableGmbH/744000134184954-senior-product-marketing-manager-m-f-x-
 https://jobs.smartrecruiters.com/ServiceNow/744000135339719-senior-manager-product-marketing-telecommunications
+https://jobs.smartrecruiters.com/SmithsGroup2/744000139335519-product-marketing-manager-
 https://jobs.smartrecruiters.com/Sociabble/744000131714806-product-marketing-manager-saas-feature-adoption-m-f-
 https://jobs.smartrecruiters.com/Sociabble/744000134186969-product-marketing-manager-gtm-sales-enablement-m-f-
 https://jobs.smartrecruiters.com/Solidigm/744000131926489-product-marketing-lead
@@ -1069,6 +1075,7 @@ https://jobs.smartrecruiters.com/Wise/744000129172790-product-marketing-lead-glo
 https://jobs.smartrecruiters.com/Wix2/744000128032309-ai-product-marketer
 https://jobs.smartrecruiters.com/dnanexus/744000142733020-product-marketing-coordinator-
 https://jobs.smartrecruiters.com/experian/744000144131724-director-of-product-marketing-us-remote-
+https://jobs.smartrecruiters.com/innergy1/3743990014427206-marketing-specialist-
 https://jobs.smartrecruiters.com/mirantis/744000117712267-technical-product-marketer-k0rdent-ai
 https://jobs.smartrecruiters.com/oneclick-ui/company
 https://jobs.smartrecruiters.com/renesaselectronics/744000143821269-senior-staff-product-marketing-specialist

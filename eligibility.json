@@ -1181,6 +1181,32 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/arcsite/j/09ddc0818c": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Grand Rapids, Michigan, United States",
+"extracted_at": "2026-09-05T07:21:16+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/arcsite/j/210bead39e": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Grand Rapids, Michigan, United States\nRemote label: Remote",
+"extracted_at": "2026-09-05T07:21:16+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/asiaverify/j/70190329ba": {
 "countries": [
 "United Kingdom",
