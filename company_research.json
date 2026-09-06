@@ -10142,6 +10142,74 @@
   "researched_at": "2026-08-20T03:43:54+00:00",
   "scope_basis": "timezone-preference"
  },
+ "greenhouse:monzo": {
+  "company": "Monzo",
+  "confidence": "high",
+  "distribution_summary": "Most Monzo employees appear to be based in the UK and the US (large presence on LinkedIn), with smaller numbers in Canada, Australia, India, Singapore, several European countries and a few other markets (LinkedIn company and employee profiles used for the estimate). ([linkedin.com](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7312401791868887040/?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "few",
+   "au": "few",
+   "br": "few",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "few",
+   "pl": "none",
+   "sa": "few",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Monzo operates offices in the UK and EU, with some people working remotely, and locations are specified per role.",
+    "quote": "Now there are Monzo offices in London, Cardiff, Dublin and Barcelona \u2013 with lots of Monzonauts working remotely, too\u2026 Each job description will say where the role is usually based.",
+    "url": "https://monzo.com/careers"
+   },
+   {
+    "claim": "The live job board consistently labels remote roles as Remote (UK), indicating UK-only remote eligibility.",
+    "quote": "Current openings at Monzo\u2026 Credit Analyst \u2014 London; Remote (UK)\u2026 Senior Machine Learning Manager, Borrowing \u2014 Cardiff, London or Remote (UK)\u2026 (66 jobs).",
+    "url": "https://job-boards.greenhouse.io/monzo"
+   },
+   {
+    "claim": "Sample remote-eligible marketing role explicitly allows working remotely within the UK and requires UK right to work.",
+    "quote": "This role will be based out of our London office\u2026 or remotely within the UK\u2026 \ud83d\udec2 Please confirm your UK Right to Work status.",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8121253"
+   },
+   {
+    "claim": "Even EU-focused roles offering remote flexibility restrict it to the UK only.",
+    "quote": "CRM Manager \u2013 EU\u2026 \ud83d\udccdLondon/UK Remote\u2026 This role can be based in our London office, but we're open to distributed working within the UK.",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8133342"
+   },
+   {
+    "claim": "EU roles in Spain are advertised as hybrid/in-office rather than remote, supporting the view that remote hiring isn\u2019t offered broadly in Europe.",
+    "quote": "Senior Data Scientist \u2014 Barcelona\u2026 Hybrid model: 3 days a week in the office.",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/8064099"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "unlikely",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "yes",
+   "US": "no"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-06T07:32:58+00:00",
+  "scope_basis": "legal-entity"
+ },
  "greenhouse:mozilla": {
   "company": "mozilla",
   "confidence": "medium",
@@ -11292,6 +11360,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-20T06:13:51+00:00",
   "scope_basis": "mixed"
+ },
+ "greenhouse:roadie": {
+  "company": "Roadie",
+  "confidence": "high",
+  "distribution_summary": "Most Roadie employees appear to be located in the United States (company and many employee profiles on LinkedIn); a small number appear in Canada and I could not find current-employee LinkedIn profiles for the other listed countries. ([linkedin.com](https://www.linkedin.com/company/roadie-inc?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their open roles are remote but posted on a US-focused board, indicating remote work is offered.",
+    "quote": "Customer Support Specialist REMOTE \u2026 Senior Product Marketing Specialist REMOTE \u2026 Product Lead REMOTE",
+    "url": "https://job-boards.greenhouse.io/roadie"
+   },
+   {
+    "claim": "Roles require U.S. work authorization with no visa sponsorship, implying hiring is limited to the U.S.",
+    "quote": "This role is not eligible for Visa sponsorship. Applicants must be authorized to work for any employer in the U.S.",
+    "url": "https://job-boards.greenhouse.io/roadie/jobs/8685075002"
+   },
+   {
+    "claim": "Application flow asks which U.S. state the candidate resides in, reinforcing U.S.-only hiring.",
+    "quote": "Which state are you currently a resident in?",
+    "url": "https://job-boards.greenhouse.io/roadie/jobs/8634807002"
+   },
+   {
+    "claim": "They describe themselves as a remote-first environment (but still U.S.-only per work authorization).",
+    "quote": "Remote-first environment",
+    "url": "https://job-boards.greenhouse.io/roadie/jobs/8694689002"
+   },
+   {
+    "claim": "Careers page emphasizes flexible work environment, consistent with remote-friendly posture.",
+    "quote": "Flexible schedule and work environment",
+    "url": "https://www.roadie.com/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-06T07:32:58+00:00",
+  "scope_basis": "legal-entity"
  },
  "greenhouse:rushstreetinteractive": {
   "company": "Rush Street Interactive",

@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "jobs.jobvite.com|product marketing",
+  "query": "breezy.hr|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "jobs.jobvite.com|product marketer",
+  "query": "breezy.hr|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {

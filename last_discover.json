@@ -1,15 +1,14 @@
 {
- "ran_at": "2026-09-05T07:17:42+00:00",
+ "ran_at": "2026-09-06T07:30:20+00:00",
  "new_boards": [
-  "smartrecruiters:Locinox",
-  "smartrecruiters:Nexthink",
-  "smartrecruiters:SmithsGroup2",
-  "smartrecruiters:innergy1",
-  "workable:arcsite",
-  "workable:openworks-engineering",
-  "workable:veritree"
+  "greenhouse:ahrefsjobs",
+  "greenhouse:geniussports",
+  "greenhouse:imbue",
+  "greenhouse:monzo",
+  "greenhouse:roadie",
+  "workable:teserac-inc"
  ],
- "new_urls": 7,
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }
