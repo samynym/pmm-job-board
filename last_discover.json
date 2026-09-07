@@ -1,14 +1,10 @@
 {
- "ran_at": "2026-09-06T07:30:20+00:00",
+ "ran_at": "2026-09-07T07:47:07+00:00",
  "new_boards": [
-  "greenhouse:ahrefsjobs",
-  "greenhouse:geniussports",
-  "greenhouse:imbue",
-  "greenhouse:monzo",
-  "greenhouse:roadie",
-  "workable:teserac-inc"
+  "recruitee:asksuite",
+  "recruitee:getbraavo"
  ],
- "new_urls": 6,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }

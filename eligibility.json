@@ -1863,6 +1863,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://asksuite.recruitee.com/o/product-marketing-analyst": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-07T07:49:46+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/agital-careers/jobs/c86bd9de-e109-460d-8fb0-1df0e5ce3578": {
 "countries": [],
 "eligibility_stated": false,
@@ -2231,6 +2240,18 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://getbraavo.recruitee.com/o/senior-product-marketing-manager": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Based in the United States or Europe. Remote.",
+"extracted_at": "2026-09-07T07:49:46+00:00",
+"regions": [
+"US",
+"Europe"
+],
 "timezone": null,
 "work_auth": null
 },

@@ -16107,6 +16107,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "recruitee:asksuite": {
+  "company": "Asksuite",
+  "confidence": "medium",
+  "distribution_summary": "Asksuite appears concentrated in Brazil (many employees) with small distributed teams in the US, UK, Poland, Mexico and South Africa (few) and no detectable current-employee LinkedIn profiles in the other listed countries based on public LinkedIn data; sources: Asksuite LinkedIn company page and individual LinkedIn profiles/job posts. ([linkedin.com](https://www.linkedin.com/company/asksuite-ai?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "many",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "few",
+   "ng": "none",
+   "ph": "none",
+   "pl": "few",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "few",
+   "za": "few"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their careers site lists only Brazil under \"Todos os pa\u00edses\" and shows roles marked Remoto tied to Santa Catarina, Brazil.",
+    "quote": "Todos os pa\u00edses \u2022 Brasil \u2026 Customer Marketing Analyst \u2014 Remoto \u2014 Santa Catarina, Brasil \u2026 Product Marketing Analyst \u2014 Remoto \u2014 Santa Catarina, Brasil.",
+    "url": "https://asksuite.recruitee.com/"
+   },
+   {
+    "claim": "Remote roles appear to be hired on Brazil\u2019s CLT employment basis, indicating Brazil-only employment for those postings.",
+    "quote": "Qual sua expectativa salarial? (contrata\u00e7\u00e3o CLT) \u2026 Remoto \u2026 Florian\u00f3polis, Brazil, Santa Catarina, Brasil.",
+    "url": "https://asksuite.recruitee.com/o/product-marketing-analyst"
+   },
+   {
+    "claim": "They advertised a role specifically based in South Africa for EMEA sales prospecting.",
+    "quote": "We\u2019re looking for a BDR based in South Africa to be responsible for prospecting and booking demos with qualified clients in the EMEA region for Asksuite BDMs!",
+    "url": "https://za.linkedin.com/jobs/view/business-development-representative-emea-south-africa-based-at-asksuite-4415360879"
+   },
+   {
+    "claim": "They advertised an Account Executive role to be based in Poland or Bulgaria, and explicitly remote.",
+    "quote": "Account Executive EMEA (Poland or Bulgaria Based) \u2026 Good Internet speed - you will work remotely.",
+    "url": "https://pl.linkedin.com/jobs/view/account-executive-emea-poland-or-bulgaria-based-at-asksuite-4333268005"
+   },
+   {
+    "claim": "LinkedIn company page lists global locations (US, UK, Mexico, South Africa), indicating employees or presence beyond Brazil.",
+    "quote": "Locations: Madrid, ES \u2026 New York, US \u2026 Florian\u00f3polis, BR \u2026 London, GB \u2026 Cancun, MX \u2026 Cape Town, ZA.",
+    "url": "https://uk.linkedin.com/company/asksuite-ai"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "yes",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "likely"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-07T07:49:50+00:00",
+  "scope_basis": "unclear"
+ },
  "recruitee:clanx": {
   "company": "CLANX",
   "confidence": "high",
@@ -16242,6 +16310,74 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-21T05:46:46+00:00",
   "scope_basis": "mixed"
+ },
+ "recruitee:getbraavo": {
+  "company": "Braavo Capital Inc.",
+  "confidence": "medium",
+  "distribution_summary": "Most Braavo Capital employees appear to be located in the United States (New York area), with a small number in Canada, the UK and Brazil; presence in other listed countries was not clearly found from public LinkedIn X\u2011ray results.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "few",
+   "ca": "few",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "few",
+   "us": "many",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Open roles are remote but limited to candidates based in the United States or Europe.",
+    "quote": "* Based in the United States or Europe. Remote.",
+    "url": "https://getbraavo.recruitee.com/o/senior-product-marketing-manager"
+   },
+   {
+    "claim": "Another current role confirms the same US-or-Europe remote scope.",
+    "quote": "* Based in the United States or Europe. Remote, with regular travel to industry events and team gatherings.",
+    "url": "https://getbraavo.recruitee.com/o/brand-communications-marketer"
+   },
+   {
+    "claim": "A third role also limits hiring to US or Europe, remote.",
+    "quote": "\u2022    Based in the United States or Europe. Remote, with regular travel to industry events and client meetings.",
+    "url": "https://getbraavo.recruitee.com/o/head-of-originations"
+   },
+   {
+    "claim": "Company describes itself as remote-first with hybrid offices in New York City and Warsaw.",
+    "quote": "As a remote-first team, we\u2019re globally distributed across 4 continents with hybrid offices in New York City and Warsaw.",
+    "url": "https://www.getbraavo.com/careers/"
+   },
+   {
+    "claim": "ATS intro notes HQ locations (NYC and Warsaw) and small, multi-country team.",
+    "quote": "Our dynamic and talented team of 25+ industry professionals work across 4 countries, with headquarters in New York (US) and Warsaw (Poland).",
+    "url": "https://getbraavo.recruitee.com/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-07T07:49:50+00:00",
+  "scope_basis": "unclear"
  },
  "recruitee:tidiocareer": {
   "company": "Tidio",
