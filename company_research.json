@@ -17395,6 +17395,69 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:franki": {
+  "company": "franki",
+  "confidence": "medium",
+  "distribution_summary": "The name \u201cfranki\u201d is ambiguous \u2014 there are multiple different companies (a US app \u201cFranki\u201d, Belgian/European construction firms, Franki Africa, Franki AI in Colombia, etc.). Tell me which specific \u201cfranki\u201d (or paste the company website/LinkedIn page) and I\u2019ll run the LinkedIn X\u2011ray across the listed country sites and return the per\u2011country counts.",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "unknown",
+   "br": "unknown",
+   "ca": "unknown",
+   "co": "unknown",
+   "de": "unknown",
+   "fr": "unknown",
+   "in": "unknown",
+   "jp": "unknown",
+   "ke": "unknown",
+   "mx": "unknown",
+   "ng": "unknown",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "unknown",
+   "uk": "unknown",
+   "us": "unknown",
+   "za": "unknown"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Multiple roles explicitly list Remote (United States).",
+    "quote": "Senior Backend Engineer \u2014 Remote (United States)",
+    "url": "https://ats.rippling.com/franki/jobs"
+   },
+   {
+    "claim": "Job descriptions state the team works remotely across the US with a PST overlap preference.",
+    "quote": "Remote work: Our team works remotely across the US but primarily PST time zone;",
+    "url": "https://ats.rippling.com/franki/jobs/874b2b6e-490f-4cf1-87f7-e203a575afe8"
+   },
+   {
+    "claim": "Some sales roles restrict remote eligibility to specific U.S. states/cities.",
+    "quote": "Remote (California, Texas, Chicago, IL, Florida)",
+    "url": "https://ats.rippling.com/franki/jobs/da649d3a-47e3-40c3-9ef3-1560adb2f0de"
+   },
+   {
+    "claim": "Previously listed a role open remotely in Argentina and Colombia (signals possible LATAM hiring via remote/EOR/contract).",
+    "quote": "Senior Accountant \u2014 Remote (Argentina) \u2014 Remote (Colombia)",
+    "url": "https://ats.rippling.com/franki/jobs/17e23c97-6309-41a7-b470-d731ed9223c4"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "likely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-08T07:44:52+00:00",
+  "scope_basis": "mixed"
+ },
  "rippling:inquired-careers": {
   "company": "Inquired",
   "confidence": "high",

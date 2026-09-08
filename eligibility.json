@@ -3602,6 +3602,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/asus/job/o7klafww": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "\"the estimated pay range for this role working in Fremont, California office.\"",
+"extracted_at": "2026-09-08T07:44:46+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/asus/job/odqjafwg": {
 "countries": [],
 "eligibility_stated": true,

@@ -16,6 +16,14 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
+  "board": "workday:('thejacksonlaboratory.wd503.myworkdayjobs.com', 'External_JAX')",
+  "error": "HTTP Error 502: Bad Gateway"
+ },
+ {
+  "board": "recruitee:configura",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "workable:blueprint-bryanjohnson",
   "error": "HTTP Error 404: Not Found"
  },
@@ -92,27 +100,15 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://apply.workable.com/hospitable/j/58EAEAE59D",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/haiqu-inc/j/3127BE82C9",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/kantox/j/98EF8BF03C",
-  "error": "HTTP 404"
- },
- {
   "url": "https://careers-hines.icims.com/jobs/14148/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-kyocera.icims.com/jobs/3202/job",
   "error": "HTTP 410"
  },
  {
@@ -120,7 +116,15 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-kyocera.icims.com/jobs/3202/job",
   "error": "HTTP 410"
  },
  {
@@ -132,20 +136,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/Product-marketing-manager_R01131566",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
@@ -156,6 +152,14 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://jobs.ashbyhq.com/ashby/07201b7e-a581-46a6-bbd3-432824bd761f",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
@@ -164,7 +168,19 @@
   "error": "HTTP 404"
  },
  {
+  "url": "https://jobs.lever.co/jobgether/6e7dcf8d-2ed9-49a9-8e35-588847d800da",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/a277c872-7e21-4f35-a923-175227ae08f2",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/zopa/fb6b9d8b-f8fd-43ea-925a-08d5d0a4dbd4",
   "error": "HTTP 404"
  },
  {
