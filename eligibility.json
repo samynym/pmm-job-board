@@ -1123,6 +1123,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:stripe:8178459": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+"extracted_at": "2026-09-09T07:48:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:temporaltechnologies:5044184007": {
 "countries": [],
 "eligibility_stated": true,
@@ -2012,6 +2023,26 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/interplaylearning/jobs/0cc08eab-bedf-4e2c-a38d-9ed188e812f6": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/interplaylearning/jobs/e83cce0e-7aea-47fb-8b32-7a9eb2692a91": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/kai-cyber-inc/jobs/9ae1a0e9-7e12-4fce-b21a-7ea30046ca76": {
 "countries": [],
 "eligibility_stated": false,
@@ -2027,6 +2058,26 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/logile/jobs/ac907f9d-fc38-4fbc-8a02-5a2d1b71c10b": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/nexcess/jobs/828c5a7c-dcbc-4d0c-bef6-5ba76a5c4919": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
@@ -2117,6 +2168,16 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/therabody/jobs/7dbf9e14-c98d-443c-bc9b-288170273f69": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
@@ -2555,6 +2616,17 @@
 "eligibility_stated": true,
 "evidence": "The candidate will be located remotely and based in the US.",
 "extracted_at": "2026-08-14T04:46:55+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/delinea/6297f0ed-cd66-4226-a99a-4ccd0d52eaed": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: U.S. Remote",
+"extracted_at": "2026-09-09T07:48:39+00:00",
 "regions": [
 "US"
 ],
@@ -4509,6 +4581,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:renesaselectronics:744000148326047": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-09T07:48:39+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },

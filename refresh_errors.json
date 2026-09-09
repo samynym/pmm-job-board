@@ -16,10 +16,6 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
-  "board": "workday:('thejacksonlaboratory.wd503.myworkdayjobs.com', 'External_JAX')",
-  "error": "HTTP Error 502: Bad Gateway"
- },
- {
   "board": "recruitee:configura",
   "error": "HTTP Error 404: Not Found"
  },
@@ -100,23 +96,55 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://apply.workable.com/hospitable/j/58EAEAE59D",
-  "error": "HTTP 404"
+  "url": "https://3m.wd1.myworkdayjobs.com/Search/job/Product-Marketer_R01168065",
+  "error": "HTTP 403"
  },
  {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://apply.workable.com/m-files/j/307C311D65",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/sumerge-1/j/FD9865D6B6",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/anaconda/jobs/92a3897d-92ec-4acd-868f-4a293926369e",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/coast/jobs/5973504004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/formlabs/jobs/8036857",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/mercury/jobs/6123795004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/muralhealth/jobs/4178943009",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4679615005",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -132,7 +160,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://henryscheinone.applytojob.com/apply/XVHATwZKQc",
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -152,11 +180,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/ashby/07201b7e-a581-46a6-bbd3-432824bd761f",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "url": "https://jobs.ashbyhq.com/openai/f8f026e4-043d-40d1-ae45-d97b0a460ee7",
   "error": "delisted or no data"
  },
  {
@@ -168,11 +192,15 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/6e7dcf8d-2ed9-49a9-8e35-588847d800da",
+  "url": "https://jobs.lever.co/jobgether/2aa1f1ab-e295-468f-abea-52e311ac9c2e",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/a277c872-7e21-4f35-a923-175227ae08f2",
+  "url": "https://jobs.lever.co/jobgether/4cff94ea-a561-45e2-84a9-3a62e82c888f",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/bf0a397c-f212-4c6f-9c73-45e460f97d90",
   "error": "HTTP 404"
  },
  {
@@ -180,8 +208,12 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/zopa/fb6b9d8b-f8fd-43ea-925a-08d5d0a4dbd4",
-  "error": "HTTP 404"
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Energy-Product-Marketing-Manager_JR2016521",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager_JR2016355-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -190,6 +222,14 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://pluxee.wd3.myworkdayjobs.com/Pluxee_Career_Site/job/Alternante-Product-Marketing-Manager--PMM----Go-to-Market-F-H_R5023-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Senior-Product-Marketing-Manager--m-f-d-_R112864",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

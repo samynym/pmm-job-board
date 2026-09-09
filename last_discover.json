@@ -1,9 +1,13 @@
 {
- "ran_at": "2026-09-08T07:42:07+00:00",
+ "ran_at": "2026-09-09T07:45:32+00:00",
  "new_boards": [
-  "workable:smartnews"
+  "rippling:interplaylearning",
+  "rippling:logile",
+  "rippling:nexcess",
+  "rippling:smokeballcareers",
+  "rippling:therabody"
  ],
- "new_urls": 1,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 28
+ "dork_offset": 2
 }

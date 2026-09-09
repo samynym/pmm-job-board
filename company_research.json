@@ -17526,6 +17526,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "rippling:interplaylearning": {
+  "company": "Interplaylearning",
+  "confidence": "high",
+  "distribution_summary": "Based on LinkedIn X\u2011ray searches, Interplay Learning\u2019s current employees are predominantly located in the United States (many profiles found); no current-employee profiles were found on the other country-coded LinkedIn subdomains searched. ([linkedin.com](https://www.linkedin.com/company/interplaylearning?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Their live Rippling job board shows multiple roles labeled Remote (United States) and one labeled Remote (Texas, US), indicating US-only remote eligibility.",
+    "quote": "Remote (United States)\u2026 Remote (Texas, US)",
+    "url": "https://ats.rippling.com/interplaylearning/jobs"
+   },
+   {
+    "claim": "Director of Product Marketing explicitly requires US residency and US work authorization.",
+    "quote": "Candidates must be residents of the United States. Candidates must be legally authorized to work in the United States without current or future sponsorship required.",
+    "url": "https://ats.rippling.com/interplaylearning/jobs/e83cce0e-7aea-47fb-8b32-7a9eb2692a91"
+   },
+   {
+    "claim": "Sr. Product Marketing Manager also requires being a US resident and authorized to work in the US.",
+    "quote": "Candidates must be authorized to work in the United States for any employer without stipulations and be residents of the United States.",
+    "url": "https://ats.rippling.com/interplaylearning/jobs/0cc08eab-bedf-4e2c-a38d-9ed188e812f6"
+   },
+   {
+    "claim": "SDR/BDR posting reiterates US work authorization and US-based requirement.",
+    "quote": "Candidates must be authorized to work in the US and based in the US.",
+    "url": "https://ats.rippling.com/interplaylearning/jobs/1909ca7d-b134-4e29-8d7d-d9cad1b98f36"
+   },
+   {
+    "claim": "Multiple postings describe the company as remote-first with named US office locations (supporting remote-friendly but US-based employment).",
+    "quote": "Remote-first & flexible hours \u2013 Offices in Austin, TX; Deer Park, TX; Woodland, WA; and Cleveland, OH.",
+    "url": "https://ats.rippling.com/interplaylearning/jobs/e83cce0e-7aea-47fb-8b32-7a9eb2692a91"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-09T07:48:44+00:00",
+  "scope_basis": "legal-entity"
+ },
  "rippling:kai-cyber-inc": {
   "company": "Kai Cyber Inc",
   "confidence": "medium",
@@ -17593,6 +17661,142 @@
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "rippling:logile": {
+  "company": "Logile",
+  "confidence": "high",
+  "distribution_summary": "Logile\u2019s employees are concentrated in the United States, India and the UK, with smaller groups in several other countries (e.g., Australia, Canada, South Africa, Singapore) and few or no visible current LinkedIn profiles in many of the remaining markets.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "few",
+   "fr": "few",
+   "in": "many",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "few",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "few"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Logile hires remote employees in the United States.",
+    "quote": "Remote (United States)",
+    "url": "https://ats.rippling.com/logile/jobs/ac907f9d-fc38-4fbc-8a02-5a2d1b71c10b"
+   },
+   {
+    "claim": "Logile hires remote employees in the United Kingdom for EMEA-facing roles.",
+    "quote": "This role is based in the UK, working remotely\u2026 Right to work and to travel within the UK/EMEA region.",
+    "url": "https://ats.rippling.com/logile/jobs/46cc3e68-2e96-44dd-9d1b-635fddd1c733"
+   },
+   {
+    "claim": "Their job board shows both UK-remote and US-remote roles alongside many India-based openings, indicating a hub-centric model with limited remote geographies.",
+    "quote": "Customer Success Manager \u2014 Remote (United Kingdom)\u2026 Product Marketing Manager, Fresh Operations Management \u2014 Zdalne/Remote (United States)\u2026 BHUBANESWAR, India.",
+    "url": "https://ats.rippling.com/pl-PL/logile/jobs"
+   },
+   {
+    "claim": "India roles are explicitly onsite at the Bhubaneswar office, reinforcing the hub pattern and non-remote posture in Asia.",
+    "quote": "This is an onsite role at the Logile Bhubaneswar Office.",
+    "url": "https://ats.rippling.com/es-419/logile/jobs/89bb914b-f1fb-4433-9ffe-b53f660b179b"
+   },
+   {
+    "claim": "Some India roles serving EMEA require work-hours overlap with UK/EMEA, indicating timezone-driven collaboration constraints in addition to location eligibility.",
+    "quote": "\u2026meaningful daily overlap with UK/EMEA business hours (typically GMT/BST)\u2026",
+    "url": "https://ats.rippling.com/es-419/logile/jobs/89bb914b-f1fb-4433-9ffe-b53f660b179b"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-09-09T07:48:44+00:00",
+  "scope_basis": "mixed"
+ },
+ "rippling:nexcess": {
+  "company": "Nexcess",
+  "confidence": "medium",
+  "distribution_summary": "Most Nexcess employees appear to be located in the United States (many); small numbers appear in the UK and Canada (few); I found no visible current-employee LinkedIn profiles for the other listed countries. ([linkedin.com](https://www.linkedin.com/company/nexcess?utm_source=openai))",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities (US: Liquid Web Inc.; UK: SERVERSCOM UK LTD); EOR/contractors not stated",
+  "evidence": [
+   {
+    "claim": "Engineering roles are permanently remote and the company states it hires globally where it can legally engage; current team spans the US, Canada, Europe, and LATAM.",
+    "quote": "This is a permanently remote full-time position. We hire globally, wherever we can legally engage you\u2026 The team currently spans the United States, Canada, Spain, Brazil, Portugal, Poland, Greece, T\u00fcrkiye, and the Dominican Republic.",
+    "url": "https://ats.rippling.com/nexcess/jobs/4a78febd-b328-44ca-95b0-d6c3188347a1"
+   },
+   {
+    "claim": "A second engineering posting repeats the global hiring language and distributed team makeup, reinforcing this policy.",
+    "quote": "This is a permanently remote full-time position. We hire globally, wherever we can legally engage you\u2026 We are remote-first and genuinely distributed \u2014 the team currently spans the United States, Canada, Brazil, Spain, Portugal, Poland, Greece, T\u00fcrkiye, and the Dominican Republic.",
+    "url": "https://ats.rippling.com/nexcess/jobs/1f68d2df-2387-40c4-9f8e-c6d71e573c75"
+   },
+   {
+    "claim": "Live job board shows many roles as Remote (United States) alongside on-site/hub roles in Europe (Netherlands, Slovakia) and Cyprus, indicating multi\u2011region hiring rather than fully worldwide for all roles.",
+    "quote": "Director, Client Success \u2014 Remote (United States)\u2026 On-site Data Center Technician \u2014 Woerden, Netherlands\u2026 Lead Network Automation Developer, Python \u2014 Lemesos, Cyprus\u2026 Network Engineer \u2014 Bratislava, Slovakia\u2026 Senior Product Marketing Manager (Servers.com by Nexcess) \u2014 Guildford, United Kingdom.",
+    "url": "https://ats.rippling.com/nexcess/jobs"
+   },
+   {
+    "claim": "Multiple non-engineering roles are explicitly US\u2011remote and US employment appears via Liquid Web Inc., supporting firm US eligibility.",
+    "quote": "Senior Product Marketing Manager\u2026 #LI-REMOTE\u2026 Remote (United States)\u2026 Liquid Web Inc. reserves the right to modify, interpret, or apply this job description\u2026 The employment contract remains \u201cat will\u201d.",
+    "url": "https://ats.rippling.com/nexcess/jobs/828c5a7c-dcbc-4d0c-bef6-5ba76a5c4919"
+   },
+   {
+    "claim": "UK presence is through SERVERSCOM UK LTD with a hybrid role based in Guildford, indicating a UK entity and local hiring, though not fully remote for this post.",
+    "quote": "Working Hours/Arrangements: 2 days office based, 3 days \u2013 Work from home (Hybrid role)\u2026 Location: Guildford office\u2026 United Kingdom\u2026 SERVERSCOM UK LTD. reserves the right to modify, interpret, or apply this job description\u2026",
+    "url": "https://ats.rippling.com/nexcess/jobs/533bab42-37fc-451e-a530-d3cd37553155"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-09T07:48:44+00:00",
+  "scope_basis": "mixed"
  },
  "rippling:pdq": {
   "company": "Pdq",
@@ -18204,6 +18408,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "rippling:therabody": {
+  "company": "Therabody",
+  "confidence": "high",
+  "distribution_summary": "Therabody\u2019s employees are concentrated in the United States and the UK, with a smaller presence across Canada, Australia, parts of Europe and Asia; many other countries return few or no current-employee LinkedIn profiles (some searches were ambiguous or returned insufficient results).",
+  "employee_distribution": {
+   "ae": "unknown",
+   "au": "few",
+   "br": "unknown",
+   "ca": "few",
+   "co": "unknown",
+   "de": "few",
+   "fr": "few",
+   "in": "few",
+   "jp": "unknown",
+   "ke": "none",
+   "mx": "unknown",
+   "ng": "none",
+   "ph": "unknown",
+   "pl": "unknown",
+   "sa": "unknown",
+   "sg": "few",
+   "uk": "many",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Therabody allows some roles to be performed remotely, but only within the United States.",
+    "quote": "This is a full-time role that can be held from our Los Angeles headquarters on a hybrid basis, or remotely within the United States.",
+    "url": "https://ats.rippling.com/therabody/jobs/7dbf9e14-c98d-443c-bc9b-288170273f69"
+   },
+   {
+    "claim": "US-remote eligibility is reiterated on another role.",
+    "quote": "Location: This role can be US-based remote.",
+    "url": "https://ats.rippling.com/therabody/jobs/76386fa3-7642-499d-af13-c389b9d96a8e"
+   },
+   {
+    "claim": "Multiple postings explicitly list location as \u201cRemote (United States)\u201d.",
+    "quote": "The pay range for this role is: 125,000 - 160,000 USD per year (Remote) \u2026 Remote (United States)",
+    "url": "https://ats.rippling.com/therabody/jobs/538cf9b7-e281-4c75-929f-aa2c89383887"
+   },
+   {
+    "claim": "UK roles specify hybrid/in-office attendance rather than remote.",
+    "quote": "Location: London Office (Hybrid, 3 Days)",
+    "url": "https://ats.rippling.com/therabody/jobs/d294cca1-1005-42a3-ac0b-f03d7c74dedc"
+   },
+   {
+    "claim": "Another UK posting confirms hybrid requirement (not fully remote).",
+    "quote": "Location: UK (Hybrid) \u2013 minimum 3 days per week in the London office, with flexibility to work remotely for the remaining days",
+    "url": "https://ats.rippling.com/therabody/jobs/f1ab2e6b-2a8b-43eb-9816-78de48eaa9e0"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-09-09T07:48:44+00:00",
   "scope_basis": "legal-entity"
  },
  "rippling:tive-careers": {
@@ -23463,6 +23735,74 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "workable:terabase-energy": {
+  "company": "terabase energy",
+  "confidence": "medium",
+  "distribution_summary": "Terabase Energy\u2019s public LinkedIn profiles are predominantly in the United States (many); searches on country-specific LinkedIn subdomains returned no current-employee profiles for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Remote roles explicitly limited to the United States.",
+    "quote": "Remote (US) \u2022 Capture Technology Program Manager \u2022 Field Deployment Lead \u2022 Contracts & Deal Desk Manager \u2022 Senior BESS Controls Developer \u2022 SCADA Engineer \u2026",
+    "url": "https://www.linkedin.com/posts/terabase_terabase-energy-activity-7376646153620303872-_P3z"
+   },
+   {
+    "claim": "They have a French legal entity and on\u2011the\u2011ground team in Paris.",
+    "quote": "The Role\u2026 responsible for payroll administration, labor compliance\u2026 as our establishing member in France, and being the operational backbone of our Paris location\u2026 support the operational backbone of our France entity.",
+    "url": "https://jobs.workable.com/view/u2Vox9nMWP9hEWE4qUJgLq/hybrid-manager%2C-people-operations-and-payroll-%28fr%29-in-paris-at-terabase-energy"
+   },
+   {
+    "claim": "They list an open role located in Mexico (suggesting active hiring in LATAM).",
+    "quote": "Project Engineer, SCADA and Controls Systems\u2026 Terabase Energy \u00b7 Mexico, MX\u2026 Location     Mexico, MX\u2026 Checked against workable \u2014 still accepting applications.",
+    "url": "https://ottoroles.com/job/terabase-energy/project-engineer-scada-and-controls-systems-workable%3Aterabase-energy%3AD2666DD687"
+   },
+   {
+    "claim": "That Mexico role is advertised as remote.",
+    "quote": "Brief #32034 \u00b7 Updated 16 JUL 2026 \u00b7 REMOTE \u00b7 Workable\u2026 Project Engineer, SCADA and Controls Systems\u2026 Job location     Mexico\u2026 Job listing URL     https://apply.workable.com/j/D2666DD687",
+    "url": "https://www.employbl.com/jobs/project-engineer-scada-and-controls-syst-Terabase-Energy-1677592"
+   },
+   {
+    "claim": "They publicly list an international office in Paris, confirming multi\u2011region footprint.",
+    "quote": "International Offices  Paris, France",
+    "url": "https://www.terabase.energy/contact"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-09T07:48:44+00:00",
   "scope_basis": "legal-entity"
  },
  "workable:uworld": {
