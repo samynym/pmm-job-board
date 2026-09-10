@@ -308,6 +308,17 @@
 "timezone": null,
 "work_auth": "US work authorization required (no visa sponsorship)"
 },
+"greenhouse:alphasense:8427480002": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote - United States",
+"extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:alphasense:8427577002": {
 "countries": [],
 "eligibility_stated": true,
@@ -2243,6 +2254,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://civicsciencecareers.applytojob.com/apply/gpewojjiqz": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Pittsburgh, PA. This is a remote (work from home) role with preference for candidates in the Eastern Time Zone.",
+"extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": "Eastern Time Zone (preference)",
+"work_auth": null
+},
 "https://civicsciencecareers.applytojob.com/apply/t1ben3mxsy": {
 "countries": [],
 "eligibility_stated": true,
@@ -4148,6 +4172,30 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/lwolf/51f44b89-7fc8-4b07-ae3f-a9075ecc27d5": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "United States (Remote)",
+"extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/lwolf/fa598294-c874-442b-8989-83379a89f26e": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "United States (Remote)",
+"extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/mindtickle/1538441d-fb7c-45b6-855d-d9328b3e7a46": {
 "countries": [],
 "eligibility_stated": true,
@@ -5270,6 +5318,17 @@
 "US"
 ],
 "timezone": "EST",
+"work_auth": null
+},
+"workday:humana.wd5.myworkdayjobs.com:R-428204-1": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote Nationwide. This position operates under Central Standard Time (CST) or Eastern Standard Time (EST) hours.",
+"extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": "CST or EST",
 "work_auth": null
 },
 "workday:merative.wd12.myworkdayjobs.com:JR01577": {

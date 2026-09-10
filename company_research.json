@@ -15359,6 +15359,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "lever:lwolf": {
+  "company": "Lone Wolf Technologies",
+  "confidence": "high",
+  "distribution_summary": "Most Lone Wolf Technologies employees found on public LinkedIn profiles are located in the United States (many); a few appear in Canada; I found no current-employee profiles in the other listed country subdomains.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "none",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "none",
+   "jp": "none",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "none",
+   "uk": "none",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Company describes itself as remote-first.",
+    "quote": "Remote-first environment Our remote-first work environment allows you to stay inspired, productive, and engaged...",
+    "url": "https://www.lwolf.com/about/join-the-team"
+   },
+   {
+    "claim": "They hire fully remote in the United States.",
+    "quote": "United States (Remote)",
+    "url": "https://jobs.lever.co/lwolf/51f44b89-7fc8-4b07-ae3f-a9075ecc27d5"
+   },
+   {
+    "claim": "They hire remote in Canada (Toronto, Ontario).",
+    "quote": "Toronto, ON (Remote)",
+    "url": "https://jobs.lever.co/lwolf/6cb73590-d67b-4915-9acf-32bf12b3b9d0"
+   },
+   {
+    "claim": "They hire remote in Australia.",
+    "quote": "Australia (Remote)",
+    "url": "https://jobs.lever.co/lwolf/66343f93-3706-4ac6-8466-c6976f2aee4d"
+   },
+   {
+    "claim": "Philippines roles are hybrid (not fully remote).",
+    "quote": "Manila, Philippines ... Hybrid",
+    "url": "https://jobs.lever.co/lwolf/b3bb12bb-d16f-4b75-a5d7-dcbfaedda97d"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unlikely",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-10T07:49:33+00:00",
+  "scope_basis": "legal-entity"
+ },
  "lever:mindtickle": {
   "company": "Mindtickle",
   "confidence": "medium",

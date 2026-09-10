@@ -96,43 +96,67 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://3m.wd1.myworkdayjobs.com/Search/job/Product-Marketer_R01168065",
-  "error": "HTTP 403"
- },
- {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/m-files/j/307C311D65",
+  "url": "https://apply.workable.com/gotyme-ph-philippines/j/80F9F38D00",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/sumerge-1/j/FD9865D6B6",
+  "url": "https://apply.workable.com/therideplatform/j/ECBFF76F96",
   "error": "HTTP 404"
  },
  {
-  "url": "https://ats.rippling.com/anaconda/jobs/92a3897d-92ec-4acd-868f-4a293926369e",
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/2CAD06A528",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://asksuite.recruitee.com/o/product-marketing-analyst",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/inquired-careers/jobs/ffa181d4-9a21-40cf-9d6e-5449820f3f1b",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/coast/jobs/5973504004",
+  "url": "https://ats.rippling.com/inquired-careers/jobs/01b8a6db-1f67-4111-8735-52c901625c01",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/addepar1/jobs/8556329002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/formlabs/jobs/8036857",
+  "url": "https://boards.greenhouse.io/alixpartners/jobs/7732325003",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/mercury/jobs/6123795004",
+  "url": "https://boards.greenhouse.io/asana/jobs/8038670",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/muralhealth/jobs/4178943009",
+  "url": "https://boards.greenhouse.io/asana/jobs/7920814",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4679615005",
+  "url": "https://boards.greenhouse.io/neosecurityinc/jobs/4323668009",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/saasgroup/jobs/4932860101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/scopely/jobs/5380598008",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/shopmy/jobs/5369356008",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/wizinc/jobs/4710823006",
   "error": "HTTP 404"
  },
  {
@@ -144,6 +168,10 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-kyocera.icims.com/jobs/3202/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
@@ -152,15 +180,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-kyocera.icims.com/jobs/3202/job",
+  "url": "https://civicsciencecareers.applytojob.com/apply/t1bEn3mxsY",
   "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -172,6 +196,10 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
@@ -180,7 +208,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/openai/f8f026e4-043d-40d1-ae45-d97b0a460ee7",
+  "url": "https://jobs.ashbyhq.com/imprint/2707deb7-f6ff-4177-8292-a15bfb0e46d9",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648",
   "error": "delisted or no data"
  },
  {
@@ -188,19 +220,19 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://jobs.jobvite.com/ezra/job/oZCqAfwl",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/2aa1f1ab-e295-468f-abea-52e311ac9c2e",
+  "url": "https://jobs.lever.co/jobgether/193aeb7d-c97a-4193-ae49-448a59916a3c",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/4cff94ea-a561-45e2-84a9-3a62e82c888f",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/bf0a397c-f212-4c6f-9c73-45e460f97d90",
+  "url": "https://jobs.lever.co/jobgether/23112b74-91b1-49e6-bad5-87988611b329",
   "error": "HTTP 404"
  },
  {
@@ -208,11 +240,11 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Energy-Product-Marketing-Manager_JR2016521",
-  "error": "HTTP 403"
+  "url": "https://jobs.lever.co/watchguard/9b2c37ba-38fe-4dc8-8195-49ac25eff966",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager_JR2016355-1",
+  "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Sr-Mgr--Product-Marketing_R19839",
   "error": "HTTP 403"
  },
  {
@@ -222,14 +254,6 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
- },
- {
-  "url": "https://pluxee.wd3.myworkdayjobs.com/Pluxee_Career_Site/job/Alternante-Product-Marketing-Manager--PMM----Go-to-Market-F-H_R5023-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Senior-Product-Marketing-Manager--m-f-d-_R112864",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -244,7 +268,19 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://tidiocareer.recruitee.com/o/product-marketing-manager-midsenior-ai-native-saas",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Product-Marketing-Manager_R0058885-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://xataio-1680192386.teamtailor.com/jobs/7952094-product-marketing-lead",
   "error": "HTTP 410"
  },
  {

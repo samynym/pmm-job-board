@@ -1,12 +1,12 @@
 [
  {
   "source": "ddg",
-  "query": "jobs.personio.de|product marketing",
+  "query": "jobs.smartrecruiters.com|product marketing",
   "error": "anomaly page (bot-blocked)"
  },
  {
   "source": "ddg",
-  "query": "jobs.personio.de|product marketer",
+  "query": "jobs.smartrecruiters.com|product marketer",
   "error": "anomaly page (bot-blocked)"
  },
  {
