@@ -984,6 +984,18 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:rushstreetinteractive:6185790004": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Open to candidates in eligible locations in the Continental US or Canada.",
+"extracted_at": "2026-09-11T07:43:36+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:saasgroup:4932860101": {
 "countries": [],
 "eligibility_stated": true,
@@ -3240,6 +3252,19 @@
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [
 "US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/orbital/e8ba2d7e-db44-4b03-a13d-96085aa0745c": {
+"countries": [
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Location field: London",
+"extracted_at": "2026-09-11T07:43:36+00:00",
+"regions": [
+"UK"
 ],
 "timezone": null,
 "work_auth": null

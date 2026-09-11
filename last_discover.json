@@ -1,9 +1,12 @@
 {
- "ran_at": "2026-09-10T07:46:27+00:00",
+ "ran_at": "2026-09-11T07:40:41+00:00",
  "new_boards": [
-  "lever:lwolf"
+  "greenhouse:clickhouse",
+  "greenhouse:corelight",
+  "greenhouse:headway",
+  "greenhouse:softermii"
  ],
- "new_urls": 1,
+ "new_urls": 4,
  "errors": 3,
- "dork_offset": 8
+ "dork_offset": 14
 }

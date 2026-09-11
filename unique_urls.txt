@@ -285,10 +285,12 @@ https://boards.greenhouse.io/braze/jobs/8052486
 https://boards.greenhouse.io/c3iot/jobs/4416889002
 https://boards.greenhouse.io/canonicaljobs/jobs/6266111
 https://boards.greenhouse.io/celonis/jobs/5928673003
+https://boards.greenhouse.io/clickhouse/jobs/5469836004
 https://boards.greenhouse.io/cloudflare/jobs/7178853
 https://boards.greenhouse.io/coconutsoftware/jobs/5462782004
 https://boards.greenhouse.io/codeandtheory/jobs/8621786002
 https://boards.greenhouse.io/connectwise/jobs/4712461005
+https://boards.greenhouse.io/corelight/jobs/6885049
 https://boards.greenhouse.io/corestory/jobs/5184568007
 https://boards.greenhouse.io/crunchyroll/jobs/7997326
 https://boards.greenhouse.io/dept/jobs/6564535
@@ -307,6 +309,7 @@ https://boards.greenhouse.io/growetalents/jobs/4907044101
 https://boards.greenhouse.io/growetalents/jobs/4920282101
 https://boards.greenhouse.io/hasbro/jobs/4309359009
 https://boards.greenhouse.io/headoutcareers/jobs/4690380006
+https://boards.greenhouse.io/headway/jobs/4823358004
 https://boards.greenhouse.io/hopskipdrive/jobs/6114155004
 https://boards.greenhouse.io/hubspotjobs/jobs/8018006
 https://boards.greenhouse.io/humaninterest/jobs/8037717
@@ -357,6 +360,7 @@ https://boards.greenhouse.io/shipbobinc/jobs/4704511005
 https://boards.greenhouse.io/smartbiz/jobs/4560574006
 https://boards.greenhouse.io/soci/jobs/6036794004
 https://boards.greenhouse.io/soci/jobs/6114194004
+https://boards.greenhouse.io/softermii/jobs/4497134101
 https://boards.greenhouse.io/specterops/jobs/8608868002
 https://boards.greenhouse.io/strava/jobs/2413563
 https://boards.greenhouse.io/tekion/jobs/7790682003

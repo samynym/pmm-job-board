@@ -7069,6 +7069,74 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
+ "breezy:remerge": {
+  "company": "remerge",
+  "confidence": "medium",
+  "distribution_summary": "Remerge\u2019s employees appear concentrated in Germany (Berlin HQ) and the United States (New York) with smaller groups in Japan, Singapore, the UK, Canada and Australia; I found little or no evidence of current Remerge employees on country-specific LinkedIn subdomains for the other listed countries.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "few",
+   "co": "none",
+   "de": "many",
+   "fr": "few",
+   "in": "none",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "few",
+   "uk": "few",
+   "us": "many",
+   "za": "none"
+  },
+  "employs_via": "own entities in listed office countries; no EOR mentioned",
+  "evidence": [
+   {
+    "claim": "They advertise flexible work and say you can work from wherever you feel comfortable and productive (perk language, not a hiring-countries list).",
+    "quote": "Plan your working hours to suit your schedule, enjoy unlimited vacation days, and work from wherever you feel comfortable and productive.",
+    "url": "https://www.remerge.io/careers"
+   },
+   {
+    "claim": "Current openings show hiring in the USA (New York), Germany (Berlin), and China (Beijing).",
+    "quote": "Director of Account Management (USA) \u2014 New York \u2026 Working Student Office Manager (Berlin) \u2014 Berlin, DE \u2026 Account Executive, China \u2014 Beijing, CN.",
+    "url": "https://www.remerge.io/careers"
+   },
+   {
+    "claim": "Their Breezy board lists roles in NY, US and Beijing, CN and flags them as Remote/Hybrid.",
+    "quote": "Account Executive, China \u2014 Beijing, CN [REMOTE_HYBRID] \u2026 Director of Account Management \u2014 NY, US [REMOTE_HYBRID].",
+    "url": "https://remerge.breezy.hr/"
+   },
+   {
+    "claim": "They describe their work infrastructure as remote-first.",
+    "quote": "Fast forward to 2024: We survived the Covid-19 pandemic thanks to our work infrastructure that was designed as a remote-first setup.",
+    "url": "https://www.remerge.io/blog-post/remerge-at-10-celebrating-a-decade-of-mobile-marketing"
+   },
+   {
+    "claim": "They list offices in Berlin, New York, Tokyo, Singapore, and Seoul (indicating where they are set up to employ).",
+    "quote": "BERLIN \u2026 NEW YORK \u2026 TOKYO \u2026 SINGAPORE \u2026 SEOUL.",
+    "url": "https://www.remerge.io/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-11T07:43:45+00:00",
+  "scope_basis": "legal-entity"
+ },
  "breezy:sbc-performance": {
   "company": "SBC Performance",
   "confidence": "medium",
@@ -22538,6 +22606,74 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-23T05:51:50+00:00",
+  "scope_basis": "mixed"
+ },
+ "workable:maker-lab": {
+  "company": "maker lab",
+  "confidence": "medium",
+  "distribution_summary": "Most Maker Lab employees are based in Singapore (many); smaller groups appear in the UK, India, Japan, Australia and the US (few); other listed countries show no visible current-employee LinkedIn profiles.",
+  "employee_distribution": {
+   "ae": "none",
+   "au": "few",
+   "br": "none",
+   "ca": "none",
+   "co": "none",
+   "de": "none",
+   "fr": "none",
+   "in": "few",
+   "jp": "few",
+   "ke": "none",
+   "mx": "none",
+   "ng": "none",
+   "ph": "none",
+   "pl": "none",
+   "sa": "none",
+   "sg": "many",
+   "uk": "few",
+   "us": "few",
+   "za": "none"
+  },
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Company markets itself as global with offices beyond Singapore.",
+    "quote": "Headquartered in Singapore, with offices in London and LA.",
+    "url": "https://sg.linkedin.com/company/wearemakerlab"
+   },
+   {
+    "claim": "Stated distribution of overseas talent across APAC and Oceania; explicit remote-work perk.",
+    "quote": "Our HQ is in Singapore, but our overseas talent is based across Malaysia, Indonesia, Korea, India, Australia, New Zealand. These roles are MY based. ... Remote work \u2014 You get to work from home, indefinitely!",
+    "url": "https://my.hiredly.com/companies/maker-lab"
+   },
+   {
+    "claim": "Active remote hiring in India.",
+    "quote": "Remote Bengaluru, Karnataka, India",
+    "url": "https://jobs.workable.com/view/p95Yg2xfx1PFFscehhmW11/remote-talent-sourcer-in-bengaluru-at-maker-lab"
+   },
+   {
+    "claim": "Active remote hiring in Malaysia.",
+    "quote": "Remote Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "url": "https://jobs.workable.com/view/brA93Kw7XkxwNYKRMCZd8j/remote-programme-development-manager-%28e-learning-%2F-instructional-design%29-in-kuala-lumpur-at-maker-lab"
+   },
+   {
+    "claim": "Roles call for APAC working-hours overlap (timezone-based scope).",
+    "quote": "This role requires you to work in an APAC-friendly time zone, starting at 5:30 a.m. IST.",
+    "url": "https://jobs.workable.com/view/kEP1hqVcKaSTufak4gz44f/remote-senior-project-manager-in-bengaluru-at-maker-lab"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "unknown",
+   "US": "unknown"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-09-11T07:43:45+00:00",
   "scope_basis": "mixed"
  },
  "workable:mindgard": {
