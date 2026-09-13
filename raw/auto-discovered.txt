@@ -216,3 +216,6 @@ https://boards.greenhouse.io/clickhouse/jobs/5469836004
 https://apply.workable.com/pixaera/j/1E9CDA3B04
 https://apply.workable.com/the-brydon-group/j/978EE32BDA
 https://apply.workable.com/theia-insights/j/1313D87945
+https://workday.wd5.myworkdayjobs.com/Workday/job/Platform-Product-Marketing-Manager_JR-0109687
+https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/Products---Services-Marketing-Specialist_JR2026523806
+https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Principal--Product-Marketing---Cloud-Security--Remote-_R29848

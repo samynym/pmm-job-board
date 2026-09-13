@@ -1,11 +1,11 @@
 {
- "ran_at": "2026-09-12T07:34:53+00:00",
+ "ran_at": "2026-09-13T07:54:21+00:00",
  "new_boards": [
-  "workable:pixaera",
-  "workable:the-brydon-group",
-  "workable:theia-insights"
+  "workday:('boeing.wd1.myworkdayjobs.com', 'EXTERNAL_CAREERS')",
+  "workday:('crowdstrike.wd5.myworkdayjobs.com', 'crowdstrikecareers')",
+  "workday:('workday.wd5.myworkdayjobs.com', 'Workday')"
  ],
  "new_urls": 3,
  "errors": 3,
- "dork_offset": 20
+ "dork_offset": 26
 }
