@@ -116,11 +116,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -132,7 +132,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -160,15 +160,23 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://jobs.ashbyhq.com/clera/b8fe307e-4aea-4bb6-bf57-485c5d5659d8",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/exa/85871426-5fb2-4736-b28b-16ed88908ecf",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
@@ -180,11 +188,15 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Senior-Product-Marketing-Manager--Audio---Headset--AI---Project-Motoko-_JR2026007621",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
  },
  {

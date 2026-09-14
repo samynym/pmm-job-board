@@ -1,11 +1,10 @@
 {
- "ran_at": "2026-09-13T07:54:21+00:00",
+ "ran_at": "2026-09-14T08:27:16+00:00",
  "new_boards": [
-  "workday:('boeing.wd1.myworkdayjobs.com', 'EXTERNAL_CAREERS')",
-  "workday:('crowdstrike.wd5.myworkdayjobs.com', 'crowdstrikecareers')",
-  "workday:('workday.wd5.myworkdayjobs.com', 'Workday')"
+  "jazzhr:crescendoai.applytojob.com",
+  "jazzhr:procarehra8.applytojob.com"
  ],
- "new_urls": 3,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 26
+ "dork_offset": 0
 }
