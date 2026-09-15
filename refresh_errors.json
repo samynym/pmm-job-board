@@ -16,6 +16,10 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
+  "board": "teamtailor:davidkennedyrecruitment.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
   "board": "recruitee:configura",
   "error": "HTTP Error 404: Not Found"
  },
@@ -112,8 +116,28 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager--Acrobat-Engagement_R170033",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://apply.workable.com/hunt-st/j/A7E86CC45E",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/veritree/j/3B16202A5C",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/celonis/jobs/7979275003",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/scopely/jobs/5389041008",
+  "error": "HTTP 404"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
@@ -124,16 +148,24 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
+  "url": "https://boards.greenhouse.io/inmobi/jobs/7977028",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://careers-kyocera.icims.com/jobs/3202/job",
+  "url": "https://boards.greenhouse.io/minio/jobs/5229770008",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://deephealth.recruitee.com/o/associate-director-product-marketing",
+  "error": "HTTP 404"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -144,12 +176,20 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
+  "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Senior-Professional--Product-Marketing-Strategy_R-428204-1",
+  "error": "HTTP 403"
  },
  {
   "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Sr-Digital-Product-Marketing-Manager_R-13734",
+  "error": "HTTP 403"
  },
  {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
@@ -160,11 +200,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/b8fe307e-4aea-4bb6-bf57-485c5d5659d8",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/exa/85871426-5fb2-4736-b28b-16ed88908ecf",
+  "url": "https://jobs.ashbyhq.com/absorblms/9edd7351-fcf1-4673-9566-a4b3c869ddd6",
   "error": "delisted or no data"
  },
  {
@@ -172,11 +208,27 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "url": "https://jobs.lever.co/jobgether/0e157d08-8640-45b2-9955-dfee71169b9b",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/87aba72c-1d23-426b-b96c-bb1a19b97734",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/75062ac2-eb44-4a1d-841f-06d394b4e23e",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/outreach/26c82468-d46a-4b43-89cb-7640ce317d11",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
@@ -188,7 +240,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Senior-Product-Marketing-Manager--Audio---Headset--AI---Project-Motoko-_JR2026007621",
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Product-Marketing-Specialist_JR2026007726",
   "error": "HTTP 403"
  },
  {
@@ -200,8 +252,16 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Product-Marketing-Manager--Lenses_R0046599",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Snr-Director--Product-Marketing---Customer-Insights---AI---Data-Analytics_R2601245-1",
+  "error": "HTTP 404"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",

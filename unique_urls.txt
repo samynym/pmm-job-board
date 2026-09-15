@@ -688,6 +688,7 @@ https://jobs.ashbyhq.com/arcadeai/dfaea34f-4688-41cd-9624-afb48ea8581f
 https://jobs.ashbyhq.com/archouse/64db294c-8b94-407b-9900-1bb0b2656619
 https://jobs.ashbyhq.com/artian/248514e2-45a6-45d6-b233-c55aae1cf37b
 https://jobs.ashbyhq.com/ashby/dfc35159-ffe5-4d42-bea3-552b5dc17628
+https://jobs.ashbyhq.com/assured/fda04fce-a736-4d44-8c96-923a61c87044
 https://jobs.ashbyhq.com/athena-hq/86916f81-e3d3-4ed5-9c80-a0a4e4e3f9cd
 https://jobs.ashbyhq.com/atira/023bfb7d-3919-4b3d-94b2-77e8a6ea629d
 https://jobs.ashbyhq.com/atira/20dc28c6-539b-4694-a654-5c85c9b6e6a8
@@ -695,6 +696,7 @@ https://jobs.ashbyhq.com/atira/3ff8ca9b-05ca-44cb-8469-32ebc6d90e2c
 https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa
 https://jobs.ashbyhq.com/basis-ai/07c5f888-840a-4a73-b9aa-1f962bacb0ba
 https://jobs.ashbyhq.com/benchling/bf61a428-56af-4587-9c61-7e0f855a5fd4
+https://jobs.ashbyhq.com/benevity/162c4ba2-2969-4632-9812-885e2793724f
 https://jobs.ashbyhq.com/bestow/54d885bb-c270-47e5-b837-373219152393
 https://jobs.ashbyhq.com/bureau/232e9eeb-1a58-44e7-a452-448a1149030e
 https://jobs.ashbyhq.com/casa/5f886e7e-cbda-4e28-8a0f-935f6f4d6083
@@ -719,6 +721,7 @@ https://jobs.ashbyhq.com/dailypay/4059ddc9-1d6d-4ef2-b802-adfdee2d505f
 https://jobs.ashbyhq.com/deeploy/12877afc-9213-4d81-a840-4c1e1ca143fd
 https://jobs.ashbyhq.com/delinea/4766e246-3139-4ba9-834f-cbd9d0a73668
 https://jobs.ashbyhq.com/dovetail/aeb6aeac-8014-411b-9900-736d3ad45932
+https://jobs.ashbyhq.com/dust/bdeb2829-be19-4824-b109-a249690df06b
 https://jobs.ashbyhq.com/dyneti/df400076-5ebc-4098-ae98-5b86e23cfd0c
 https://jobs.ashbyhq.com/electric/a699e803-011e-4f0d-9dd0-f4604b72b78b
 https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9
@@ -758,6 +761,7 @@ https://jobs.ashbyhq.com/lawhive/a33f6240-298d-4dce-b6c6-da7bc07e7b51
 https://jobs.ashbyhq.com/legora/c3138542-ea6a-4f36-a49e-5bd9c863fd3c
 https://jobs.ashbyhq.com/legora/ea782caa-0a06-4670-b4b8-d7f30e7f7df8
 https://jobs.ashbyhq.com/legora/fdecc0c6-31ce-43b6-af32-9f79711397c2
+https://jobs.ashbyhq.com/light-inc/d1352195-f2a3-471c-8861-decbb9246e4f
 https://jobs.ashbyhq.com/lightsource/e2cbe65f-2e2b-4757-b681-d371361cc1b0
 https://jobs.ashbyhq.com/lio/0190e374-4836-44c2-9a9d-689a2fde92e1
 https://jobs.ashbyhq.com/liquid-ai/15a949cd-2db3-426e-a142-0bd9e1b26b7b
@@ -797,6 +801,7 @@ https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9
 https://jobs.ashbyhq.com/plain/865d8882-8c80-4145-b139-a644b40ff1e7
 https://jobs.ashbyhq.com/planera/5e4c93db-3d84-4cf8-a914-8574499927e8
 https://jobs.ashbyhq.com/posh-ai/ca367637-45ce-48ed-ace7-2a8b73e61883
+https://jobs.ashbyhq.com/propel/0bc0101a-f096-4f46-a7d7-cf812221ee0f
 https://jobs.ashbyhq.com/ramp/e7f612e1-a9db-41a3-9e4f-9e6389c9111d
 https://jobs.ashbyhq.com/realitydefender/4011f4ae-0943-4929-93c7-838428028707
 https://jobs.ashbyhq.com/reducto/f5a381b3-2aa1-48b7-a334-4b7947d23aaa
@@ -805,6 +810,7 @@ https://jobs.ashbyhq.com/reflexai/e196e633-dcf0-4c48-9f0e-5a0484431153
 https://jobs.ashbyhq.com/replit/234c9a82-2857-4691-af83-308100806df3
 https://jobs.ashbyhq.com/replit/7ff74387-ff7f-4bd7-9e23-a09177f8e2a6
 https://jobs.ashbyhq.com/restate/6d76699a-96ea-4a71-83f1-f92981a6a4fd
+https://jobs.ashbyhq.com/revel/e862e7f8-b0e0-4cfd-8ebc-e03a54f40958
 https://jobs.ashbyhq.com/revenuecat/6411a31b-7f9e-40c7-b92e-11395d241c58
 https://jobs.ashbyhq.com/roadrunner/931ec1ea-5bce-4687-b557-85580484d56c
 https://jobs.ashbyhq.com/roboflow/a9169904-d7a7-44f2-aad2-0ae68910a818
@@ -830,6 +836,7 @@ https://jobs.ashbyhq.com/unwrap/dec437c1-2f2b-4c1c-8814-1ded6197ebae
 https://jobs.ashbyhq.com/upside/39906ee1-248f-440e-bea3-fdf2556fff41
 https://jobs.ashbyhq.com/upvest/d39603f3-d656-4562-9679-6c2f18c27ffb
 https://jobs.ashbyhq.com/vantage/a165b788-f497-4087-b63d-0233674f41ae
+https://jobs.ashbyhq.com/vesta/c72f32a4-ca1d-4c50-b29c-30b2443bc2d0
 https://jobs.ashbyhq.com/voize/d91346dd-6b69-4435-8f67-4e0f70ffbfc1
 https://jobs.ashbyhq.com/warp/47706ef6-2b88-4953-af98-65f3663e46fd
 https://jobs.ashbyhq.com/workerbase/f6954d39-9897-44cd-88fa-a13d9b196ee8

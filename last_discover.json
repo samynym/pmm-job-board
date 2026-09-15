@@ -1,10 +1,15 @@
 {
- "ran_at": "2026-09-14T08:27:16+00:00",
+ "ran_at": "2026-09-15T08:17:58+00:00",
  "new_boards": [
-  "jazzhr:crescendoai.applytojob.com",
-  "jazzhr:procarehra8.applytojob.com"
+  "ashby:assured",
+  "ashby:benevity",
+  "ashby:dust",
+  "ashby:light-inc",
+  "ashby:propel",
+  "ashby:revel",
+  "ashby:vesta"
  ],
- "new_urls": 2,
+ "new_urls": 7,
  "errors": 3,
- "dork_offset": 0
+ "dork_offset": 6
 }
