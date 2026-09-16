@@ -2116,6 +2116,16 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/pdq/jobs/d5380b68-cb48-4211-b3e2-fbc41fc18d0e": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-09-16T08:14:19+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/portside/jobs/f7008ce4-5157-4ba9-b75b-ed2a6448b579": {
 "countries": [],
 "eligibility_stated": false,

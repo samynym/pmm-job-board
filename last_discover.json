@@ -1,15 +1,11 @@
 {
- "ran_at": "2026-09-15T08:17:58+00:00",
+ "ran_at": "2026-09-16T08:11:39+00:00",
  "new_boards": [
-  "ashby:assured",
-  "ashby:benevity",
-  "ashby:dust",
-  "ashby:light-inc",
-  "ashby:propel",
-  "ashby:revel",
-  "ashby:vesta"
+  "jobvite:hti",
+  "jobvite:neogenomics",
+  "jobvite:usana"
  ],
- "new_urls": 7,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }
