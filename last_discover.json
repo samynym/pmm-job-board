@@ -1,11 +1,9 @@
 {
- "ran_at": "2026-09-16T08:11:39+00:00",
+ "ran_at": "2026-09-17T08:18:29+00:00",
  "new_boards": [
-  "jobvite:hti",
-  "jobvite:neogenomics",
-  "jobvite:usana"
+  "workable:ark-diagnostics-inc"
  ],
- "new_urls": 3,
+ "new_urls": 1,
  "errors": 3,
- "dork_offset": 12
+ "dork_offset": 18
 }
