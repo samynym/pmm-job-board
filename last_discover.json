@@ -1,9 +1,10 @@
 {
- "ran_at": "2026-09-17T08:18:29+00:00",
+ "ran_at": "2026-09-18T07:52:14+00:00",
  "new_boards": [
-  "workable:ark-diagnostics-inc"
+  "teamtailor:dema.teamtailor.com",
+  "teamtailor:loft.teamtailor.com"
  ],
- "new_urls": 1,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 18
+ "dork_offset": 24
 }

@@ -44,11 +44,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clickhouse",
+  "board": "greenhouse:canonicaljobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:canonicaljobs",
+  "board": "greenhouse:clickhouse",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -116,39 +116,79 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "url": "https://amilia.recruitee.com/o/product-marketing-manager-2026",
-  "error": "HTTP 404"
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Dir-Product-Marketing--Engagement_R166390-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager---Creative-Cloud-Offering-and-Pricing-Strategy_R167481-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Director-of-Product-Marketing_R171053-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Manager-and-GenAI-Strategist_R166382-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager--Photoshop_R171051",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Manager_R168163",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sr-Product-Marketing-Manager--Higher-Education_R171361",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sr-Product-Marketing-Manager_R171048-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sr-Product-Marketing-Manager_R165552",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Staff-Data-Scientist---International-Product-Marketing_R169973-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sr-Product-Marketing-Manager_R171235",
+  "error": "HTTP 403"
  },
  {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/gotyme-ph-philippines/j/8CE9E6E96A",
+  "url": "https://apply.workable.com/openworks-engineering/j/DF61EEF7A9",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/qhms/j/DA00721E4E",
+  "url": "https://apply.workable.com/pavago/j/CCF7B860CA",
   "error": "HTTP 404"
  },
  {
-  "url": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Service-Product-Marketing-Manager---Used-Tools---Legacy-Platforms_11659",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/figma/jobs/6105673004",
+  "url": "https://apply.workable.com/teserac-inc/j/71F8E1B17C",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/huntress/jobs/7772721003",
+  "url": "https://ats.rippling.com/engineeredarts/jobs/26e77e7c-4247-4ee7-858b-ef292eb7183b",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/geniussports/jobs/7783098003",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/planetlabs/jobs/7946662",
+  "url": "https://boards.greenhouse.io/geniussports/jobs/7798042003",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/scopely/jobs/5215191008",
+  "url": "https://boards.greenhouse.io/okta/jobs/8070608",
   "error": "HTTP 404"
  },
  {
@@ -160,11 +200,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -172,12 +212,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://finastra.wd3.myworkdayjobs.com/finc/job/Product-Manager-Payments---Messaging_REQ0526_0037344",
-  "error": "HTTP 403"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
  },
  {
-  "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/Product-marketing-manager_R01131566",
-  "error": "HTTP 403"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
@@ -192,19 +232,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://jobs.ashbyhq.com/Searchstax/63edd732-458e-418f-bf3a-604e292e0fb5",
+  "url": "https://jobs.ashbyhq.com/legora/acce1179-88d3-4f1f-bcce-597ed3a37d47",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/serval/731d92c0-eafd-4517-874a-6d4be5a6be09",
+  "url": "https://jobs.ashbyhq.com/orbital/a7ea81db-8792-46c9-826a-0d0130008738",
   "error": "delisted or no data"
  },
  {
@@ -216,15 +248,15 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/elfbeauty/2e2edbdf-e994-4799-8020-567d590167da",
+  "url": "https://jobs.lever.co/jobgether/1ac2c719-be12-4b1f-823c-c96699c2403f",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/579ed78d-3832-4908-8faf-5ce1255f47dc",
+  "url": "https://jobs.lever.co/includedhealth/c93aaf09-c024-4323-a05a-e3baa6e3e4b2",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/kixie/160892ae-d049-4cbb-9f64-290eddbb2deb",
+  "url": "https://jobs.lever.co/jobgether/d018f096-edab-4ba8-b69f-7476dbfd4218",
   "error": "HTTP 404"
  },
  {
@@ -232,7 +264,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---DSX-OS_JR2018568",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Inference-Technical-Product-Marketing-Manager---Accelerated-Computing_JR1997097",
   "error": "HTTP 403"
  },
  {
@@ -244,48 +276,24 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Director--Product-Marketing--Agentforce-Sales-Portfolio-Storytelling---Keynote-Lead_JR357612",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Sr-Lead--Content-Strategy_JR339258",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Analyst--GTM-Product-Marketing---Contact-Center_JR353299",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Director--Product-Marketing--CxO-Marketing_JR352265",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Product-Marketing-Manager--GTM_JR353867",
-  "error": "HTTP 403"
+  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
+  "error": "delisted or no data"
  },
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
-  "error": "delisted or no data"
+  "url": "https://talk360.recruitee.com/o/senior-product-marketeer",
+  "error": "HTTP 404"
  },
  {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
   "error": "delisted or no data"
  },
  {
-  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Marketing-Specialist---B2B-Product-Marketing_19041962",
-  "error": "HTTP 403"
- },
- {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
- },
- {
-  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Marketing-Specialist_R0058414",
-  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
