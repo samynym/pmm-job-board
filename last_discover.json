@@ -1,7 +1,10 @@
 {
- "ran_at": "2026-09-19T07:43:36+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-09-20T08:11:51+00:00",
+ "new_boards": [
+  "personio:checkmk-gmbh.jobs.personio.de",
+  "personio:kertos.jobs.personio.de"
+ ],
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 30
+ "dork_offset": 4
 }
