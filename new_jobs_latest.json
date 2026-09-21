@@ -1,24 +1,46 @@
 [
  {
-  "title": "Product Marketing Manager, Education",
+  "title": "Sr Product Marketing Manager, Agentic AI",
+  "company": "Jobgether",
+  "location": "India",
+  "remote_label": "Unknown",
+  "posted_date": "2026-09-21",
+  "salary": null,
+  "apply_url": "https://jobs.lever.co/jobgether/8c89af08-a589-4132-9784-053b80b06ce2",
+  "source_url": "https://jobs.lever.co/jobgether/8c89af08-a589-4132-9784-053b80b06ce2",
+  "first_seen": "2026-09-21T08:29:33+00:00"
+ },
+ {
+  "title": "Mgr, Product Marketing",
+  "company": "Renesas Electronics",
+  "location": "Seoul, , Korea, republic of",
+  "remote_label": "Hybrid",
+  "posted_date": "2026-09-20T09:17:32.219Z",
+  "salary": null,
+  "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150536529-mgr-product-marketing?oga=true",
+  "source_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150536529",
+  "first_seen": "2026-09-21T08:29:33+00:00"
+ },
+ {
+  "title": "Product Marketing Manager, Travel",
   "company": "Flywire",
   "location": "Boston, MA, United States",
   "remote_label": "Hybrid",
-  "posted_date": "2026-09-17T14:45:52.032Z",
-  "salary": "$100,000 - $120,000",
-  "apply_url": "https://jobs.smartrecruiters.com/Flywire1/744000150132594-product-marketing-manager-education?oga=true",
-  "source_url": "https://jobs.smartrecruiters.com/Flywire1/744000150132594",
-  "first_seen": "2026-09-20T08:12:29+00:00"
+  "posted_date": "2026-09-17T14:46:01.997Z",
+  "salary": "$100,000-$120,000",
+  "apply_url": "https://jobs.smartrecruiters.com/Flywire1/744000150132120-product-marketing-manager-travel?oga=true",
+  "source_url": "https://jobs.smartrecruiters.com/Flywire1/744000150132120",
+  "first_seen": "2026-09-21T08:29:33+00:00"
  },
  {
-  "title": "Working Student (m/f/d) Product Marketing",
-  "company": "Checkmk GmbH",
-  "location": "M\u00fcnchen, Bayern, DE",
-  "remote_label": "Hybrid",
-  "posted_date": "2026-08-12",
+  "title": "Sr. Staff Product Marketing Specialist -MCU",
+  "company": "Renesas Electronics",
+  "location": "Shenzhen, Guangdong Province, China",
+  "remote_label": "On-site",
+  "posted_date": "2026-09-09T10:11:21.180Z",
   "salary": null,
-  "apply_url": "https://checkmk-gmbh.jobs.personio.de/job/2751128",
-  "source_url": "https://checkmk-gmbh.jobs.personio.de/job/2751128",
-  "first_seen": "2026-09-20T08:12:29+00:00"
+  "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000148462849-sr-staff-product-marketing-specialist-mcu?oga=true",
+  "source_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000148462849",
+  "first_seen": "2026-09-21T08:29:33+00:00"
  }
 ]
