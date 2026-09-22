@@ -1,9 +1,13 @@
 {
- "ran_at": "2026-09-21T08:28:53+00:00",
+ "ran_at": "2026-09-22T08:09:15+00:00",
  "new_boards": [
-  "smartrecruiters:servicenow"
+  "greenhouse:descript",
+  "greenhouse:energyhub",
+  "greenhouse:gongio",
+  "greenhouse:gusto",
+  "greenhouse:inflectionai"
  ],
- "new_urls": 1,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }

@@ -48,10 +48,6 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clickhouse",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:headway",
   "error": "HTTP Error 404: Not Found"
  },
@@ -92,7 +88,7 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:veriforce",
+  "board": "greenhouse:clickhouse",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -108,6 +104,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:veriforce",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "jobvite:panasas",
   "error": "HTTP Error 500: Internal Server Error"
  },
@@ -116,35 +116,35 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "board": "greenhouse:goodwaygroup",
-  "error": "The read operation timed out"
- },
- {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://boards.greenhouse.io/acquia/jobs/8010839",
+  "url": "https://apply.workable.com/1kosmos/j/961D98A024",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/rdccareers/jobs/7820338003",
+  "url": "https://apply.workable.com/bizee/j/69050886E3",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/rdccareers/jobs/7904730003",
+  "url": "https://apply.workable.com/nuvei/j/31C6991BF9",
   "error": "HTTP 404"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
+  "url": "https://apply.workable.com/teguar-corporation/j/A517D24FFF",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing_R-122190",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/brex/jobs/8446669002",
+  "error": "HTTP 404"
  },
  {
   "url": "https://careers-hines.icims.com/jobs/14148/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -152,7 +152,27 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://flightstory.teamtailor.com/jobs/7719669-product-marketing-manager",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
@@ -164,19 +184,15 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/e831fb39-b192-4fec-ac0e-8d997fff69c9",
+  "url": "https://jobs.ashbyhq.com/posh-ai/ca367637-45ce-48ed-ace7-2a8b73e61883",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/tesslcareers/3b66a48d-37cd-4c87-b282-120f8af0dc02",
   "error": "delisted or no data"
  },
  {
@@ -188,11 +204,15 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/cec5266d-0524-46ad-84ca-97d670e0268c",
+  "url": "https://jobs.lever.co/jobgether/1a9cfb4b-c550-4d18-8b8d-d21d49dd775b",
   "error": "HTTP 404"
  },
  {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/captivateiq/59cebc18-3e7f-48ef-935f-96a1680b53fd",
   "error": "HTTP 404"
  },
  {
@@ -202,6 +222,10 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager--Partner-Marketing_JR355134",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",

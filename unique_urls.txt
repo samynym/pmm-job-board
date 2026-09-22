@@ -544,7 +544,9 @@ https://job-boards.greenhouse.io/databricks/jobs/8493857002
 https://job-boards.greenhouse.io/datadog/jobs/7803551
 https://job-boards.greenhouse.io/datadog/jobs/7967202
 https://job-boards.greenhouse.io/datadog/jobs/8002922
+https://job-boards.greenhouse.io/descript/jobs/7801072003
 https://job-boards.greenhouse.io/elastic/jobs/7848679
+https://job-boards.greenhouse.io/energyhub/jobs/8420232002
 https://job-boards.greenhouse.io/enterpret/jobs/7801126003
 https://job-boards.greenhouse.io/eulerity/jobs/4687455006
 https://job-boards.greenhouse.io/ezcaterinc/jobs/5130058007
@@ -567,8 +569,10 @@ https://job-boards.greenhouse.io/go1au/jobs/4702116005
 https://job-boards.greenhouse.io/gofundme/jobs/7166369
 https://job-boards.greenhouse.io/gofundme/jobs/7714385
 https://job-boards.greenhouse.io/goguardian/jobs/4684465006
+https://job-boards.greenhouse.io/gongio/jobs/4700127006
 https://job-boards.greenhouse.io/goodnotes/jobs/5819749004
 https://job-boards.greenhouse.io/greenhouse/jobs/7411199
+https://job-boards.greenhouse.io/gusto/jobs/8148547
 https://job-boards.greenhouse.io/harnessinc/jobs/5104068007
 https://job-boards.greenhouse.io/hextechnologies/jobs/5812190004
 https://job-boards.greenhouse.io/hextechnologies/jobs/6009183004
@@ -579,6 +583,7 @@ https://job-boards.greenhouse.io/huntress/jobs/7772721003
 https://job-boards.greenhouse.io/icapitalnetwork/jobs/8485053002
 https://job-boards.greenhouse.io/iconcareers/jobs/5977202004
 https://job-boards.greenhouse.io/imbue/jobs/4331285009
+https://job-boards.greenhouse.io/inflectionai/jobs/4698849006
 https://job-boards.greenhouse.io/inmobi/jobs/7977028
 https://job-boards.greenhouse.io/instead/jobs/7761475003
 https://job-boards.greenhouse.io/intercom/jobs/7834585
