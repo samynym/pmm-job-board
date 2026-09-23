@@ -48,6 +48,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:clickhouse",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:headway",
   "error": "HTTP Error 404: Not Found"
  },
@@ -88,7 +92,7 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clickhouse",
+  "board": "greenhouse:veriforce",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -104,10 +108,6 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:veriforce",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "jobvite:panasas",
   "error": "HTTP Error 500: Internal Server Error"
  },
@@ -116,35 +116,43 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "board": "lever:elfbeauty",
+  "error": "The read operation timed out"
+ },
+ {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Manager_R169418",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/1kosmos/j/961D98A024",
-  "error": "HTTP 404"
+  "url": "https://ats.rippling.com/trustlayer-inc/jobs/954dabe2-7f78-473d-818c-8d70805504b0",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://apply.workable.com/bizee/j/69050886E3",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/nuvei/j/31C6991BF9",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/teguar-corporation/j/A517D24FFF",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing_R-122190",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AutoCAD-and-Infrastructure-Product-Marketing-Specialist_26WD100408",
   "error": "HTTP 403"
  },
  {
-  "url": "https://boards.greenhouse.io/brex/jobs/8446669002",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Product-Marketing-Manager--Informed-Design_26WD99932-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/bitpanda/jobs/4933367101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5241382007",
   "error": "HTTP 404"
  },
  {
   "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -156,24 +164,16 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Principal-Product-Marketing-Manager--Falcon-Exposure-Management--Remote-_R30013",
+  "error": "HTTP 403"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://flightstory.teamtailor.com/jobs/7719669-product-marketing-manager",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
+  "url": "https://fullfabricspoonsixlimited.teamtailor.com/jobs/7973104-technical-product-marketing-manager",
+  "error": "HTTP 410"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
@@ -184,16 +184,16 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
- },
- {
-  "url": "https://jobs.ashbyhq.com/posh-ai/ca367637-45ce-48ed-ace7-2a8b73e61883",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/tesslcareers/3b66a48d-37cd-4c87-b282-120f8af0dc02",
-  "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
@@ -204,7 +204,15 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/1a9cfb4b-c550-4d18-8b8d-d21d49dd775b",
+  "url": "https://jobs.lever.co/jobgether/e7f4af63-53a4-4047-8406-4ce1a01943ea",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/protolabs/72dd40b8-59e3-44ce-8bab-df725241475d",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/protolabs/adc9ad42-3b24-4f26-bc9b-f00f798b69b9",
   "error": "HTTP 404"
  },
  {
@@ -212,8 +220,12 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/captivateiq/59cebc18-3e7f-48ef-935f-96a1680b53fd",
-  "error": "HTTP 404"
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Manager---Enterprise-AI_JR2021961",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Global-Product-Marketing-Manager---Automotive-MCUs_R-10065735",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -222,10 +234,6 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager--Partner-Marketing_JR355134",
-  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -242,6 +250,10 @@
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Associate-Director--Product-Marketing--_R0058454",
+  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",

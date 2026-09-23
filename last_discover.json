@@ -1,13 +1,11 @@
 {
- "ran_at": "2026-09-22T08:09:15+00:00",
+ "ran_at": "2026-09-23T08:11:53+00:00",
  "new_boards": [
-  "greenhouse:descript",
-  "greenhouse:energyhub",
-  "greenhouse:gongio",
-  "greenhouse:gusto",
-  "greenhouse:inflectionai"
+  "recruitee:foleon",
+  "recruitee:reiztech",
+  "workable:riverside-insights"
  ],
- "new_urls": 5,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }
