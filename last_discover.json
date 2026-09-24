@@ -1,11 +1,9 @@
 {
- "ran_at": "2026-09-23T08:11:53+00:00",
+ "ran_at": "2026-09-24T08:02:26+00:00",
  "new_boards": [
-  "recruitee:foleon",
-  "recruitee:reiztech",
-  "workable:riverside-insights"
+  "workable:oversee"
  ],
- "new_urls": 3,
+ "new_urls": 1,
  "errors": 3,
- "dork_offset": 22
+ "dork_offset": 28
 }

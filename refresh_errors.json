@@ -116,39 +116,47 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
-  "board": "lever:elfbeauty",
-  "error": "The read operation timed out"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Product-Marketing-Manager_R169418",
-  "error": "HTTP 403"
- },
- {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://ats.rippling.com/trustlayer-inc/jobs/954dabe2-7f78-473d-818c-8d70805504b0",
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/04F35B3579",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/BAEC52FE76",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/FE3401B5A6",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://apply.workable.com/tp-link-usa-corp/j/DC0E9505DD",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://ats.rippling.com/interplaylearning/jobs/0cc08eab-bedf-4e2c-a38d-9ed188e812f6",
   "error": "delisted or no data"
  },
  {
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AutoCAD-and-Infrastructure-Product-Marketing-Specialist_26WD100408",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Product-Marketing-Manager--Informed-Design_26WD99932-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/bitpanda/jobs/4933367101",
+  "url": "https://boards.greenhouse.io/addepar1/jobs/8744007002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5241382007",
+  "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/Sr-Product-Marketing-Manager_JR1337",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/asteralabs/jobs/4695205005",
   "error": "HTTP 404"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "url": "https://axis.wd3.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Manager---Marketing_R-123407",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
@@ -156,24 +164,16 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Principal-Product-Marketing-Manager--Falcon-Exposure-Management--Remote-_R30013",
-  "error": "HTTP 403"
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
- },
- {
-  "url": "https://fullfabricspoonsixlimited.teamtailor.com/jobs/7973104-technical-product-marketing-manager",
-  "error": "HTTP 410"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
@@ -188,12 +188,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
@@ -204,15 +204,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/e7f4af63-53a4-4047-8406-4ce1a01943ea",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/protolabs/72dd40b8-59e3-44ce-8bab-df725241475d",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/protolabs/adc9ad42-3b24-4f26-bc9b-f00f798b69b9",
+  "url": "https://jobs.lever.co/jobgether/2be7f505-179f-42e7-9e4d-f77ddfa7fa35",
   "error": "HTTP 404"
  },
  {
@@ -220,11 +212,11 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Manager---Enterprise-AI_JR2021961",
-  "error": "HTTP 403"
+  "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143821269",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Global-Product-Marketing-Manager---Automotive-MCUs_R-10065735",
+  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Product-Marketing-Director_R-10062812",
   "error": "HTTP 403"
  },
  {
@@ -234,6 +226,10 @@
  {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Product-Marketing-Manager--Plano--TX-_R119178",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
@@ -248,12 +244,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
-  "error": "HTTP 410"
+  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager_R56888",
+  "error": "HTTP 403"
  },
  {
-  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Associate-Director--Product-Marketing--_R0058454",
-  "error": "HTTP 403"
+  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
