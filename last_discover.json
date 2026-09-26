@@ -1,7 +1,11 @@
 {
- "ran_at": "2026-09-25T08:27:05+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-09-26T08:13:53+00:00",
+ "new_boards": [
+  "lever:cents",
+  "lever:picus",
+  "lever:propelsoftware"
+ ],
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 2
+ "dork_offset": 8
 }
