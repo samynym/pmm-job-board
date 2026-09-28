@@ -48,11 +48,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:canonicaljobs",
+  "board": "greenhouse:clerk-ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
+  "board": "greenhouse:canonicaljobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -84,10 +84,6 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:strava",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:tekion",
   "error": "HTTP Error 404: Not Found"
  },
@@ -97,6 +93,10 @@
  },
  {
   "board": "greenhouse:urbanfootprint",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:strava",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -128,11 +128,27 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://boards.greenhouse.io/clerk-ai/jobs/5097205008",
+  "url": "https://apply.workable.com/cadmus-io/j/2E79BD9570",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Home-Internet---Converged--_R-115369",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://boards.greenhouse.io/oscar/jobs/8076114",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4708659005",
   "error": "HTTP 404"
  },
  {
   "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -144,19 +160,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Product-Marketing-Manager-I--AI-Security_RP1038862",
-  "error": "HTTP 403"
- },
- {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -168,12 +172,20 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
   "url": "https://jobs-legrand.icims.com/jobs/9718/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clera/012a1f66-9e9f-47b7-b580-53f51b7e6d3e",
+  "error": "delisted or no data"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
@@ -188,6 +200,18 @@
   "error": "HTTP 404"
  },
  {
+  "url": "https://legartis.jobs.personio.de/job/2606166",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://legartis.jobs.personio.de/job/2606178",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://legartis.jobs.personio.de/job/2546754",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
@@ -196,7 +220,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Director--Product-Marketing--GTM-and-Adoption_JR350621",
+  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Product-Marketing-Intern--Furniture-_JR2026007804",
   "error": "HTTP 403"
  },
  {
