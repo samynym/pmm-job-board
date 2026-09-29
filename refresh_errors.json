@@ -40,6 +40,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:amplitude",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:armracolostrum",
   "error": "HTTP Error 404: Not Found"
  },
@@ -48,11 +52,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
+  "board": "greenhouse:canonicaljobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:canonicaljobs",
+  "board": "greenhouse:clerk-ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -84,6 +88,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "greenhouse:strava",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "greenhouse:tekion",
   "error": "HTTP Error 404: Not Found"
  },
@@ -93,10 +101,6 @@
  },
  {
   "board": "greenhouse:urbanfootprint",
-  "error": "HTTP Error 404: Not Found"
- },
- {
-  "board": "greenhouse:strava",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -124,27 +128,51 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://apply.workable.com/blacklinesafety/j/6553F8CE21",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/cadmus-io/j/2E79BD9570",
+  "url": "https://apply.workable.com/innovaccer-analytics/j/75BB3BAC0F",
   "error": "HTTP 404"
  },
  {
-  "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lead-Product-Marketing---Home-Internet---Converged--_R-115369",
-  "error": "HTTP 403"
+  "url": "https://ats.rippling.com/rhythm-energy/jobs/c5ecb38b-231b-43fa-8f56-5ff884d1003c",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/oscar/jobs/8076114",
+  "url": "https://boards.greenhouse.io/amplitude/jobs/8733872002",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4708659005",
+  "url": "https://boards.greenhouse.io/backblaze/jobs/5373599008",
   "error": "HTTP 404"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "url": "https://boards.greenhouse.io/coveoen/jobs/8733818002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/datadog/jobs/7695546",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/onbe/jobs/4691005006",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/oscar/jobs/7991118",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/parloa/jobs/4965878101",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
@@ -152,11 +180,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -184,7 +212,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/012a1f66-9e9f-47b7-b580-53f51b7e6d3e",
+  "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29",
   "error": "delisted or no data"
  },
  {
@@ -196,40 +224,72 @@
   "error": "HTTP 404"
  },
  {
+  "url": "https://jobs.lever.co/jobgether/0c28936a-b203-4f63-ac0c-e955dd8f800f",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/8c89af08-a589-4132-9784-053b80b06ce2",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/cce4bd29-d530-452d-927c-7e66f420bd34",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/kabam/e257e181-07a8-4fc7-a4d8-c8f32b0505fb",
+  "error": "HTTP 404"
+ },
+ {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
-  "url": "https://legartis.jobs.personio.de/job/2606166",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://legartis.jobs.personio.de/job/2606178",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://legartis.jobs.personio.de/job/2546754",
-  "error": "HTTP 404"
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2639427",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
+  "url": "https://procarehra8.applytojob.com/apply/sjXGrmYZbo",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
  },
  {
-  "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Product-Marketing-Intern--Furniture-_JR2026007804",
+  "url": "https://reiztech.recruitee.com/o/digital-product-marketing-specialist-1",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/VP-of-Global-Protg-Product-Marketing_R116641",
   "error": "HTTP 403"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Product-Marketing-Manager_R115951-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Director--Salesforce-Data-360_JR359573",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Technical-Product-Marketing-Manager--Qualified_JR348019",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "delisted or no data"
  },
  {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
-  "error": "delisted or no data"
+  "url": "https://timedoctor.recruitee.com/o/marketing-manager-content-product-marketing",
+  "error": "HTTP 404"
  },
  {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
