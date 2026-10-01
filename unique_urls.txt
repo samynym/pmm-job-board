@@ -26,6 +26,7 @@ https://apply.workable.com/9dtechnologies-1/j/4DF6C186E8
 https://apply.workable.com/activtrak/j/1FE4E160FB
 https://apply.workable.com/amax-1/j/4B862D14FF
 https://apply.workable.com/anza-xyz/j/C171153FD1
+https://apply.workable.com/appgate/j/719C6D1359
 https://apply.workable.com/arcsite/j/09DDC0818C
 https://apply.workable.com/ark-diagnostics-inc/j/C735F91BC0
 https://apply.workable.com/arpu-telecommunication-services/j/6663F431AF
@@ -685,12 +686,14 @@ https://jobs.ashbyhq.com/1password/6c2a0077-6a12-47c5-b024-cf2de14a6c37
 https://jobs.ashbyhq.com/9fin/3d807142-3142-43a3-86a8-84ef3d3c662b
 https://jobs.ashbyhq.com/Blee/2a3f1de6-331b-4ace-b7c1-7319293fc099
 https://jobs.ashbyhq.com/C1/ade21a31-ed39-4319-a1d8-42c65270148d
+https://jobs.ashbyhq.com/Crusoe/5315a370-af0f-4025-a8f4-d5686301e8ce
 https://jobs.ashbyhq.com/Distyl/9b44203a-1398-4a7a-a3a2-2a7c3afd15d3
 https://jobs.ashbyhq.com/Endgame/295da6d5-bd4f-46dc-a028-ac8feee67343
 https://jobs.ashbyhq.com/Hyperbound/af7ad7cb-86e4-49ea-b190-8a197c9d0a36
 https://jobs.ashbyhq.com/Juicebox/fd329c43-55f2-4890-a3d3-7a1a4b28cb80
 https://jobs.ashbyhq.com/Lance/a4d0d349-2642-4f96-b8aa-f283366a1507
 https://jobs.ashbyhq.com/Linear/b3346acf-44be-4565-b1c0-10d482d3ad4e
+https://jobs.ashbyhq.com/Outpost/4f9bdff4-8ab2-43fe-b34f-61b232d09110
 https://jobs.ashbyhq.com/Peec/24d61655-ca46-46b0-a724-38514e2d24e5
 https://jobs.ashbyhq.com/Plaud/af692aaf-d916-4f67-8697-0e2850be938c
 https://jobs.ashbyhq.com/Resolve AI/f9cca54e-99fb-4108-a5fb-0f05bdefb810
@@ -735,6 +738,7 @@ https://jobs.ashbyhq.com/composio/1752cc7c-7aae-403a-a319-9b2270cc4c56
 https://jobs.ashbyhq.com/convex-dev/73d1a1fd-8817-40ac-80de-271aebb4dc46
 https://jobs.ashbyhq.com/corti/182c6cff-0924-4e1b-ad88-f9d3bf2d95b1
 https://jobs.ashbyhq.com/creditgenie/92e0dc10-535f-4ded-bad0-9e73a19bc62d
+https://jobs.ashbyhq.com/crusoe/7f62d94f-54ad-4e28-89a3-db52514a2d37
 https://jobs.ashbyhq.com/cside/e996de47-c849-4aaa-bf5f-b5e15f2aeb09
 https://jobs.ashbyhq.com/cubist/4ae2f137-7247-4479-95e7-17a2371ae9d6
 https://jobs.ashbyhq.com/dailypay/4059ddc9-1d6d-4ef2-b802-adfdee2d505f
@@ -755,6 +759,7 @@ https://jobs.ashbyhq.com/folio/2882cab9-379b-4cb7-b5d7-d36ab9b941ec
 https://jobs.ashbyhq.com/gamechanger/376f4036-4104-45c2-b9f7-9bd90804108f
 https://jobs.ashbyhq.com/gc-ai/66c360bf-de4d-49be-9009-37fc41c71a8d
 https://jobs.ashbyhq.com/gigaml/a5a4c6ed-66fe-4096-9a13-c4f0f692b8cb
+https://jobs.ashbyhq.com/goodstack/50272c1e-3963-4ca9-be2d-3bfb2c6873c7
 https://jobs.ashbyhq.com/gptzero/b330bd82-9b81-4e1c-955b-b163ffa75c51
 https://jobs.ashbyhq.com/gptzero/d0e8a335-3cd0-4ccb-8434-6e6ed79a0a67
 https://jobs.ashbyhq.com/happyrobot.ai/02bccbe0-6ded-435e-ad30-84121b359fc5
@@ -855,6 +860,7 @@ https://jobs.ashbyhq.com/uncountable/4e6077b2-852f-4b3c-8052-4012dadd6f5b
 https://jobs.ashbyhq.com/unwrap/dec437c1-2f2b-4c1c-8814-1ded6197ebae
 https://jobs.ashbyhq.com/upside/39906ee1-248f-440e-bea3-fdf2556fff41
 https://jobs.ashbyhq.com/upvest/d39603f3-d656-4562-9679-6c2f18c27ffb
+https://jobs.ashbyhq.com/vanta/403e14bd-0e69-49e7-a999-dcf26d93aae0
 https://jobs.ashbyhq.com/vantage/a165b788-f497-4087-b63d-0233674f41ae
 https://jobs.ashbyhq.com/vesta/c72f32a4-ca1d-4c50-b29c-30b2443bc2d0
 https://jobs.ashbyhq.com/voize/d91346dd-6b69-4435-8f67-4e0f70ffbfc1

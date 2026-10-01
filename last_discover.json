@@ -1,13 +1,14 @@
 {
- "ran_at": "2026-09-30T09:13:04+00:00",
+ "ran_at": "2026-10-01T09:40:56+00:00",
  "new_boards": [
-  "jazzhr:betterrx.applytojob.com",
-  "jazzhr:instinctscience.applytojob.com",
-  "jazzhr:longbowadvantage.applytojob.com",
-  "workable:hyperiondev",
-  "workable:porsche-cars-gb-ltd"
+  "ashby:Crusoe",
+  "ashby:Outpost",
+  "ashby:crusoe",
+  "ashby:goodstack",
+  "ashby:vanta",
+  "workable:appgate"
  ],
- "new_urls": 5,
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 0
+ "dork_offset": 6
 }
