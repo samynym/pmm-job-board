@@ -1,14 +1,11 @@
 {
- "ran_at": "2026-10-01T09:40:56+00:00",
+ "ran_at": "2026-10-02T09:14:58+00:00",
  "new_boards": [
-  "ashby:Crusoe",
-  "ashby:Outpost",
-  "ashby:crusoe",
-  "ashby:goodstack",
-  "ashby:vanta",
-  "workable:appgate"
+  "jobvite:bigassfans",
+  "jobvite:uplight",
+  "workable:sierra-select-distributors-inc"
  ],
- "new_urls": 6,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }
