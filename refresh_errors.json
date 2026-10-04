@@ -16,6 +16,10 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
+  "board": "teamtailor:navinci.teamtailor.com",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "recruitee:configura",
   "error": "HTTP Error 404: Not Found"
  },
@@ -144,43 +148,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/therideplatform/j/2354A9609C",
+  "url": "https://boards.greenhouse.io/planetlabs/jobs/7946662",
   "error": "HTTP 404"
  },
  {
-  "url": "https://ats.rippling.com/interplaylearning/jobs/e83cce0e-7aea-47fb-8b32-7a9eb2692a91",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://boards.greenhouse.io/atomicwork/jobs/5099156008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/brex/jobs/8079278002",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/hightouch/jobs/6147286004",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/hightouch/jobs/6212101004",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/planetlabs/jobs/7964648",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/rubrik/jobs/8053682",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/scopely/jobs/5389045008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/smartsheet/jobs/8053758",
+  "url": "https://boards.greenhouse.io/planetlabs/jobs/8188842",
   "error": "HTTP 404"
  },
  {
@@ -188,7 +160,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -196,7 +168,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -204,19 +176,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://cytovale.applytojob.com/apply/qYxPbf7dNo",
-  "error": "HTTP 410"
- },
- {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://graviteetopcoltd.teamtailor.com/jobs/8105200-vp-of-product-marketing",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
@@ -224,11 +188,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -236,15 +196,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/a06dd58d-ce4c-4cf5-a728-04db0189b7bc",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/lucidlink/0b6c6658-a539-4b83-b873-49b00d078552",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/paragon/c88ec321-bf38-45be-90fe-74645c96f0d5",
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
@@ -252,28 +204,12 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/veson/job/oyDGAfwb",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62",
+  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Manager--Quantum-Computing-Platform_JR2024924-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---Financial-Services_JR2015955",
-  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -284,10 +220,6 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Sr-Lead_JR358683",
-  "error": "HTTP 403"
- },
- {
   "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
@@ -296,15 +228,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://wk.wd3.myworkdayjobs.com/External/job/Senior-Product-Marketing-Specialist---Value-Messaging---Sales-Enablement_R0059440-1",
-  "error": "HTTP 403"
- },
- {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
+  "error": "HTTP 410"
  }
 ]
