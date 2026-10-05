@@ -148,12 +148,16 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://boards.greenhouse.io/planetlabs/jobs/7946662",
+  "url": "https://apply.workable.com/pixaera/j/1E9CDA3B04",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/planetlabs/jobs/8188842",
+  "url": "https://apply.workable.com/writesonic/j/96048CCAF3",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
@@ -168,15 +172,15 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://careersenus-itt-inc.icims.com/jobs/16778/job",
   "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
   "error": "delisted or no data"
  },
  {
@@ -188,7 +192,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
  {
@@ -196,7 +200,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
+  "url": "https://jobs.ashbyhq.com/clera/f3e5b948-1d04-4bae-a2a6-f2d334d52c8a",
   "error": "delisted or no data"
  },
  {
@@ -205,6 +209,14 @@
  },
  {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/03927349-4e35-4de0-bc9a-60a92db15104",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/c7927d8f-ac98-454b-bb42-e5f2c5c2704b",
   "error": "HTTP 404"
  },
  {
@@ -228,11 +240,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
+  "url": "https://teak.applytojob.com/apply/jaylTOy2m3",
   "error": "delisted or no data"
+ },
+ {
+  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Manager_JREQ201296",
+  "error": "HTTP 403"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
+ },
+ {
+  "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
+  "error": "delisted or no data"
  }
 ]
