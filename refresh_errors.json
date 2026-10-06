@@ -44,11 +44,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:alma",
+  "board": "greenhouse:amplitude",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:amplitude",
+  "board": "greenhouse:alma",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -60,11 +60,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:canonicaljobs",
+  "board": "greenhouse:clerk-ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
+  "board": "greenhouse:canonicaljobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -144,15 +144,27 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager---GenStudio-for-Performance-Marketing_R170520-1",
+  "error": "HTTP 403"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/pixaera/j/1E9CDA3B04",
+  "url": "https://apply.workable.com/ark-diagnostics-inc/j/C735F91BC0",
   "error": "HTTP 404"
  },
  {
-  "url": "https://apply.workable.com/writesonic/j/96048CCAF3",
+  "url": "https://ats.rippling.com/logile/jobs/ac907f9d-fc38-4fbc-8a02-5a2d1b71c10b",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://ats.rippling.com/primesecurity/jobs/57372d55-1704-4e23-9112-c16bdd36d3fa",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://boards.greenhouse.io/connectwise/jobs/4737931005",
   "error": "HTTP 404"
  },
  {
@@ -164,11 +176,11 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -184,14 +196,6 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
-  "error": "HTTP 410"
- },
- {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
@@ -200,8 +204,12 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/f3e5b948-1d04-4bae-a2a6-f2d334d52c8a",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
@@ -212,16 +220,20 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/03927349-4e35-4de0-bc9a-60a92db15104",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/c7927d8f-ac98-454b-bb42-e5f2c5c2704b",
+  "url": "https://jobs.lever.co/dnb/a4245d1a-224a-4d6a-85c4-8b0697fddda4",
   "error": "HTTP 404"
  },
  {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
+ },
+ {
+  "url": "https://jobs.lever.co/jobgether/864611c1-ac53-4a4a-b9b6-84e3ee1f9e3e",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager--Industrial-and-Computational-Engineering_JR2026921",
+  "error": "HTTP 403"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -232,11 +244,19 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
-  "error": "delisted or no data"
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Budget-Associate-Manager_JR358844",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Sr-Director-Sales-Cloud--Product-Marketing-_JR361260",
+  "error": "HTTP 403"
  },
  {
   "url": "https://shopline.applytojob.com/apply/hD3d9yfkm8",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://shopline.applytojob.com/apply/3PVdyf052Q",
   "error": "delisted or no data"
  },
  {
@@ -244,7 +264,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Manager_JREQ201296",
+  "url": "https://thebridgecorp.applytojob.com/apply/dt30uUUA9E",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Product-Marketing-Manager---BIM---Engineering-Portfolio--maternity-cover-contract-_R57566",
   "error": "HTTP 403"
  },
  {
