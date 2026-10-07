@@ -1,10 +1,11 @@
 {
- "ran_at": "2026-10-06T09:41:18+00:00",
+ "ran_at": "2026-10-07T09:39:05+00:00",
  "new_boards": [
-  "personio:apheris.jobs.personio.de",
-  "personio:fides-technology-gmbh.jobs.personio.de"
+  "smartrecruiters:Acumatica",
+  "smartrecruiters:Miratech1",
+  "smartrecruiters:revalize"
  ],
- "new_urls": 2,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 4
+ "dork_offset": 10
 }
