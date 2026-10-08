@@ -1,11 +1,13 @@
 {
- "ran_at": "2026-10-07T09:39:05+00:00",
+ "ran_at": "2026-10-08T09:49:24+00:00",
  "new_boards": [
-  "smartrecruiters:Acumatica",
-  "smartrecruiters:Miratech1",
-  "smartrecruiters:revalize"
+  "greenhouse:canonical",
+  "greenhouse:peregrinetechnologies",
+  "greenhouse:subsplash",
+  "greenhouse:upbound",
+  "greenhouse:waymark"
  ],
- "new_urls": 3,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 10
+ "dork_offset": 16
 }
