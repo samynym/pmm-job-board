@@ -205,12 +205,14 @@ https://ats.rippling.com/albert-invent-corp/jobs/c49fe620-8743-400c-82ba-c0502f3
 https://ats.rippling.com/anaconda/jobs/389f3c6c-eb29-47d9-9ed0-07d3ec603b37
 https://ats.rippling.com/anaconda/jobs/92a3897d-92ec-4acd-868f-4a293926369e
 https://ats.rippling.com/apptega/jobs/1e5356c7-7553-4f5f-87c3-eb89825cf5b1
+https://ats.rippling.com/arcadiacareers/jobs/00861f7e-049a-4179-bcf6-410affeeb05f
 https://ats.rippling.com/athennian/jobs/6e4fe965-28a5-4d96-bcc9-3eabdb4f1b7a
 https://ats.rippling.com/blitzy-jobs/jobs/3e8d74c9-286b-4222-9ad2-d78caada41ec
 https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b
 https://ats.rippling.com/briowt/jobs/352cde27-c782-4927-ac53-3d0e4c5d7e2c
 https://ats.rippling.com/button/jobs/859e0a82-217a-41b4-b9a6-d834b9d72521
 https://ats.rippling.com/caqh/jobs/8b08f885-fa56-43ba-9b70-57439b59d52d
+https://ats.rippling.com/careers-at-harver/jobs/2d5ee393-59a8-406d-ba6b-01d273d83c93
 https://ats.rippling.com/community-phone-careers/jobs/b0b1ec9b-6161-483b-99ac-c4c7bc1bd248
 https://ats.rippling.com/databahn/jobs/22b24603-b3ac-45ed-bf65-5abd53b96202
 https://ats.rippling.com/engineeredarts/jobs/26e77e7c-4247-4ee7-858b-ef292eb7183b
@@ -230,6 +232,7 @@ https://ats.rippling.com/kai-cyber-inc/jobs/9ae1a0e9-7e12-4fce-b21a-7ea30046ca76
 https://ats.rippling.com/l2l-openings/jobs/1bc4e922-869d-4ae7-acf7-9c6b9494bbfc
 https://ats.rippling.com/lastwall/jobs/717405ca-7bf8-4d02-8e2c-b79e744dc20f
 https://ats.rippling.com/logile/jobs/ac907f9d-fc38-4fbc-8a02-5a2d1b71c10b
+https://ats.rippling.com/loop/jobs/07c1205a-4683-4d8f-8905-0e07e27e0f47
 https://ats.rippling.com/nexcess/jobs/828c5a7c-dcbc-4d0c-bef6-5ba76a5c4919
 https://ats.rippling.com/pace/jobs/6d138849-fd6c-4188-a882-20bb6b2eb689
 https://ats.rippling.com/pdq/jobs/af7ceb21-7296-48cc-8468-db6b32afd8fd
@@ -237,6 +240,7 @@ https://ats.rippling.com/pet-screening-job-board/jobs/8f47c438-2166-431f-b25a-aa
 https://ats.rippling.com/plenful/jobs/102fc31c-066c-4cfb-818a-a6592d6febcd
 https://ats.rippling.com/portside/jobs/f7008ce4-5157-4ba9-b75b-ed2a6448b579
 https://ats.rippling.com/primesecurity/jobs/57372d55-1704-4e23-9112-c16bdd36d3fa
+https://ats.rippling.com/proshop/jobs/a91d55a6-f83c-4985-9b4a-26c835952cdf
 https://ats.rippling.com/prudentia-sciences/jobs/1c8c1cec-bf3a-48f4-941f-6477e221c7b2
 https://ats.rippling.com/respondology-careers/jobs/ae9b591f-4da5-4763-8bf6-3b370f427dbe
 https://ats.rippling.com/rhythm-energy/jobs/4d404eff-45d6-412c-8a29-189d36b4e22e
@@ -250,6 +254,7 @@ https://ats.rippling.com/rippling/jobs/b9098a69-abe5-42ed-8624-06acbaf324aa
 https://ats.rippling.com/rippling/jobs/d598f9a0-872f-4db7-8d3a-861b17e8b0e4
 https://ats.rippling.com/rippling/jobs/e52a1165-3ab6-4822-aa6d-5393fbff9d87
 https://ats.rippling.com/rippling/jobs/eac7e7d1-e699-4535-abb4-d1d015e620ba
+https://ats.rippling.com/seamless/jobs/e078ede3-2365-4825-869e-9810131b94e0
 https://ats.rippling.com/shippo/jobs/398ecce1-5798-4e6e-a9fa-2938c407d283
 https://ats.rippling.com/smokeballcareers/jobs/0200831e-7c78-40c5-936b-1a9d2ec954cf
 https://ats.rippling.com/stayntouch/jobs/3bd06f08-69f2-480a-9d7f-1af80fa4a05f
@@ -258,7 +263,9 @@ https://ats.rippling.com/swoopishiring/jobs/54a533a5-cdc0-4e58-9f72-5c7298b5a3c9
 https://ats.rippling.com/swoopishiring/jobs/63c37f12-e6d9-450e-b41c-c7f7d847f39d
 https://ats.rippling.com/therabody/jobs/7dbf9e14-c98d-443c-bc9b-288170273f69
 https://ats.rippling.com/tive-careers/jobs/0d677e4a-4706-453f-bb14-10e245ead6e9
+https://ats.rippling.com/torus/jobs/5fc30dc0-b4fc-4dd3-9314-3cbe63dd4ef6
 https://ats.rippling.com/trustlayer-inc/jobs/954dabe2-7f78-473d-818c-8d70805504b0
+https://ats.rippling.com/tylsemi/jobs/e68a3213-abcd-4954-a9fe-2b4e429d13b1
 https://ats.rippling.com/useorigin/jobs/82e74d16-905f-44fa-a703-70b3090b6c53
 https://ats.rippling.com/veracityinsurance-careers/jobs/d8115346-fbb4-443e-9ad7-a83822bc2f38
 https://ats.rippling.com/whisker-labs-careers/jobs/df12bb12-02ee-4b54-9b3f-7ce8f32372b7

@@ -1956,6 +1956,16 @@
 "timezone": null,
 "work_auth": null
 },
+"https://ats.rippling.com/arcadiacareers/jobs/00861f7e-049a-4179-bcf6-410affeeb05f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-11T09:37:37+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://ats.rippling.com/athennian/jobs/6e4fe965-28a5-4d96-bcc9-3eabdb4f1b7a": {
 "countries": [],
 "eligibility_stated": false,
@@ -2181,6 +2191,16 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-08-13T04:49:26+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/seamless/jobs/e078ede3-2365-4825-869e-9810131b94e0": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-11T09:37:37+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
