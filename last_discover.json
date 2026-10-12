@@ -1,15 +1,11 @@
 {
- "ran_at": "2026-10-11T09:34:58+00:00",
+ "ran_at": "2026-10-12T10:05:49+00:00",
  "new_boards": [
-  "rippling:arcadiacareers",
-  "rippling:careers-at-harver",
-  "rippling:loop",
-  "rippling:proshop",
-  "rippling:seamless",
-  "rippling:torus",
-  "rippling:tylsemi"
+  "lever:Xpansiv ",
+  "lever:quantum-health",
+  "lever:rainfocus"
  ],
- "new_urls": 7,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 2
+ "dork_offset": 8
 }

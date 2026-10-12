@@ -293,3 +293,6 @@ https://ats.rippling.com/torus/jobs/5fc30dc0-b4fc-4dd3-9314-3cbe63dd4ef6
 https://ats.rippling.com/loop/jobs/07c1205a-4683-4d8f-8905-0e07e27e0f47
 https://ats.rippling.com/seamless/jobs/e078ede3-2365-4825-869e-9810131b94e0
 https://ats.rippling.com/proshop/jobs/a91d55a6-f83c-4985-9b4a-26c835952cdf
+https://jobs.lever.co/rainfocus/3aaf4676-cec2-4e54-a77e-02075e283ba7
+https://jobs.lever.co/quantum-health/f893fb47-f1f9-4ce7-8b30-cce1e63ccdde
+https://jobs.lever.co/Xpansiv /58d1e08a-12a1-4d5c-a56d-233065508acc

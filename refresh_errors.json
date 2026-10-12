@@ -56,19 +56,19 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:amplitude",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:alma",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:atomicwork",
+  "board": "greenhouse:amplitude",
   "error": "HTTP Error 404: Not Found"
  },
  {
   "board": "greenhouse:armracolostrum",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:atomicwork",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -84,11 +84,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:hightouch",
+  "board": "greenhouse:headway",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:hubspotjobs",
+  "board": "greenhouse:hightouch",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -96,7 +96,7 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:headway",
+  "board": "greenhouse:hubspotjobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -148,6 +148,10 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "ashby:cside",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "board": "ashby:cubist",
   "error": "HTTP Error 404: Not Found"
  },
@@ -168,6 +172,10 @@
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "board": "lever:Xpansiv ",
+  "error": "URL can't contain control characters. '/v0/postings/Xpansiv ?mode=json' (found at least ' ')"
+ },
+ {
   "board": "lever:oaknorth.ai",
   "error": "HTTP Error 404: Not Found"
  },
@@ -176,23 +184,23 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/sierra-select-distributors-inc/j/7F163C6376",
+  "url": "https://boards.greenhouse.io/greenhouse/jobs/8233862",
   "error": "HTTP 404"
- },
- {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
-  "error": "HTTP 410"
  },
  {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -204,7 +212,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "url": "https://gen-tech.breezy.hr/p/f655ef5b8ce2-junior-product-marketing-manager-findies",
   "error": "delisted or no data"
  },
  {
@@ -216,6 +224,10 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
   "error": "delisted or no data"
  },
@@ -224,7 +236,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clera/f5ad2c73-33e1-4c7d-8c1b-008ddc6b30ff",
+  "url": "https://jobs.ashbyhq.com/langdock/f59e441e-7656-462b-b8e1-1dbd90815293",
   "error": "delisted or no data"
  },
  {
@@ -237,6 +249,10 @@
  },
  {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Marketing-Manager---DACH-region_148474",
   "error": "HTTP 404"
  },
  {
