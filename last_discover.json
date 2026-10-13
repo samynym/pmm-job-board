@@ -1,11 +1,10 @@
 {
- "ran_at": "2026-10-12T10:05:49+00:00",
+ "ran_at": "2026-10-13T09:58:43+00:00",
  "new_boards": [
-  "lever:Xpansiv ",
-  "lever:quantum-health",
-  "lever:rainfocus"
+  "greenhouse:appspace",
+  "greenhouse:similarweb"
  ],
- "new_urls": 3,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 8
+ "dork_offset": 14
 }
