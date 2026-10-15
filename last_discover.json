@@ -1,12 +1,10 @@
 {
- "ran_at": "2026-10-14T08:17:48+00:00",
+ "ran_at": "2026-10-15T07:54:53+00:00",
  "new_boards": [
-  "workable:clickview",
-  "workable:high-street-resources",
-  "workable:mediaradar",
-  "workable:recurly"
+  "workday:('elkay.wd1.myworkdayjobs.com', 'Elkay_External')",
+  "workday:('volarisgroup.wd3.myworkdayjobs.com', 'WynneNA')"
  ],
- "new_urls": 4,
+ "new_urls": 2,
  "errors": 3,
- "dork_offset": 20
+ "dork_offset": 26
 }
