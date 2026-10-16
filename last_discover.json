@@ -1,10 +1,13 @@
 {
- "ran_at": "2026-10-15T07:54:53+00:00",
+ "ran_at": "2026-10-16T07:47:53+00:00",
  "new_boards": [
-  "workday:('elkay.wd1.myworkdayjobs.com', 'Elkay_External')",
-  "workday:('volarisgroup.wd3.myworkdayjobs.com', 'WynneNA')"
+  "jazzhr:avolvesoftwaregroup.applytojob.com",
+  "jazzhr:ragbone.applytojob.com",
+  "jazzhr:sterry.applytojob.com",
+  "workable:gotyme-za-south-africa",
+  "workable:wonderskin"
  ],
- "new_urls": 2,
+ "new_urls": 5,
  "errors": 3,
- "dork_offset": 26
+ "dork_offset": 0
 }

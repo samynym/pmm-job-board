@@ -36,10 +36,6 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "workable:komoju",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "workable:sierra-select-distributors-inc",
   "error": "HTTP Error 404: Not Found"
  },
@@ -76,11 +72,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:canonicaljobs",
+  "board": "greenhouse:clerk-ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
+  "board": "greenhouse:canonicaljobs",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -92,11 +88,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:hightouch",
+  "board": "greenhouse:hextechnologies",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:hextechnologies",
+  "board": "greenhouse:hightouch",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -188,35 +184,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/coursedog-1/j/82B7D5CDBB",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/komoju/j/9148DE266B",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://ats.rippling.com/seamless/jobs/e078ede3-2365-4825-869e-9810131b94e0",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://boards.greenhouse.io/brave/jobs/7603697",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/nebius/jobs/4959327101",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/pelago/jobs/5177922007",
-  "error": "HTTP 404"
- },
- {
   "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
@@ -228,20 +196,12 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careersenus-itt-inc.icims.com/jobs/16778/job",
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Principal--Product-Marketing---Cloud-Security--Remote-_R29848",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Manager--Product-Marketing--17-Month-Contract-_REQ-5093",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://canada-appliedsystems.icims.com/jobs/7643/job",
-  "error": "HTTP 500"
+  "url": "https://careersenus-itt-inc.icims.com/jobs/16778/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
@@ -252,11 +212,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
@@ -268,15 +228,7 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/Lance/a4d0d349-2642-4f96-b8aa-f283366a1507",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/openai/c6cb3f11-8e1f-4e34-b407-6a3327e39f2e",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/openai/9c990e11-a5fb-4c6d-ab83-ede32839e78e",
+  "url": "https://jobs.ashbyhq.com/clera/365bef41-e422-492e-8ad7-4747df948779",
   "error": "delisted or no data"
  },
  {
@@ -284,11 +236,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.jobvite.com/internetbrands/job/oIEGzfwl",
-  "error": "delisted or no data"
+  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
+  "url": "https://jobs.lever.co/outreach/550bdb6a-59ce-4e8a-941b-17bcfc63b9a3",
   "error": "HTTP 404"
  },
  {
@@ -296,11 +248,11 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
-  "error": "delisted or no data"
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2637368",
+  "error": "HTTP 403"
  },
  {
-  "url": "https://outdooractive.jobs.personio.de/job/2841306",
+  "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
   "error": "delisted or no data"
  },
  {
@@ -308,11 +260,23 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Manager--Trusted-Services_JR347890",
+  "url": "https://outdooractive.jobs.personio.de/job/2841306",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Product-Marketing-Senior-Lead_JR357800",
   "error": "HTTP 403"
  },
  {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/PM-Manager_R119097",
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director---Product-Marketing_R119135",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Associate-Product-Marketing---Manager_R121270",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Product-Marketing-Manager--Plano--TX-_R119178",
   "error": "HTTP 403"
  },
  {
