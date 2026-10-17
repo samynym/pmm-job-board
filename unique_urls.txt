@@ -101,6 +101,7 @@ https://apply.workable.com/kantox/j/98EF8BF03C
 https://apply.workable.com/kayali/j/4FEC44D58D
 https://apply.workable.com/keyvoto/j/1AB8AB561B
 https://apply.workable.com/komoju/j/9148DE266B
+https://apply.workable.com/krush-tech-inc/j/95D011E1CA
 https://apply.workable.com/leap-legal-software/j/119CD0F500
 https://apply.workable.com/learnlight/j/E970A3014B
 https://apply.workable.com/learnworlds/j/7EE7ECCB4B
@@ -139,6 +140,7 @@ https://apply.workable.com/realadvisor/j/0CCEEDCA2F
 https://apply.workable.com/recurly/j/6A7573FE21
 https://apply.workable.com/reversinglabs/j/918D5A1F99
 https://apply.workable.com/riverside-insights/j/A469AAB52D
+https://apply.workable.com/salient-systems/j/4BE4C14D3F
 https://apply.workable.com/schneiderinnovations/j/7353C88100
 https://apply.workable.com/schoolinks/j/6C8A93241B
 https://apply.workable.com/schoox/j/B8100A1759
@@ -761,11 +763,14 @@ https://jobs.ashbyhq.com/claylabs/6579de6f-b5df-46df-bb73-e8d82955f293
 https://jobs.ashbyhq.com/claylabs/81067fe9-fd11-41bf-aeb6-219ba933a614
 https://jobs.ashbyhq.com/clera/47be53f7-8066-4471-92f9-8d2a41043961
 https://jobs.ashbyhq.com/cleric/d15cbc60-8642-424a-ad16-306d88420531
+https://jobs.ashbyhq.com/clickhouse/e30864bd-e36d-483f-8de2-a95d4aa3db26
 https://jobs.ashbyhq.com/code-metal/c977d687-7917-4393-93f5-09b411a6b4ce
 https://jobs.ashbyhq.com/cognition/60ac2393-2727-4c88-953b-013e7bb418f8
 https://jobs.ashbyhq.com/cohere/5cf3bd63-cf1d-441a-9db5-2032ca8449b8
 https://jobs.ashbyhq.com/composio/1752cc7c-7aae-403a-a319-9b2270cc4c56
+https://jobs.ashbyhq.com/confido/b4fa4a5f-30c1-42ef-961a-fd0e3b7cdbc8
 https://jobs.ashbyhq.com/convex-dev/73d1a1fd-8817-40ac-80de-271aebb4dc46
+https://jobs.ashbyhq.com/coram-ai/64d15d95-322a-471a-aa6e-62e2e1c1aa2c
 https://jobs.ashbyhq.com/corti/182c6cff-0924-4e1b-ad88-f9d3bf2d95b1
 https://jobs.ashbyhq.com/creditgenie/92e0dc10-535f-4ded-bad0-9e73a19bc62d
 https://jobs.ashbyhq.com/crusoe/7f62d94f-54ad-4e28-89a3-db52514a2d37
@@ -806,6 +811,7 @@ https://jobs.ashbyhq.com/ideals/520eeefb-0704-4bea-bd5f-52bb3b725b55
 https://jobs.ashbyhq.com/illumio/486631fa-d999-4687-963c-103f0e4c4dd3
 https://jobs.ashbyhq.com/imprint/2707deb7-f6ff-4177-8292-a15bfb0e46d9
 https://jobs.ashbyhq.com/industrious/be9be96f-204a-47fb-93a5-7897e360f07d
+https://jobs.ashbyhq.com/junipersquare/d5a4adcb-b4d6-4f0a-90d1-0e2809341bc7
 https://jobs.ashbyhq.com/klarity-ai/26745ae7-d66c-463d-a6a3-7ca594bbc0ae
 https://jobs.ashbyhq.com/langchain/8f50c37d-61ca-4127-8605-bff4f6811d79
 https://jobs.ashbyhq.com/langchain/fc61254d-2dd2-4b92-b01a-162e805b921c
@@ -813,6 +819,7 @@ https://jobs.ashbyhq.com/langdock/f59e441e-7656-462b-b8e1-1dbd90815293
 https://jobs.ashbyhq.com/lassie/b160df54-4446-47c6-887d-b087f92e8c3c
 https://jobs.ashbyhq.com/latent/49828d69-881c-4431-be8b-bcd7455aa069
 https://jobs.ashbyhq.com/lawhive/a33f6240-298d-4dce-b6c6-da7bc07e7b51
+https://jobs.ashbyhq.com/leap/c71c436e-d339-4dfd-a5c6-5896f428fa64
 https://jobs.ashbyhq.com/legora/c3138542-ea6a-4f36-a49e-5bd9c863fd3c
 https://jobs.ashbyhq.com/legora/ea782caa-0a06-4670-b4b8-d7f30e7f7df8
 https://jobs.ashbyhq.com/legora/fdecc0c6-31ce-43b6-af32-9f79711397c2
@@ -853,6 +860,7 @@ https://jobs.ashbyhq.com/percepta/0ddab4d2-9519-49ff-b717-eb6a53addc81
 https://jobs.ashbyhq.com/permitflow/fbb63199-74cd-49bc-bf1f-482a7854256e
 https://jobs.ashbyhq.com/permutive/3915ff5c-61b3-46eb-b52e-0d87e53c3c64
 https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9
+https://jobs.ashbyhq.com/phylo/73e5e04f-0da1-4575-b0c8-f48ea8e21cc2
 https://jobs.ashbyhq.com/plain/865d8882-8c80-4145-b139-a644b40ff1e7
 https://jobs.ashbyhq.com/planera/5e4c93db-3d84-4cf8-a914-8574499927e8
 https://jobs.ashbyhq.com/posh-ai/ca367637-45ce-48ed-ace7-2a8b73e61883

@@ -1,13 +1,16 @@
 {
- "ran_at": "2026-10-16T07:47:53+00:00",
+ "ran_at": "2026-10-17T07:25:13+00:00",
  "new_boards": [
-  "jazzhr:avolvesoftwaregroup.applytojob.com",
-  "jazzhr:ragbone.applytojob.com",
-  "jazzhr:sterry.applytojob.com",
-  "workable:gotyme-za-south-africa",
-  "workable:wonderskin"
+  "ashby:clickhouse",
+  "ashby:confido",
+  "ashby:coram-ai",
+  "ashby:junipersquare",
+  "ashby:leap",
+  "ashby:phylo",
+  "workable:krush-tech-inc",
+  "workable:salient-systems"
  ],
- "new_urls": 5,
+ "new_urls": 8,
  "errors": 3,
- "dork_offset": 0
+ "dork_offset": 6
 }
