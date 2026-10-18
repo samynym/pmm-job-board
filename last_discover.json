@@ -1,16 +1,7 @@
 {
- "ran_at": "2026-10-17T07:25:13+00:00",
- "new_boards": [
-  "ashby:clickhouse",
-  "ashby:confido",
-  "ashby:coram-ai",
-  "ashby:junipersquare",
-  "ashby:leap",
-  "ashby:phylo",
-  "workable:krush-tech-inc",
-  "workable:salient-systems"
- ],
- "new_urls": 8,
+ "ran_at": "2026-10-18T07:41:17+00:00",
+ "new_boards": [],
+ "new_urls": 0,
  "errors": 3,
- "dork_offset": 6
+ "dork_offset": 12
 }
