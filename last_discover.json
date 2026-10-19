@@ -1,7 +1,11 @@
 {
- "ran_at": "2026-10-18T07:41:17+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-10-19T08:22:42+00:00",
+ "new_boards": [
+  "breezy:allcares",
+  "breezy:givzey",
+  "breezy:kwik-lok"
+ ],
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 12
+ "dork_offset": 18
 }
