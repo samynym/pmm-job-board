@@ -45,6 +45,7 @@ https://apply.workable.com/blacklinesafety/j/6553F8CE21
 https://apply.workable.com/blueprint-bryanjohnson/j/56FF799B79
 https://apply.workable.com/bmlltech/j/3D3B7ABE7C
 https://apply.workable.com/bnberry/j/407868B8F9
+https://apply.workable.com/botpress/j/198B22A437
 https://apply.workable.com/cadmus-io/j/0ED5B2CF52
 https://apply.workable.com/cadmus-io/j/2E79BD9570
 https://apply.workable.com/cadmus-io/j/BF995A1356
@@ -142,6 +143,7 @@ https://apply.workable.com/recurly/j/6A7573FE21
 https://apply.workable.com/reversinglabs/j/918D5A1F99
 https://apply.workable.com/riverside-insights/j/A469AAB52D
 https://apply.workable.com/salient-systems/j/4BE4C14D3F
+https://apply.workable.com/savvytalent/j/C12F02A679
 https://apply.workable.com/schneiderinnovations/j/7353C88100
 https://apply.workable.com/schoolinks/j/6C8A93241B
 https://apply.workable.com/schoox/j/B8100A1759
@@ -198,6 +200,7 @@ https://apply.workable.com/writesonic/j/96048CCAF3
 https://apply.workable.com/zenara-health/j/2A9C8F601F
 https://apply.workable.com/zero100/j/2D0749C09D
 https://apply.workable.com/zipliens/j/D70B4B0DA3
+https://apply.workable.com/zoopla/j/E33CF07B71
 https://apply.workable.com/zutec/j/4FDFB860A4
 https://arch-systems.breezy.hr/p/36cb3c7a94f8-product-marketer
 https://archlet.jobs.personio.de/job/2616802
@@ -498,6 +501,7 @@ https://fides-technology-gmbh.jobs.personio.de/job/2745797
 https://finastra.wd3.myworkdayjobs.com/finc/job/product-manager-payments---messaging_req0526_0037344
 https://flightstory.teamtailor.com/jobs/7719669-product-marketing-manager
 https://foleon.recruitee.com/o/content-marketer-2408
+https://foothill.na.teamtailor.com/jobs/712631-product-manager
 https://fortnoxab.teamtailor.com/jobs/8014372-product-marketing-specialist
 https://fullcreative.recruitee.com/o/product-marketing-manager
 https://fullfabricspoonsixlimited.teamtailor.com/jobs/7973104-technical-product-marketing-manager
@@ -1250,6 +1254,7 @@ https://plentyone.jobs.personio.de/job/2451907
 https://plutus-fire-limited.breezy.hr/p/51db0bea249701-product-marketing-manager
 https://pluxee.wd3.myworkdayjobs.com/Pluxee_Career_Site/job/Product-Marketing-Leader_R5133
 https://procarehra8.applytojob.com/apply/sjXGrmYZbo
+https://procentia.teamtailor.com/jobs/8427741-sales-and-marketing-co-ordinator
 https://pru.wd5.myworkdayjobs.com/Careers/job/VP--Product-Marketing---Sales-Enablement_R-124444
 https://puzzel.teamtailor.com/jobs/8200463-product-marketing-associate
 https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Senior-Product-Marketer_REQ-12073
@@ -1340,6 +1345,7 @@ https://uscareers-yelp.icims.com/jobs/13885/job
 https://vagaro.breezy.hr/p/ea1f8030ee71-sr-lifecycle-marketing-manager
 https://valital-technologies.breezy.hr/p/771aebdaadd6-product-marketing-designer-contract
 https://velixo.applytojob.com/apply/Ah3XWkt1to
+https://vention.na.teamtailor.com/jobs/683388-product-line-manager-applications-gestionnaire-de-produits-application
 https://vetro-fibermap-inc.breezy.hr/p/29bb1ba3ebc1-head-of-marketing-ai-focus
 https://visual-components.jobs.personio.de/job/2604835
 https://vivid.jobs.personio.de/job/2695886
