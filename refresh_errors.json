@@ -24,6 +24,10 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
+  "board": "jazzhr:neolytix.applytojob.com",
+  "error": "HTTP Error 429: Too Many Requests"
+ },
+ {
   "board": "teamtailor:navinci.teamtailor.com",
   "error": "HTTP Error 404: Not Found"
  },
@@ -60,15 +64,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:amplitude",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:alma",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:atomicwork",
+  "board": "greenhouse:amplitude",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -76,7 +76,7 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
+  "board": "greenhouse:atomicwork",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -84,11 +84,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clickhouse",
+  "board": "greenhouse:clerk-ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:headway",
+  "board": "greenhouse:clickhouse",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -97,6 +97,10 @@
  },
  {
   "board": "greenhouse:hextechnologies",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:headway",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -132,11 +136,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:temporaltechnologies",
+  "board": "greenhouse:tekion",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:tekion",
+  "board": "greenhouse:temporaltechnologies",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -152,11 +156,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "ashby:cubist",
+  "board": "ashby:cside",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "ashby:cside",
+  "board": "ashby:cubist",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -184,48 +188,40 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "url": "https://aikidosecurity.recruitee.com/o/technical-product-marketer",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/invicti-security/j/3812B005CA",
-  "error": "HTTP 404"
- },
- {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://athenahealth.wd1.myworkdayjobs.com/External/job/Product-Marketing-Manager---athenaOne_R15504",
-  "error": "HTTP 403"
+  "url": "https://apply.workable.com/withings/j/279D986BA4",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://ats.rippling.com/therabody/jobs/7dbf9e14-c98d-443c-bc9b-288170273f69",
+  "url": "https://ats.rippling.com/briowt/jobs/bcb4160e-1d90-4bf4-82f9-5568fd7e6336",
   "error": "delisted or no data"
  },
  {
-  "url": "https://boards.greenhouse.io/anthropic/jobs/5385651008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/anthropic/jobs/5424080008",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/okta/jobs/8104905",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Sr-Product-Marketing-Manager_R55426",
+  "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/Sr-Product-Marketing-Manager_JR1337",
   "error": "HTTP 403"
  },
  {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
-  "error": "HTTP 410"
+  "url": "https://boards.greenhouse.io/6sense/jobs/7512125",
+  "error": "HTTP 404"
  },
  {
-  "url": "https://careers-hyland.icims.com/jobs/14220/job",
-  "error": "HTTP 410"
+  "url": "https://boards.greenhouse.io/energyhub/jobs/8420232002",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/mercury/jobs/6013499004",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/okta/jobs/8131237",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://boards.greenhouse.io/soldejaneiro/jobs/5183804007",
+  "error": "HTTP 404"
  },
  {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
@@ -233,6 +229,18 @@
  },
  {
   "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-hyland.icims.com/jobs/14220/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
+  "error": "HTTP 410"
+ },
+ {
+  "url": "https://careers-realpagepms.icims.com/jobs/12976/job",
   "error": "HTTP 410"
  },
  {
@@ -248,15 +256,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://infoprolearning.recruitee.com/o/product-marketer-talent-skills-intelligence-platform-hybrid-princeton-nj-open-to-local-nj-based-candidates-only",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
@@ -268,7 +272,11 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/voize/564c7f68-bbdc-4274-b066-2077b4ba62e9",
+  "url": "https://jobs.ashbyhq.com/clickhouse/bdad5644-3c80-4b7f-b5a2-aacd5ef3e5d1",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/temporal/66b66d5b-0aaa-4e4a-979f-96e43d846d4a",
   "error": "delisted or no data"
  },
  {
@@ -276,23 +284,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.lever.co/aventon/2b1a34cc-51ef-4047-98c7-944eedbd4686",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/a1e743ca-a72b-4123-aa66-7b2725e31b67",
-  "error": "HTTP 404"
- },
- {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/a3c02d97-1ccb-4d6d-a2b6-1ab19745ef68",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://jobs.lever.co/jobgether/bdcaf225-050f-4d4d-ab07-3eeb56bd1060",
+  "url": "https://jobs.lever.co/jobgether/0ebf99c9-d12b-4e7e-be03-d646f9c52a3f",
   "error": "HTTP 404"
  },
  {
@@ -300,16 +296,16 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2532865",
+  "url": "https://jobs.lever.co/outreach/39303d33-b32a-4a66-8e35-475e0892b038",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2638006",
   "error": "HTTP 403"
  },
  {
-  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2639366-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---Data-Processing_JR2022150-1",
-  "error": "HTTP 403"
+  "url": "https://payreto.applytojob.com/apply/qlkkUfQUF9",
+  "error": "delisted or no data"
  },
  {
   "url": "https://pixalate.applytojob.com/apply/w6qne7cU0W",
@@ -324,7 +320,7 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Director-of-Product-Marketing_R119561",
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Financial-Analyst_R121291",
   "error": "HTTP 403"
  },
  {
@@ -336,19 +332,27 @@
   "error": "delisted or no data"
  },
  {
+  "url": "https://swissbit.jobs.personio.de/job/2668354",
+  "error": "delisted or no data"
+ },
+ {
   "url": "https://teak.applytojob.com/apply/jaylTOy2m3",
   "error": "delisted or no data"
  },
  {
-  "url": "https://swissbit.jobs.personio.de/job/2668354",
-  "error": "delisted or no data"
+  "url": "https://tiugotech.recruitee.com/o/senior-product-marketing-manager",
+  "error": "HTTP 404"
+ },
+ {
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Sr-Consultant-Product-Marketing_19040855",
+  "error": "HTTP 403"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/Product-Marketing-Operations-Director_R12164",
+  "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/Product-Marketing-Director---EMEA_R11805-1",
   "error": "HTTP 403"
  },
  {
