@@ -24,8 +24,36 @@
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
  },
  {
-  "board": "jazzhr:neolytix.applytojob.com",
-  "error": "HTTP Error 429: Too Many Requests"
+  "board": "teamtailor:causeway-1588594217.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:davidkennedyrecruitment.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:casambi.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:drdoctor.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:deezer.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:botify.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:ecoonline.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
+ },
+ {
+  "board": "teamtailor:enfuceoy.teamtailor.com",
+  "error": "HTTP Error 400: Bad Request"
  },
  {
   "board": "teamtailor:navinci.teamtailor.com",
@@ -84,15 +112,15 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:clerk-ai",
-  "error": "HTTP Error 404: Not Found"
- },
- {
   "board": "greenhouse:clickhouse",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:hightouch",
+  "board": "greenhouse:clerk-ai",
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "board": "greenhouse:headway",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -100,7 +128,7 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "greenhouse:headway",
+  "board": "greenhouse:hightouch",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -173,15 +201,47 @@
  },
  {
   "board": "jobvite:panasas",
-  "error": "HTTP Error 500: Internal Server Error"
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.panasas.com'. (_ssl.c:1010)>"
+ },
+ {
+  "board": "jobvite:internetbrands",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "jobvite:leovegas",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "jobvite:mini-circuits",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "jobvite:loandepot",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "jobvite:imprivata",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "jobvite:ovt",
+  "error": "The read operation timed out"
  },
  {
   "board": "lever:Loop AI",
   "error": "URL can't contain control characters. '/v0/postings/Loop AI?mode=json' (found at least ' ')"
  },
  {
+  "board": "jobvite:progress",
+  "error": "The read operation timed out"
+ },
+ {
   "board": "lever:Xpansiv ",
   "error": "URL can't contain control characters. '/v0/postings/Xpansiv ?mode=json' (found at least ' ')"
+ },
+ {
+  "board": "jobvite:pt-holdings",
+  "error": "The read operation timed out"
  },
  {
   "board": "lever:oaknorth.ai",
@@ -192,43 +252,31 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://apply.workable.com/withings/j/279D986BA4",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://ats.rippling.com/briowt/jobs/bcb4160e-1d90-4bf4-82f9-5568fd7e6336",
+  "url": "https://ats.rippling.com/expo/jobs/5895dc62-7c46-402c-be98-48c9da1fbeff",
   "error": "delisted or no data"
  },
  {
-  "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/Sr-Product-Marketing-Manager_JR1337",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://boards.greenhouse.io/6sense/jobs/7512125",
+  "url": "https://boards.greenhouse.io/intercom/jobs/7232569",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/energyhub/jobs/8420232002",
+  "url": "https://boards.greenhouse.io/intercom/jobs/8223136",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/mercury/jobs/6013499004",
+  "url": "https://boards.greenhouse.io/pubmatic/jobs/5372808008",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/okta/jobs/8131237",
+  "url": "https://boards.greenhouse.io/pubmatic/jobs/5230809008",
   "error": "HTTP 404"
  },
  {
-  "url": "https://boards.greenhouse.io/soldejaneiro/jobs/5183804007",
+  "url": "https://boards.greenhouse.io/pingidentity/jobs/8877619002",
   "error": "HTTP 404"
  },
  {
   "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
   "error": "HTTP 410"
  },
  {
@@ -244,6 +292,10 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-oneadvanced.icims.com/jobs/8719/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careersenus-itt-inc.icims.com/jobs/16778/job",
   "error": "HTTP 410"
  },
@@ -256,11 +308,11 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
  },
  {
@@ -272,11 +324,23 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.ashbyhq.com/clickhouse/bdad5644-3c80-4b7f-b5a2-aacd5ef3e5d1",
+  "url": "https://jobs.ashbyhq.com/bestow/54d885bb-c270-47e5-b837-373219152393",
   "error": "delisted or no data"
  },
  {
-  "url": "https://jobs.ashbyhq.com/temporal/66b66d5b-0aaa-4e4a-979f-96e43d846d4a",
+  "url": "https://jobs.ashbyhq.com/clera/24f5aa5b-2c72-4790-ae2c-9b547509e826",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clickhouse/3b71c9a9-d3c9-4331-83e7-1a9007455b5e",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/clickhouse/b55850f7-419c-4a27-ac6d-33e46e39c428",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/junipersquare/d5a4adcb-b4d6-4f0a-90d1-0e2809341bc7",
   "error": "delisted or no data"
  },
  {
@@ -288,20 +352,16 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/jobgether/0ebf99c9-d12b-4e7e-be03-d646f9c52a3f",
-  "error": "HTTP 404"
- },
- {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
-  "url": "https://jobs.lever.co/outreach/39303d33-b32a-4a66-8e35-475e0892b038",
-  "error": "HTTP 404"
+  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2635401",
+  "error": "HTTP 403"
  },
  {
-  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2638006",
-  "error": "HTTP 403"
+  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Associate-Product-Marketing-Manager_147768",
+  "error": "HTTP 404"
  },
  {
   "url": "https://payreto.applytojob.com/apply/qlkkUfQUF9",
@@ -312,15 +372,35 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://outdooractive.jobs.personio.de/job/2841306",
-  "error": "delisted or no data"
- },
- {
   "url": "https://outdooractive.jobs.personio.de/job/2335848",
   "error": "delisted or no data"
  },
  {
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Financial-Analyst_R121291",
+  "url": "https://outdooractive.jobs.personio.de/job/2841306",
+  "error": "delisted or no data"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Vice-President--Product-Marketing---Clinical-Solutions_R118019-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Vice-President--Product-Marketing---Education_R118018-1",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/MX-Product-Marketing-Senior-Professional--Z-Series-_R118954",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Manager_R119773",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior---Product-Marketing-Executive--2yrs-contract-_R121278",
+  "error": "HTTP 403"
+ },
+ {
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Senior-Professional--Product-Management_R120801",
   "error": "HTTP 403"
  },
  {
@@ -332,28 +412,20 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://swissbit.jobs.personio.de/job/2668354",
-  "error": "delisted or no data"
- },
- {
   "url": "https://teak.applytojob.com/apply/jaylTOy2m3",
   "error": "delisted or no data"
  },
  {
-  "url": "https://tiugotech.recruitee.com/o/senior-product-marketing-manager",
-  "error": "HTTP 404"
+  "url": "https://swissbit.jobs.personio.de/job/2668354",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Sr-Consultant-Product-Marketing_19040855",
-  "error": "HTTP 403"
+  "url": "https://uscareers-bruker.icims.com/jobs/19096/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
   "error": "HTTP 410"
- },
- {
-  "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/Product-Marketing-Director---EMEA_R11805-1",
-  "error": "HTTP 403"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",

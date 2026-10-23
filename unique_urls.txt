@@ -143,6 +143,7 @@ https://apply.workable.com/realadvisor/j/0CCEEDCA2F
 https://apply.workable.com/recurly/j/6A7573FE21
 https://apply.workable.com/reversinglabs/j/918D5A1F99
 https://apply.workable.com/riverside-insights/j/A469AAB52D
+https://apply.workable.com/runware/j/782F9AA284
 https://apply.workable.com/salient-systems/j/4BE4C14D3F
 https://apply.workable.com/savvytalent/j/C12F02A679
 https://apply.workable.com/schneiderinnovations/j/7353C88100
@@ -1128,6 +1129,7 @@ https://jobs.smartrecruiters.com/BoschGroup/744000134922659-sr-product-marketing
 https://jobs.smartrecruiters.com/CASEYFOODSOPCPRIVATELIMITED/743999737987022-product-marketing-manager
 https://jobs.smartrecruiters.com/Cint/744000119570046-product-marketing-manager
 https://jobs.smartrecruiters.com/Covista/744000134549020-senior-manager-product-marketing
+https://jobs.smartrecruiters.com/Cricut/744000152533936-sr-global-product-manager
 https://jobs.smartrecruiters.com/Dev2/743999785104169-product-marketing-manager
 https://jobs.smartrecruiters.com/Dev2/743999785182299-product-marketing-manager-connectivity
 https://jobs.smartrecruiters.com/Dev2/743999785188847-product-marketing-manager
@@ -1181,6 +1183,7 @@ https://jobs.smartrecruiters.com/SouthTekResources/82789427-product-marketing-ma
 https://jobs.smartrecruiters.com/SpaceknowInc/743999763456512-product-marketing-manager
 https://jobs.smartrecruiters.com/SyngentaGroup/744000122712244-herbicide-product-marketing-lead
 https://jobs.smartrecruiters.com/TMPAssociatesLtd/743999706035417-product-marketing-manager-software-technology
+https://jobs.smartrecruiters.com/TOPdesk/744000155247159-product-marketing-manager-ai-automation
 https://jobs.smartrecruiters.com/Tag360/743999725250780-product-marketing-assistant
 https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012679947-director-product-marketing
 https://jobs.smartrecruiters.com/TomSawyerSoftware/743999667306778-product-marketing-manager
