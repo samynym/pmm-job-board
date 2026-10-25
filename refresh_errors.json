@@ -1,10 +1,10 @@
 [
  {
-  "board": "personio:archlet.jobs.personio.de",
+  "board": "personio:agile-robots-se.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "personio:agile-robots-se.jobs.personio.de",
+  "board": "personio:archlet.jobs.personio.de",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -20,140 +20,8 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "workday:('allstate.wd5.myworkdayjobs.com', 'allstate_careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('adobe.wd5.myworkdayjobs.com', 'external_experienced')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('arienscompany.wd5.myworkdayjobs.com', 'External')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('automationanywhere.wd5.myworkdayjobs.com', 'AutomationAnywhereJobs')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('att.wd1.myworkdayjobs.com', 'ATTGeneral')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('boeing.wd1.myworkdayjobs.com', 'EXTERNAL_CAREERS')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('cengage.wd5.myworkdayjobs.com', 'CengageNorthAmericaCareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('cengage.wd5.myworkdayjobs.com', 'cengagenorthamericacareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('crowdstrike.wd5.myworkdayjobs.com', 'crowdstrikecareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('cvshealth.wd1.myworkdayjobs.com', 'CVS_Health_Careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('deckers.wd5.myworkdayjobs.com', 'Deckers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('directsupply.wd501.myworkdayjobs.com', 'direct-supply-careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('fei.wd5.myworkdayjobs.com', 'External')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('ffive.wd5.myworkdayjobs.com', 'f5jobs')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('guidewire.wd5.myworkdayjobs.com', 'external')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('harbourvest.wd5.myworkdayjobs.com', 'HVP')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('hpe.wd5.myworkdayjobs.com', 'acjobsite')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('hpe.wd5.myworkdayjobs.com', 'Jobsathpe')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('humana.wd5.myworkdayjobs.com', 'humana_external_career_site')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('logitech.wd5.myworkdayjobs.com', 'Logitech')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('modmed.wd501.myworkdayjobs.com', 'ModMed12')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('neogen.wd5.myworkdayjobs.com', 'neogencareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('nvidia.wd5.myworkdayjobs.com', 'NVIDIAExternalCareerSite')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "board": "workday:('osv_cfainstitute.wd5.myworkdayjobs.com', 'Careers')",
   "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'osv_cfainstitute.wd5.myworkdayjobs.com'. (_ssl.c:1010)>"
- },
- {
-  "board": "workday:('pru.wd5.myworkdayjobs.com', 'Careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('q2ebanking.wd5.myworkdayjobs.com', 'Q2')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('sonos.wd1.myworkdayjobs.com', 'Sonos')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('edwards.wd5.myworkdayjobs.com', 'EdwardsCareers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('tempus.wd5.myworkdayjobs.com', 'Tempus_Careers')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('thomsonreuters.wd5.myworkdayjobs.com', 'External_Career_Site')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('uchicago.wd5.myworkdayjobs.com', 'External')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('umusic.wd5.myworkdayjobs.com', 'UMGUS')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('workday.wd5.myworkdayjobs.com', 'Workday')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "board": "workday:('republic.wd5.myworkdayjobs.com', 'Republic')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  },
  {
   "board": "teamtailor:navinci.teamtailor.com",
@@ -162,10 +30,6 @@
  {
   "board": "recruitee:configura",
   "error": "HTTP Error 404: Not Found"
- },
- {
-  "board": "workday:('transunion.wd5.myworkdayjobs.com', 'TransUnion')",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  },
  {
   "board": "workable:blueprint-bryanjohnson",
@@ -288,11 +152,11 @@
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "ashby:cubist",
+  "board": "ashby:cside",
   "error": "HTTP Error 404: Not Found"
  },
  {
-  "board": "ashby:cside",
+  "board": "ashby:cubist",
   "error": "HTTP Error 404: Not Found"
  },
  {
@@ -316,67 +180,23 @@
   "error": "URL can't contain control characters. '/v0/postings/Xpansiv ?mode=json' (found at least ' ')"
  },
  {
-  "board": "lever:elfbeauty",
-  "error": "HTTP Error 502: Bad Gateway"
- },
- {
   "board": "lever:oaknorth.ai",
   "error": "HTTP Error 404: Not Found"
  },
  {
+  "board": "lever:elfbeauty",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "lever:jobgether",
+  "error": "The read operation timed out"
+ },
+ {
+  "board": "lever:lwolf",
+  "error": "The read operation timed out"
+ },
+ {
   "url": "https://americas-cookmedical.icims.com/jobs/18646/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://apply.workable.com/bizee/j/69050886E3",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager_R170775",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Group-Manager--Product-Marketing_R171707",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://apply.workable.com/runware/j/782F9AA284",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://apply.workable.com/weekday-1/j/D4B14A25D7",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/datadog/jobs/8196718",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/inflectionai/jobs/4698849006",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://boards.greenhouse.io/navvis/jobs/4995183101",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs/job/Sr-Product-Marketing-Manager_JR1337",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://boards.greenhouse.io/smartsheet/jobs/8214240",
-  "error": "HTTP 404"
- },
- {
-  "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Product-Marketer--Mainframe-Software-Division_R026432-1",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -384,11 +204,7 @@
   "error": "HTTP 410"
  },
  {
-  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://careers-realpagepms.icims.com/jobs/12976/job",
+  "url": "https://careers-hines.icims.com/jobs/14148/job",
   "error": "HTTP 410"
  },
  {
@@ -396,96 +212,32 @@
   "error": "HTTP 410"
  },
  {
+  "url": "https://careers-origamirisk.icims.com/jobs/4530/job",
+  "error": "HTTP 410"
+ },
+ {
   "url": "https://careersenus-itt-inc.icims.com/jobs/16778/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/Senior-Product-Marketing-Manager---Avionics_JR2026527038-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers/job/Product-Marketing-Manager_R2026-1185-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Staff-Product-Marketing-Manager--Cloud-Risk---Developer-Security--Remote-_R30309",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Product-Marketing-Manager--Surgical_Req-50940",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Associate-Product-Marketing-Manager--Surgical_Req-50938",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://careers-realpagepms.icims.com/jobs/12976/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://everstar.breezy.hr/p/c7c734046ae5-copywriter-product-marketing",
   "error": "delisted or no data"
  },
  {
-  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Product-Marketing-Manager--Surgical_Req-51023",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Product-Marketing-Manager--Surgical_Req-50941",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/Senior-Therapy-Development-Specialist--THV_Req-49157",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://fortnoxab.teamtailor.com/jobs/8014372-product-marketing-specialist",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Principal-Product-Marketing-Manager--Firefly_R170891-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Principal-Product-Marketing-Manager--Services_RP1039138",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Senior-Product-Marketing-Manager_RP1037766-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Sr-Principal-Product-Marketing-Director_RP1039064-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/Product-Marketing-Principal--PricingCenter---Predict_JR_15155",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/Senior-Product-Marketing-Manager--ClaimCenter_JR_15176-1",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/Technical-Product-Marketing--Principal--AI-ML-_JR_15253",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
-  "error": "HTTP 410"
- },
- {
-  "url": "https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Senior-Associate--Product-Marketing_R2518",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
+  "error": "delisted or no data"
  },
  {
   "url": "https://hubcareers-docusign.icims.com/jobs/29628/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Senior-Associate--Product-Marketing_R2501",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://imanagecom.applytojob.com/apply/k3ZAaYBAq2",
-  "error": "delisted or no data"
+  "url": "https://hubcareers-docusign.icims.com/jobs/29309/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX",
@@ -496,115 +248,19 @@
   "error": "HTTP 404"
  },
  {
-  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Technical-Marketing-Manager---AI_1203068-2",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://jobs.ashbyhq.com/onecrew/bb80eec6-2b5f-4872-b481-518facd7d343",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/omni/d42d9a91-6c6a-480a-b1ad-04ee5550c827",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://jobs.ashbyhq.com/reducto/f5a381b3-2aa1-48b7-a334-4b7947d23aaa",
-  "error": "delisted or no data"
- },
- {
   "url": "https://jobs.jobvite.com/hiregrowth/job/oSv36fwg",
   "error": "delisted or no data"
- },
- {
-  "url": "https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers/job/Product-Marketing-Manager---Gale_R2026-370",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  },
  {
   "url": "https://jobs.lever.co/confluera/a3e97d28-ae19-4222-b48f-3576ab395e5a",
   "error": "HTTP 404"
  },
  {
-  "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Director--Product-Marketing_RP1039150",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "url": "https://jobs.lever.co/secureframe/b585f876-ac0c-4800-9a96-4b61cd34e020",
   "error": "HTTP 404"
  },
  {
-  "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Product-Marketing-Manager_2635638",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Manager--NVIDIA-NIM_JR2015402",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/CUDA-Libraries-and-Frameworks-Product-Marketing-Manager_JR2019940",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Manager---AI-Platform-Software_JR2005540",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-CPU-Technical-Product-Marketing-Manager---Accelerated-Computing_JR2026412",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---DSX-OS_JR2026236",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---Data-Processing_JR2021943",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager--Real-to-Sim-and-Simulation-Frameworks_JR2025795",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Technical-Product-Marketing-Manager---AI-Infrastructure_JR2021774",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Technical-Product-Marketing-Manager--NVIDIA-Nemotron_JR2025587",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Technical-Product-Marketing-Manager---Robotics-Runtime_JR2025791",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Product-Marketing--Mass-Market_R-10066522",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Head-of-Global-Product-Marketing-Management---Logitech-G_148508",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Product-Marketing-Intern_148551",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
   "url": "https://payreto.applytojob.com/apply/qlkkUfQUF9",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://outdooractive.jobs.personio.de/job/2335848",
-  "error": "delisted or no data"
- },
- {
-  "url": "https://outdooractive.jobs.personio.de/job/2841306",
   "error": "delisted or no data"
  },
  {
@@ -612,19 +268,15 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager--Desktop-AI-Products_JR2020123",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://outdooractive.jobs.personio.de/job/2841306",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager--Industrial---Computational-Engineering_JR2010623",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://outdooractive.jobs.personio.de/job/2335848",
+  "error": "delisted or no data"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager--Local-AI_JR2025004",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Senior-Director--SMB-Product-Marketing_JR353222",
+  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Product-Marketing-Category-Head_R119079",
   "error": "HTTP 403"
  },
  {
@@ -636,71 +288,23 @@
   "error": "delisted or no data"
  },
  {
-  "url": "https://teak.applytojob.com/apply/jaylTOy2m3",
-  "error": "delisted or no data"
- },
- {
   "url": "https://swissbit.jobs.personio.de/job/2668354",
   "error": "delisted or no data"
  },
  {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Technical-Product-Marketing-Manager---Healthcare-and-Life-Sciences_JR2002885",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Product-Marketing-Manager--Life-Sciences-Research_JR202600633",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Senior-Product-Marketing-Manager_JREQ204243",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Product-Marketing-Advisor_19040815",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/Product-Marketing-Intern---The-Toro-Company_JR17232",
-  "error": "HTTP 403"
- },
- {
-  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
-  "error": "HTTP 410"
+  "url": "https://teak.applytojob.com/apply/jaylTOy2m3",
+  "error": "delisted or no data"
  },
  {
   "url": "https://uscareers-bruker.icims.com/jobs/19096/job",
   "error": "HTTP 410"
  },
  {
-  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Product-Marketing-Manager_19041226",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Product-Marketing-Manager---DSX-OS_JR2018568",
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "url": "https://uscareers-yelp.icims.com/jobs/13885/job",
+  "error": "HTTP 410"
  },
  {
   "url": "https://worksterjobs.teamtailor.com/jobs/7822755-head-of-product-marketing-igaming-wfh",
   "error": "delisted or no data"
- },
- {
-  "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Senior-Product-Marketing-Manager--Commercial-Banking----Payments_REQ-12885",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Marketing-Manager--Life-Sciences_JR202500389",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Product-Marketing-Manager--Globus_JR34018",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Platform-Product-Marketing-Manager_JR-0109687",
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- {
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Senior-Product-Marketing-Manager--Platform-GTM_JR-0109782",
-  "error": "Expecting value: line 1 column 1 (char 0)"
  }
 ]

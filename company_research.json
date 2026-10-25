@@ -70,61 +70,39 @@
  "ashby:Blee": {
   "company": "Blee",
   "confidence": "medium",
-  "distribution_summary": "Tiny YC compliance startup with only a couple of indexed US profiles (founder Guy Shahar, Sam Karlin) and no employee footprint on any other country subdomain.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "few",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Blee supports both remote and office-based work, with offices in New York and San Francisco.",
-    "quote": "whether you\u2019re joining us remotely or in our New York or San Francisco offices",
-    "url": "https://www.blee.com/careers"
+    "claim": "Blee hires remote employees based in the United States across multiple roles (Sales, Marketing, Customer Success).",
+    "quote": "Sales Engineer\nSales \u2022 United States \u2022 Full time \u2022 Remote",
+    "url": "https://jobs.ashbyhq.com/Blee"
    },
    {
-    "claim": "Blee has multiple US-remote postings (e.g., PMM and AE).",
-    "quote": "Product Marketing Manager \u2014 San Francisco / New York City / Remote (US)",
-    "url": "https://www.ycombinator.com/companies/blee/jobs"
+    "claim": "Product Marketing Manager role is explicitly remote within the US, though company prefers in-office in NY/SF.",
+    "quote": "We have offices in New York and San Francisco and value in-person collaboration, but we're open to remote for the right person.",
+    "url": "https://jobs.ashbyhq.com/blee/2a3f1de6-331b-4ace-b7c1-7319293fc099"
    },
    {
-    "claim": "Blee lists a US-remote Sales Engineer role on its Ashby board.",
-    "quote": "Location: United States \u2014 Location Type: Remote",
-    "url": "https://jobs.ashbyhq.com/Blee/93926678-7af0-4e2f-86a6-a3ca953dfc7d/"
+    "claim": "Blee has a dedicated remote role based in London, UK to build out EMEA go-to-market, indicating UK hiring capability.",
+    "quote": "Hiring Remotely in London, Greater London, England, GBR",
+    "url": "https://builtinlondon.uk/job/founding-account-executive-london/9837317"
    },
    {
-    "claim": "Blee lists a UK-remote Founding Account Executive (London).",
-    "quote": "Location: London \u2014 Location Type: Remote",
-    "url": "https://jobs.ashbyhq.com/Blee/948d50bf-a625-43ed-b75c-803fad39505c/"
+    "claim": "The EMEA role is scoped specifically to London/UK rather than continental Europe broadly.",
+    "quote": "Remote - London, England, United Kingdom",
+    "url": "https://swooped.co/job-postings/founding-account-executive-london-remote-blee-19edf"
    },
    {
-    "claim": "Some roles emphasize in\u2011person work but allow remote for the right candidate (hybrid-friendly, not fully worldwide).",
-    "quote": "we value in-person work but offer remote-opportunities for the right people.",
-    "url": "https://jobs.ashbyhq.com/Blee/2a3f1de6-331b-4ace-b7c1-7319293fc099"
+    "claim": "Aggregated job board confirms current regional split of open roles: North America and Europe only.",
+    "quote": "North America 5 open Europe 1 open",
+    "url": "https://www.rlegaltech.com/blee/jobs/full-time/"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
    "Canada": "unknown",
-   "Europe": "unknown",
+   "Europe": "unlikely",
    "Latin America": "unknown",
    "Middle East": "unknown",
    "Oceania": "unknown",
@@ -132,7 +110,7 @@
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-25T08:06:06+00:00",
   "scope_basis": "unclear"
  },
  "ashby:Distyl": {
@@ -206,206 +184,140 @@
  "ashby:Endgame": {
   "company": "Endgame",
   "confidence": "medium",
-  "distribution_summary": "The AI GTM startup Endgame (Alex Bilmes) shows 4+ current employees only on US profiles, with zero hits on any ccTLD subdomain (common-word name makes non-US signal noisy but no matches appeared).",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Endgame lists both remote and Bay Area (hybrid) roles on its own careers page, indicating a hub in the Bay Area with some remote roles.",
-    "quote": "Open roles \u2014 Principal Software Engineer Engineering \u00b7 Full-Time \u00b7 Remote \u2026 Account Executive GTM \u00b7 Full-Time \u00b7 Bay Area (Hybrid) \u2026 Forward Deployed Engineer GTM \u00b7 Full-Time \u00b7 Remote \u2026 Founding Product Marketer GTM \u00b7 Full-Time \u00b7 Bay Area (Hybrid).",
+    "claim": "Endgame's careers page lists 4 open roles, two marked 'Remote' and two marked 'Bay Area (Hybrid)'",
+    "quote": "Principal Software Engineer Engineering \u00b7 Full-time \u00b7 Remote",
     "url": "https://www.endgame.io/careers"
    },
    {
-    "claim": "The Founding Product Marketer role is explicitly Bay Area, supporting the hub-based posture.",
-    "quote": "Founding Product Marketer \u2014 GTM \u2014 Bay Area \u2014 Full-Time.",
-    "url": "https://www.endgame.io/careers/product-marketing-generalist"
+    "claim": "Aggregator sites tag Endgame's remote engineering roles specifically as US-based remote, not worldwide",
+    "quote": "Principal Software Engineer. Remote. USA",
+    "url": "https://www.builtinla.com/company/endgame"
    },
    {
-    "claim": "Leadership states the marketer must be in the SF Bay Area to work with the team in-office, showing collaboration/office presence as the reason for location scope.",
-    "quote": "We\u2019re exclusively looking for candidates in the SF Bay Area\u2026 work closely with sales, product, engineering, and ops in our office.",
-    "url": "https://www.linkedin.com/posts/bilmes_endgame-is-hiring-our-first-marketer-activity-7371212623448580096-u76d"
+    "claim": "Company has physical offices in Arlington, VA and San Francisco, consistent with a US-centered team",
+    "quote": "HQ Arlington, Virginia, USA",
+    "url": "https://www.builtinla.com/company/endgame"
    },
    {
-    "claim": "Engineering role(s) are posted as Remote, supporting that Endgame hires remote employees (at least in the US).",
-    "quote": "Principal Software Engineer \u2014 Location: Remote \u2014 Location Type: Remote.",
-    "url": "https://jobs.ashbyhq.com/endgame/a4395505-64e4-4b92-ba60-66dd44115499"
+    "claim": "The Founding Product Marketer and Account Executive roles require Bay Area hybrid presence, not pure remote",
+    "quote": "Founding Product Marketer Marketing \u00b7 Full-time \u00b7 Bay Area (Hybrid)",
+    "url": "https://www.endgame.io/careers"
    },
    {
-    "claim": "Another posted role is Remote, reinforcing that some functions are eligible for remote hires.",
-    "quote": "Forward Deployed Engineer \u2014 Location: Remote \u2014 Location Type: Remote.",
-    "url": "https://jobs.ashbyhq.com/endgame/bbd53a1c-ce07-4a4c-8b3d-ee05a36e7c5a"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "unknown",
-   "Europe": "unknown",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unknown",
-   "US": "yes"
-  },
-  "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "timezone-preference"
- },
- "ashby:Linear": {
-  "company": "Linear",
-  "confidence": "high",
-  "distribution_summary": "X-ray signal is weak for the common word 'Linear': only a couple of US profiles (CEO Karri Saarinen, Julian Lehr) confirmed, and European presence (where Linear is known to have staff) could not be verified via ccTLD searches.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "unknown",
-   "fr": "unknown",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "unknown",
-   "us": "few",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Linear is remote\u2011first and limits this Product Marketing Manager role to North America and Europe.",
-    "quote": "Linear is a remote-first company, with optional co-working offices in San Francisco, New York, and London. This role is open to candidates based in North America and Europe. You can work from anywhere within these regions.",
-    "url": "https://linear.app/careers/b3346acf-44be-4565-b1c0-10d482d3ad4e"
-   },
-   {
-    "claim": "North America roles are region-scoped; candidates can work from anywhere within North America.",
-    "quote": "This role is open to candidates based in North America. You can work from anywhere within this region.",
-    "url": "https://linear.app/careers/c21af93e-210f-4969-8eaa-90fb16a5b720"
-   },
-   {
-    "claim": "Canada is explicitly included for some roles (timezone-scoped within U.S. and Canada).",
-    "quote": "This role is open to candidates based within U.S. and Canada Eastern or Central time zones. You can work from anywhere within those time zones.",
-    "url": "https://linear.app/careers/4fe443c5-379d-4b1e-bf16-0d4f91918a5f"
-   },
-   {
-    "claim": "Europe roles are timezone-scoped across European time zones (work anywhere within Europe time zones).",
-    "quote": "This role is open to candidates based in European time zones. You can work from anywhere within any European time zone.",
-    "url": "https://linear.app/careers/820d0d5a-0930-475c-b494-23e18ad2aa68"
-   },
-   {
-    "claim": "UK is supported via a London hub; this role requires in\u2011office days in London.",
-    "quote": "This role is anchored to our London hub. We\u2019re looking for someone who can work from our London office in Shoreditch 3 days per week (Mondays, Tuesdays, Thursdays).",
-    "url": "https://linear.app/careers/d37b3d76-3080-47f9-8a19-60505573112c"
+    "claim": "Senior leadership (CTO) is based in the Berkeley, CA area, consistent with a US-based org",
+    "quote": "Experience: Endgame. Location: Berkel",
+    "url": "https://www.linkedin.com/in/kylewild/"
    }
   ],
   "region_eligibility": {
    "Africa": "unlikely",
    "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "unclear"
+ },
+ "ashby:Linear": {
+  "company": "Linear",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Linear's team is distributed across North America, Europe, and Australia, with roles scoped to those regions",
+    "quote": "our team is distributed across North America, Europe, and Australia, and we're continuing to grow internationally",
+    "url": "https://jobs.ashbyhq.com/linear/aa0673c5-9e06-42f8-a720-6c2e43930c5a"
+   },
+   {
+    "claim": "Many engineering/product roles are explicitly limited to US and Europe time zones",
+    "quote": "This role is open to candidates based in the US and Europe. You can work from anywhere within these regions.",
+    "url": "https://linear.app/careers/069c4628-88d7-4e4d-b393-c996fc7f3076"
+   },
+   {
+    "claim": "A dedicated APAC support role is open specifically to Australia and Singapore",
+    "quote": "Product Support Specialist, APAC. Australia, Singapore",
+    "url": "https://linear.app/careers"
+   },
+   {
+    "claim": "Linear frames itself as remote-first with optional co-working hubs rather than offices tying hiring to specific legal entities",
+    "quote": "Linear is a remote-first company, with optional co-working offices in San Francisco, New York, and London",
+    "url": "https://linear.app/careers/86abcce0-04b2-405c-9a8e-e0ca84813914"
+   },
+   {
+    "claim": "Collaboration/async emphasis suggests timezone-driven scoping alongside regional framing",
+    "quote": "We value deep focus and async collaboration, with intentional moments to connect in person",
+    "url": "https://linear.app/careers/cd5ae036-0223-427a-b038-ba16ef9dcb32"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
    "Canada": "yes",
    "Europe": "yes",
    "Latin America": "unlikely",
-   "Middle East": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "mixed"
+ },
+ "ashby:Plaud": {
+  "company": "Plaud",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Plaud posts roles explicitly tied to US hub cities (San Francisco/Palo Alto) with remote flexibility within that country",
+    "quote": "Remote Full Time San Francisco, California, United States (Remote)",
+    "url": "https://revopscareers.com/job/plaud-head-of-global-product-marketing-san-francisco-california-united-states/"
+   },
+   {
+    "claim": "A Tokyo-based role is scoped to telecommute within Japan specifically, indicating country-level legal hiring scope rather than global remote",
+    "quote": "\"jobLocationType\":\"TELECOMMUTE\",\"applicantLocationRequirements\":{\"name\":\"Japan\"}",
+    "url": "https://jobs.ashbyhq.com/Plaud/fa933c2a-ef48-4df3-9cbf-0bd1a4f8c69b"
+   },
+   {
+    "claim": "Plaud hires for UK/Europe hub roles located in London and Amsterdam",
+    "quote": "Location: London, Amsterdam",
+    "url": "https://jobs.ashbyhq.com/Plaud/ee198596-2e94-4fdf-9053-98f6b70b7dbb"
+   },
+   {
+    "claim": "Singapore is a major APAC hiring hub with numerous open engineering and GTM roles",
+    "quote": "Backend Engineer (Developer Platform)- Singapore @ Plaud",
+    "url": "https://jobs.ashbyhq.com/Plaud/0df212b5-444e-4fd1-beb2-51e8325a1206"
+   },
+   {
+    "claim": "Plaud hires remote employees specifically in South Korea, requiring local language fluency, indicating in-country employment",
+    "quote": "South Korea \u2013 Remote",
+    "url": "https://www.remoterocketship.com/company/plaud-ai/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
    "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "timezone-preference"
- },
- "ashby:Plaud": {
-  "company": "Plaud",
-  "confidence": "medium",
-  "distribution_summary": "Plaud's workforce clusters in Singapore (large HR/growth/logistics hub) and the US, with scattered single hires in Japan, UK, France, and UAE.",
-  "employee_distribution": {
-   "ae": "few",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "few",
-   "in": "none",
-   "jp": "few",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "many",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Plaud lists multiple global offices, indicating a hub-based footprint rather than fully location-agnostic remote hiring.",
-    "quote": "Registered in: Delaware, US | Headquarter: San Francisco, US \u2022 Global offices: San Francisco, Singapore, Tokyo, Shenzhen, Seattle, Beijing",
-    "url": "https://www.plaud.ai/pages/about-us"
-   },
-   {
-    "claim": "US roles specify a hybrid policy with required in-office time.",
-    "quote": "Time Off & Workplace Benefits\u2026 a hybrid work model with a minimum of three in-office days per week",
-    "url": "https://jobs.ashbyhq.com/Plaud/47ec591a-b82a-45d8-97c2-8f31be3b0683"
-   },
-   {
-    "claim": "US postings are tied to specific hubs and marked Hybrid (not fully remote).",
-    "quote": "Product Marketing Manager (Software/AI) - San Francisco\u2026 Location Type Hybrid",
-    "url": "https://jobs.ashbyhq.com/plaud/af692aaf-d916-4f67-8697-0e2850be938c/"
-   },
-   {
-    "claim": "EMEA roles are city/hub-based and Hybrid, not fully remote across the region.",
-    "quote": "Regional Field Marketing Manager - EMEA\u2026 Location: London; Amsterdam\u2026 Location Type Hybrid",
-    "url": "https://jobs.ashbyhq.com/Plaud/b27aa69d-9f3c-456c-932a-cdb0b58d6c58"
-   },
-   {
-    "claim": "Asia roles (e.g., Singapore) include on-site requirements, reinforcing hub-based hiring.",
-    "quote": "Product Marketing Manager - Singapore\u2026 Location Type On-site",
-    "url": "https://jobs.ashbyhq.com/Plaud/f5ffa2fd-e7b7-4692-b37c-a6834230dde5/"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unlikely",
-   "Canada": "unknown",
-   "Europe": "unlikely",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unlikely",
-   "US": "unlikely"
-  },
-  "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "unclear"
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:Searchstax": {
   "company": "Searchstax",
@@ -542,6 +454,47 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
+ },
+ "ashby:Wisdom-AI": {
+  "company": "Wisdom-AI",
+  "confidence": "low",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "WisdomAI has an open remote role scoped to the United States",
+    "quote": "Head of Strategic Alliances & Marketplaces... Remote USA",
+    "url": "https://builtin.com/company/wisdom-ai/jobs"
+   },
+   {
+    "claim": "Several engineering roles are based in-office in Bengaluru, India, indicating a legal entity/employment presence there",
+    "quote": "\"addressLocality\":\"Bengaluru\",\"addressRegion\":\"Karnataka\",\"addressCountry\":\"India\"",
+    "url": "https://jobs.ashbyhq.com/Wisdom-AI/93441adc-4cd9-4253-a335-c20a5aa4ada6"
+   },
+   {
+    "claim": "Most other open roles are in-office at the San Mateo, CA headquarters rather than remote",
+    "quote": "Software Engineer, Frontend/Fullstack San Mateo, CA $150,000 - $300,000 a year",
+    "url": "https://www.indeed.com/cmp/Wisdom-Ai/jobs"
+   },
+   {
+    "claim": "Company job board shows a minority of roles tagged simply 'Remote' alongside US office locations, consistent with office-leaning posture",
+    "quote": "sample_remote_locations: new york, remote, san mateo",
+    "url": "https://jobs.ashbyhq.com/Wisdom-AI/9dc24174-86ef-496d-9957-6012e6e49097"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:Zello": {
   "company": "Zello",
@@ -817,71 +770,49 @@
  },
  "ashby:altruistiq": {
   "company": "altruistiq",
-  "confidence": "medium",
-  "distribution_summary": "Most Altruistiq employees appear to be in the UK (many LinkedIn profiles); a few appear in the United States; I found no or zero public current-employee LinkedIn profiles for the other listed countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "many",
-   "us": "few",
-   "za": "none"
-  },
+  "confidence": "low",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Company is remote-first (flexibility perk, not proof of worldwide hiring).",
-    "quote": "Remote First \u2014 We believe our team should have the opportunity to work where and how they find most productive.",
-    "url": "https://www.altruistiq.com/about-us/careers"
+    "claim": "The single currently open role (Senior Product Manager) is scoped specifically to Portugal, not open worldwide.",
+    "quote": "\"jobLocation\":{\"address\":{\"addressCountry\":\"Portugal\"}},\"jobLocationType\":\"TELECOMMUTE\",\"applicantLocationRequirements\":{\"name\":\"Portugal\"}",
+    "url": "https://jobs.ashbyhq.com/altruistiq/1d415009-8888-4f48-a2ab-5b53a66970f3"
    },
    {
-    "claim": "Explicit hire-from countries in Europe for a remote role (shows EU/UK/Ireland focus, not worldwide).",
-    "quote": "Senior Product Designer Remote - (Spain, Portugal, Netherlands, UK or Ireland)",
-    "url": "https://www.altruistiq.com/about-us/careers"
+    "claim": "Past Altruistiq remote roles were tied to specific countries including Portugal, Netherlands and Singapore, indicating country-by-country hiring rather than worldwide hiring.",
+    "quote": "7 remote jobs at Altruistiq tagged Design, SaaS and Designer such as Senior Product Designer, Product Ops Analyst and Frontend Engineer",
+    "url": "https://remoteok.com/altruistiq"
    },
    {
-    "claim": "Current Ashby posting shows remote hiring specifically in Portugal.",
-    "quote": "Location: Portugal \u2026 Location Type: Remote",
-    "url": "https://jobs.ashbyhq.com/altruistiq/1c15faf8-bc11-47be-8af4-2f0027e78bfb"
+    "claim": "A Product Marketing Manager listing was scoped to Europe plus a small number of additional countries, not fully worldwide.",
+    "quote": "Remote from Europe+3",
+    "url": "https://jobgether.com/remote-jobs/portugal/product-marketing-manager"
    },
    {
-    "claim": "Recent LinkedIn posting based in Portugal reiterates remote-first work style.",
-    "quote": "Flexible working, remote-first environment",
-    "url": "https://pt.linkedin.com/jobs/view/senior-product-manager-at-altruistiq-4431512926"
+    "claim": "Aggregator data shows the company's visible employee base is concentrated in the UK, consistent with its London-registered legal entity.",
+    "quote": "Employees live in United Kingdom",
+    "url": "https://himalayas.app/companies/altruistiq/tech-stack"
    },
    {
-    "claim": "Legal entity is UK-based, supporting UK hiring and suggesting EU-centric employment footprint.",
-    "quote": "Altruistiq is a trading name of Expanding Circle Ltd. Registered number: 13115702 (England and Wales). Registered address: 6th Floor One London Wall, London, EC2Y 5EB",
-    "url": "https://www.altruistiq.com/contact/contact-us"
+    "claim": "Third-party listing describes a remote-first culture but this is general perk-style language rather than a stated country list.",
+    "quote": "allowing team members to work from locations where they are most productive",
+    "url": "https://www.virtualvocations.com/company/remote-jobs-at-expanding-circle-ltd-altruistiq-54957.html"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "likely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
    "UK": "yes",
-   "US": "unlikely"
+   "US": "unknown"
   },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:archouse": {
   "company": "archouse",
@@ -948,55 +879,110 @@
  },
  "ashby:artian": {
   "company": "artian",
-  "confidence": "high",
-  "distribution_summary": "Most Artian (Artian AI) employees appear to be based in the United States (company HQ New York); country-specific LinkedIn x\u2011ray searches returned no reliable per-country profile counts so other locations are marked unknown. ([linkedin.com](https://www.linkedin.com/company/artian-ai?utm_source=openai))",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "unknown",
-   "ca": "unknown",
-   "co": "unknown",
-   "de": "unknown",
-   "fr": "unknown",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "unknown",
-   "ng": "unknown",
-   "ph": "unknown",
-   "pl": "unknown",
-   "sa": "unknown",
-   "sg": "unknown",
-   "uk": "unknown",
-   "us": "many",
-   "za": "unknown"
-  },
+  "confidence": "medium",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Careers page states they are hiring in New York, implying roles are NY-based rather than remote/global.",
-    "quote": "We\u2019re hiring in New York for a number of roles.",
-    "url": "https://www.artian.ai/careers"
+    "claim": "All 8 publicly listed Artian AI jobs are marked as in-office positions located in New York, not open remote roles.",
+    "quote": "In office \u2022 New York",
+    "url": "https://wellfound.com/company/artian/jobs"
    },
    {
-    "claim": "Only one listed role (Product Marketing Manager) shows hybrid in New York; others are not remote.",
-    "quote": "Product Marketing Manager \u2014 New York | Full-time | Hybrid \u2014",
-    "url": "https://www.artian.ai/careers"
+    "claim": "Artian AI's company profile lists only two physical locations, New York City and London, with no stated worldwide or multi-region remote hiring policy.",
+    "quote": "New York City London",
+    "url": "https://wellfound.com/company/artian/jobs"
    },
    {
-    "claim": "Most roles are explicitly onsite in New York, reinforcing a hub-based model.",
-    "quote": "Software Engineer - AI/ML \u2014 New York | Full-time | Onsite \u2014",
-    "url": "https://www.artian.ai/careers"
+    "claim": "Wellfound's filter data for Artian AI shows only a small 'Accepted Remote Location' count limited to the United States, confirming remote eligibility is narrow and tied to the US only.",
+    "quote": "Accepted Remote Location United States 2",
+    "url": "https://wellfound.com/company/artian/jobs"
    },
    {
-    "claim": "Job descriptions emphasize an in-person New York team, not a distributed remote workforce.",
-    "quote": "We are an in-person team in New York, building at the intersection of AI, enterprise software, workflow automation, and financial services.",
-    "url": "https://jobs.ashbyhq.com/artian/6c61f5d5-0702-416d-ad47-c6203ece2fd1"
+    "claim": "Deterministic ATS data independently confirms the job board is hub-based with almost all roles anchored to New York and only a small remote ratio, with the 'remote' sample itself still tagged to New York.",
+    "quote": "top_location new york, sample_remote_locations new york",
+    "url": "https://jobs.ashbyhq.com/artian"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "unknown",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "unknown",
+   "US": "likely"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:ashby": {
+  "company": "ashby",
+  "confidence": "high",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Ashby is remote-first with colleagues across many countries including South America",
+    "quote": "Ashby is a remote-first company with colleagues working from 26 different countries in North America, South America, Europe, and Asia.",
+    "url": "https://www.ashbyhq.com/team/marketing"
    },
    {
-    "claim": "Company presence is New York\u2013based (supports hub-based hiring around NYC).",
-    "quote": "The Site is offered by Artian Inc., located at 442 5th Avenue #2778, New York NY 10018.",
-    "url": "https://www.artian.ai/terms"
+    "claim": "Ashby's job board lists accepted remote locations across Europe, Canada, UK, US and Asia",
+    "quote": "Accepted Remote Location - Australia 3 - Austria 3 - Belgium 5 - Canada 23",
+    "url": "https://wellfound.com/company/ashbyhq/jobs"
+   },
+   {
+    "claim": "Ashby hires Product Support Specialists specifically in Australia (APAC)",
+    "quote": "we're hiring a Product Support Specialist in the APAC region, specifically in Australia",
+    "url": "https://jobicy.com/company/ashby"
+   },
+   {
+    "claim": "Ashby hires roles scoped to Germany/DACH and EU-wide",
+    "quote": "Remote from GB , EU , DE +2 more",
+    "url": "https://jobicy.com/company/ashby"
+   },
+   {
+    "claim": "Ashby's open roles span US, Canada, Ireland for a single position",
+    "quote": "United States, Canada, Ireland",
+    "url": "https://www.remoterocketship.com/company/ashby/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:assured": {
+  "company": "assured",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Job listings consistently show remote roles scoped to United States only",
+    "quote": "Assured is hiring remotely in United States.",
+    "url": "https://www.remoterocketship.com/us/company/assured-claims/jobs/design-lead-foundations-united-states-remote/"
+   },
+   {
+    "claim": "Wellfound aggregation of Assured's job board shows accepted remote location limited to US",
+    "quote": "Accepted Remote Location\n- United States 28",
+    "url": "https://wellfound.com/company/assured-claims/jobs"
+   },
+   {
+    "claim": "Company is a small (11-50 employee) US-based startup headquartered in Palo Alto with no stated international entities",
+    "quote": "11 - 50 employees",
+    "url": "https://www.remoterocketship.com/us/company/assured-claims/jobs/design-lead-foundations-united-states-remote/"
    }
   ],
   "region_eligibility": {
@@ -1008,79 +994,11 @@
    "Middle East": "unlikely",
    "Oceania": "unlikely",
    "UK": "unlikely",
-   "US": "unlikely"
-  },
-  "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "unclear"
- },
- "ashby:ashby": {
-  "company": "ashby",
-  "confidence": "medium",
-  "distribution_summary": "Based on LinkedIn profile X\u2011ray results, Ashby\u2019s employees are concentrated in the United States and the UK, with smaller presence in Germany, France, Australia and Canada; other listed countries showed few or no current-employee LinkedIn profiles.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "few",
-   "fr": "few",
-   "in": "unknown",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "many",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "EOR (vendor unspecified)",
-  "evidence": [
-   {
-    "claim": "Remote-first organization with staff across multiple continents (indicates broad distributed posture).",
-    "quote": "Ashby is a remote-first company with colleagues working from 23 different countries in North America, South America, Europe, and Asia.",
-    "url": "https://www.ashbyhq.com/team"
-   },
-   {
-    "claim": "Actively hires in the US, Canada, and the European Union.",
-    "quote": "Location: Remote - US; Ireland; Remote - Canada; Remote - European Union",
-    "url": "https://jobs.ashbyhq.com/ashby/c62ec47a-8de9-4781-b1f7-563a229c4e90/"
-   },
-   {
-    "claim": "Actively hires across many European countries (EU/EEA/CH).",
-    "quote": "Location: Remote - European Union; Austria; Barcelona; Berlin; Croatia; Denmark; Estonia; France; Germany; Hungary; Ireland; Italy; Netherlands; Norway; Portugal; Romania; Spain; Stockholm; Sweden; Switzerland",
-    "url": "https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a/"
-   },
-   {
-    "claim": "Actively hires in APAC including Singapore, Japan, South Korea, the Philippines, and Australia.",
-    "quote": "Location: Australia; Japan; Philippines; Singapore; South Korea",
-    "url": "https://jobs.ashbyhq.com/ashby/893cd08a-929c-4077-b39c-64bc34f347ea"
-   },
-   {
-    "claim": "Uses an Employer of Record for some countries (implies compliance-driven, country-by-country eligibility).",
-    "quote": "Extended health benefits for you and your dependents (subject to availability with our Employer of Record).",
-    "url": "https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777/"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "yes",
-   "Canada": "yes",
-   "Europe": "yes",
-   "Latin America": "likely",
-   "Middle East": "unknown",
-   "Oceania": "yes",
-   "UK": "yes",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-25T08:06:06+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:audiohook": {
   "company": "audiohook",
@@ -1153,69 +1071,47 @@
  "ashby:benchling": {
   "company": "benchling",
   "confidence": "medium",
-  "distribution_summary": "Most Benchling employees on LinkedIn appear to be located in the United States (many); smaller numbers appear in Canada, UK, Germany, France, India, Singapore, Japan, Australia and Brazil (few); no or no-findings for South Africa, Nigeria, Kenya, UAE, Saudi Arabia, Mexico, Colombia, Poland, or the Philippines.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "few",
-   "ca": "few",
-   "co": "none",
-   "de": "few",
-   "fr": "few",
-   "in": "few",
-   "jp": "few",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "few",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Benchling hires remote employees in the United States.",
-    "quote": "Location\n\nRemote, US",
-    "url": "https://jobs.ashbyhq.com/benchling/d5896e95-fed2-4cd4-b104-1ea4df92f7d7"
+    "claim": "US-based fully remote roles are explicitly scoped to the United States",
+    "quote": "applicantLocationRequirements\":{\"name\":\"United States\"}",
+    "url": "https://jobs.ashbyhq.com/benchling/2ff50609-1843-49c0-aa39-36d84aa14802"
    },
    {
-    "claim": "Benchling hires remote employees in EMEA (Europe, Middle East, Africa).",
-    "quote": "Location\n\nRemote, EMEA",
-    "url": "https://jobs.ashbyhq.com/benchling/2843ef7e-54a4-4c39-8bd1-1ca2559da807/"
+    "claim": "Benchling hires remotely in the United Kingdom",
+    "quote": "Hiring Remotely in United Kingdom",
+    "url": "https://builtin.com/job/enterprise-marketing-manager/3691495"
    },
    {
-    "claim": "Benchling offers remote roles based in the United Kingdom.",
-    "quote": "Location\n\nLondon, England\n\nLocation Type\n\nRemote",
-    "url": "https://jobs.ashbyhq.com/benchling/206d6474-3887-4e65-9015-ac846b856a21/"
+    "claim": "Benchling hires remotely in Switzerland (Z\u00fcrich)",
+    "quote": "Hiring Remotely in Z\u00fcrich",
+    "url": "https://builtin.com/job/scientific-solutions-consultant/3580105"
    },
    {
-    "claim": "Non\u2011US payroll currently exists in EMEA; LATAM/APAC may be added in the future (indicates current regional hiring reach is US + EMEA).",
-    "quote": "supporting non\u2011US payroll in EMEA (and possibly in LATAM, APAC in the future) in partnership with the regional payroll processors.",
-    "url": "https://jobs.ashbyhq.com/benchling/7be86a49-7e93-4b21-9040-b16ed7177f55/"
+    "claim": "Many roles are hybrid, requiring on-site days near a Benchling office rather than fully remote-anywhere",
+    "quote": "Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).",
+    "url": "https://jobs.ashbyhq.com/benchling/128a2d50-3311-49f5-b762-4654e680a06d"
    },
    {
-    "claim": "Benchling has country\u2011specific employment/benefits in the UK, including remote\u2011work stipends (supports UK employment footprint).",
-    "quote": "we offer remote employees a one\u2011time stipend of 1,000 GBP for at\u2011home office setup needs.",
-    "url": "https://benchling.mybenefits.life/wp-content/uploads/sites/274/2025/08/2025-International-Benefits-Perks-UK.pdf"
+    "claim": "Benchling's hiring footprint is concentrated in its own office locations (SF, Boston/NY area, London, Zurich)",
+    "quote": "Benchling is headquartered in San Francisco, California, USA and has 4 office locations.",
+    "url": "https://builtin.com/company/benchling/offices"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
-   "Asia": "unlikely",
+   "Asia": "unknown",
    "Canada": "unknown",
    "Europe": "yes",
-   "Latin America": "unlikely",
+   "Latin America": "unknown",
    "Middle East": "unknown",
-   "Oceania": "unlikely",
+   "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-25T08:06:06+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:bestow": {

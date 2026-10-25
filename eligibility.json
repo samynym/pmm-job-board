@@ -10,6 +10,21 @@
 "timezone": null,
 "work_auth": null
 },
+"breezy:allcares.breezy.hr:751a3a88ecbf": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "We work with clients across Europe, the UK, the US, Asia, and Australia.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Europe",
+"UK",
+"US",
+"Asia",
+"Oceania"
+],
+"timezone": null,
+"work_auth": null
+},
 "breezy:augment-life.breezy.hr:d8df7b9e5e5b": {
 "countries": [],
 "eligibility_stated": false,
@@ -77,6 +92,18 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"breezy:givzey.breezy.hr:b207437ab75e": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "More than 250 VEOs are now deployed across higher education, healthcare, and nonprofit organizations in the U.S. and Canada,including UNICEF USA, Bucknell University, Wake Forest University, and William & Mary. We're hiring a Senior Product Marketing Manager... Givzey | Version2.ai is a fully remote, AI-native company..., and the top 20% see 8x or higher. More than 250 VEOs are now deployed across higher education, healthcare, and nonprofit organizations in the U.S. and Canada,including UNICEF USA, Bucknell University, Wake Forest University, and William & Mary. More than 250 VEOs are now deployed across higher education, healthcare, and nonprofit organizations in the U.S. and Canada,including UNICEF USA, Bucknell University, Wake Forest University, and William & Mary. Location field: US Remote label: Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -151,6 +178,16 @@
 "timezone": "9:00\u201311:00 CET",
 "work_auth": null
 },
+"breezy:social-discovery-ventures.breezy.hr:aece1f3f10a601": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"note": "worldwide claim rejected: The quote describes the existing team's remote work flexibility ('works remotely from all over the world'), not a statement about where the ",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "breezy:subscribe.breezy.hr:8a762a905ca8": {
 "countries": [],
 "eligibility_stated": false,
@@ -167,6 +204,20 @@
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [
 "US",
+"Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"breezy:talentc.breezy.hr:ae9bbf2e67ae": {
+"countries": [
+"Ukraine",
+"Poland"
+],
+"eligibility_stated": true,
+"evidence": "\u041c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438 \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e \u0430\u0431\u043e \u0432 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e\u043c\u0443 \u043e\u0444\u0456\u0441\u0456 \u0432 \u041a\u0438\u0454\u0432\u0456, \u041b\u044c\u0432\u043e\u0432\u0456 \u0447\u0438 \u0412\u0430\u0440\u0448\u0430\u0432\u0456. (Possibility to work remotely or in a comfortable office in Kyiv, Lviv or Warsaw.)\n\nThe posting indicates remote work is possible with office locations in Kyiv, Lviv (Ukraine) and Warsaw (Poland)",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
 "Europe"
 ],
 "timezone": null,
@@ -307,6 +358,17 @@
 ],
 "timezone": null,
 "work_auth": "US work authorization required (no visa sponsorship)"
+},
+"greenhouse:affirm:8004995003": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote US; \"Most roles can be done from almost anywhere within the country of employment.\"",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
 },
 "greenhouse:alphasense:8427480002": {
 "countries": [],
@@ -459,6 +521,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:chainguard:4717282006": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:colabsoftware:5204990008": {
 "countries": [],
 "eligibility_stated": true,
@@ -498,11 +571,31 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:enterpret:8041929003": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location: Remote, United States",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:extrahopnetworks:6100876004": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:extrahopnetworks:6192085004": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -660,6 +753,30 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:instacart:8214827": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:instacart:8282656": {
+"countries": [
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:ionq:6111192004": {
 "countries": [],
 "eligibility_stated": true,
@@ -704,6 +821,17 @@
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [
 "Canada"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:lastpass:4732058005": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - US",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null
@@ -851,6 +979,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:newsela:8278660": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - US",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:omadahealth:7680866": {
 "countries": [],
 "eligibility_stated": true,
@@ -867,6 +1006,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: Remote, USA\nRemote label: Remote\nThe posting explicitly states \"Remote, USA\"",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:omadahealth:8287687": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote, USA",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -932,6 +1082,16 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:reddit:8302227": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"note": "worldwide claim rejected: The quote conditions remote work on the company already having a physical presence in that country, which is a restriction, not an 'anywhere",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -1168,6 +1328,32 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:thanx:7990627003": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Remote-United States or Canada",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:tines:6217973004": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "You can work remotely within the US but must in an eastern or central state.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:veriff:8626079002": {
 "countries": [],
 "eligibility_stated": true,
@@ -1186,6 +1372,17 @@
 "eligibility_stated": true,
 "evidence": "Remote-United States",
 "extracted_at": "2026-07-17T21:04:37+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:waymark:4734114005": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: US - Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -1224,6 +1421,52 @@
 ],
 "timezone": null,
 "work_auth": "Applicants must have the legal right to work in the country where the position is based, without the need for visa sponsorship. This role does not offer visa sponsorship."
+},
+"https://activeprospect.applytojob.com/apply/mzd0niqqee": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Authorization to work in the U.S.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "Authorization to work in the U.S."
+},
+"https://activeprospect.applytojob.com/apply/ocan8kk1xc": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Authorization to work in the U.S.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": "Authorization to work in the U.S."
+},
+"https://activeprospect.applytojob.com/apply/ugppsana4z": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Authorization to work in the U.S.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "Authorization to work in the U.S."
+},
+"https://activeprospect.applytojob.com/apply/vfrzyouiuo": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Authorization to work in the U.S. [Also: Job title states \"Canada\" and location field states \"Toronto, ON\"]",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": "Authorization to work in the U.S."
 },
 "https://advantagegroup.applytojob.com/apply/pfynfnrsgf": {
 "countries": [],
@@ -1267,6 +1510,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/appgate/j/719c6d1359": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "U.S. citizenship required; an active security clearance, or the ability to obtain and maintain one, is preferred.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "U.S. citizenship required"
+},
 "https://apply.workable.com/arcsite/j/09ddc0818c": {
 "countries": [
 "United States"
@@ -1304,6 +1558,17 @@
 "regions": [
 "Europe",
 "Asia"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/autovitals/j/54b7a86e7e": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States\nRemote label: Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null
@@ -1351,6 +1616,17 @@
 "evidence": null,
 "extracted_at": "2026-07-17T21:04:37+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/coursedog-1/j/36c1d8f185": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -1505,6 +1781,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/mydbsync/j/03e9a53cb6": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "Job Location: Bangalore (Remote) Work Shift: U.K Shift (1:30 PM IST to 10:30 PM IST)",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Asia"
+],
+"timezone": "UK shift (1:30 PM IST to 10:30 PM IST)",
+"work_auth": null
+},
 "https://apply.workable.com/mydbsync/j/33ee6c783e": {
 "countries": [
 "Canada"
@@ -1555,6 +1844,19 @@
 "Asia"
 ],
 "timezone": "UK Shift (1:30 PM\u201310:30 PM IST)",
+"work_auth": null
+},
+"https://apply.workable.com/mydbsync/j/d0016fd505": {
+"countries": [
+"Russia"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Russia\nRemote label: Remote\nJob Location: Eastern Europe (Remote)\nWork Shift: U.S Shift (8:00 AM CST to 5:00 PM CST)",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Europe"
+],
+"timezone": "8:00 AM - 5:00 PM CST",
 "work_auth": null
 },
 "https://apply.workable.com/mydbsync/j/f86b18f41b": {
@@ -1627,6 +1929,15 @@
 "timezone": "U.S. Client Business Hours",
 "work_auth": null
 },
+"https://apply.workable.com/pavago/j/ad1e006c94": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": "Flexible U.S. Business Hours",
+"work_auth": null
+},
 "https://apply.workable.com/pavago/j/ccf7b860ca": {
 "countries": [
 "Colombia"
@@ -1681,6 +1992,17 @@
 "eligibility_stated": true,
 "evidence": "Based in the United States. Ability to travel 30% of the year.",
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/riverside-insights/j/a469aab52d": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States\nRemote label: Remote\nCompensation range is specific to the United States",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -2296,6 +2618,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://avolvesoftwaregroup.applytojob.com/apply/sywrhawfws": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This is a fully remote position that can be performed out of the following states: AL, AZ, CA, CO, FL, GA, IN, MA, MI, MN, NC, NV, NY, OH, OK, PA, TN, TX, UT, VA, WA, WI",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://careers-hyland.icims.com/jobs/14220/job": {
 "countries": [],
 "eligibility_stated": true,
@@ -2304,6 +2637,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://careers-kyocera.icims.com/jobs/3202/job": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -2360,6 +2702,18 @@
 "evidence": null,
 "extracted_at": "2026-07-21T05:46:36+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://clario.recruitee.com/o/product-marketing-manager-rd": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Hands-on in implementing growth marketing strategy for b2c products with a focus on the US and Europe markets.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Europe"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -2437,6 +2791,36 @@
 "timezone": "US hours",
 "work_auth": null
 },
+"https://idera.applytojob.com/apply/dujz4xvcz3": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://instinctscience.applytojob.com/apply/3wbv5vrl82": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/1password/06df5109-358e-4e0b-a9d4-9fba67a028af": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "this role is remote across the United States and Canada",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/1password/6c2a0077-6a12-47c5-b024-cf2de14a6c37": {
 "countries": [
 "United States",
@@ -2452,6 +2836,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/1password/6e7795dd-d927-484b-8979-9a7aab24e65a": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This is a remote opportunity within the US.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/1password/88aa605e-60a9-4a41-8879-23cb2f634d73": {
 "countries": [
 "United States",
@@ -2460,6 +2855,18 @@
 "eligibility_stated": true,
 "evidence": "Remote (United States | Canada)",
 "extracted_at": "2026-08-14T04:46:55+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/1password/f56a7052-4fc3-4cc9-adf1-145e3ff83026": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This is a remote opportunity within Canada and the US. Reporting to the Director, Product Marketing and Enablement, this role is remote across the United States and Canada.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US",
 "Canada"
@@ -2605,6 +3012,44 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/benevity/7596717c-727a-4abe-9655-3f779a3f0fa9": {
+"countries": [
+"Canada",
+"Spain",
+"Switzerland",
+"United Kingdom",
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Canada",
+"Europe",
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/benevity/a392c740-29e3-4e75-b7fc-a7c711886451": {
+"countries": [
+"Canada",
+"Spain",
+"Switzerland",
+"United Kingdom",
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Canada",
+"Europe",
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/bestow/54d885bb-c270-47e5-b837-373219152393": {
 "countries": [
 "United States"
@@ -2661,6 +3106,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/claylabs/6579de6f-b5df-46df-bb73-e8d82955f293": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -2771,6 +3225,17 @@
 "timezone": "US or European timezones preferred",
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/elevenlabs/e062d169-7294-4125-bc7b-e3a821dcd620": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, Madrid, Warsaw and many more.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Worldwide"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9": {
 "countries": [],
 "eligibility_stated": true,
@@ -2843,6 +3308,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/happyrobot.ai/b05c43f0-d460-4331-92f9-4a915d170100": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/happyscribe.com/2bb3fea8-cf49-49da-84e8-cb5ff43119ec": {
 "countries": [],
 "eligibility_stated": false,
@@ -2910,6 +3384,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/hinge-health/d4b10b1f-c021-4bd0-9c4b-32d0af9f54b2": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/hostinger/3e870285-355e-4668-9ff8-2c6daa8fced3": {
 "countries": [
 "Lithuania"
@@ -2933,6 +3416,15 @@
 "regions": [
 "Europe"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/hyperexponential/ac642c7e-a065-4db6-b8b1-e2004e9a6b80": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -2964,6 +3456,20 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/junipersquare/84a99eff-2244-4a68-acee-f0f3da830b77": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Americas (USA or Canada)",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"Americas"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3157,6 +3663,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/openai/0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648": {
 "countries": [],
 "eligibility_stated": false,
@@ -3295,6 +3810,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/openrouter/80e0a73a-4c76-424a-bf45-9150eadd3320": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote (US)",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/orbital/a7ea81db-8792-46c9-826a-0d0130008738": {
 "countries": [],
 "eligibility_stated": true,
@@ -3407,11 +3933,31 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/plaud/973ed2bf-44be-402c-b6b3-2a1cbbc54570": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Hybrid Office: Minimum of 3x in office per week.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/plaud/af692aaf-d916-4f67-8697-0e2850be938c": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/plaud/e333022d-5efe-40e5-bb19-f38e8960d8ff": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -3445,6 +3991,19 @@
 "eligibility_stated": true,
 "evidence": "UNITED STATES\n\nCANADA\n\nUNITED KINGDOM",
 "extracted_at": "2026-08-07T04:53:10+00:00",
+"regions": [
+"US",
+"Canada",
+"UK"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/ramp/73fd7b0f-ee20-4a83-8765-0ce4663f2d41": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "BENEFITS AVAILABLE TO ALL FULL-TIME RAMP EMPLOYEES (GLOBAL)\n...\nUNITED STATES\n...\nCANADA\n...\nUNITED KINGDOM",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US",
 "Canada",
@@ -3623,11 +4182,59 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/superhuman platform inc/a395dda4-288b-4864-ab94-8e4f031f1c14": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Superhuman takes a market-based approach to compensation...locations where we currently support employment, please refer to this page. ...abide by the Employment Equity Act (Canada)...[US locations] and [US federal E-Verify program (US)]...[compensation zones]...our hub locations [San Francisco]...[E-Verify program (US)]...Employment Equity Act (Canada)...Our US locations...support employment. If a location of interest is not listed, please speak with a recruiter for additional information.Base pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future...Superhuman takes a market-based approach to compensation, so base pay may vary by location. Our US locations are categorized into two compensation zones based on proximity to our hub locations. For more information about our compensation zones and locations where we currently support employment, please refer to this page https://superhuman.com/company/careers/compensation-zones.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/superhuman platform inc/f4fad726-bada-4271-b7f7-1c942deb2c5c": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/temporal/1e0c3405-1d30-408e-92b0-bc4885e8921e": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/temporal/200838d9-5ca0-4e6a-ac1d-ee0537853d5b": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/temporal/3c33e194-ae91-464d-8321-3f5a0693dc12": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/temporal/512beff1-52d2-4f35-941a-825ba09b71f2": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -3743,6 +4350,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/wisdom-ai/524aed43-667e-4d14-bb76-bbf11c6c6da3": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -3968,6 +4584,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/mini-circuits/job/oxlqafws": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/ninjaone/job/oezcafwj": {
 "countries": [],
 "eligibility_stated": true,
@@ -4012,6 +4637,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/pragmaticplay/job/oeayafw6": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/progress/job/odfwafwi": {
 "countries": [
 "United States"
@@ -4045,6 +4679,17 @@
 "timezone": "East Coast",
 "work_auth": null
 },
+"https://jobs.jobvite.com/uplight/job/oqdqafwd": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States\nRemote label: Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/varonis-internal/job/oijsafwn": {
 "countries": [],
 "eligibility_stated": true,
@@ -4067,6 +4712,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/veson/job/ol0zafwe": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote candidates will be considered, with a strong preference for those in the US Eastern Time zone.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": "US Eastern Time zone",
+"work_auth": null
+},
 "https://jobs.jobvite.com/veson/job/oydgafwb": {
 "countries": [
 "United States"
@@ -4074,6 +4730,28 @@
 "eligibility_stated": true,
 "evidence": "This is a hybrid position (2 days minimum per week in our Boston office)",
 "extracted_at": "2026-08-31T09:16:42+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/webmd/job/o9ewafw3": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "this role is hybrid (3 days/week) in our Newark, NJ office... but we're also open to making this remote for candidates who are unable to commute to our NJ office. Location field: United States. Remote label: Remote. Base salary range: $80,000 - $90,000 Bonus Eligible: This position is also eligible for a discretionary company bonus of around $3,500, based upon business results. Benefits: Employees in this position are eligible to participate in the company sponsored benefit programs, including the following within the first 12 months of employment: Health Insurance (medical, dental, and vision coverage) Paid Time Off (including vacation, sick leave, and flexible holiday days) 401(k) Retirement Plan with employer matching Life and Disability Insurance Employee Assistance Program (EAP) Commuter and/or Transit Benefits (if applicable) Team Interview: Initial Phone Screens (30 mins) Hiring Manager Interview (45 mins) Team Panel (45 mins) + 1:1 Interview with a Product Marketing Team Member (30 mins) Interviews with 2 Senior Leaders (30mins each) Final Presentation (we'll provide a prompt before the presentation) Eligibility for specific benefits may vary based on job classification, schedule (e.g., full-time vs. part-time), work location and length of employment.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/webmd/job/ovv0afwk": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States. Note that this role is hybrid (3 days/week) in our Newark, NJ office... but we're also open to making this remote for candidates who are unable to commute to our NJ office",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -4120,6 +4798,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/colibrigroup/b6e049f5-0916-4bc7-835f-8c0270fc74fb": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/colibrigroup/dba987a5-27e6-4ccd-a1f4-4c4575b7bff6": {
 "countries": [],
 "eligibility_stated": false,
@@ -4138,6 +4825,18 @@
 "US"
 ],
 "timezone": "core Eastern Time (ET)",
+"work_auth": null
+},
+"https://jobs.lever.co/ethena/2c54a94c-fb0b-4812-ba2b-446f3262f946": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Our workforce is fully remote, and your personal working hours can be based on your own timezone. All team-wide meetings are scheduled to be inclusive of all North American time zones.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Canada"
+],
+"timezone": "North American time zones",
 "work_auth": null
 },
 "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62": {
@@ -4247,6 +4946,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/lwolf/01aabe81-4af0-4c9d-bf42-56425889ccb1": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/lwolf/51f44b89-7fc8-4b07-ae3f-a9075ecc27d5": {
 "countries": [
 "United States"
@@ -4282,6 +4990,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/mindtickle/1f42a6e5-0cfa-4b7d-b22f-f8a26e56a7bd": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/panopto/642a00ec-020a-490c-af89-16108a3833d8": {
 "countries": [
 "United States",
@@ -4313,6 +5030,24 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/quantum-health/f893fb47-f1f9-4ce7-8b30-cce1e63ccdde": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/ridezum/d98d75d8-ba13-4948-ac5c-b57fa34e0bec": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -4461,6 +5196,24 @@
 "Canada",
 "Oceania"
 ],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:acumatica:744000152187404": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:acumatica:744000153021549": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -4670,6 +5423,15 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:miratech1:744000153194751": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:recruitmentloop:744000129773799": {
 "countries": [
 "Poland"
@@ -4714,6 +5476,36 @@
 "extracted_at": "2026-09-09T07:48:39+00:00",
 "regions": [],
 "timezone": null,
+"work_auth": null
+},
+"smartrecruiters:revalize:744000153521247": {
+"countries": [
+"Germany"
+],
+"eligibility_stated": true,
+"evidence": "Remote, , Germany. Revalize designates standard working hours as 8:00 am to 5:00 pm Eastern Time (ET) for employees based in the United States and 08:00 to 17:00 Central European Time (CET) for employees operating within the EMEA region.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Europe",
+"Middle East",
+"Africa"
+],
+"timezone": "ET (US) or CET (EMEA)",
+"work_auth": null
+},
+"smartrecruiters:revalize:744000155011539": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, UNITED STATES, United States. Standard working hours as 8:00 am to 5:00 pm Eastern Time (ET) for employees based in the United States and 08:00 to 17:00 Central European Time (CET) for employees operating within the EMEA region.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US",
+"Europe",
+"Middle East",
+"Africa"
+],
+"timezone": "ET for US; CET for EMEA",
 "work_auth": null
 },
 "smartrecruiters:servicenow:744000135339719": {
@@ -4778,6 +5570,24 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:servicenow:744000149461119": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:servicenow:744000156077549": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:thenielsencompany:3743990012679947": {
 "countries": [],
 "eligibility_stated": true,
@@ -4831,6 +5641,17 @@
 "eligibility_stated": true,
 "evidence": "Remote City, Remote, United States",
 "extracted_at": "2026-09-04T07:39:57+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:thenielsencompany:3743990015741712": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote, Remote, United States",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -5136,6 +5957,17 @@
 "timezone": null,
 "work_auth": null
 },
+"workday:athenahealth.wd1.myworkdayjobs.com:R15504": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - NC",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:att.wd1.myworkdayjobs.com:R-115170": {
 "countries": [],
 "eligibility_stated": true,
@@ -5208,6 +6040,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"workday:att.wd1.myworkdayjobs.com:R-125402": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -5297,6 +6138,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: Ohio, USA",
 "extracted_at": "2026-08-13T04:49:26+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:crowdstrike.wd5.myworkdayjobs.com:R30309": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: USA - Remote",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],
@@ -5567,6 +6419,17 @@
 "timezone": null,
 "work_auth": null
 },
+"workday:wk.wd3.myworkdayjobs.com:R0060084": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: USA-MA-Remote. Compensation range listed is based on primary location of the position.",
+"extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:workiva.wd503.myworkdayjobs.com:R11535-1": {
 "countries": [],
 "eligibility_stated": true,
@@ -5620,6 +6483,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: USA - Remote",
 "extracted_at": "2026-09-01T08:15:24+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:workiva.wd503.myworkdayjobs.com:R12591": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location: USA - Remote | Location field states 'USA - Remote'",
+"extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
 ],

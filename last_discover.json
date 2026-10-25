@@ -1,13 +1,11 @@
 {
- "ran_at": "2026-10-24T07:48:57+00:00",
+ "ran_at": "2026-10-25T08:01:21+00:00",
  "new_boards": [
-  "greenhouse:databento",
-  "greenhouse:engine",
-  "greenhouse:smartling",
-  "greenhouse:thanx",
-  "greenhouse:wheelhouse"
+  "recruitee:itsme",
+  "recruitee:omniaretail",
+  "recruitee:vitestro"
  ],
- "new_urls": 5,
+ "new_urls": 3,
  "errors": 3,
- "dork_offset": 16
+ "dork_offset": 22
 }
