@@ -1321,93 +1321,94 @@
  "ashby:claylabs": {
   "company": "claylabs",
   "confidence": "medium",
-  "distribution_summary": "Most employees appear to be in the United States (many LinkedIn/job listings); a small presence in Brazil and India (few); little-to-no visible current-employee profiles in the other listed countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "few",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "few",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
+  "employs_via": "own entities (confirmed US and UK payroll/entities; no EOR evidence found)",
   "evidence": [
    {
-    "claim": "US remote hiring exists for at least some roles.",
-    "quote": "Location\n\nUSA - Remote\n\n... Location Type\n\nRemote",
-    "url": "https://jobs.ashbyhq.com/claylabs/d42d1520-45f2-4d01-91db-cd28e7235eba/"
+    "claim": "Clay operates as an in-person company centered on its physical offices rather than fully distributed remote work.",
+    "quote": "Clay is excited to operate as an in-person company across our 3 global offices.",
+    "url": "https://www.ziprecruiter.com/co/clay-labs/Jobs"
    },
    {
-    "claim": "UK hiring, including remote-from-UK, is supported.",
-    "quote": "Founding Marketer, EMEA\n\nLocation\n\nLondon\n\n... Location Type\n\nRemote",
-    "url": "https://jobs.ashbyhq.com/claylabs/9724f8a6-0e59-4488-b3e1-110760d478c3"
+    "claim": "Clay's hiring hubs are New York, San Francisco, and London, matching the job board's sample remote locations.",
+    "quote": "Top locations: New York \u00b7 United States \u00b7 London \u00b7 San Francisco",
+    "url": "https://hireft.com/jobs/company/clay-labs-2e11d3d5-4cde-421c-a7c0-f551770d158d"
    },
    {
-    "claim": "Primary hubs in the US (NYC and SF) with hybrid expectations indicate a hub-based model.",
-    "quote": "Forward Deployed GTME\n\nLocation\n\nNew York; San Francisco\n\n... Location Type\n\nHybrid",
-    "url": "https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f"
+    "claim": "Clay directly employs staff in both the US and UK with localized payroll, indicating its own legal entities in each.",
+    "quote": "US-based Claymates are paid bi-weekly and UK-based Claymates are paid monthly.",
+    "url": "https://startingatclay.vercel.app/"
    },
    {
-    "claim": "Team members are distributed across multiple regions (indirect evidence they can employ beyond the US/UK).",
-    "quote": "Members of our crew hail from Egypt, India, France, the UK, Kenya, Lebanon, Canada, and beyond.",
-    "url": "https://www.clay.com/careers"
+    "claim": "A US-based Ashby job posting restricts applicants to the United States despite being tagged telecommute.",
+    "quote": "applicantLocationRequirements\":{\"name\":\"United States\"}",
+    "url": "https://jobs.ashbyhq.com/claylabs/c605042d-1bd4-4e0d-aa82-d92a2abecb59"
    },
    {
-    "claim": "They explicitly manage cross\u2011border remote work compliance (suggesting legal/payroll constraints drive scope).",
+    "claim": "Clay is actively building out a cross-border/international employment and mobility function, implying expansion beyond its core hubs but still entity/compliance-driven rather than fully open remote.",
     "quote": "Own compliance for cross-border remote work, business travel, and international employment classification",
     "url": "https://jobs.ashbyhq.com/claylabs/b2bae37f-5f96-4af6-8d8f-f045b44cd3a1"
    }
   ],
   "region_eligibility": {
-   "Africa": "likely",
-   "Asia": "likely",
-   "Canada": "likely",
-   "Europe": "likely",
-   "Latin America": "unknown",
-   "Middle East": "likely",
-   "Oceania": "unknown",
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity",
-  "verification": {
-   "Africa": {
-    "final": "likely",
-    "new_evidence": [
-     {
-      "quote": "USA - Remote \u2026 Location Type: Remote",
-      "url": "https://jobs.ashbyhq.com/claylabs/d42d1520-45f2-4d01-91db-cd28e7235eba/"
-     },
-     {
-      "quote": "Location: London \u2026 Location Type: Remote",
-      "url": "https://jobs.ashbyhq.com/claylabs/9724f8a6-0e59-4488-b3e1-110760d478c3"
-     },
-     {
-      "quote": "Location: New York; San Francisco \u2026 Location Type: Hybrid",
-      "url": "https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f"
-     }
-    ],
-    "original": "likely",
-    "reasoning": "Evidence integrity: All 5 cited pages exist and the quotes fairly reflect them: US remote (\u201cUSA \u2013 Remote\u201d) on an Ashby listing; a UK/EMEA role marked Remote; multiple NYC/SF hybrid hub roles; the careers page line listing Egypt and Kenya among team origins; and a People Ops role owning \u201ccross\u2011border remote work\u201d compliance. ([jobs.ashbyhq.com](https://jobs.ashbyhq.com/claylabs/d42d1520-45f2-4d01-9",
-    "refuted": false,
-    "verified_at": "2026-07-19T13:15:01+00:00"
+  "researched_at": "2026-10-26T08:26:40+00:00",
+  "scope_basis": "mixed"
+ },
+ "ashby:clickhouse": {
+  "company": "clickhouse",
+  "confidence": "medium",
+  "employs_via": "Own entities in 20+ countries, plus appears to use Remote.com (EOR) for some country-locked roles",
+  "evidence": [
+   {
+    "claim": "ClickHouse operates in over 20 countries and is a globally distributed, remote-friendly company",
+    "quote": "ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 20 countries.",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5720573004"
+   },
+   {
+    "claim": "ClickHouse lists roles restricted to specific single countries, implying legal-entity based hiring rather than timezone preference",
+    "quote": "NOTE: this position can be remote anywhere within the Netherlands.",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5720573004"
+   },
+   {
+    "claim": "ClickHouse posts jobs on the Remote.com platform with country-only eligibility tags, suggesting EOR-based employment for some roles",
+    "quote": "United Kingdom (UK) only. Full-time. remote - United States only.",
+    "url": "https://remote.com/jobs/clickhouse-c1whx1ue"
+   },
+   {
+    "claim": "ClickHouse hires remote employees based in Germany, Portugal and France for at least one role",
+    "quote": "Germany, Portugal, France r",
+    "url": "https://wfh.team/job/24234-langfuse-senior-backend-engineer-clickhouse"
+   },
+   {
+    "claim": "ClickHouse's job board includes remote roles explicitly scoped to Australia, Canada, China, Europe, Germany, India, and Israel",
+    "quote": "australia, canada, china, europe, europe or us, germany, india, israel",
+    "url": "https://jobs.ashbyhq.com/clickhouse"
    }
-  }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "likely",
+   "Middle East": "yes",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "worldwide",
+  "researched_at": "2026-10-26T08:26:40+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:cohere": {
   "company": "cohere",
@@ -1749,129 +1750,121 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "unclear"
  },
- "ashby:dyneti": {
-  "company": "dyneti",
-  "confidence": "high",
-  "distribution_summary": "Dyneti Technologies is a small mostly-US team (SF Bay Area, Berkeley, SoCal) with at least one engineer in Gdansk, Poland; no presence found elsewhere.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "few",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
+ "ashby:dust": {
+  "company": "dust",
+  "confidence": "medium",
+  "employs_via": "Appears to employ via own legal entities in France, US (SF/NY), and UK; no evidence of EOR (Deel/Remote/Oyster) usage found.",
   "evidence": [
    {
-    "claim": "Dyneti roles are tied to San Mateo and require hybrid/on\u2011site presence.",
-    "quote": "Location\n\nSan Mateo \u2026 Location Type\n\nHybrid",
-    "url": "https://jobs.ashbyhq.com/dyneti/df400076-5ebc-4098-ae98-5b86e23cfd0c"
+    "claim": "Dust's hiring is concentrated in three physical hubs (Paris, San Francisco, New York) with only a small number of remote postings.",
+    "quote": "Paris 14 New York 7 San Francisco 2 London 1",
+    "url": "https://shortlistjobs.com/companies/c7ec9362-3ec6-4bba-b99d-2e03ddc9e213"
    },
    {
-    "claim": "Multiple Dyneti engineering roles list San Mateo and Hybrid, reinforcing office-based hiring.",
-    "quote": "Location\n\nSan Mateo \u2026 Location Type\n\nHybrid",
-    "url": "https://jobs.ashbyhq.com/dyneti/8db8cdf7-be27-4fcd-a00c-abb69f08a7be"
+    "claim": "Dust posts country-specific remote roles rather than open worldwide remote roles, e.g. a UK-specific partnerships role.",
+    "quote": "Dust is hiring a remote Founding Partnerships Lead (UK)",
+    "url": "https://jobgether.com/offer/6a219b6cf8af0ea2c4054b5b-founding-partnerships-lead-uk"
    },
    {
-    "claim": "Product roles also specify San Mateo and Hybrid, not remote.",
-    "quote": "Location\n\nSan Mateo \u2026 Location Type\n\nHybrid",
-    "url": "https://jobs.ashbyhq.com/dyneti/22c79585-18ac-41aa-b2e2-5f22355f95ac"
+    "claim": "A parallel partnerships role is scoped to North America rather than globally, reinforcing region-locked remote hiring per role.",
+    "quote": "Founding Partnerships Lead in North America at Dust",
+    "url": "https://jobs.ashbyhq.com/dust/96d94b2f-a40f-4b81-ad37-f6cc9ae40d4e/application"
    },
    {
-    "claim": "External listings mirror the hybrid San Mateo requirement.",
-    "quote": "San Mateo, CA \u2026 Hybrid work",
-    "url": "https://www.indeed.com/viewjob?jk=3da56c2fb19ad2d8"
+    "claim": "Most open roles are on-site in Paris or San Francisco/New York, consistent with a hub-based rather than fully remote posture.",
+    "quote": "Paris, \\u00cele-de-France, FR 16 roles San Francisco, California 10 roles Remote: 1 position",
+    "url": "https://scoutify.com/companies/dust/"
    },
    {
-    "claim": "Dyneti\u2019s careers page links out to open positions with no statement about remote or global hiring scope.",
-    "quote": "See Open Positions",
-    "url": "https://dyneti.com/careers"
+    "claim": "US jobs board listings show on-site roles concentrated in San Francisco and New York, with no indication of broader US remote hiring beyond these hubs.",
+    "quote": "5 results in United States",
+    "url": "https://www.glassdoor.com/Jobs/Dust-Jobs-E1940259.htm"
    }
   ],
   "region_eligibility": {
-   "Africa": "no",
-   "Asia": "no",
-   "Canada": "no",
-   "Europe": "no",
-   "Latin America": "no",
-   "Middle East": "no",
-   "Oceania": "no",
-   "UK": "no",
-   "US": "no"
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
   },
-  "remote_posture": "not-remote",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-26T08:26:40+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:dyneti": {
+  "company": "dyneti",
+  "confidence": "low",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Dyneti's Software Engineer posting is marked as telecommute/remote but restricted to applicants located in the United States",
+    "quote": "\"jobLocationType\":\"TELECOMMUTE\",\"applicantLocationRequirements\":{\"name\":\"United States\"}",
+    "url": "https://jobs.ashbyhq.com/dyneti/b7c7a01c-cc55-431c-87cc-6bcf2581ebae/application"
+   },
+   {
+    "claim": "Dyneti is a tiny early-stage startup based in San Mateo/San Francisco with most roles listed as hybrid in that office",
+    "quote": "Dyneti Technologies has 3 employees based in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/dyneti-technologies"
+   },
+   {
+    "claim": "Marketing roles are explicitly hybrid out of San Mateo, not fully remote",
+    "quote": "San Mateo \\u2013 Hybrid",
+    "url": "https://www.remoterocketship.com/us/company/dyneti-technologies-inc/jobs/marketing-associate-san-mateo-hybrid/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-26T08:26:40+00:00",
   "scope_basis": "unclear"
  },
  "ashby:elevenlabs": {
   "company": "elevenlabs",
-  "confidence": "high",
-  "distribution_summary": "ElevenLabs is genuinely distributed: many employees in the US and UK (London), a notable Dubai/UAE GTM cluster, at least one in Nigeria, likely some in Poland (Warsaw roots) and Asia though ccTLD indexing there was inconclusive.",
-  "employee_distribution": {
-   "ae": "many",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "unknown",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "few",
-   "ph": "none",
-   "pl": "unknown",
-   "sa": "none",
-   "sg": "unknown",
-   "uk": "many",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "Deel (EOR, PEO) and contractors",
+  "confidence": "medium",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Remote-first company with global footprint and hubs; team spans 30+ countries.",
-    "quote": "Our diverse team spans 30+ countries with hubs in New York, London, and Warsaw, fostering a rich blend of cultural perspectives and enabling us to serve customers worldwide.",
-    "url": "https://elevenlabs.io/careers"
+    "claim": "Roles explicitly say they can be done remotely from almost anywhere, not just listed hubs",
+    "quote": "This role is remote and can be executed globally.",
+    "url": "https://elevenlabs.io/careers/6a530871-b6c6-4783-ac6b-69cc3b084192/full-stack-engineer"
    },
    {
-    "claim": "They use Deel, including EOR, PEO and contractor offerings, to employ internationally.",
-    "quote": "ElevenLabs expanded its partnership with Deel by adding PEO as a natural extension of its existing EOR, Payroll, and Independent Contractor setup.",
-    "url": "https://www.deel.com/case-studies/elevenlabs/"
+    "claim": "Ashby job board shows wide multi-region location lists including LATAM and Europe",
+    "quote": "United Kingdom; Belgium; Brazil; Bulgaria; Canada; Chile; Colombia; Denmark; Dublin; Europe; France; Germany; Ireland; Italy; London; Mexico; Netherlands; New York; Poland; Portugal; Spain; Sweden; Switzerland; United States",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/?ashby_jid=dc5a78b0-ccdd-47ad-8ac3-722bc9368359"
    },
    {
-    "claim": "Some roles are scoped by timezone/region (not purely worldwide).",
-    "quote": "This role is remote-first, so it can be executed from anywhere in the US or Europe, with the ability to operate in US or European timezones preferred.",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/ae123687-766d-4007-bda8-fa89ecaeac69"
+    "claim": "APAC and Middle East roles exist (Singapore, Japan, Australia, Taiwan, UAE, India)",
+    "quote": "Singapore, Japan, Australia, Taiwan\\u00b7Remote \\u00b7 Worldwide",
+    "url": "https://jobera.com/employer/elevenlabs-2/"
    },
    {
-    "claim": "Active remote hiring across many regions, including North America, Middle East, Oceania, LATAM, Europe, and Asia.",
-    "quote": "Enterprise Solutions Engineer - North America Remote Canada+3 more \u2026 Enterprise Solutions Engineer - Middle East Remote UAE \u2026 Enterprise Solutions Engineer - Oceania Remote Australia+3 more \u2026 Enterprise Solutions Engineer - LATAM Remote Mexico \u2026 B2B Marketing Mandarin Growth Lead Remote Singapore.",
-    "url": "https://elevenlabs.io/careers"
+    "claim": "LATAM-specific roles exist for Commercial Counsel and Adoption Strategist",
+    "quote": "Mexico, Brazil, Argentina\\u00b7Remote \\u00b7 Worldwide",
+    "url": "https://jobera.com/employer/elevenlabs-2/"
    },
    {
-    "claim": "Europe-wide remote eligibility appears on specific roles.",
-    "quote": "This role is remote-first, so it can be executed from anywhere in Europe.",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b/"
+    "claim": "Third-party aggregator summarizes hiring scope as worldwide with role-specific region requirements",
+    "quote": "Hires in: \\ud83c\\udf0e Worldwide",
+    "url": "https://productjobsanywhere.com/companies/elevenlabs/"
    }
   ],
   "region_eligibility": {
-   "Africa": "likely",
+   "Africa": "unknown",
    "Asia": "yes",
    "Canada": "yes",
    "Europe": "yes",
@@ -1881,99 +1874,44 @@
    "UK": "yes",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed",
-  "verification": {
-   "Africa": {
-    "final": "likely",
-    "new_evidence": [
-     {
-      "quote": "Our diverse team spans 30+ countries with hubs in New York, London, and Warsaw.",
-      "url": "https://elevenlabs.io/careers"
-     },
-     {
-      "quote": "ElevenLabs expanded its partnership with Deel by adding PEO as a natural extension of its existing EOR, Payroll, and Independent Contractor setup.",
-      "url": "https://www.deel.com/case-studies/elevenlabs/"
-     },
-     {
-      "quote": "This role is remote-first, so it can be executed from anywhere in the US or Europe, with the ability to operate in US or European timezones preferred.",
-      "url": "https://elevenlabs.io/careers/ae123687-766d-4007-bda8-fa89ecaeac69/b2b-product-marketing-productions-growth?ashby_jid=ae123687-766d-4007-bda8-fa89ecaeac69"
-     }
-    ],
-    "original": "likely",
-    "reasoning": "Verdict after two checks: likely. 1) Refute attempt: ElevenLabs\u2019 open roles are remote-first but commonly scoped by region/time zone (e.g., \u201canywhere in the US or Europe\u201d and \u201canywhere in Europe\u201d), and current role catalogs enumerate many regions (North America, LATAM, APAC, Middle East, Europe) without listing African countries\u2014so Africa isn\u2019t an actively targeted hiring region right now. ([eleve",
-    "refuted": false,
-    "verified_at": "2026-07-19T13:15:01+00:00"
-   }
-  }
+  "remote_posture": "worldwide",
+  "researched_at": "2026-10-26T08:26:40+00:00",
+  "scope_basis": "mixed"
  },
  "ashby:folio": {
   "company": "folio",
-  "confidence": "medium",
-  "distribution_summary": "Folio (folio.co, hospitality procure-to-pay) is a small remote-first US startup; individual employee profiles were not cleanly separable from other Folio-named companies in X-ray searches, but all company signals point to a US-only team.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "unknown",
-   "za": "none"
-  },
+  "confidence": "low",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Remote-first culture",
-    "quote": "We\u2019re a remote-first company \u2014 but we gather together every quarter at one of our hotel partners for a Folio Jam.",
-    "url": "https://folio.co/careers"
-   },
-   {
-    "claim": "Copy implies fully remote with optional hubs",
-    "quote": "Work from anywhere or from any one of our budding hubs in San Francisco, CA, New York, NY, or Durham NC.",
-    "url": "https://folio.co/careers"
-   },
-   {
-    "claim": "Consistent timezone overlap requirement on roles",
-    "quote": "Within 3 hours of EST timezone preferred",
-    "url": "https://folio.co/careers/product-marketing-manager"
-   },
-   {
-    "claim": "US employment explicitly supported (benefits)",
-    "quote": "All full-time team members in the US are also eligible to participate in our 401(k) plan to help you invest in your future.",
-    "url": "https://folio.co/careers/software-engineer-fullstack"
-   },
-   {
-    "claim": "ATS listings show the same EST\u00b13h location scope",
+    "claim": "Folio's Product Marketing Manager role is scoped to remote within 3 hours of EST, with country tagged as United States and region tagged North America.",
     "quote": "Remote (Within 3 hours of EST timezone preferred)",
-    "url": "https://jobs.ashbyhq.com/folio/2882cab9-379b-4cb7-b5d7-d36ab9b941ec"
+    "url": "https://freehire.me/jobs/product-marketing-manager-folio-7ir2upce"
+   },
+   {
+    "claim": "Folio describes itself as remote-first with quarterly in-person gatherings, not naming specific hiring countries.",
+    "quote": "We're a remote-first company. Three times a year, we travel to work together in-person",
+    "url": "https://freehire.me/jobs/product-marketing-manager-folio-7ir2upce"
+   },
+   {
+    "claim": "Another Folio role is listed as US remote with flexibility across US states only.",
+    "quote": "Sales at Folio - United States Remote",
+    "url": "https://www.remoterocketship.com/us/company/folio-co/jobs/sales-united-states-remote/"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unknown",
-   "Europe": "unlikely",
-   "Latin America": "unknown",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "likely",
+   "Europe": "no",
+   "Latin America": "unlikely",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-26T08:26:40+00:00",
   "scope_basis": "timezone-preference"
  },
  "ashby:gamechanger": {
@@ -2041,123 +1979,74 @@
  },
  "ashby:gc-ai": {
   "company": "gc-ai",
-  "confidence": "high",
-  "distribution_summary": "GC AI's team (GC, CTO, legal-ops and GTM hires) shows up only on US LinkedIn profiles; no employees found on any non-US ccTLD.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
+  "confidence": "medium",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Current hiring is limited to the United States and Canada; hybrid if near Bay Area or Provo hubs.",
-    "quote": "We are hiring for this role to be based in the United States or Canada. This is a remote role unless you fall within the following parameters. If you live within approximately 50 miles of our San Mateo, CA or Provo, UT office, the position follows a hybrid schedule with in-office days on Tuesdays, Wednesdays, and Thursdays.",
-    "url": "https://jobs.ashbyhq.com/gc-ai/188c1ef9-7fc8-469e-a3da-08a17e1c7b6a"
+    "claim": "GC AI currently limits hiring to the US and Canada",
+    "quote": "We currently hire across the United States and Canada.",
+    "url": "https://jobs.ashbyhq.com/gc-ai/9c6a672c-0d48-45ea-9050-a2e52edace4f"
    },
    {
-    "claim": "Company describes itself as distributed across North America and explicitly says it currently hires across the U.S. and Canada (not elsewhere), with Europe \u2018soon\u2019.",
-    "quote": "GC AI is a distributed company with team members across North America, and soon Europe. \u2026 We currently hire across the United States and Canada.",
-    "url": "https://jobs.ashbyhq.com/gc-ai/b3194812-90bb-47d7-912c-aa97d6eeb303/"
+    "claim": "Company describes itself as distributed with a hub model, with Europe hiring planned but not yet active",
+    "quote": "GC AI is a distributed company with team members across North America, and soon Europe.",
+    "url": "https://jobs.ashbyhq.com/gc-ai/9c6a672c-0d48-45ea-9050-a2e52edace4f"
    },
    {
-    "claim": "Multiple roles list Remote \u2013 United States and Remote \u2013 Canada as eligible locations.",
-    "quote": "Location\n\nRemote - United States; Remote - Canada",
-    "url": "https://jobs.ashbyhq.com/gc-ai/d036dab4-1dd9-41d3-b551-8d53e2e54284"
+    "claim": "Employees near SF Bay Area and Provo, UT hub offices work in-person on Tue/Wed/Thu, implying hub-based but not purely remote worldwide",
+    "quote": "Team members in the San Francisco Bay Area and Provo, UT (within 50 miles of the office) work together on Tuesdays, Wednesdays, and Thursdays.",
+    "url": "https://jobs.ashbyhq.com/gc-ai/9c6a672c-0d48-45ea-9050-a2e52edace4f"
    },
    {
-    "claim": "Another engineering role offers Remote \u2013 United States; Remote \u2013 Canada in addition to San Mateo, confirming US/Canada remote scope.",
-    "quote": "Location\n\nRemote - United States; Remote - Canada; San Mateo, California",
-    "url": "https://jobs.ashbyhq.com/gc-ai/d17384ec-23de-4d41-b350-10e931c86bbf/"
-   },
-   {
-    "claim": "Some postings also reference Provo, Utah as a hub alongside San Mateo, reinforcing the hub-based hybrid policy if within ~50 miles.",
-    "quote": "San Mateo, California; Provo, Utah; Remote - United States",
-    "url": "https://jobs.ashbyhq.com/gc-ai/68c8b7bb-5490-4073-b871-27ddd72815ff"
+    "claim": "Job board shows roles are heavily remote but tied to US locations (Texas, Utah, 'Remote - United States')",
+    "quote": "north america | texas",
+    "url": "https://jobs.ashbyhq.com/gc-ai/9c6a672c-0d48-45ea-9050-a2e52edace4f"
    }
   ],
   "region_eligibility": {
    "Africa": "no",
    "Asia": "no",
    "Canada": "yes",
-   "Europe": "no",
+   "Europe": "unlikely",
    "Latin America": "no",
    "Middle East": "no",
    "Oceania": "no",
-   "UK": "no",
+   "UK": "unlikely",
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
+  "researched_at": "2026-10-26T08:26:40+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:happyrobot.ai": {
   "company": "happyrobot.ai",
-  "confidence": "medium",
-  "distribution_summary": "Most HappyRobot.ai employees appear to be based in the United States (many), with small teams/hires visible in Germany (Bonn) and Singapore (few); I found multiple US-based employee profiles and company posts plus job listings mentioning Singapore and Bonn. ([linkedin.com](https://www.linkedin.com/in/pablorpalafox?utm_source=openai))",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "few",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "few",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "Deel (immigration support; probable EOR/payroll partner)",
+  "confidence": "high",
+  "employs_via": "PEO/EOR partners (unspecified providers) in US, Spain, UK, EMEA, and LATAM",
   "evidence": [
    {
-    "claim": "They operate globally with 8 offices across the US, Mexico, Spain, UK, and Australia (multi\u2011region footprint).",
-    "quote": "Where we work \u2014 Eight offices, three continents, one team. San Francisco USA \u00b7 Chicago USA \u00b7 New York USA \u00b7 Mexico City Mexico \u00b7 Madrid Spain \u00b7 Barcelona Spain \u00b7 London UK \u00b7 Sydney Australia.",
+    "claim": "Company confirms use of PEO/EOR partners in specific regions for employment",
+    "quote": "manage the day-to-day relationship with our PEO and EOR partners in the US, Spain, UK, EMEA, and LATAM",
+    "url": "https://jobs.ashbyhq.com/happyrobot.ai/d7b5a249-3635-45c2-ad7e-11c5d5c7529a"
+   },
+   {
+    "claim": "Open remote roles based in Latin American countries",
+    "quote": "Enterprise Sales Development Representative (SDR) - Argentina ... Remote",
+    "url": "https://startup.jobs/company/happyrobot-inc"
+   },
+   {
+    "claim": "Remote roles posted for Middle East (Dubai) and Asia (Singapore)",
+    "quote": "Strategic Account Executive Go-to-Market Remote Singapore",
     "url": "https://www.happyrobot.ai/careers"
    },
    {
-    "claim": "They hire remotely across Latin America (e.g., Argentina, Brazil, Mexico).",
-    "quote": "Deployment Strategist \u00b7 Remote Argentina \u2026 Deployment Strategist \u00b7 Remote Brazil \u2026 Enterprise Sales Development Representative (SDR) \u2013 Mexico \u00b7 Remote Mexico.",
+    "claim": "Remote roles across multiple European countries (Spain, France, Italy, Germany)",
+    "quote": "Strategic Account Executive - Italy Go-to-Market Remote Italy",
     "url": "https://www.happyrobot.ai/careers"
    },
    {
-    "claim": "They hire remotely across Europe, including DACH cities and Spain/France.",
-    "quote": "Forward Deployed Engineer \u2013 German Speaking \u00b7 Remote Vienna \u00b7 Remote Munich \u00b7 Remote Bonn \u00b7 Remote Zurich \u2026 Deployment Strategist \u00b7 Remote Spain \u2026 Strategic Account Executive \u2013 French Speaking \u00b7 Remote France.",
-    "url": "https://www.happyrobot.ai/careers"
-   },
-   {
-    "claim": "They hire remotely in Asia (India and Singapore).",
-    "quote": "Deployment Strategist \u2013 Singapore \u00b7 Remote Singapore \u2026 Technical Support Engineer \u00b7 Remote India.",
-    "url": "https://www.happyrobot.ai/careers"
-   },
-   {
-    "claim": "Evidence they use Deel for immigration (implies global employment infrastructure via partner).",
-    "quote": "\u201cThe immigration process can be stressful\u2026 you can count on Deel\u2019s in\u2011house immigration team\u2026 Just ask Happyrobot Co\u2011founder, Pablo Palafox.\u201d",
-    "url": "https://www.linkedin.com/posts/deel_the-immigration-process-can-be-stressful-activity-7215988011476430849-uLKj"
+    "claim": "Hybrid/onsite role based in Sydney, Australia indicating local hiring capability",
+    "quote": "Founding Forward Deployed Engineer Hybrid Sydney, New South Wales, AUS",
+    "url": "https://builtin.com/company/happyrobot/jobs"
    }
   ],
   "region_eligibility": {
@@ -2166,13 +2055,13 @@
    "Canada": "unknown",
    "Europe": "yes",
    "Latin America": "yes",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "likely",
-   "US": "likely"
+   "Middle East": "yes",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-26T08:26:40+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:happyscribe.com": {
@@ -2312,71 +2201,49 @@
   "scope_basis": "mixed"
  },
  "ashby:heidihealth.com.au": {
-  "company": "heidihealth",
+  "company": "heidihealth.com.au",
   "confidence": "medium",
-  "distribution_summary": "Heidi Health\u2019s employees appear concentrated in Canada, the UK, Australia and the US, with a smaller presence in Germany and France and little-to-no presence in the other listed countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "many",
-   "br": "none",
-   "ca": "many",
-   "co": "none",
-   "de": "few",
-   "fr": "few",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "many",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
+  "employs_via": "Not explicitly stated; country-specific postings (e.g., 'Account Executive, Quebec', 'Remote (USA)', 'Ireland', 'South Africa') suggest Heidi Health employs via local entities or country-specific payroll setups rather than a single worldwide EOR, though this is not confirmed on their site.",
   "evidence": [
    {
-    "claim": "US: They advertise fully remote roles based in the United States.",
-    "quote": "Pre-sales Solutions Engineer - US Remote",
-    "url": "https://www.heidihealth.com/careers"
+    "claim": "Heidi Health hires remote employees in the US",
+    "quote": "Remote (USA)",
+    "url": "https://lensa.com/job-v1/heidi-health/remote/software-engineer/2db354964157559f6692dcf88bdcf4aa"
    },
    {
-    "claim": "Canada: Country-wide remote employment is explicitly offered.",
-    "quote": "Fully remote across Canada. We measure output, not hours logged or office attendance",
-    "url": "https://www.heidihealth.com/en-gb/careers/04e94809-4082-4474-856b-b3eb285e635e"
+    "claim": "Heidi Health has country-specific roles in Canada",
+    "quote": "Account Executive, Quebec - Maritime",
+    "url": "https://careervault.io/remote/heidi-health-10925?page=2"
    },
    {
-    "claim": "Europe and UK: Multiple open roles located in both the EU and the UK.",
-    "quote": "Forward Deployed Engineer - IrelandIreland View role \u2192 Forward Deployed Engineer - UKLondon View role \u2192",
-    "url": "https://www.heidihealth.com/careers"
+    "claim": "Heidi Health hires in UK and Ireland with country-tagged remote roles",
+    "quote": "Technical Product Manager - (Clinical Integrations) - UK",
+    "url": "https://careervault.io/remote/heidi-health-10925?page=2"
    },
    {
-    "claim": "Middle East: They post roles specifically for GCC/Middle East (Dubai).",
-    "quote": "Customer Success Manager | GCC EMEA | Middle East | Dubai",
-    "url": "https://www.heidihealth.com/careers"
+    "claim": "Heidi Health hires in South Africa",
+    "quote": "Customer Success Associate ... Cape Town",
+    "url": "https://careervault.io/remote/heidi-health-10925?page=2"
    },
    {
-    "claim": "Africa, Asia, Latin America: Their CX team works with teammates in South Africa, the Philippines and Mexico (showing hires in these regions).",
-    "quote": "You are part of a follow-the-sun team that covers every timezone, working alongside teammates in South Africa, the Philippines and Mexico.",
-    "url": "https://www.heidihealth.com/en-NZ/careers/a97bb7fa-6a9a-405a-91fa-8c5c93c5d46d"
+    "claim": "Heidi Health hires across many countries including Philippines, Singapore, Australia, UK, Canada",
+    "quote": "Giving every clinician an AI resident.",
+    "url": "https://findmyremote.ai/companies/heidihealth"
    }
   ],
   "region_eligibility": {
-   "Africa": "likely",
-   "Asia": "likely",
+   "Africa": "yes",
+   "Asia": "yes",
    "Canada": "yes",
    "Europe": "yes",
-   "Latin America": "likely",
-   "Middle East": "likely",
-   "Oceania": "likely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "yes",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-28T05:43:49+00:00",
+  "researched_at": "2026-10-26T08:26:40+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:hilberts": {

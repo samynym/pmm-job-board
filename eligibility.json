@@ -571,6 +571,28 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:databento:7559249": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "We accommodate 100% remote work, with teammates living around the globe and paid in their local currency.",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"Worldwide"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:engine:7819279003": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - US",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:enterpret:8041929003": {
 "countries": [],
 "eligibility_stated": true,
@@ -1317,6 +1339,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:subsplash:8770628002": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "this role is only available as a 100% remote position if you reside in one of the following states: AL, AR, AZ, CO, FL, GA, ID, IA, IN, KS, KY, MO, MI, MN, NC, NM, OK, OH, OR, SC, SD, TN, TX, UT, VA, WA, WY",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "must have right to work in the U.S."
+},
 "greenhouse:temporaltechnologies:5044184007": {
 "countries": [],
 "eligibility_stated": true,
@@ -1350,6 +1383,17 @@
 "extracted_at": "2026-10-25T08:05:17+00:00",
 "regions": [
 "US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:upbound:6179628004": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: North America - Remote",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"Americas"
 ],
 "timezone": null,
 "work_auth": null
@@ -1477,6 +1521,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://aikidosecurity.recruitee.com/o/cloud-product-marketeer": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://amilia.recruitee.com/o/product-marketing-manager-2026": {
 "countries": [],
 "eligibility_stated": false,
@@ -1567,6 +1620,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: United States\nRemote label: Remote",
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/bask-health-1/j/5496d6602b": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States\nRemote label: Remote",
+"extracted_at": "2026-10-26T08:26:24+00:00",
 "regions": [
 "US"
 ],
@@ -2809,6 +2873,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://itsme.recruitee.com/o/b2b-product-marketing-manager-freelancer": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/1password/06df5109-358e-4e0b-a9d4-9fba67a028af": {
 "countries": [],
 "eligibility_stated": true,
@@ -2986,6 +3059,24 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/assured/7ec6d92b-1685-430f-90d2-b7781b90f203": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/assured/fda04fce-a736-4d44-8c96-923a61c87044": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa": {
 "countries": [
 "United States"
@@ -3008,6 +3099,25 @@
 "extracted_at": "2026-08-06T05:45:14+00:00",
 "regions": [
 "US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/benevity/4c1e8d7e-a487-446f-8635-85d1de2eb30d": {
+"countries": [
+"Canada",
+"Spain",
+"Switzerland",
+"United Kingdom",
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US",
+"Europe",
+"Canada"
 ],
 "timezone": null,
 "work_auth": null
@@ -3119,6 +3229,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/clickhouse/96178d88-9e95-4919-8eca-330b94dd4954": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/cohere/5cf3bd63-cf1d-441a-9db5-2032ca8449b8": {
 "countries": [],
 "eligibility_stated": true,
@@ -3188,6 +3309,18 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/dust/bdeb2829-be19-4824-b109-a249690df06b": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Based in New York... We're prioritizing building our team with an in-person culture at our offices in Paris, London, San Francisco, and New York",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US",
+"Europe"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3456,6 +3589,20 @@
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
 "regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/junipersquare/36bda175-1064-4aeb-9536-500ad206d68b": {
+"countries": [
+"United States",
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Location field: Americas (USA or Canada)",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"Americas"
+],
 "timezone": null,
 "work_auth": null
 },
@@ -3982,6 +4129,33 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/propel/0bc0101a-f096-4f46-a7d7-cf812221ee0f": {
+"countries": [
+"California",
+"Colorado",
+"District of Columbia",
+"Florida",
+"Georgia",
+"Illinois",
+"Maryland",
+"Massachusetts",
+"New Jersey",
+"New York",
+"Oregon",
+"Pennsylvania",
+"Texas",
+"Virginia",
+"Washington"
+],
+"eligibility_stated": true,
+"evidence": "We're currently accepting applications from the states we have an established entity, which includes California, Colorado, District of Columbia, Florida, Georgia, Illinois, Maryland, Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Texas, Virginia, and Washington.",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/ramp/2e07fb9f-fefd-44a4-a6ef-235b4e567432": {
 "countries": [
 "United States",
@@ -4294,6 +4468,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/vanta/be485e4d-d874-41fa-9de8-34102977d34e": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Must be based on London or Dublin, this role will be hybrid in-office. [Title: Product Marketing Lead - EMEA]",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"Europe",
+"Middle East",
+"Africa"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/vantage/435eddc1-e7a2-4097-9f2c-a8f4517df9b4": {
 "countries": [
 "United States"
@@ -4431,6 +4618,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/bigassfans/job/oewlafwf": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/conair/job/o8ozafwp": {
 "countries": [
 "United States"
@@ -4528,6 +4724,15 @@
 "UK",
 "Canada"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/hti/job/ok0bafwf": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -4687,6 +4892,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/usana/job/otqkafwn": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -5039,6 +5253,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/rainfocus/3aaf4676-cec2-4e54-a77e-02075e283ba7": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -5423,11 +5646,38 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:mirantis:744000148987649": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:mirantis:744000148988689": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:miratech1:744000153194751": {
 "countries": [],
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:miratech1:744000153201139": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-26T08:26:24+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -6415,6 +6665,17 @@
 "regions": [
 "UK",
 "Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:volarisgroup.wd3.myworkdayjobs.com:R69093": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote; \"The position is remote.\"",
+"extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null
