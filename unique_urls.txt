@@ -31,6 +31,7 @@ https://apply.workable.com/anza-xyz/j/C171153FD1
 https://apply.workable.com/appgate/j/719C6D1359
 https://apply.workable.com/arcsite/j/09DDC0818C
 https://apply.workable.com/ark-diagnostics-inc/j/C735F91BC0
+https://apply.workable.com/arondite/j/16373AA8A2
 https://apply.workable.com/arpu-telecommunication-services/j/6663F431AF
 https://apply.workable.com/asiaverify/j/70190329BA
 https://apply.workable.com/assist-rx/j/9A4A85ABB4
@@ -82,6 +83,7 @@ https://apply.workable.com/goodhabitz/j/05C84DAF48
 https://apply.workable.com/goodhabitz/j/F6D0E9CD04
 https://apply.workable.com/gotyme-ph-philippines/j/80F9F38D00
 https://apply.workable.com/gotyme-za-south-africa/j/4D7C59BEA9
+https://apply.workable.com/gunnebo-entrance-control/j/D8C8FB073B
 https://apply.workable.com/haiqu-inc/j/3127BE82C9
 https://apply.workable.com/hammer-media/j/39BEBE978E
 https://apply.workable.com/hammer-media/j/91372494D8
@@ -158,6 +160,7 @@ https://apply.workable.com/stay-group/j/72ABA539B2
 https://apply.workable.com/stellar-cyber/j/758022BB94
 https://apply.workable.com/storyteq/j/E3B97F4800
 https://apply.workable.com/suade/j/5B62764A74
+https://apply.workable.com/sumble-inc/j/7E97608C86
 https://apply.workable.com/sumerge-1/j/FD9865D6B6
 https://apply.workable.com/supercritical/j/4AFA13EF3C
 https://apply.workable.com/talentpluto/j/0E38D46307
@@ -220,6 +223,7 @@ https://ats.rippling.com/anaconda/jobs/389f3c6c-eb29-47d9-9ed0-07d3ec603b37
 https://ats.rippling.com/anaconda/jobs/92a3897d-92ec-4acd-868f-4a293926369e
 https://ats.rippling.com/apptega/jobs/1e5356c7-7553-4f5f-87c3-eb89825cf5b1
 https://ats.rippling.com/arcadiacareers/jobs/00861f7e-049a-4179-bcf6-410affeeb05f
+https://ats.rippling.com/asknicely/jobs/3e2301ef-dfb3-4977-b4aa-4c460a9c29d9
 https://ats.rippling.com/athennian/jobs/6e4fe965-28a5-4d96-bcc9-3eabdb4f1b7a
 https://ats.rippling.com/blitzy-jobs/jobs/3e8d74c9-286b-4222-9ad2-d78caada41ec
 https://ats.rippling.com/bonusly/jobs/f51a2d73-6ca1-4a51-a877-bcab5673990b
@@ -230,6 +234,7 @@ https://ats.rippling.com/careers-at-harver/jobs/2d5ee393-59a8-406d-ba6b-01d273d8
 https://ats.rippling.com/community-phone-careers/jobs/b0b1ec9b-6161-483b-99ac-c4c7bc1bd248
 https://ats.rippling.com/databahn/jobs/22b24603-b3ac-45ed-bf65-5abd53b96202
 https://ats.rippling.com/engineeredarts/jobs/26e77e7c-4247-4ee7-858b-ef292eb7183b
+https://ats.rippling.com/everstage/jobs/fed6a655-c192-41b9-aa7d-d8b866e4f132
 https://ats.rippling.com/exacare-inc/jobs/259e2ca0-17bd-462c-838c-7ce0fa6def53
 https://ats.rippling.com/expo/jobs/5895dc62-7c46-402c-be98-48c9da1fbeff
 https://ats.rippling.com/external-job-board/jobs/1e795fe6-2f3a-42ca-8969-cdebc7a98ba9
@@ -243,6 +248,7 @@ https://ats.rippling.com/inquired-careers/jobs/ffa181d4-9a21-40cf-9d6e-5449820f3
 https://ats.rippling.com/inrule/jobs/c9b562b9-03a2-486a-8e3e-552f0a8ddf14
 https://ats.rippling.com/interplaylearning/jobs/0cc08eab-bedf-4e2c-a38d-9ed188e812f6
 https://ats.rippling.com/kai-cyber-inc/jobs/9ae1a0e9-7e12-4fce-b21a-7ea30046ca76
+https://ats.rippling.com/kredete/jobs/551b8e21-ed23-45c3-9d8e-8289b8d73a73
 https://ats.rippling.com/l2l-openings/jobs/1bc4e922-869d-4ae7-acf7-9c6b9494bbfc
 https://ats.rippling.com/lastwall/jobs/717405ca-7bf8-4d02-8e2c-b79e744dc20f
 https://ats.rippling.com/logile/jobs/ac907f9d-fc38-4fbc-8a02-5a2d1b71c10b

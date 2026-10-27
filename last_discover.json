@@ -1,7 +1,14 @@
 {
- "ran_at": "2026-10-26T08:23:02+00:00",
- "new_boards": [],
- "new_urls": 0,
+ "ran_at": "2026-10-27T08:33:56+00:00",
+ "new_boards": [
+  "rippling:asknicely",
+  "rippling:everstage",
+  "rippling:kredete",
+  "workable:arondite",
+  "workable:gunnebo-entrance-control",
+  "workable:sumble-inc"
+ ],
+ "new_urls": 6,
  "errors": 3,
- "dork_offset": 28
+ "dork_offset": 2
 }

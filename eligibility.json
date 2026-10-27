@@ -545,6 +545,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:connectwise:4746178005": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: USA Remote",
+"extracted_at": "2026-10-27T08:37:10+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:cordance:5267844008": {
 "countries": [],
 "eligibility_stated": true,
@@ -780,6 +791,30 @@
 "eligibility_stated": true,
 "evidence": "Location field: United States - Remote",
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:instacart:8214859": {
+"countries": [
+"Canada"
+],
+"eligibility_stated": true,
+"evidence": "Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.",
+"extracted_at": "2026-10-27T08:37:10+00:00",
+"regions": [
+"Canada"
+],
+"timezone": null,
+"work_auth": null
+},
+"greenhouse:instacart:8282600": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States - Remote",
+"extracted_at": "2026-10-27T08:37:10+00:00",
 "regions": [
 "US"
 ],
@@ -2132,6 +2167,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://apply.workable.com/sumble-inc/j/7e97608c86": {
+"countries": [
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United States",
+"extracted_at": "2026-10-27T08:37:10+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://apply.workable.com/talentpluto/j/020f517f01": {
 "countries": [
 "United States"
@@ -2387,6 +2435,26 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-07-17T20:55:38+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/everstage/jobs/16ef4cf6-eff9-41b2-9d03-037054612d20": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-27T08:37:10+00:00",
+"note": "no description available",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://ats.rippling.com/everstage/jobs/fed6a655-c192-41b9-aa7d-d8b866e4f132": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-27T08:37:10+00:00",
 "note": "no description available",
 "regions": [],
 "timezone": null,
@@ -4481,6 +4549,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/vantage/12f4b1a8-c72b-4903-a25b-96caea90a3b7": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "At this time Vantage is only set up to employ in the United States.",
+"extracted_at": "2026-10-27T08:37:10+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/vantage/435eddc1-e7a2-4097-9f2c-a8f4517df9b4": {
 "countries": [
 "United States"
@@ -5209,6 +5288,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-27T08:37:10+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null

@@ -1002,55 +1002,28 @@
  },
  "ashby:audiohook": {
   "company": "audiohook",
-  "confidence": "high",
-  "distribution_summary": "Audiohook\u2019s employees appear to be located primarily in the United States (Ogden/Orem/Austin/Portland/etc.), with no evidence of current-employee LinkedIn profiles in the other country subdomains searched. ([linkedin.com](https://www.linkedin.com/company/getaudiohook?utm_source=openai))",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
+  "confidence": "medium",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Roles list Location: United States with Location Type: Remote, indicating US\u2011only remote hiring.",
-    "quote": "Location United States \u2026 Location Type Remote.",
-    "url": "https://jobs.ashbyhq.com/audiohook/e31b4497-4761-4d79-841d-e96be363b20a"
+    "claim": "Audiohook's job board shows roles scoped to the US only, consistent with the deterministic signal (sample_remote_locations: united states).",
+    "quote": "Audiohook. Data Scientist. Location. United States.",
+    "url": "https://jobs.ashbyhq.com/audiohook/82e4f219-a4d3-45a0-bdc7-c3e97ee04a35/application"
    },
    {
-    "claim": "Product Marketing Manager also specifies United States as the hiring location and Remote as the location type.",
-    "quote": "Location United States \u2026 Location Type Remote.",
-    "url": "https://jobs.ashbyhq.com/audiohook/5d8e16bb-6bc9-4294-9762-37419ad319fa"
+    "claim": "Aggregator listing of all current remote roles at Audiohook shows every one tagged as US-only remote, none international.",
+    "quote": "United States \u2013 Remote USA",
+    "url": "https://www.remoterocketship.com/us/company/audiohook-3/"
    },
    {
-    "claim": "Multiple other Audiohook roles repeat the same US\u2011only remote scope and note a fully remote work environment.",
-    "quote": "Location United States \u2026 What We Offer \u2014 Fully remote work environment.",
-    "url": "https://jobs.ashbyhq.com/audiohook/82e4f219-a4d3-45a0-bdc7-c3e97ee04a35"
+    "claim": "On-site roles are based at the company's physical offices in Utah, reinforcing a US-based operation.",
+    "quote": "Office Coordinator Farmington, UT $25 an hour.",
+    "url": "https://www.indeed.com/cmp/Audiohook/jobs"
    },
    {
-    "claim": "Audiohook\u2019s own careers listings present roles as Remote Work but do not name countries outside the US.",
-    "quote": "Find Your Calling Within Our Team \u2026 Senior Sales Executive \u2014 Remote Work \u2014 Full Time.",
-    "url": "https://www.audiohook.com/careers"
-   },
-   {
-    "claim": "Company is US\u2011based (Ogden, Utah), supporting a US\u2011focused hiring footprint.",
-    "quote": "Headquarters Ogden, Utah.",
-    "url": "https://www.linkedin.com/company/getaudiohook"
+    "claim": "Multiple remote postings across sales, marketing, and product consistently list only the United States as the eligible remote location.",
+    "quote": "\ud83c\uddfa\ud83c\uddf8 United States \u2013 Remote",
+    "url": "https://www.remoterocketship.com/us/company/audiohook-3/"
    }
   ],
   "region_eligibility": {
@@ -1065,7 +1038,7 @@
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-29T05:48:32+00:00",
+  "researched_at": "2026-10-27T08:37:17+00:00",
   "scope_basis": "unclear"
  },
  "ashby:benchling": {
@@ -1113,6 +1086,52 @@
   "remote_posture": "multi-region",
   "researched_at": "2026-10-25T08:06:06+00:00",
   "scope_basis": "legal-entity"
+ },
+ "ashby:benevity": {
+  "company": "benevity",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Benevity has employees across multiple countries including UK, US, Spain, Switzerland",
+    "quote": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!",
+    "url": "https://lensa.com/job-v1/benevity/remote/enterprise-account-executive/9f710ec36d21599abbaa76515cd9dd60"
+   },
+   {
+    "claim": "Live job board lists a UK-based fully remote role",
+    "quote": "uk, remote",
+    "url": "https://builtin.com/company/benevity/jobs"
+   },
+   {
+    "claim": "Benevity maintains offices in Canada, Spain and Switzerland in addition to HQ",
+    "quote": "Barcelona, Catalu\u00f1a, ESP Geneva, Gen\u00e8ve, CHE Toronto, Ontario, CAN",
+    "url": "https://builtin.com/company/benevity"
+   },
+   {
+    "claim": "A remote Enterprise Account Executive role is scoped to North America",
+    "quote": "This role reports to the Regional Director of Sales and is based in North America.",
+    "url": "https://lensa.com/job-v1/benevity/remote/enterprise-account-executive/9f710ec36d21599abbaa76515cd9dd60"
+   },
+   {
+    "claim": "Benevity has reduced office footprint to support more distributed/remote work for existing staff",
+    "quote": "Closing our Victoria, British Columbia office allowed us to support team members who prefer remote work",
+    "url": "https://benevity.com/annual-impact-report/2025"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:bestow": {
   "company": "bestow",
@@ -2316,70 +2335,43 @@
  },
  "ashby:hinge-health": {
   "company": "hinge-health",
-  "confidence": "high",
-  "distribution_summary": "Hinge Health\u2019s LinkedIn-visible employees are concentrated in the United States and India (many), with a smaller presence in Canada (few); other listed countries show no current-employee LinkedIn profiles found.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "many",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
+  "confidence": "medium",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Their careers Locations page lists only three hiring countries: Canada, India, and United States.",
-    "quote": "By Country\n\nCanada | India | United States",
-    "url": "https://careers.hingehealth.com/jobs/locations"
+    "claim": "Hinge Health hires remotely/hybrid in US and Canada with hub offices, and is expanding into several Latin American countries and India",
+    "quote": "We offer remote and hybrid opportunities in the United States and Canada... We are also now expanding these opportunities into Mexico, Colombia, Chile, Brazil, and India.",
+    "url": "https://wellfound.com/company/hinge-health/jobs"
    },
    {
-    "claim": "Many current roles are explicitly limited to Remote US only.",
-    "quote": "## Location\n\nRemote US",
-    "url": "https://jobs.ashbyhq.com/hinge-health/4cd7d0d6-8434-4499-a863-00f87e4b406e?workplaceType=Remote"
+    "claim": "Company has a hub/office in Bengaluru, India with open roles there",
+    "quote": "Bengaluru, Bengaluru Urban, Karnataka, IND.",
+    "url": "https://builtin.com/company/hinge-health/jobs"
    },
    {
-    "claim": "Canada postings are tied to the Montreal HQ and marked Hybrid (not fully remote).",
-    "quote": "## Location\n\nMontreal-HQ\n\n## Location Type\n\nHybrid",
-    "url": "https://jobs.ashbyhq.com/hinge-health/aaef9501-f998-442b-882c-32d0e8023405"
+    "claim": "Company lists a Bengaluru intern/software engineer remote role",
+    "quote": "Hinge Health is hiring a Remote Software Engineer Intern (\ud83d\udcb0~$85k - $110k, Bengaluru).",
+    "url": "https://remoteok.com/remote-jobs/remote-software-engineer-intern-hinge-health-780098"
    },
    {
-    "claim": "India postings are tied to the Bengaluru HQ and state hybrid office attendance requirements.",
-    "quote": "## Hinge Health Hybrid Model\n\n\u2026 Employees in hybrid roles are required to be in the office 3 days/week.",
-    "url": "https://jobs.ashbyhq.com/hinge-health/8390aad0-ade1-4875-92d1-28a7ff4676a1/"
-   },
-   {
-    "claim": "Company disclosures note employees in India, Canada, and the UK (but not active hiring locations beyond CA/IN/US on the careers site).",
-    "quote": "We also have employees based in other countries, including India, Canada, and the UK.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1673743/000162828026025607/hingehealthinc_10kye2025.pdf"
+    "claim": "Job board sample locations include Bengaluru-HQ and Montreal-HQ confirming multi-country hub presence",
+    "quote": "bengaluru-hq, montreal-hq, new york, remote us, san francisco-hq",
+    "url": "https://remoteok.com/hinge-health"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "unlikely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "unknown",
+   "Latin America": "yes",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
    "US": "yes"
   },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-27T08:37:17+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:hostinger": {
@@ -2472,6 +2464,52 @@
     "verified_at": "2026-07-19T13:15:01+00:00"
    }
   }
+ },
+ "ashby:hyperexponential": {
+  "company": "hyperexponential",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Company's own careers page lists all open roles tied to three physical hubs with hybrid work model, not open remote hiring",
+    "quote": "London (hybrid)",
+    "url": "https://www.hyperexponential.com/careers/openings"
+   },
+   {
+    "claim": "Builtin profile confirms hybrid workplace centered on London HQ and a New York office, ~3 days/week on-site",
+    "quote": "Typical time on-site: 3 days a week",
+    "url": "https://builtin.com/company/hyperexponential/offices"
+   },
+   {
+    "claim": "Aggregator listing shows the full location set used across hx job postings, including hub-tied hybrid roles plus country-wide remote for UK and Poland (where hx has entities/offices)",
+    "quote": "London (hybrid), New York (hybrid), Poland (Remote), Remote (UK), Warsaw (hybrid)",
+    "url": "https://www.swiftcruit.ai/companies/hyperexponential-4869"
+   },
+   {
+    "claim": "tryremotely profile shows hx's current hiring is essentially all hybrid, concentrated in one region (UK)",
+    "quote": "Hiring regions United Kingdom",
+    "url": "https://tryremotely.com/company/hyperexponential"
+   },
+   {
+    "claim": "startup.jobs listing confirms the three recurring hub cities across dozens of open roles",
+    "quote": "New York, U.S. \n hyperexponential \n Warsaw, Poland",
+    "url": "https://startup.jobs/company/hyperexponential-com"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unknown",
+   "Europe": "likely",
+   "Latin America": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:ideals": {
   "company": "ideals",
@@ -2677,6 +2715,52 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "timezone-preference"
  },
+ "ashby:junipersquare": {
+  "company": "junipersquare",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Juniper Square operates a digital-first remote model limited to specific named jurisdictions, not worldwide hiring",
+    "quote": "allowing our teams to collaborate effectively across 27 U.S. states, 2 Canadian Provinces, India, Luxembourg, and England",
+    "url": "https://jobs.ashbyhq.com/junipersquare/28b19bb4-500a-4d59-b934-b258c71629ff"
+   },
+   {
+    "claim": "Job postings are explicitly scoped to Americas (USA or Canada) or India as location options",
+    "quote": "Americas (USA or Canada); USA",
+    "url": "https://jobs.ashbyhq.com/junipersquare/28b19bb4-500a-4d59-b934-b258c71629ff"
+   },
+   {
+    "claim": "Company offers both fully remote and in-office arrangements, implying legal/payroll presence drives where remote hires can be located",
+    "quote": "Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices.",
+    "url": "https://www.helpwelp.com/jobs/629982665-remote-customer-support-specialist-at-juniper-square"
+   },
+   {
+    "claim": "Active open roles explicitly list India as a remote location alongside US/Canada",
+    "quote": "INDIA / REMOTE",
+    "url": "https://www.trueup.io/co/juniper-square/jobs"
+   },
+   {
+    "claim": "Third-party aggregator corroborates hiring concentrated in US and Canada with India as a distinct additional hub",
+    "quote": "Juniper Square mainly hires in North America, specifically in the United States and Canada",
+    "url": "https://jobgether.com/remote-jobs/company-junipersquare"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:langchain": {
   "company": "langchain",
   "confidence": "medium",
@@ -2748,69 +2832,42 @@
  "ashby:latent": {
   "company": "latent",
   "confidence": "medium",
-  "distribution_summary": "Public LinkedIn signals show multiple distinct companies named \u201cLatent\u201d; most LinkedIn-listed employees appear in the United States and India, with smaller presence in the UK, Canada, UAE/Saudi/GCC region and Singapore, and little-to-no presence in the other listed countries.",
-  "employee_distribution": {
-   "ae": "few",
-   "au": "none",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "many",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "few",
-   "sg": "few",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "HQ and primary hiring hub in San Francisco.",
-    "quote": "Based in San Francisco",
-    "url": "https://www.joinlatent.com/"
+    "claim": "Company culture is primarily in-office in San Francisco, with remote being a rare exception rather than the norm",
+    "quote": "San Francisco. In the office. Dogs welcome.",
+    "url": "https://www.latenthealth.com/careers"
    },
    {
-    "claim": "Company positions itself around U.S. healthcare market focus.",
-    "quote": "We are building the intelligence infrastructure for American healthcare",
-    "url": "https://latenthealth.com/careers"
+    "claim": "Most open roles are based on-site in San Francisco; only one sales role is listed as remote and scoped to the US",
+    "quote": "Account Executive, Health Systems *PartnershipsRemote, USFull time*",
+    "url": "https://www.latenthealth.com/careers"
    },
    {
-    "claim": "Multiple roles explicitly listed as in-office in San Francisco (on-site).",
-    "quote": "Location\n\nSan Francisco\n\n... Location Type\n\nOn-site",
-    "url": "https://jobs.ashbyhq.com/latent/e8fe169f-312f-4227-972b-f4223f149e5f"
+    "claim": "Job board sample locations confirm remote roles are scoped to US cities or 'remote' without international options",
+    "quote": "san francisco or new york city or remote",
+    "url": "https://jobs.ashbyhq.com/latent"
    },
    {
-    "claim": "Built In page shows HQ in San Francisco and a mix of In\u2011Office and Remote/Hybrid roles (U.S.-based listings).",
-    "quote": "HQ San Francisco, California, USA ... Principal Technical Sourcer \u2014 Remote or Hybrid \u2014 San Francisco, CA, USA ... Recruiting Coordinator \u2014 In\u2011Office \u2014 San Francisco, CA, USA",
-    "url": "https://www.builtinsf.com/company/latent"
-   },
-   {
-    "claim": "Open roles include New York City locations, indicating a second U.S. hub.",
-    "quote": "Role Senior Product Marketing Manager ... Location New York City",
-    "url": "https://latenthealth.com/careers"
+    "claim": "Company serves 60+ US health systems, consistent with a US-centric, healthcare-compliance-driven hiring footprint",
+    "quote": "More than 60 major US health systems use Latent",
+    "url": "https://www.latenthealth.com/careers"
    }
   ],
   "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "unknown",
-   "Europe": "unknown",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unknown",
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "unlikely",
+   "Europe": "no",
+   "Latin America": "unlikely",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-27T08:37:17+00:00",
   "scope_basis": "unclear"
  },
  "ashby:lawhive": {
@@ -3088,49 +3145,22 @@
  "ashby:mem.ai": {
   "company": "mem.ai",
   "confidence": "medium",
-  "distribution_summary": "Most Mem.ai employees appear to be in the United States (company HQ in Los Altos Hills, CA); small numbers show up in Canada, the UK, India and Australia, and none/zero visible on country-specific LinkedIn subdomains for the other listed countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "few",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Both open roles state Remote \u2013 PST Working Hours, indicating remote work with a Pacific Time overlap requirement.",
-    "quote": "Location\n\nRemote \u2013 PST Working Hours",
-    "url": "https://jobs.ashbyhq.com/mem.ai/62bda8e2-4bf3-41e4-9abd-e0be52f37bc5"
+    "claim": "Mem's job listings are scoped to the United States with PST working hours required",
+    "quote": "Remote United States, Remote \u2013 PST Working Hours",
+    "url": "https://portfoliojobs.a16z.com/jobs/mem"
    },
    {
-    "claim": "Founding Product Marketer role explicitly lists Remote \u2013 PST Working Hours.",
-    "quote": "Location\n\nRemote \u2013 PST Working Hours",
-    "url": "https://jobs.ashbyhq.com/mem.ai/c8255936-9d6f-43df-ad01-d66f768931c8"
+    "claim": "Specific engineering role requires PST overlap, indicating timezone-based scoping rather than stated legal-entity restriction",
+    "quote": "Remote, but 9am - 3pm PST overlap with PST hours is required.",
+    "url": "https://mem-labs-inc.breezy.hr/p/333a8dbee3f5-senior-backend-software-engineer"
    },
    {
-    "claim": "Mem\u2019s careers page lists the two open roles referenced on their Ashby board.",
-    "quote": "Open roles\n\nSenior Full-Stack Product Engineer\n\nFounding Product Marketer",
-    "url": "https://get.mem.ai/careers"
-   },
-   {
-    "claim": "Company is US-based, supporting that US hiring is most realistic alongside PST-hours requirement.",
-    "quote": "Headquarters\n\nLos Altos Hills, California",
-    "url": "https://www.linkedin.com/company/memdotai"
+    "claim": "Same PST overlap requirement repeated on another listing, confirming pattern of US/PST-focused remote hiring",
+    "quote": "Remote, but 9am - 3pm PST overlap with PST hours is required.",
+    "url": "https://builtin.com/job/software-engineer-user-experience/2317369"
    }
   ],
   "region_eligibility": {
@@ -3142,10 +3172,10 @@
    "Middle East": "unlikely",
    "Oceania": "unlikely",
    "UK": "unlikely",
-   "US": "likely"
+   "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-27T08:37:17+00:00",
   "scope_basis": "timezone-preference"
  },
  "ashby:mento": {
@@ -3446,206 +3476,130 @@
  "ashby:nash": {
   "company": "nash",
   "confidence": "medium",
-  "distribution_summary": "There are multiple distinct companies named \u201cNash\u201d (UK ingredient supplier, Nash last-mile logistics/platform, Nash pumps, Nash Glass, etc.); please tell me which one (or give a website) and I\u2019ll run the LinkedIn X\u2011ray and return the per-country estimates.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "unknown",
-   "ca": "unknown",
-   "co": "unknown",
-   "de": "unknown",
-   "fr": "unknown",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "unknown",
-   "ng": "unknown",
-   "ph": "unknown",
-   "pl": "unknown",
-   "sa": "unknown",
-   "sg": "unknown",
-   "uk": "unknown",
-   "us": "unknown",
-   "za": "unknown"
-  },
-  "employs_via": "Deel (listed as subprocessor; implies EOR/HR capability)",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Nash describes itself as remote-first and says people can work from anywhere.",
-    "quote": "Remote first \u2014 We hire great people and trust them to work from anywhere.",
-    "url": "https://www.nash.ai/careers"
+    "claim": "Nash has dedicated 'Remote, US' and 'Remote HQ, United States' roles indicating US remote hiring is standard.",
+    "quote": "Remote, US, United States\\u00b7Posted 7 days ago",
+    "url": "https://jobs.a16z.com/jobs/nash?variations=andreessen-redesign"
    },
    {
-    "claim": "They explicitly hire fully-remote in the United States.",
-    "quote": "Location\n\nRemote, US",
-    "url": "https://jobs.ashbyhq.com/Nash/9c68397b-db2e-401f-885a-894b7d113abb/"
+    "claim": "Nash hires a UK-based remote Technical Support Specialist, confirming UK eligibility.",
+    "quote": "Technical Support Specialist , UK",
+    "url": "https://jobs.a16z.com/jobs/nash?variations=andreessen-redesign"
    },
    {
-    "claim": "They explicitly hire fully-remote in the United Kingdom and require UK location for compliance reasons.",
-    "quote": "LOCATION\nRemote in UK (required)\n...\nThis is a remote role, but candidates must be located in the UK. This is a hard requirement driven by contractual data access obligations with our enterprise customers, not a preference - we are not able to make exceptions.",
-    "url": "https://jobs.ashbyhq.com/nash/63b467e3-f143-42f0-aa12-e0ede02e59cf"
+    "claim": "Nash lists an Enterprise Account Executive role scoped to UK/EU with Europe as an accepted location, suggesting some European hiring ability for sales roles.",
+    "quote": "Enterprise Account Executive (UK/EU)",
+    "url": "https://jobs.a16z.com/jobs/nash?variations=andreessen-redesign"
    },
    {
-    "claim": "They explicitly hire fully-remote in Australia.",
-    "quote": "LOCATION\nRemote in Australia (required)",
-    "url": "https://au.linkedin.com/jobs/view/technical-support-specialist-au-at-nash-4430746124"
+    "claim": "Nash's Saudi Arabia GCC launcher role is on-site (office-based), reflecting a market-entry hub rather than remote hiring, though it shows legal/operational presence in Saudi Arabia.",
+    "quote": "Work arrangement\\nOn-site",
+    "url": "https://jobs.a16z.com/jobs/nash/f4733a1b-46cc-402f-a659-43d7d5f18a08--launcher-gtm-lead-gcc"
    },
    {
-    "claim": "Nash lists Deel as a subprocessor for office operations across many countries, indicating use of Deel\u2019s HR/EOR services.",
-    "quote": "Deel \u2014 Office operations \u2014 USA, UK, EU, Brazil, Canada, Australia, Ghana, Nigeria, Pakistan, Philippines",
-    "url": "https://www.nash.ai/legal/subprocessors"
+    "claim": "Nash has roles located in Sydney/Melbourne, Australia (hybrid/on-site technical support and forward-deployed engineer roles), showing an established Australia hub.",
+    "quote": "Forward Deployed Engineer Sydney or Melbourne (Hybrid)",
+    "url": "https://wellfound.com/company/nash-11/jobs"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
    "Canada": "unknown",
-   "Europe": "unknown",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
+   "Europe": "likely",
+   "Latin America": "unlikely",
+   "Middle East": "likely",
    "Oceania": "yes",
    "UK": "yes",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:nylas": {
   "company": "nylas",
-  "confidence": "medium",
-  "distribution_summary": "Most Nylas employees appear to be located in the United States (LinkedIn company and multiple employee profiles). ([linkedin.com](https://www.linkedin.com/company/nylas?utm_source=openai))",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "own entities in selected US states and Canadian provinces (job posts say they can only hire where Nylas is registered); no EOR mentioned",
+  "confidence": "high",
+  "employs_via": "Own legal entities (hires directly as a registered employer in specific US states and Canadian provinces; no EOR mentioned)",
   "evidence": [
    {
-    "claim": "Nylas describes itself as remote-first (flexibility about working location).",
-    "quote": "We are a remote-first company and encourage Nylanauts to choose the working environment that fosters creativity and unlocks their full potential.",
-    "url": "https://www.nylas.com/company/jobs/"
-   },
-   {
-    "claim": "Active US-remote roles list United States locations (e.g., Bay Area, Denver, New York).",
-    "quote": "Location \u2014 Remote - USA; Remote - Bay Area; Remote - Denver; Remote - New York",
-    "url": "https://jobs.ashbyhq.com/nylas/ebcf30ab-c9d1-4d77-a621-20a89009109b"
-   },
-   {
-    "claim": "Active Canada-remote roles list Canadian locations (e.g., Toronto, Vancouver) and \u2018Remote - Canada\u2019.",
-    "quote": "Location \u2014 Remote - Canada; Remote - Toronto, Ontario; Remote - Vancouver, British Columbia",
-    "url": "https://jobs.ashbyhq.com/nylas/2acb49b8-4e50-4829-830f-dfe773726d57"
-   },
-   {
-    "claim": "Job posts state they can only employ in jurisdictions where Nylas is registered (states/provinces), indicating legal-entity constraints rather than worldwide hiring.",
+    "claim": "Nylas limits remote eligibility to jurisdictions where it is a registered employer, which are only US states and Canadian provinces",
     "quote": "Nylas is registered as an employer in many, but not all, states/provinces. If you are not located in or able to work from a state/province where Nylas is registered, you will not be eligible for employment.",
     "url": "https://jobs.ashbyhq.com/nylas/ebcf30ab-c9d1-4d77-a621-20a89009109b"
    },
    {
-    "claim": "Additional postings repeatedly show North America-only locations/comp bands (US + Canada).",
-    "quote": "Location \u2014 Remote - Toronto, Ontario; Remote - Denver; Remote - Vancouver, British Columbia \u2026 Compensation \u2014 Canada CA$75K \u2013 CA$100K; USA Tier 2 $80K \u2013 $100K",
-    "url": "https://jobs.ashbyhq.com/nylas/923dc7b3-ac6b-43a6-8911-07637a937b3c"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "yes",
-   "Europe": "unlikely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
-   "US": "yes"
-  },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
- },
- "ashby:omnea": {
-  "company": "omnea",
-  "confidence": "high",
-  "distribution_summary": "Profiles show at least three distinct firms named \u201cOmnea\u201d with concentrated employee presence in the UK and US (the London + New York Omnea) and a separate Omnea Pty Ltd in South Africa, with few or no indexed LinkedIn profiles in the other listed countries. ([linkedin.com](https://www.linkedin.com/company/omnea?utm_source=openai))",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "many",
-   "us": "many",
-   "za": "many"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Omnea prioritizes in-person collaboration three days a week in London and New York (office-first hybrid).",
-    "quote": "We prioritise in-person collaboration (three days a week in London and New York)",
-    "url": "https://www.omnea.co/careers"
+    "claim": "Job board sample remote locations confirm US and Canada only",
+    "quote": "remote - canada, remote - toronto, ontario, remote - usa",
+    "url": "https://jobs.ashbyhq.com/nylas"
    },
    {
-    "claim": "Open roles are scoped only to London and New York, indicating hiring tied to those hubs.",
-    "quote": "Location All Locations London New York",
-    "url": "https://www.omnea.co/careers"
-   },
-   {
-    "claim": "Company describes itself as office-first with London HQ and a growing New York team.",
-    "quote": "Omnea is headquartered in London, with a growing team in New York. We take an office-first approach",
-    "url": "https://omnea.notion.site/Our-Offices-2f688cce658780b8a6f7efda24c2e783?pvs=21"
-   },
-   {
-    "claim": "FAQ reiterates office-first hybrid model and limits Work From Anywhere to occasional use (not permanent remote).",
-    "quote": "Omnea operates an office-first hybrid model.",
-    "url": "https://omnea.notion.site/General-FAQs-32688cce658780a08deece8670e5b96b?pvs=21"
-   },
-   {
-    "claim": "Engineering/Product teams are London-based and in office Tue\u2013Thu, underscoring hub-based expectations.",
-    "quote": "All our engineering and product teams are based in London. We're in the office Tuesday to Thursday",
-    "url": "https://www.omnea.co/resource/how-we-hire-engineers"
+    "claim": "Third-party aggregator lists Nylas hiring region as North America only",
+    "quote": "Hiring regions \ud83c\udf0f North America",
+    "url": "https://empllo.com/company/nylas"
    }
   ],
   "region_eligibility": {
    "Africa": "no",
    "Asia": "no",
-   "Canada": "no",
+   "Canada": "yes",
    "Europe": "no",
    "Latin America": "no",
    "Middle East": "no",
    "Oceania": "no",
    "UK": "no",
-   "US": "no"
+   "US": "yes"
   },
-  "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "unclear"
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:omnea": {
+  "company": "omnea",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Omnea hires remotely in New York and London, its core hubs",
+    "quote": "Omnea is hiring in New York and London.",
+    "url": "https://www.omnea.co/careers/engineering"
+   },
+   {
+    "claim": "Omnea posts country-specific remote GTM roles, e.g. Israel",
+    "quote": "GM / VP Sales, Israel\n\nRemote \u2022 Tel Aviv",
+    "url": "https://wellfound.com/company/omnea-1"
+   },
+   {
+    "claim": "Omnea hires remote GTM staff for the DACH region out of Germany",
+    "quote": "GM / VP Sales, DACH\n\nRemote \u2022 Germany",
+    "url": "https://wellfound.com/company/omnea-1"
+   },
+   {
+    "claim": "Omnea hires a Canada-based remote GM/VP Sales role open to anywhere in Canada",
+    "quote": "GM / VP Sales, Canada\n\nRemote only \u2022 Everywhere",
+    "url": "https://wellfound.com/company/omnea-1"
+   },
+   {
+    "claim": "Omnea has a Singapore-based remote enterprise AE role",
+    "quote": "Founding Enterprise Account Executive, Singapore\n\nRemote \u2022 Singapore",
+    "url": "https://wellfound.com/company/omnea-1"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "yes",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-27T08:37:17+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:omni": {
   "company": "omni",
