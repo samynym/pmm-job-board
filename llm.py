@@ -9,7 +9,7 @@ outputs / Anthropic output_config.format), so callers just json-parse the
 returned text. Raw urllib like the rest of this pipeline — no SDKs.
 """
 
-import json, os, time
+import json, os, sys, time
 import urllib.error, urllib.request
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36"
@@ -95,7 +95,12 @@ def _anthropic_call(model, system, user, schema, web_search=False, effort=None,
     body = {
         "model": model,
         "max_tokens": 16000,
-        "system": system,
+        # Cache the shared prefix (tools + system). Each script sends the same
+        # system prompt for every row, so later rows read it at ~0.1x price.
+        # With caching on, the server also caches web-search results between
+        # its own search steps inside one request.
+        "system": [{"type": "text", "text": system,
+                    "cache_control": {"type": "ephemeral"}}],
         "messages": [{"role": "user", "content": user}],
         "output_config": {"format": {"type": "json_schema", "schema": schema}},
     }
@@ -116,6 +121,10 @@ def _anthropic_call(model, system, user, schema, web_search=False, effort=None,
         body["messages"] = [{"role": "user", "content": user},
                             {"role": "assistant", "content": resp['content']}]
         resp = _post("https://api.anthropic.com/v1/messages", body, headers)
+    u = resp.get('usage') or {}
+    print(f"[llm] {model} in={u.get('input_tokens')} "
+          f"cache_write={u.get('cache_creation_input_tokens')} "
+          f"cache_read={u.get('cache_read_input_tokens')}", file=sys.stderr)
     if resp.get('stop_reason') == 'refusal':
         raise RuntimeError('refusal')
     for b in resp.get('content', []):
