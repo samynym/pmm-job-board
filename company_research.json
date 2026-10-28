@@ -67,6 +67,52 @@
   "researched_at": "2026-08-14T04:47:16+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:9fin": {
+  "company": "9fin",
+  "confidence": "medium",
+  "employs_via": "Own legal entities tied to office hubs (London HQ, New York, Belfast); no EOR evidence found",
+  "evidence": [
+   {
+    "claim": "9fin operates from three hub offices and remote roles are tied to those hub countries (UK, US)",
+    "quote": "9fin operates from three offices: the London HQ at 100 Bishopsgate... a New York office... and Belfast",
+    "url": "https://4dayweek.io/company/9fin"
+   },
+   {
+    "claim": "Remote roles are explicitly scoped to Belfast, Northern Ireland (UK entity), not open worldwide",
+    "quote": "9fin is hiring for a Remote Data Operations Associate in Belfast, County Antrim, Northern Ireland, GBR.",
+    "url": "https://builtin.com/job/data-operations-associate/3488003"
+   },
+   {
+    "claim": "Core working hours are defined only for UK/Remote and US/Remote employees, confirming hiring is scoped to those two countries",
+    "quote": "Core Hours are 10am to 3pm (UK/Remote: BST/GMT, or US/Remote: Eastern Time)",
+    "url": "https://flexa.careers/companies/9fin"
+   },
+   {
+    "claim": "Job board shows a London-majority, hub-based footprint with only UK and US remote locations sampled",
+    "quote": "top_location: london; sample_remote_locations: belfast, new york",
+    "url": "https://jobs.ashbyhq.com/9fin"
+   },
+   {
+    "claim": "Benefits describe hybrid flexibility rather than unrestricted worldwide remote hiring",
+    "quote": "Hybrid working model, to allow you the flexibility to decide how, where and when you do your best work",
+    "url": "https://jobs.ashbyhq.com/9fin/2ea78c9f-0159-49f4-ad8a-c80b8a47592b"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "legal-entity"
+ },
  "ashby:Blee": {
   "company": "Blee",
   "confidence": "medium",
@@ -3740,201 +3786,140 @@
  "ashby:openai": {
   "company": "openai",
   "confidence": "medium",
-  "distribution_summary": "Overwhelmingly US-based (SF HQ, many www profiles), with scattered ccTLD hits in Singapore, UAE, Kenya and South Africa; European/Asian office countries (UK, JP) likely staffed but the X-ray queries were polluted and couldn't confirm them.",
-  "employee_distribution": {
-   "ae": "few",
-   "au": "unknown",
-   "br": "unknown",
-   "ca": "unknown",
-   "co": "unknown",
-   "de": "unknown",
-   "fr": "unknown",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "few",
-   "mx": "unknown",
-   "ng": "none",
-   "ph": "unknown",
-   "pl": "unknown",
-   "sa": "none",
-   "sg": "few",
-   "uk": "unknown",
-   "us": "many",
-   "za": "few"
-  },
-  "employs_via": "own entities",
+  "employs_via": "own entities (hires in countries/offices where it has legal presence; no EOR mentioned)",
   "evidence": [
    {
-    "claim": "US-based remote hiring is explicitly supported for multiple roles.",
-    "quote": "Security - Remote - US, New York City, Seattle, and San Francisco",
-    "url": "https://openai.com/careers/software-engineer-infrastructure-security-remote-us/"
+    "claim": "OpenAI hires in countries/regions where it has an office or legal presence, not a worldwide remote policy",
+    "quote": "it hires in countries and regions where it has a legal presence or an office",
+    "url": "https://wfa.team/blog/openai-work-from-anywhere-policy-2025/"
    },
    {
-    "claim": "Asia remote hiring is explicitly supported in India.",
-    "quote": "AI Success - Delhi, India and India - Remote",
-    "url": "https://openai.com/careers/ai-success-engineer-delhi-india/"
+    "claim": "Roles outside the US are tied to specific office hubs like London, Dublin, Munich, Tokyo, Delhi, Singapore",
+    "quote": "roles are typically tied to offices in London, Dublin, Munich, Tokyo, Delhi, or Singapore",
+    "url": "https://wfa.team/blog/openai-work-from-anywhere-policy-2025/"
    },
    {
-    "claim": "UK roles commonly require on-site/hybrid presence and are not remote.",
-    "quote": "This role is based in our London office, and we aren\u2019t considering applications to work remotely at this time.",
-    "url": "https://openai.com/careers/researcher-training-london-london-uk/"
+    "claim": "Most roles are hybrid/office-first with very few fully remote postings, mostly US-only",
+    "quote": "just 28 of 681 roles (4%) are remote",
+    "url": "https://jobsbyculture.com/blog/openai-remote-work-policy-2026"
    },
    {
-    "claim": "Continental Europe roles (e.g., Germany) are office-based/hybrid rather than remote.",
-    "quote": "This role is based in Munich. We use a hybrid work model of 3 days in the office per week.",
-    "url": "https://openai.com/careers/forward-deployed-engineer-munich-munich-germany/"
+    "claim": "Himalayas lists several country-restricted roles (United States only, Spain only, Singapore only, France only, Japan only)",
+    "quote": "us United States only",
+    "url": "https://himalayas.app/companies/openai/jobs"
    },
    {
-    "claim": "OpenAI hires via its own legal entities (example: Ireland).",
-    "quote": "This is a position with OpenAI Ireland Ltd., which controls the hiring and management of this position.",
-    "url": "https://openai.com/careers/software-engineer-privacy-dublin-ireland/"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "yes",
-   "Canada": "unknown",
-   "Europe": "unlikely",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unlikely",
-   "US": "yes"
-  },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
- },
- "ashby:openrouter": {
-  "company": "openrouter",
-  "confidence": "high",
-  "distribution_summary": "Small US-centric team: only www.linkedin.com profiles surfaced (CEO Alex Atallah plus a couple of staff), with zero hits on any country ccTLD.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "few",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Company describes itself as remote-first but explicitly limits work location to within the United States.",
-    "quote": "Remote First \u2014 Flexibility to work from anywhere in the US",
-    "url": "https://openrouter.ai/careers"
-   },
-   {
-    "claim": "Multiple current roles specify Remote (US), indicating hiring is limited to U.S.-based candidates.",
-    "quote": "Research Scientist \u2014 Remote (US)",
-    "url": "https://jobs.ashbyhq.com/openrouter/8daf0f29-2e78-4ab1-8230-52e3988fe42c"
-   },
-   {
-    "claim": "Multiple current roles specify Remote (US), indicating hiring is limited to U.S.-based candidates.",
-    "quote": "Technical Recruiter \u2014 Remote (US)",
-    "url": "https://jobs.ashbyhq.com/openrouter/973955a0-c0d1-4bb4-9252-9ab3943a29c0"
-   },
-   {
-    "claim": "Sample role provided by user also shows the same U.S.-only remote scope.",
-    "quote": "Developer Product Marketing Lead \u2014 Remote (US)",
-    "url": "https://jobs.ashbyhq.com/openrouter/3db2aabd-e379-4ee8-b479-30e5159c9fa4"
+    "claim": "India postings are tied to Delhi/Mumbai/Bangalore offices with some India-remote tags",
+    "quote": "India gets ten postings: four in Delhi, three in Mumbai, two Bangalore remote and one India remote",
+    "url": "https://getaiwork.com/articles/openai-careers/"
    }
   ],
   "region_eligibility": {
    "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "unlikely",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
    "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
+   "Middle East": "yes",
+   "Oceania": "yes",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:openrouter": {
+  "company": "openrouter",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "The vast majority of open roles are scoped 'Remote (US)', and the company's stated remote perk is limited to the US.",
+    "quote": "Flexibility to work from anywhere in the US",
+    "url": "https://openrouter.ai/careers"
+   },
+   {
+    "claim": "Nearly every engineering, GTM, and marketing role lists 'Remote (US)' as the location, e.g. the Product Marketing Manager, Enterprise role.",
+    "quote": "Product Marketing Manager, Enterprise Remote (US)",
+    "url": "https://openrouter.ai/careers"
+   },
+   {
+    "claim": "OpenRouter has begun hiring one regional role scoped to APAC, framed around timezone/business-hours coverage rather than a broad country list.",
+    "quote": "Assist customers with technical issues during APAC business hours",
+    "url": "https://jobs.ashbyhq.com/openrouter/64fe7bcc-39e7-454b-bb13-020d5676b162"
+   },
+   {
+    "claim": "The APAC role explicitly expects overlap with US-based colleagues, indicating a timezone-driven scope rather than a named legal-entity list.",
+    "quote": "maintaining flexible overlap with US colleagues for planned training, team meetings",
+    "url": "https://jobs.ashbyhq.com/openrouter/64fe7bcc-39e7-454b-bb13-020d5676b162"
+   },
+   {
+    "claim": "Some roles are onsite/hybrid in specific hub cities (SF, NYC), not remote at all, confirming a hub-plus-US-remote model rather than worldwide remote.",
+    "quote": "Customer Success ManagerSan Francisco Bay Area, California",
+    "url": "https://openrouter.ai/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
    "UK": "unlikely",
    "US": "yes"
   },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "mixed"
  },
  "ashby:orbital": {
   "company": "orbital",
   "confidence": "medium",
-  "distribution_summary": "London-based real-estate legal AI company (Orbital/orbital.tech): staff cluster in the UK (CEO and multiple employees), with a small nascent US presence from its Series-B US expansion.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "many",
-   "us": "few",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Orbital concentrates hiring in the US and UK and allows flexibility to work from office or home in those locations.",
-    "quote": "As we continue to scale rapidly, we\u2019re actively hiring in New York and London. \u2026 Flexible work options: from our London or New York offices, or home",
-    "url": "https://www.orbital.tech/careers"
+    "claim": "Orbital has a hub in New York with hybrid roles tied to that office",
+    "quote": "Office Lead & EA to CEO -US",
+    "url": "https://builtin.com/job/office-lead-ea-ceo-us/9583449"
    },
    {
-    "claim": "Company has offices (hubs) in New York and London.",
-    "quote": "Offices in New York and London",
-    "url": "https://www.orbital.tech/about"
+    "claim": "A legal/attorney role is restricted to a specific list of US states, implying employment is scoped by where Orbital has legal/payroll capability (bar admission + entity constraints), not open to any US state or worldwide",
+    "quote": "From: Delaware (USA), Maryland (USA), New Jersey (USA), New York (USA)",
+    "url": "https://jobgether.com/offer/6995db6bda7696de2f563bb0-real-estate-lawyer-for-ai-startup-legal-solutions-architect-residential-conveyancing"
    },
    {
-    "claim": "They state they will hire remote roles across the US (supports US remote eligibility).",
-    "quote": "You'll also provide operational oversight of our secondary LA office, and as we hire remote roles across the US, you'll help build the foundations to ensure everyone, in-office or remote, is set up for success",
-    "url": "https://jobs.ashbyhq.com/orbital/f0c5b9d6-b6d9-4559-acf6-c7e4458436dc"
+    "claim": "Orbital has a UK hub and hires remote/full-time staff based in London, not just the US",
+    "quote": "Full-timeLondon, United Kingdom",
+    "url": "https://www.remoteanywherejob.com/en/job/product-marketing-manager-launches-and-adoption-58857"
    },
    {
-    "claim": "Example of a US role marked Remote (supports that some US roles are fully remote).",
-    "quote": "Work Arrangement : Remote",
-    "url": "https://jobs.ashbyhq.com/orbital/edc5d710-cb21-47bc-8094-d34a7e88247f"
+    "claim": "Orbital posts roles explicitly tied to a named hub city (New York) for GTM functions",
+    "quote": "GTM Talent Acquisition Manager - New York @ Orbital",
+    "url": "https://jobs.ashbyhq.com/orbital/abad7a2e-8daa-41bd-89a4-85efe59c7c17"
    },
    {
-    "claim": "Example of a UK-specific role marked Remote (supports UK remote eligibility).",
-    "quote": "Location Type\n\nRemote",
-    "url": "https://jobs.ashbyhq.com/orbital/dc8e1f87-da46-417d-bffd-b025289ae234"
+    "claim": "Company serves UK (Magic Circle) and US (Am Law 100) law firm clients, consistent with its two-country hub structure (London/New York/LA)",
+    "quote": "UK Magic Circle and US Am Law 100 firms, to household names like M&S",
+    "url": "https://www.remoteanywherejob.com/en/job/product-marketing-manager-launches-and-adoption-58857"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
    "Canada": "unknown",
-   "Europe": "unknown",
+   "Europe": "unlikely",
    "Latin America": "unknown",
    "Middle East": "unknown",
    "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "unclear"
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "legal-entity"
  },
  "ashby:overflow": {
   "company": "overflow",
@@ -4206,69 +4191,47 @@
  "ashby:perplexity": {
   "company": "perplexity",
   "confidence": "medium",
-  "distribution_summary": "Perplexity is overwhelmingly US-based (SF Bay Area leadership and staff dominate results), with isolated employees in London, India, and Australia.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "few",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Perplexity allows remote employment in the United States for multiple roles.",
-    "quote": "Location \u2014 San Francisco; London; New York City; Remote (United States); Serbia.",
-    "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3"
+    "claim": "Perplexity's remote hiring areas are concentrated in specific countries tied to its hub offices, not worldwide",
+    "quote": "Remote hiring areas: Germany, Ireland, Serbia, United Kingdom",
+    "url": "https://wfh.team/companies/perplexity"
    },
    {
-    "claim": "US-remote flexibility appears across non-engineering roles as well.",
-    "quote": "Location \u2014 San Francisco; New York City; Remote (United States).",
-    "url": "https://jobs.ashbyhq.com/perplexity/3d277236-2cf3-4a59-b435-71540cc05712"
+    "claim": "A remote US-based support role exists, confirming US remote eligibility",
+    "quote": "Consumer Support Specialist United States",
+    "url": "https://wfh.team/companies/perplexity"
    },
    {
-    "claim": "They are building out a London hub/office rather than advertising Europe-wide remote.",
-    "quote": "Establish and lead Perplexity's London office, setting the cultural foundation and operating principles.",
-    "url": "https://jobs.ashbyhq.com/perplexity/1545ffba-b0c9-4b4f-b493-795388e5d69b"
+    "claim": "An APAC-scoped remote role suggests some Asia/Oceania remote hiring capability",
+    "quote": "Customer Success Engineer (APAC, Remote)",
+    "url": "https://startup.jobs/company/perplexity-ai-2"
    },
    {
-    "claim": "Many Europe-listed roles are tied to specific hubs and marked hybrid, not remote.",
-    "quote": "Location \u2014 London; Belgrade; Berlin; San Francisco \u2014 Location Type \u2014 Hybrid.",
-    "url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc/"
+    "claim": "Open roles cluster around specific hub cities (SF, London, Belgrade, Berlin) rather than being open to any location",
+    "quote": "San Francisco (14) Belgrade (3) London (3) Berlin (2)",
+    "url": "https://scoutify.com/companies/perplexity/"
    },
    {
-    "claim": "APAC roles show a Tokyo hub with hybrid on-site expectations, not region-wide remote.",
-    "quote": "Location \u2014 Tokyo \u2014 Location Type \u2014 Hybrid.",
-    "url": "https://jobs.ashbyhq.com/Perplexity/ab448b33-0a0e-4acf-8b86-df61f38716ac/"
+    "claim": "Job postings list 'Remote' paired with specific hub countries rather than a broad worldwide remote tag",
+    "quote": "Search Core, Indexing & Data Pipeline Stream \u2014 Belgrade; London; Remote; Berlin",
+    "url": "https://agihunt.info/en/jobs/perplexity"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "unlikely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-28T09:16:22+00:00",
   "scope_basis": "unclear"
  },
  "ashby:plain": {
@@ -4342,69 +4305,42 @@
  "ashby:planera": {
   "company": "planera",
   "confidence": "medium",
-  "distribution_summary": "All identifiable Planera (construction CPM scheduling) employees are in the US (Bay Area/Pleasanton, LA), with no clear current-employee profiles surfacing on any country ccTLD including India.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "unknown",
-   "de": "none",
-   "fr": "none",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "unknown",
-   "sa": "unknown",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Planera hires remotely in the US and Canada for Sr Product Marketing Manager.",
-    "quote": "Location: Remote (US or Canada)",
-    "url": "https://jobs.ashbyhq.com/planera/5e4c93db-3d84-4cf8-a914-8574499927e8"
+    "claim": "Staff Product Designer role is remote but restricted to USA and Canada applicants",
+    "quote": "applicantLocationRequirements\":[{\"name\":\"USA\"},{\"name\":\"Canada\"}]",
+    "url": "https://jobs.ashbyhq.com/planera/5e21829d-0bc6-4f44-b388-2470a65b4db0"
    },
    {
-    "claim": "Another product role explicitly lists United States; Canada and Remote.",
-    "quote": "United States; Canada \u2026 Remote",
-    "url": "https://jobs.ashbyhq.com/planera/8474e734-5e67-41b5-b4b4-e84a7cf970a4/"
+    "claim": "Regional Sales Director East role restricted to USA applicants",
+    "quote": "applicantLocationRequirements\":{\"name\":\"USA\"}",
+    "url": "https://jobs.ashbyhq.com/planera/c83d470d-7839-492e-b809-3cd13d375b5c"
    },
    {
-    "claim": "Some roles are remote but restricted to the United States only (e.g., Technical Solutions Engineer - West).",
-    "quote": "Location\nUnited States\n\u2026\nLocation Type\nRemote",
-    "url": "https://jobs.ashbyhq.com/planera/87cfc675-42be-4669-92b4-2e0b419fe3ca"
+    "claim": "Technical Customer Success Manager role explicitly US-based remote",
+    "quote": "\ud83c\udf0d Remote (US-based) | \u2708\ufe0f Up to 30% travel",
+    "url": "https://jobs.ashbyhq.com/planera/af9ca31f-60bc-410b-9209-ae67a94dc0e6"
    },
    {
-    "claim": "External posting describes Planera as remote-first across the US and Canada, reinforcing the US/Canada scope.",
-    "quote": "We are SOC 2 Type 2 certified and remote-first across the US and Canada.",
-    "url": "https://remotive.com/remote/jobs/product/sr-product-marketing-manager-5149796"
-   },
-   {
-    "claim": "Aggregator listing for the Technical Solutions Engineer (West) shows US-only eligibility.",
-    "quote": "United States only",
-    "url": "https://himalayas.app/companies/planera/jobs/technical-solutions-engineer-west"
+    "claim": "Sales roles are scoped to specific US regions (West, Central, East)",
+    "quote": "We are hiring multiple Remote positions.\n\n- West (California)\n- Central (Texas, Midwest, Mountain states)\n- East",
+    "url": "https://jobs.ashbyhq.com/planera/af9ca31f-60bc-410b-9209-ae67a94dc0e6"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
+   "Africa": "no",
+   "Asia": "no",
    "Canada": "yes",
-   "Europe": "unlikely",
+   "Europe": "no",
    "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-28T09:16:22+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:posh-ai": {
@@ -4468,6 +4404,47 @@
   },
   "remote_posture": "region-locked",
   "researched_at": "2026-08-14T04:47:16+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "ashby:propel": {
+  "company": "propel",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Jobs are listed as Brooklyn or US Remote",
+    "quote": "Brooklyn or US Remote",
+    "url": "https://boards.greenhouse.io/propel/jobs/7924145002"
+   },
+   {
+    "claim": "Another role also scoped to Brooklyn or US Remote",
+    "quote": "Brooklyn or US Remote",
+    "url": "https://job-boards.greenhouse.io/propel/jobs/4380003002"
+   },
+   {
+    "claim": "Company mission is US-focused (government benefits), reinforcing domestic-only hiring",
+    "quote": "Propel builds technology that strengthens the social safety net in America.",
+    "url": "https://jobs.ashbyhq.com/propel/89372045-3712-4c01-a5ea-ac6c16f90791"
+   },
+   {
+    "claim": "Deterministic board data confirms only USA remote locations sampled",
+    "quote": "sample_remote_locations: [\"usa\"]",
+    "url": "https://jobs.ashbyhq.com/propel"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
+   "Europe": "unlikely",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-28T09:16:22+00:00",
   "scope_basis": "legal-entity"
  },
  "ashby:ramp": {
@@ -4700,190 +4677,124 @@
  "ashby:replit": {
   "company": "replit",
   "confidence": "medium",
-  "distribution_summary": "Replit employees are essentially all in the US (SF-centric); the only non-US signal was one UK profile joining, with international mentions otherwise being users, not staff.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "unknown",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "unknown",
-   "ng": "none",
-   "ph": "unknown",
-   "pl": "unknown",
-   "sa": "unknown",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Replit emphasizes in-person work at its Foster City HQ (context for hub-building alongside remote roles).",
-    "quote": "Where we work\nIn person, on purpose. We work from our HQ in Foster City because ambitious things move faster when talented people are in the room.",
+    "claim": "Replit's careers page frames the company as hybrid-first with offices, not fully remote-first",
+    "quote": "Hybrid, on purpose. Most of our team works from our Foster City HQ or offices in New York, London, and Salt Lake City",
     "url": "https://replit.com/careers"
    },
    {
-    "claim": "They hire remotely across multiple European countries, including the UK.",
-    "quote": "Location\nRemote - Europe; Remote - France; Remote - Ireland; Remote - Italy; Remote - Netherlands; Remote - United Kingdom",
-    "url": "https://jobs.ashbyhq.com/replit/f35042a1-b016-4811-9597-b98facf5eb4d"
+    "claim": "Specific roles are scoped to remote hiring in Japan",
+    "quote": "remote - japan",
+    "url": "https://www.fastaijobs.com/companies/replit"
    },
    {
-    "claim": "They hire remotely in the United States.",
-    "quote": "Location\nRemote (United States)",
-    "url": "https://jobs.ashbyhq.com/replit/f6e6158e-eb89-4008-81ea-1b7512bc509d"
+    "claim": "Specific roles are scoped to remote hiring in Singapore",
+    "quote": "Remote - Singapore, Singapore, Singapore",
+    "url": "https://jobs.a16z.com/jobs/repl.it?remoteOnly=true"
    },
    {
-    "claim": "They hire remotely in Brazil (LATAM), with intent to establish a local office (hybrid later).",
-    "quote": "Location\nBrazil\nLocation Type\nRemote\nNote: This role will begin as remote, with plans to transition to a hybrid model once we establish a local office presence.",
-    "url": "https://jobs.ashbyhq.com/replit/afd16138-8863-4236-b9c9-fbaf6526624f"
+    "claim": "A sampled engineering role is actually office-based in Foster City with US-only benefits, not broadly remote",
+    "quote": "This is a full-time role that can be held from our Foster City, CA office.",
+    "url": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1"
    },
    {
-    "claim": "They hire remotely in Japan (Asia).",
-    "quote": "Location\nRemote - Japan",
-    "url": "https://jobs.ashbyhq.com/replit/999e1432-3edd-453b-b598-ab4b26e1bc5c"
+    "claim": "401k and commuter benefits are restricted to US employees, implying most non-office hiring is US-based",
+    "quote": "401(k) Program with a 4% match (US Only)",
+    "url": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
-   "Asia": "likely",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "unknown",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "unclear"
+ },
+ "ashby:restate": {
+  "company": "restate",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Restate's own careers page lists open roles scoped to United States or Europe only",
+    "quote": "Developer Relations Lead GTM United States",
+    "url": "https://restate.dev/careers"
+   },
+   {
+    "claim": "Design role scoped broadly to Europe",
+    "quote": "Product Designer Design Europe",
+    "url": "https://restate.dev/careers"
+   },
+   {
+    "claim": "Ashby job board shows specific European countries for some roles (UK, Germany, Italy, Netherlands) alongside US",
+    "quote": "Design \u2022 United Kingdom; Germany; Italy; Netherlands \u2022 Part time \u2022 Remote",
+    "url": "https://jobs.ashbyhq.com/restate"
+   },
+   {
+    "claim": "General application role also scoped to US and multiple named European countries",
+    "quote": "General \u2022 United States; Germany; Italy; Netherlands; United Kingdom \u2022 Full time \u2022 Remote",
+    "url": "https://jobs.ashbyhq.com/restate"
+   },
+   {
+    "claim": "Company markets remote work as a perk ('work from anywhere') but actual listings are geographically scoped, so this is flexibility language rather than proof of worldwide hiring eligibility",
+    "quote": "Work from anywhere",
+    "url": "https://restate.dev/careers"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
    "Canada": "unknown",
    "Europe": "yes",
-   "Latin America": "likely",
+   "Latin America": "unknown",
    "Middle East": "unknown",
    "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
- },
- "ashby:restate": {
-  "company": "restate",
-  "confidence": "medium",
-  "distribution_summary": "Restate is a small team anchored in Berlin (founder Stephan Ewen and the ex-Flink core) with a few US/other profiles on www.linkedin.com and very sparse ccTLD indexing overall.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "unknown",
-   "ca": "unknown",
-   "co": "unknown",
-   "de": "few",
-   "fr": "none",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "unknown",
-   "ng": "unknown",
-   "ph": "unknown",
-   "pl": "none",
-   "sa": "unknown",
-   "sg": "unknown",
-   "uk": "none",
-   "us": "few",
-   "za": "unknown"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "They hire remotely in the US and selected European countries; current general application lists eligible countries.",
-    "quote": "Location United States; Germany; Italy; Netherlands; United Kingdom",
-    "url": "https://jobs.ashbyhq.com/restate/05df68ab-2a1b-45fe-9585-7ec50610aae5"
-   },
-   {
-    "claim": "Company states its operating regions and that it doesn\u2019t sponsor visas, indicating legal/entity constraints.",
-    "quote": "Restate operates remotely in Europe and the US, and we currently do not sponsor visas.",
-    "url": "https://jobs.ashbyhq.com/restate/05df68ab-2a1b-45fe-9585-7ec50610aae5"
-   },
-   {
-    "claim": "US roles are fully remote and specify US location.",
-    "quote": "US-based, fully remote, but SF Bay Area strongly preferred.",
-    "url": "https://jobs.ashbyhq.com/restate/6d76699a-96ea-4a71-83f1-f92981a6a4fd"
-   },
-   {
-    "claim": "Some engineering roles list both US and UK as eligible locations.",
-    "quote": "Location\n\nUnited States; United Kingdom",
-    "url": "https://jobs.ashbyhq.com/restate/fe90faab-5417-4034-b915-0770e2477a73"
-   },
-   {
-    "claim": "Careers page emphasizes remote work as a norm (supports remote-friendly posture).",
-    "quote": "Work from anywhere\n\nIt doesn\u2019t matter where you live. What matters for us is that together we make our company mission come true.",
-    "url": "https://www.restate.dev/careers"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "likely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "yes",
-   "US": "yes"
-  },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "unclear"
  },
  "ashby:revenuecat": {
   "company": "revenuecat",
   "confidence": "medium",
-  "distribution_summary": "Remote team centered on the US (many www profiles incl. founders) with a scattering across Europe (UK, DE, FR) and single profiles in Australia and India; nothing in Africa, LatAm, or the Middle East.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "few",
-   "fr": "few",
-   "in": "few",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
+  "employs_via": "Likely via an EOR provider (exact country lists on postings resemble standard EOR coverage, e.g. Deel/Remote.com), not explicitly named by RevenueCat",
   "evidence": [
    {
-    "claim": "RevenueCat lists roles open across all three major regions (Americas, APAC, EMEA).",
-    "quote": "Location\nAmericas; APAC; EMEA",
-    "url": "https://jobs.ashbyhq.com/revenuecat/421588b5-5f58-4c86-a3c4-8b425eafa543"
+    "claim": "RevenueCat is a remote-first company with team members distributed across many countries and pays equally regardless of location",
+    "quote": "Our team is located all over the world, and we pay the same salary everywhere no matter where our people are based.",
+    "url": "https://builtin.com/job/senior-product-engineer-mobile-stores/7064970"
    },
    {
-    "claim": "Some roles specify time\u2011zone windows within regions, indicating time\u2011overlap as a constraint.",
-    "quote": "APAC; Americas (EST only); EMEA",
-    "url": "https://jobs.ashbyhq.com/revenuecat/35961c70-7e6e-46e9-aa34-44aab42b945d"
+    "claim": "Company described as remote-first crew spanning 25+ countries",
+    "quote": "We're a remote\u2011first crew of 150+, spread across 25+ countries",
+    "url": "https://wellfound.com/company/revenuecat"
    },
    {
-    "claim": "Other roles also constrain to specific time zones (e.g., PST) within eligible regions.",
-    "quote": "Americas (PST only); APAC",
-    "url": "https://jobs.ashbyhq.com/revenuecat/b81fe0a9-a48f-417c-badb-c916844bf2f6"
+    "claim": "Postings list broad multi-region eligibility including Americas, EMEA, APAC",
+    "quote": "Remote from South America+6",
+    "url": "https://jobgether.com/remote-jobs/company-revenuecat"
    },
    {
-    "claim": "External listing shows multi\u2011continent eligibility that includes North, Central, and South America plus Europe and Africa.",
-    "quote": "Locations\nEurope\nAfrica\nSouth America\nCentral America\nNorth America",
-    "url": "https://www.indexventures.com/startup-jobs/revenuecat/senior-partnerships-manager-technology-ecosystem/"
+    "claim": "A posting's applicant location requirements include dozens of African and Middle Eastern countries (Uganda, Kenya, UAE, Qatar, etc.), consistent with EOR-based global hiring",
+    "quote": "Central America, EMEA, South America, North America",
+    "url": "https://jobgether.com/offer/6a60395a1b23f4f87b2e9ab1-engineering-manager"
    },
    {
-    "claim": "Company states it is remote\u2011first with a globally distributed team across time zones.",
-    "quote": "RevenueCat was built as a remote\u2011first company from the start. Our team is distributed across multiple time zones around the world.",
-    "url": "https://www.revenuecat.com/blog/company/how-we-work-remotely-at-revenuecat/"
+    "claim": "Engineering postings explicitly show eligible countries including US, UK, Canada, Argentina, Brazil",
+    "quote": "Argentina, Brazil, Canada, United States",
+    "url": "https://remoteonly.io/remote-jobs/senior-backend-engineer-revenuecat-f4ea8c68"
    }
   ],
   "region_eligibility": {
@@ -4894,35 +4805,12 @@
    "Latin America": "yes",
    "Middle East": "likely",
    "Oceania": "yes",
-   "UK": "likely",
+   "UK": "yes",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "timezone-preference",
-  "verification": {
-   "Africa": {
-    "final": "likely",
-    "new_evidence": [
-     {
-      "quote": "Locations Europe Africa South America Central America North America",
-      "url": "https://www.indexventures.com/startup-jobs/revenuecat/senior-partnerships-manager-technology-ecosystem/"
-     },
-     {
-      "quote": "RevenueCat was built as a remote\u2011first company from the start. Our team is distributed across multiple time zones around the world.",
-      "url": "https://www.revenuecat.com/blog/company/how-we-work-remotely-at-revenuecat/"
-     },
-     {
-      "quote": "Americas; APAC; EMEA",
-      "url": "https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149"
-     }
-    ],
-    "original": "yes",
-    "reasoning": "Evidence points to RevenueCat hiring remotely across EMEA (which includes Africa) and at least one recent external posting explicitly lists Africa as eligible. Multiple current Ashby job pages show region scopes like \u201cAmericas; APAC; EMEA\u201d or time\u2011zone windows inside those regions, indicating time\u2011overlap rather than country exclusions. The company also describes itself as remote\u2011first and globall",
-    "refuted": false,
-    "verified_at": "2026-07-19T13:15:01+00:00"
-   }
-  }
+  "remote_posture": "worldwide",
+  "researched_at": "2026-10-28T09:16:22+00:00",
+  "scope_basis": "mixed"
  },
  "ashby:roboflow": {
   "company": "roboflow",

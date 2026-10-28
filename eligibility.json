@@ -209,6 +209,17 @@
 "timezone": null,
 "work_auth": null
 },
+"breezy:talentc.breezy.hr:a9be462e2161": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: US\nRemote label: Remote\n\nMaster the Messaging: Write high-converting, direct-response copy tailored to the US consumer market.",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "breezy:talentc.breezy.hr:ae9bbf2e67ae": {
 "countries": [
 "Ukraine",
@@ -1396,6 +1407,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:testlio:8311249": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This is a 100% remote role open to candidates based in the United States. Strong preference for candidates based in the Eastern Timezone.",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"US"
+],
+"timezone": "Eastern Timezone preferred",
+"work_auth": null
+},
 "greenhouse:thanx:7990627003": {
 "countries": [
 "United States",
@@ -2106,6 +2128,18 @@
 "US"
 ],
 "timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/runware/j/782f9aa284": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location: United States (Remote) \u2014 with some overlap with European working hours required.",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"US",
+"Europe"
+],
+"timezone": "overlap with European working hours required",
 "work_auth": null
 },
 "https://apply.workable.com/schoox/j/94e1400cc1": {
@@ -3015,6 +3049,15 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/9fin/ccf3d9ff-38b1-4a71-85f0-bb8879f469a5": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/absorblms/2e56dfb4-0d95-486d-8667-0d4e9fd19d9a": {
 "countries": [
 "Canada"
@@ -3305,6 +3348,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/clickhouse/b2df834b-fff8-46fa-80a3-f5ad7e7e0b96": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -4445,6 +4497,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/tem/98ab1a3d-9ee3-4de0-9010-6cef5cb84760": {
+"countries": [
+"United Kingdom"
+],
+"eligibility_stated": true,
+"evidence": "Location field: United Kingdom\nRemote label: Remote",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"UK"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/temporal/1e0c3405-1d30-408e-92b0-bc4885e8921e": {
 "countries": [],
 "eligibility_stated": false,
@@ -5180,6 +5245,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/gohighlevel/e4867c68-18b1-41f7-9c49-538f69082203": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "Location: Remote - India",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"Asia"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/goodleap/1aecf524-4ba8-4145-a48d-e3cce42aecdd": {
 "countries": [],
 "eligibility_stated": true,
@@ -5255,6 +5333,17 @@
 "eligibility_stated": true,
 "evidence": "United States (Remote)",
 "extracted_at": "2026-09-10T07:49:22+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/lwolf/aedeac18-259c-46fa-9a13-bed243721142": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States (Remote)",
+"extracted_at": "2026-10-28T09:16:12+00:00",
 "regions": [
 "US"
 ],
@@ -5354,6 +5443,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.lever.co/revealtech/da79031d-4c4b-405c-a348-e1142b62944b": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Remote, USA... Remote Strong preference to those located in Bozeman, MT or Washington DC Salary ($100,000 - $130,000) + Equity Salary is determined by the applicant's experience, knowledge, skills, abilities, internal equity, and alignment with market data. Medical, Dental, Vision coverage HSA/FSA options Parental Leave 401(k): 100% match for the first 6% contributed Unlimited Paid Time Off Home Office Stipend Remote Strong preference to those located in Bozeman, MT or Washington DC",
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.lever.co/ridezum/d98d75d8-ba13-4948-ac5c-b57fa34e0bec": {
 "countries": [],
 "eligibility_stated": false,
@@ -5382,6 +5482,33 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/voltus/9e159ee5-d356-4fa4-b1e9-36c2914c964e": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.lever.co/voltus/e966b65f-09d3-48e1-b96f-508be800ec4f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
+"timezone": "US time zones",
+"work_auth": null
+},
+"https://jobs.lever.co/wealthfront/084ef6b0-396d-4c0a-9b60-3335e9a3ba7f": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -5681,6 +5808,15 @@
 "timezone": null,
 "work_auth": null
 },
+"smartrecruiters:intuitive:744000158088100": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "smartrecruiters:jobsforhumanity:744000131606610": {
 "countries": [],
 "eligibility_stated": false,
@@ -5757,6 +5893,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:miratech1:744000153199992": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-28T09:16:12+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
@@ -6487,6 +6632,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: USA - Remote",
 "extracted_at": "2026-10-25T08:05:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:crowdstrike.wd5.myworkdayjobs.com:R30652": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: USA - Remote",
+"extracted_at": "2026-10-28T09:16:12+00:00",
 "regions": [
 "US"
 ],
