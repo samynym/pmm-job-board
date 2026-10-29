@@ -52,6 +52,7 @@ https://apply.workable.com/cadmus-io/j/2E79BD9570
 https://apply.workable.com/cadmus-io/j/BF995A1356
 https://apply.workable.com/careers-at-sleek/j/3358C6F5E8
 https://apply.workable.com/charlotte-tilbury/j/9F55D8C67C
+https://apply.workable.com/classwallet/j/02BA19D573
 https://apply.workable.com/clickatell/j/C2AD3FBA27
 https://apply.workable.com/clickview/j/54CC7F3F16
 https://apply.workable.com/coldquanta/j/691140C73F
@@ -353,6 +354,7 @@ https://boards.greenhouse.io/fleetio/jobs/5185533007
 https://boards.greenhouse.io/formlabs/jobs/8017118
 https://boards.greenhouse.io/fourkites/jobs/7982071
 https://boards.greenhouse.io/goodwaygroup/jobs/6110551004
+https://boards.greenhouse.io/granum/jobs/8206904002
 https://boards.greenhouse.io/growetalents/jobs/4907044101
 https://boards.greenhouse.io/growetalents/jobs/4920282101
 https://boards.greenhouse.io/hasbro/jobs/4309359009
@@ -373,6 +375,7 @@ https://boards.greenhouse.io/kano/jobs/4779579101
 https://boards.greenhouse.io/khanacademy/jobs/6907585
 https://boards.greenhouse.io/ledgerinvesting/jobs/4581475005
 https://boards.greenhouse.io/manychat/jobs/8517434002
+https://boards.greenhouse.io/mavenclinic/jobs/7995319002
 https://boards.greenhouse.io/medicalinformaticsengineering/jobs/4309376009
 https://boards.greenhouse.io/modoenergy/jobs/4923062101
 https://boards.greenhouse.io/modulrfinance/jobs/8585331002

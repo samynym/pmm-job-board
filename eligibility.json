@@ -904,6 +904,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:mavenclinic:8883475002": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "This role requires active work authorization in the US. Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA.",
+"extracted_at": "2026-10-29T09:15:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": "active work authorization in the US"
+},
 "greenhouse:medicalinformaticsengineering:4309376009": {
 "countries": [],
 "eligibility_stated": false,
@@ -1385,6 +1396,15 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:stripe:8331124": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-29T09:15:38+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:subsplash:8770628002": {
 "countries": [],
 "eligibility_stated": true,
@@ -1727,6 +1747,17 @@
 "extracted_at": "2026-09-01T08:15:24+00:00",
 "regions": [
 "Europe"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/classwallet/j/02ba19d573": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States Remote label: Remote - indicates remote position restricted to United States based on location field designation",
+"extracted_at": "2026-10-29T09:15:38+00:00",
+"regions": [
+"US"
 ],
 "timezone": null,
 "work_auth": null
@@ -3214,6 +3245,26 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.ashbyhq.com/benevity/162c4ba2-2969-4632-9812-885e2793724f": {
+"countries": [
+"Canada",
+"Spain",
+"Switzerland",
+"United Kingdom",
+"United States"
+],
+"eligibility_stated": true,
+"evidence": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!",
+"extracted_at": "2026-10-29T09:15:38+00:00",
+"regions": [
+"Canada",
+"Europe",
+"UK",
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.ashbyhq.com/benevity/4c1e8d7e-a487-446f-8635-85d1de2eb30d": {
 "countries": [
 "Canada",
@@ -3408,6 +3459,17 @@
 "eligibility_stated": true,
 "evidence": "Location field: U.S. Remote",
 "extracted_at": "2026-09-09T07:48:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.ashbyhq.com/delinea/c64215e5-30cb-4a5a-b2a0-8f3ac999bb4b": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "The position is remote and based in the US. Travel may reach 20%.\n\nLocation field: U.S. Remote\n\nLocation field: U.S. Remote\nRemote label: Remote\n\n\"The position is remote and based in the US.\"",
+"extracted_at": "2026-10-29T09:15:38+00:00",
 "regions": [
 "US"
 ],
@@ -4898,6 +4960,17 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/leadventure/job/oijvafwq": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: United States. This role is not open to candidates located in Colorado, Connecticut, California, Maryland, Nevada, New York, Rhode Island, or Washington.",
+"extracted_at": "2026-10-29T09:15:38+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/leadventure/job/ou09afwn": {
 "countries": [],
 "eligibility_stated": true,
@@ -5911,6 +5984,15 @@
 "eligibility_stated": false,
 "evidence": null,
 "extracted_at": "2026-10-26T08:26:24+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"smartrecruiters:miratech1:744000153202654": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-29T09:15:38+00:00",
 "regions": [],
 "timezone": null,
 "work_auth": null
