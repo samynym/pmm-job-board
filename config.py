@@ -35,3 +35,30 @@ KEYWORDS = [
 # Per-query Google results page cap (10 results/page). Set higher for more
 # exhaustive (but slower, more CAPTCHA-prone) coverage.
 MAX_PAGES_PER_QUERY = 10
+
+# Where the job seeker can work from. Drives the access tier (access.access_tier)
+# used to pick which new roles the daily email lists. Swap these values to target
+# another region.
+TARGET = {
+    "name": "Africa",
+    "open_regions": ["Worldwide", "Africa"],
+    "open_countries": ["South Africa"],
+    "try_regions": ["Europe", "UK"],
+    # Location text that marks a remote role as open or worth a try. A remote role
+    # whose location names anywhere else (e.g. "Remote (United States)") is closed.
+    "open_location_terms": ["Worldwide", "Global", "Anywhere", "International", "EMEA", "Africa",
+                            "Johannesburg", "Cape Town"],
+    "try_location_terms": ["Europe", "European", "EU", "CET", "CEST", "UK", "United Kingdom",
+                           "England", "Scotland", "Ireland", "London", "Dublin",
+                           "Germany", "Berlin", "Munich", "Hamburg", "Frankfurt", "Cologne", "Bonn", "Stuttgart",
+                           "Manchester", "Edinburgh", "Rotterdam", "Lyon", "France", "Paris", "Spain", "Madrid",
+                           "Barcelona", "Portugal", "Lisbon", "Netherlands", "Amsterdam",
+                           "Belgium", "Brussels", "Switzerland", "Zurich", "Austria", "Vienna",
+                           "Italy", "Milan", "Rome", "Poland", "Warsaw", "Krakow", "Czechia",
+                           "Czech Republic", "Prague", "Sweden", "Stockholm", "Norway", "Oslo",
+                           "Denmark", "Copenhagen", "Finland", "Helsinki", "Estonia", "Tallinn",
+                           "Latvia", "Lithuania", "Romania", "Bucharest", "Bulgaria", "Greece",
+                           "Athens", "Hungary", "Budapest", "Croatia", "Serbia", "Slovakia",
+                           "Slovenia", "Luxembourg", "Cyprus", "Malta", "Iceland", "Ukraine"],
+    "try_label": "worth a try (same time zone)",
+}

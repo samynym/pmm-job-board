@@ -17,6 +17,9 @@ it enumerates every company board already in `unique_urls.txt` through each ATS'
 public list API (no Google involved), re-verifies known postings, drops delisted
 roles, rebuilds the HTML, commits the result, and emails the roles first seen in the
 last 24 hours (via Resend; recipients live in the `NOTIFY_EMAILS` repo variable).
+The email lists only remote roles open from Africa, worldwide, EMEA or Europe
+(`TARGET` in `config.py`, applied by `access.py`); on-site, hybrid, US-only and
+unclear roles are left out, and no email goes out when none qualify.
 New-role discovery covers every platform except iCIMS, which has no public list
 endpoint — new iCIMS roles still require a manual dork pass into `raw/`.
 State lives in `jobs_seen.json` (first-seen date per posting).
