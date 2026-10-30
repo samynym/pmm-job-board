@@ -1,11 +1,11 @@
 {
- "ran_at": "2026-10-29T09:12:26+00:00",
+ "ran_at": "2026-10-30T09:26:55+00:00",
  "new_boards": [
-  "greenhouse:granum",
-  "greenhouse:mavenclinic",
-  "workable:classwallet"
+  "workable:crop-photo-at-evolphin",
+  "workable:patchstack",
+  "workable:vego-garden-1"
  ],
  "new_urls": 3,
  "errors": 3,
- "dork_offset": 14
+ "dork_offset": 20
 }

@@ -508,6 +508,17 @@
 "timezone": null,
 "work_auth": null
 },
+"greenhouse:calendly:8922278002": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: Remote - US. Also states: \"Calendly is registered as an employer in many, but not all, states. If you are located in Alaska, Delaware, Hawaii, Idaho, Iowa, Montana, Nebraska, North Dakota, Rhode Island, South Dakota, and West Virginia, you will not be eligible for employment.\"",
+"extracted_at": "2026-10-30T09:30:17+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "greenhouse:chainguard:4689624006": {
 "countries": [],
 "eligibility_stated": true,
@@ -1779,6 +1790,24 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/crop-photo-at-evolphin/j/bef5f3e586": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-30T09:30:17+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"https://apply.workable.com/crop-photo-at-evolphin/j/fae053d5da": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-30T09:30:17+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -6396,6 +6425,17 @@
 ],
 "timezone": null,
 "work_auth": null
+},
+"teamtailor:worksterjobs.teamtailor.com:7822755": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Eligible to work remotely in the country of employment and able to collaborate across CET-aligned hours",
+"extracted_at": "2026-10-30T09:30:17+00:00",
+"regions": [
+"Europe"
+],
+"timezone": "CET-aligned hours",
+"work_auth": "Eligible to work remotely in the country of employment"
 },
 "teamtailor:xataio-1680192386.teamtailor.com:7952094": {
 "countries": [],

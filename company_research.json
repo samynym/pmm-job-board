@@ -5580,6 +5580,47 @@
   "researched_at": "2026-07-18T20:16:47+00:00",
   "scope_basis": "legal-entity"
  },
+ "ashby:vanta": {
+  "company": "vanta",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Vanta's live job board lists multiple explicit remote location tags including Canada, Ireland, UK, and U.S., alongside hub office locations.",
+    "quote": "Remote - Canada \u2022 Full time \u2022 Remote.",
+    "url": "https://you.ashbyhq.com/vanta/"
+   },
+   {
+    "claim": "A third-party remote jobs directory lists Vanta's hiring areas as United States, Australia, Ireland, and Canada.",
+    "quote": "Hiring areas United States, Australia, Ireland, and Canada",
+    "url": "https://wfh.team/companies/vanta"
+   },
+   {
+    "claim": "Top locations tracked across Vanta's open roles are concentrated in Remote U.S., London UK, Dublin Ireland, and Remote-Canada, confirming a multi-region but not worldwide footprint.",
+    "quote": "Remote U.S.67 London, UK 17 Dublin, Ireland 12 Remote - Canada 8",
+    "url": "https://www.dreamworkhq.com/c/vanta.com"
+   },
+   {
+    "claim": "The EMEA-titled Product Marketing Lead role is actually a hybrid, office-based position in London rather than a remote-anywhere-in-EMEA role, indicating 'EMEA' in titles refers to market coverage, not residency flexibility.",
+    "quote": "Location London, UK Employment Type Full time Location Type Hybrid",
+    "url": "https://jobs.ashbyhq.com/vanta/be485e4d-d874-41fa-9de8-34102977d34e"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "likely",
+   "UK": "yes",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "unclear"
+ },
  "ashby:vantage": {
   "company": "vantage",
   "confidence": "high",
@@ -6084,93 +6125,89 @@
  "breezy:gen-tech": {
   "company": "Genesis",
   "confidence": "medium",
-  "distribution_summary": "Genesis (gen.tech) is a Ukrainian product-IT ecosystem whose employees are almost entirely in Kyiv/Ukraine (ua.linkedin.com and Kyiv-located www profiles), i.e. outside all tracked countries; its claimed Warsaw hub produced no findable pl profiles.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "unknown",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "none",
-   "za": "none"
-  },
-  "employs_via": "contractors (sole proprietor/PE) in Ukraine & Poland; no public EOR named",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Genesis\u2019s Breezy board supports roles marked Worldwide and a remote filter of \u201cFully remote, no location restrictions.\u201d",
-    "quote": "%DROPDOWN_ANY_COUNTRY% ... Worldwide ... %DROPDOWN_ANY_LOCATION% ... Worldwide ... %DROPDOWN_ANY_REMOTE% Hybrid (Some remote, some in person) Fully remote, no location restrictions Fully remote, within chosen location(s)",
-    "url": "https://gen-tech.breezy.hr/"
+    "claim": "Most Genesis Tech roles are scoped to remote-in-Ukraine only",
+    "quote": "Genesis Tech is hiring remotely in Ukraine.",
+    "url": "https://www.remoterocketship.com/company/gen-tech/jobs/payroll-accountant-ukraine-remote/"
    },
    {
-    "claim": "Promova (a Genesis portfolio company) explicitly allows working remotely from any safe location worldwide.",
-    "quote": "Wellbeing \u2014 offered to support your overall health, happiness, and resilience: work remotely from any safe location worldwide; ... employee discounts and special benefits for remote employees.",
-    "url": "https://gen-tech.breezy.hr/p/83589c3c7ace-head-of-growth-promova"
+    "claim": "Some Genesis roles are open to remote candidates anywhere in Europe or Ukraine, not just Ukraine",
+    "quote": "Full Remote. Countries of Europe or Ukraine.",
+    "url": "https://djinni.co/jobs/?company=genesis-bbc83"
    },
    {
-    "claim": "There are roles explicitly labeled Worldwide and Remote on Genesis\u2019s ATS.",
-    "quote": "Senior/Lead User Acquisition Manager (Promova)\n\u2022 Worldwide\n\u2022 %LABEL_POSITION_TYPE_REMOTE% \u2022 %LABEL_POSITION_TYPE_FULL_TIME%",
-    "url": "https://gen-tech.breezy.hr/p/879c1d28c99b-senior-lead-user-acquisition-manager-promova"
+    "claim": "Company is headquartered and primarily operates out of Ukraine as a CEE-focused co-founding tech company",
+    "quote": "Genesis is a co-founding company that builds global tech businesses together with outstanding entrepreneurs from CEE.",
+    "url": "https://djinni.co/jobs/?company=genesis-bbc83"
    },
    {
-    "claim": "Genesis lists and hires in multiple non\u2011Ukraine countries (e.g., Spain and Turkey) on its board.",
-    "quote": "## Madrid, ES\n\u2022 Data Analyst (Codefinity) Madrid, ES\n\u2022 Product Analyst (Codefinity) Madrid, ES\n## Turkey\n\u2022 AI Generalist Turkey \u2022 Motion Designer (Turkey) (Promova) Turkey",
-    "url": "https://gen-tech.breezy.hr/"
+    "claim": "Company presence spans several countries but hiring/job postings are concentrated in Ukraine with Ukrainian language required",
+    "quote": "more than 1,500 people in 8 countries create products",
+    "url": "https://builtin.com/job/junior-middle-front-end-engineer-codefinity-edtech/2519715"
    },
    {
-    "claim": "Some teams use contractor/sole\u2011proprietor arrangements in UA/PL and mention specific office/coworking hubs, showing varied employment models by location.",
-    "quote": "Remote-first, with access to Genesis offices in Kyiv, Warsaw, and Lisbon (coworking spaces). ... Sole proprietor accounting support in Ukraine and Poland, including assistance with tax reporting. ... Corporate doctor (Kyiv, Lviv).",
-    "url": "https://gen-tech.breezy.hr/p/75050143a44b-social-media-manager-findies"
+    "claim": "Freehire listings tag several roles as 'Remote Europe' but location field still lists Ukraine, consistent with a Europe/Ukraine scope rather than worldwide",
+    "quote": "Open 44d Remote Europe Senior",
+    "url": "https://freehire.me/companies/genesis-tech"
    }
   ],
   "region_eligibility": {
-   "Africa": "yes",
-   "Asia": "yes",
-   "Canada": "yes",
+   "Africa": "unknown",
+   "Asia": "unknown",
+   "Canada": "unlikely",
    "Europe": "yes",
-   "Latin America": "yes",
-   "Middle East": "yes",
-   "Oceania": "yes",
-   "UK": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "unlikely"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "unclear"
+ },
+ "breezy:givzey": {
+  "company": "Givzey",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "All 17 open roles on Givzey's Breezy job board are scoped to United States, remote within one location",
+    "quote": "United States - %LABEL_POSITION_TYPE_REMOTE_WITHIN_ONE%",
+    "url": "https://givzey.breezy.hr/p/b207437ab75e-senior-product-marketing-manager"
+   },
+   {
+    "claim": "Job board location filter only offers United States as a remote location option",
+    "quote": "%DROPDOWN_ANY_LOCATION% United States",
+    "url": "https://givzey.breezy.hr/"
+   },
+   {
+    "claim": "Company markets itself as remote-friendly but framing is about work flexibility, not global hiring eligibility",
+    "quote": "Make a Difference. While Working from Anywhere.",
+    "url": "https://givzey.breezy.hr/"
+   },
+   {
+    "claim": "Third-party remote job aggregator lists Givzey openings predominantly located in US states",
+    "quote": "Remote from\nAlabama (USA)",
+    "url": "https://jobgether.com/remote-jobs/company-givzey"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unknown",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
    "US": "yes"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed",
-  "verification": {
-   "Africa": {
-    "final": "yes",
-    "new_evidence": [
-     {
-      "quote": "%LABEL_COUNTRIES% \u2026 Worldwide \u2026 %LABEL_LOCATIONS% \u2026 Worldwide \u2026 %LABEL_REMOTE% \u2026 Fully remote, no location restrictions.",
-      "url": "https://gen-tech.breezy.hr/"
-     },
-     {
-      "quote": "At Promova, we\u2019re\u2026 empowering lifelong learners \u2014 in every country except aggressor states (yes, even Antarctica).",
-      "url": "https://gen-tech.breezy.hr/p/879c1d28c99b-senior-lead-user-acquisition-manager-promova"
-     },
-     {
-      "quote": "Wellbeing \u2014 \u2026 work remotely from any safe location worldwide; \u2026 employee discounts and special benefits for remote employees.",
-      "url": "https://gen-tech.breezy.hr/p/e1d8def9c0bb-data-engineer-promova"
-     }
-    ],
-    "original": "yes",
-    "reasoning": "Verdict: yes. Evidence from Genesis\u2019s own Breezy ATS shows they support roles set to \u201cWorldwide\u201d and a remote filter option of \u201cFully remote, no location restrictions,\u201d which implies no regional exclusion of Africa. I verified multiple live Promova (a Genesis portfolio company) postings that explicitly say \u201cwork remotely from any safe location worldwide\u201d and even \u201cin every country except aggressor",
-    "refuted": false,
-    "verified_at": "2026-07-19T13:15:01+00:00"
-   }
-  }
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "unclear"
  },
  "breezy:insightful": {
   "company": "insightful",
@@ -6243,55 +6280,79 @@
  "breezy:loribeds": {
   "company": "Lori Beds",
   "confidence": "medium",
-  "distribution_summary": "Tiny US company: only the co-founder/CEO (US www profile) surfaced; no employees indexed on any other country's LinkedIn.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "few",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Company describes itself as fully remote.",
-    "quote": "We are a 100% remote company where A-players can have a thriving, challenging career...",
-    "url": "https://loribeds.breezy.hr/"
+    "claim": "Lori Beds' Director of eCommerce & Product Marketing role is remote but restricted to applicants located in the USA",
+    "quote": "\"applicantLocationRequirements\":{\"name\":\"USA\"}",
+    "url": "https://www.tealhq.com/job/director-of-ecommerce-product-marketing_7ea1a20c358b6671d4cf6a755769612bc14e0"
    },
    {
-    "claim": "Director of eCommerce & Product Marketing is limited to U.S. or Canada.",
-    "quote": "Location: Remote within the United States or Canada.",
-    "url": "https://www.linkedin.com/jobs/view/director-of-ecommerce-product-marketing-at-lori-beds-4432439073"
+    "claim": "Company is a small, US-based direct-to-consumer furniture company",
+    "quote": "Lori Beds is a fast-growing direct-to-consumer furniture company redefining how people live in smaller spaces",
+    "url": "https://www.ziprecruiter.com/Jobs/Remote-Bed-Tester"
    },
    {
-    "claim": "Director role on company ATS shows the two target locations used for the posting.",
-    "quote": "Canada / New York, NY - [remote within]",
-    "url": "https://loribeds.breezy.hr/p/35713a632dfc-director-of-ecommerce-product-marketing"
+    "claim": "Company primarily sells to customers in the US and Canada and is headquartered in Texas",
+    "quote": "Lori Wall Beds sells Murphy beds to customers in the US and Canada through our online store",
+    "url": "https://weworkremotely.com/company/lori-wall-beds"
    },
    {
-    "claim": "Another open role is remote with U.S. time zone overlap requirement (timezone scope).",
-    "quote": "Location\nRemote role. Must have significant overlap with U.S. business hours.",
-    "url": "https://loribeds.breezy.hr/p/30dec94d90ab-growth-creative-strategist"
+    "claim": "Company is very small (~5 employees)",
+    "quote": "Employees\n\n5",
+    "url": "https://bebee.com/us/companies/lori-beds"
+   },
+   {
+    "claim": "Another remote role was also listed with a US city as the location anchor",
+    "quote": "VP of Marketing and eCommerce\n\nRemote,\n\nFull Time",
+    "url": "https://www.wayup.com/i-j-Vice-President-of-Marketing-and-eCommerce-Lori-Beds-768886989853194/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "unlikely",
+   "Europe": "no",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "no",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "unclear"
+ },
+ "breezy:lumen-inc": {
+  "company": "Lumen Learning",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Lumen Learning job postings are scoped to Remote within the US, with a stated time-zone preference rather than a legal restriction to specific states.",
+    "quote": "Lumen Learning \u00b7 Remote (US) \u00b7 Preferred: Central or Eastern Time Zone",
+    "url": "https://competitiveenablementjobs.com/jobs/director-of-product-marketing-69714b48"
+   },
+   {
+    "claim": "Lumen Learning's official careers page currently shows no open roles, consistent with the empty Breezy board, giving no additional location detail.",
+    "quote": "Please check back for future opportunities.",
+    "url": "https://lumenlearning.com/careers/"
+   },
+   {
+    "claim": "Lumen Learning is a small Portland, Oregon-based company; no evidence of international entities, EOR partners, or non-US hiring was found.",
+    "quote": "Lumen is a small company that is growing rapidly, proudly based in Portland, Oregon.",
+    "url": "https://lumenlearning.com/careers/"
+   },
+   {
+    "claim": "Third-party job boards list the Director of Product Marketing role as hiring only within the United States.",
+    "quote": "Full-time Remote United States",
+    "url": "https://competitiveenablementjobs.com/jobs/director-of-product-marketing-69714b48"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
-   "Canada": "yes",
+   "Canada": "unknown",
    "Europe": "unknown",
    "Latin America": "unknown",
    "Middle East": "unknown",
@@ -6300,186 +6361,79 @@
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
- },
- "breezy:lumen-inc": {
-  "company": "Lumen Learning",
-  "confidence": "high",
-  "distribution_summary": "US-based edtech (Portland OR): 7+ current employees on www.linkedin.com and zero on any ccTLD subdomain.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Current postings specify Remote (US) with a U.S. time\u2011zone preference, indicating U.S.-only eligibility plus hours overlap needs.",
-    "quote": "Lumen Learning \u00b7 Remote (US) \u00b7 Preferred: Central or Eastern Time Zone.",
-    "url": "https://lumen-inc.breezy.hr/p/3bf88e1cdbb9-director-of-product-marketing"
-   },
-   {
-    "claim": "Their engineering internship explicitly requires U.S. work authorization, supporting a U.S.-only hiring base.",
-    "quote": "If you live in and are authorized to work in the United States, please send your resume\u2026",
-    "url": "https://lumenlearning.com/engineering-intern/"
-   },
-   {
-    "claim": "Contract SME roles are restricted to U.S.-based remote workers, reinforcing U.S.-only hiring.",
-    "quote": "Subject Matter Experts (Contractor) \u2014 Remote, US-based\u2026 This is flexible work that can be done from home, anywhere in the US.",
-    "url": "https://lumenlearning.com/sme-contractor/"
-   },
-   {
-    "claim": "Additional posting shows Remote, US-based with Eastern Time Zone preferred (time\u2011zone constraint).",
-    "quote": "Customer Success Manager (Northeast) \u2014 Remote, US-based - Eastern Time Zone preferred.",
-    "url": "https://lumen-inc.breezy.hr/p/4592d504e620-customer-success-manager-northeast?source=remotive"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "unlikely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
-   "US": "yes"
-  },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "timezone-preference"
  },
  "breezy:plutus-fire-limited": {
   "company": "Plutus FIRE Limited",
   "confidence": "medium",
-  "distribution_summary": "UK crypto-card startup (plutus.it): only founder Danial Daychopan surfaced on uk.linkedin.com; no employees indexed elsewhere, so likely small UK-centric team.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "none",
-   "za": "none"
-  },
-  "employs_via": "contractors",
+  "employs_via": "own entities (Personio ATS); no EOR evidence found",
   "evidence": [
    {
-    "claim": "Open role is remote to start but may move to a hybrid model, indicating a future in-person hub.",
-    "quote": "Remote to start. As we grow, we may move to a hybrid model: 3 days in office, 2 days remote.",
-    "url": "https://plutus-fire-limited.breezy.hr/p/51db0bea249701-product-marketing-manager"
+    "claim": "Plutus (plutus.it) lists a remote role scoped to Lithuania specifically",
+    "quote": "Senior Compliance Officer\n\nLithuania (Remote)",
+    "url": "https://www.plutus.it/about"
    },
    {
-    "claim": "They plan to engage hires as contractors rather than employees.",
-    "quote": "Contractor engagement + meaningful equity in an early-stage fintech with a clear path to launch.",
-    "url": "https://plutus-fire-limited.breezy.hr/p/51db0bea249701-product-marketing-manager"
+    "claim": "Plutus lists a remote role scoped to Europe generally",
+    "quote": "Content Designer\n\nEurope (Remote)",
+    "url": "https://www.plutus.it/about"
    },
    {
-    "claim": "The job is anchored to Athens, Greece, reinforcing a hub location.",
-    "quote": "Athens, GR - %LABEL_POSITION_TYPE_REMOTE_ANY%",
-    "url": "https://plutus-fire-limited.breezy.hr/p/51db0bea249701-product-marketing-manager"
+    "claim": "Other open roles are on-site in London, UK, indicating a UK hub rather than global hiring",
+    "quote": "Business Development Manager - Affiliate Partners\n\nLondon, UK",
+    "url": "https://www.plutus.it/about"
    },
    {
-    "claim": "This remote role is location-restricted to Greece and Poland (supports Europe-only likelihood).",
-    "quote": "Be aware of the location restriction for this remote position:  Greece, Poland",
-    "url": "https://remotive.com/remote/jobs/product/product-marketing-manager-4983800"
+    "claim": "Third-party aggregator confirms Plutus hires primarily in the UK and is UK-headquartered",
+    "quote": "Hiring areas**United Kingdom**",
+    "url": "https://wfh.team/companies/plutus"
    },
    {
-    "claim": "Company identity/registration: Plutus FIRE Limited is an Irish company (CRO 807084).",
-    "quote": "Registered in Ireland \u2014 CRO 807084",
-    "url": "https://getmyney.com/"
+    "claim": "Historical closed listings also show UK/Europe-only hiring scope",
+    "quote": "United Kingdom, European Candidates Only",
+    "url": "https://cryptojobslist.com/companies/plutus"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "likely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
-   "US": "unlikely"
+   "Africa": "no",
+   "Asia": "no",
+   "Canada": "no",
+   "Europe": "yes",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "no",
+   "UK": "yes",
+   "US": "no"
   },
-  "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "unclear"
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "legal-entity"
  },
  "breezy:radiation-detection-company": {
   "company": "Radiation Detection Company",
-  "confidence": "high",
-  "distribution_summary": "Texas dosimetry company: 10 current-employee profiles on www.linkedin.com (CEO, ops, sales, production) and none on any international subdomain.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "Own US entity/payroll (ADP Workforce Now). No EOR mentioned.",
+  "confidence": "medium",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Remote roles are limited to candidates based in the United States.",
-    "quote": "US-Based | Remote and Hybrid Friendly Austin Area Preferred.",
-    "url": "https://radiation-detection-company.breezy.hr/p/ee19c96f3a39-product-marketing-manager"
+    "claim": "Roles are explicitly US-based with a preference for the Austin, TX area, not open internationally",
+    "quote": "US-Based | Remote and Hybrid Friendly Austin Area Preferred",
+    "url": "https://www.ziprecruiter.com/c/Radiation-Detection-Com/Job/Product-Marketing-Manager/-in-Georgetown,TX?jid=a562d00d366c5514"
    },
    {
-    "claim": "The same role is advertised externally as US\u2011based remote, confirming the scope.",
-    "quote": "US-Based | Remote and Hybrid Friendly Austin Area Preferred.",
-    "url": "https://www.indeed.com/viewjob?jk=95c7b49ed3358343"
+    "claim": "Another role confirms US-based scope with Central Time preference, indicating a domestic hub model rather than global remote",
+    "quote": "US-Based | Remote-Friendly (Central Time Preferred) | No Travel Required",
+    "url": "https://www.jobtarget.com/jobs/jt-dn3c2ibv04/founding-customer-success-lead-georgetown-texas"
    },
    {
-    "claim": "They run multi\u2011state US payroll and state\u2011specific compliance, indicating a US\u2011only employment footprint.",
-    "quote": "Process multi-state payroll accurately and on time for 130+ employees\u2026 Stay current on federal, state, and local employment law across our multi-state footprint\u2026 we use ADP Workforce Now.",
-    "url": "https://radiation-detection-company.breezy.hr/p/9deefdcf39a8-senior-people-operations-generalist"
+    "claim": "Most listed roles are on-site or hybrid out of Georgetown, TX headquarters",
+    "quote": "Based in or able to commute to Georgetown, TX.",
+    "url": "https://www.ziprecruiter.com/Jobs/Radiant-Nuclear"
    },
    {
-    "claim": "Culture indicates hybrid/on\u2011site norms rather than fully distributed worldwide hiring.",
-    "quote": "Austin, TX | Full-Time | In-Office Mon-Thu, WFH Fri.",
-    "url": "https://radiation-detection-company.breezy.hr/p/9deefdcf39a8-senior-people-operations-generalist"
+    "claim": "Company is a small, Texas-headquartered private company, consistent with a single-hub employment model",
+    "quote": "Georgetown, TX Headquarters",
+    "url": "https://www.glassdoor.com/Overview/Working-at-Radiation-Detection-EI_IE779346.11,30.htm"
    }
   ],
   "region_eligibility": {
@@ -6493,76 +6447,54 @@
    "UK": "no",
    "US": "yes"
   },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "remote_posture": "hub-based",
+  "researched_at": "2026-10-30T09:30:22+00:00",
   "scope_basis": "legal-entity"
  },
  "breezy:reface": {
   "company": "Reface",
-  "confidence": "medium",
-  "distribution_summary": "Ukrainian AI face-swap company: current staff surface on ua and pt LinkedIn subdomains (Kyiv/Lisbon), i.e. outside all 19 listed countries; the pl/uk hits were ex-employees or mentions.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "none",
-   "za": "none"
-  },
+  "confidence": "high",
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Their live job board includes a Remote filter value indicating roles with no location limits.",
-    "quote": "%LABEL_REMOTE% \u2026 %DROPDOWN_ANY_REMOTE% Fully remote, no location restrictions",
-    "url": "https://reface.breezy.hr/"
+    "claim": "Himalayas profile shows Reface employees are located only in Ukraine",
+    "quote": "Employees live in: ua Ukraine",
+    "url": "https://himalayas.app/companies/reface-ai/jobs"
    },
    {
-    "claim": "Individual job postings indicate remote-friendly work with Kyiv office optional.",
-    "quote": "\u2022 \u0433\u043d\u0443\u0447\u043a\u0438\u0439 \u0433\u0440\u0430\u0444\u0456\u043a \u0456 \u0440\u0435\u043c\u043e\u0443\u0442 (\u0430\u043b\u0435 \u043d\u0430\u0448 \u043a\u0438\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u043e\u0444\u0456\u0441 \u0437\u0430\u0432\u0436\u0434\u0438 \u0440\u0430\u0434\u0438\u0439 \u0433\u043e\u0441\u0442\u044f\u043c)",
-    "url": "https://reface.breezy.hr/p/a96f5477c3fe-video-editor"
+    "claim": "Multiple job listings are scoped to Ukraine remote with Ukrainian language required",
+    "quote": "Ukraine \u2013 Remote",
+    "url": "https://www.remoterocketship.com/company/hey-reface-ai/jobs/customer-support-agent-ukraine-remote/"
    },
    {
-    "claim": "A Product Marketing Manager role on their ATS is tagged as remote-any (no location restriction on the role).",
-    "quote": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430 - %LABEL_POSITION_TYPE_REMOTE_ANY%",
-    "url": "https://reface.breezy.hr/p/6c365a747404-product-marketing-manager"
+    "claim": "A16Z careers page lists Reface's single open role located in Ukraine",
+    "quote": "Reface is a mobile app that allows users to replace faces in videos",
+    "url": "https://jobs.a16z.com/jobs/reface"
    },
    {
-    "claim": "Third\u2011party listings show roles open in Kyiv, abroad, and remote, implying hiring beyond Ukraine.",
-    "quote": "\u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
-    "url": "https://jobs.dou.ua/companies/reface/vacancies/325301/"
+    "claim": "Structured job data confirms applicant location requirement is Ukraine (UA)",
+    "quote": "applicantLocationRequirements\":{\"name\":\"UA\"}",
+    "url": "https://jobgether.com/offer/6a3ed36a2da8cde35c76b20a-motion-designer-at-reface"
    },
    {
-    "claim": "Current DOU vacancies list multiple roles as Kyiv, abroad, remote, supporting multi\u2011region remote eligibility.",
-    "quote": "User Acquisition Manager (BitePal) \u041a\u0438\u0457\u0432, \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c, \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e",
-    "url": "https://jobs.dou.ua/companies/reface/vacancies/"
+    "claim": "Refolk listing shows Reface open roles are based in Ukraine with zero marked as fully remote-anywhere",
+    "quote": "Remote: 0",
+    "url": "https://www.refolk.ai/companies/hiring/reface"
    }
   ],
   "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "unknown",
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unlikely",
    "Europe": "likely",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "likely",
-   "US": "unknown"
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "unlikely"
   },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-30T09:30:22+00:00",
   "scope_basis": "unclear"
  },
  "breezy:remerge": {
@@ -6636,161 +6568,94 @@
  "breezy:sbc-performance": {
   "company": "SBC Performance",
   "confidence": "medium",
-  "distribution_summary": "Very low LinkedIn footprint: only two profiles found, a recruiter located in Poland and one in Kyiv, Ukraine \u2014 an Eastern-European remote team with no presence in the other listed countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "few",
-   "sa": "none",
-   "sg": "none",
-   "uk": "none",
-   "us": "none",
-   "za": "none"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Some roles are remote with CET-hours overlap, indicating timezone-based scope.",
-    "quote": "Remote work \u2022 Flexible working hours (start between 9:00\u201311:00 CET).",
-    "url": "https://sbc-performance.breezy.hr/p/7fb9b6c38bb801-product-marketing-manager?source=remotive"
+    "claim": "Account Executive role is US-only remote, with explicit applicant location requirement of US",
+    "quote": "United States - %LABEL_POSITION_TYPE_REMOTE_WITHIN_ONE%",
+    "url": "https://sbc-performance.breezy.hr/p/28433b1ee19701-account-executive"
    },
    {
-    "claim": "Engineering role limits remote eligibility to specific EMEA countries (legal/entity scope).",
-    "quote": "Kyiv, UA / Ukraine / Czech Republic - %LABEL_POSITION_TYPE_REMOTE_WITHIN% \u2026 Prague Onsite or Remote (Poland and Ukraine).",
-    "url": "https://sbc-performance.breezy.hr/p/737f8b924eb301-qa-engineer"
+    "claim": "Sales Manager role scoped to Ukraine, Poland, Czech Republic, Warsaw",
+    "quote": "Ukraine / Poland / Czech Republic / Warsaw, PL - %LABEL_POSITION_TYPE_REMOTE_HYBRID%",
+    "url": "https://sbc-performance.breezy.hr/p/543149737c3201-sales-manager"
    },
    {
-    "claim": "They hire remotely in the United States for certain roles.",
-    "quote": "United States - %LABEL_POSITION_TYPE_REMOTE_WITHIN_ONE% \u2026 What We Offer \u2022 Remote position.",
-    "url": "https://sbc-performance.breezy.hr/p/28433b1ee19701-sales-manager"
+    "claim": "Company workforce concentrated in US, Czech Republic, Poland, Ukraine",
+    "quote": "a team of 300+ professionals across the U.S., Czech Republic, Poland, Ukraine, and more",
+    "url": "https://sbc-performance.breezy.hr/p/543149737c3201-sales-manager"
    },
    {
-    "claim": "Additional European countries listed for remote hiring on a role (Portugal, Romania, Poland, Ukraine).",
-    "quote": "\u041f\u043e\u043b\u044c\u0448\u0430 / \u0423\u043a\u0440\u0430\u0438\u043d\u0430 / \u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f / \u0420\u0443\u043c\u044b\u043d\u0438\u044f - %LABEL_POSITION_TYPE_REMOTE_ANY% \u2026 Remote work \u2022 Flexible working hours (start between 9:00\u201311:00 CET).",
-    "url": "https://sbc-performance.breezy.hr/p/eaa1a852331b01-senior-user-acquisition-manager"
+    "claim": "Compensation & Benefits Manager role requires knowledge of Ukrainian labor market and offers Prague office option, implying legal entity presence there",
+    "quote": "Opportunity to work **fully remotely** or from our **office in Prague**",
+    "url": "https://sbc-performance.breezy.hr/p/06ed6e6c4b0101-compensation-benefits-manager"
    },
    {
-    "claim": "Team distribution includes the U.S. and EMEA, supporting multi\u2011region operations.",
-    "quote": "With a team of 250+ professionals across the U.S., Czech Republic, Poland, Ukraine, and EMEA\u2026",
-    "url": "https://sbc-performance.breezy.hr/p/4ba8fbe9096701-product-marketing-analyst"
+    "claim": "Product Manager role has CET timezone-based working hour requirement",
+    "quote": "Flexible working hours (start between 9:00\\u201311:00 CET)",
+    "url": "https://sbc-performance.breezy.hr/p/66f39aa9149501-product-manager"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unlikely",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "mixed"
+ },
+ "breezy:social-discovery-ventures": {
+  "company": "Social Discovery Group",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Company lists specific named countries where roles can be filled, with each posting tagged 'remote within' those country sets or 'remote, no location restrictions'",
+    "quote": "Fully remote, no location restrictions Fully remote, within chosen location(s)",
+    "url": "https://social-discovery-ventures.breezy.hr/"
+   },
+   {
+    "claim": "Current open-role countries span Latin America, Europe, Middle East and Asia (Argentina, Costa Rica, Cyprus, Georgia, Israel, Kazakhstan, Malaysia, Montenegro, Poland, Philippines, Portugal, Serbia, Spain, Thailand, Uzbekistan, Vietnam)",
+    "quote": "Argentina Armenia Costa Rica Cyprus Georgia Indonesia Israel Kazakhstan Malaysia Montenegro Philippines Poland Portugal Serbia Spain Thailand Uzbekistan Vietnam Worldwide",
+    "url": "https://social-discovery-ventures.breezy.hr/"
+   },
+   {
+    "claim": "Company describes a large distributed team of digital nomads working from many named countries including the USA, but this is general company description, not a current hiring-country guarantee",
+    "quote": "digital nomads works all over the world",
+    "url": "https://social-discovery-ventures.breezy.hr/"
+   },
+   {
+    "claim": "A third-party job board lists a Social Discovery Group remote role explicitly open to Canada",
+    "quote": "Social Discovery Group is hiring for a Remote Senior Frontend Developer (Core) in Canada.",
+    "url": "https://builtin.com/job/senior-frontend-developer-core/9755168"
+   },
+   {
+    "claim": "Aggregator shows multiple distinct country combinations per role (e.g., Spain/Serbia, Georgia/Armenia, Kazakhstan/Armenia), confirming role-specific regional scoping rather than single-country or single-region lock",
+    "quote": "\ud83c\udf10 Spain, Serbia, +1 more countries \u2013 Remote",
+    "url": "https://www.remoterocketship.com/company/socialdiscoverygroup/"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "unknown",
-   "Europe": "yes",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unknown",
-   "US": "yes"
-  },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
- },
- "breezy:social-discovery-ventures": {
-  "company": "social discovery ventures",
-  "confidence": "medium",
-  "distribution_summary": "Fully-remote ~1000-person team concentrated in Eastern Europe and expat hubs (Riga, Belgrade, Sofia, Berlin, Lisbon, Cyprus) with many profiles on www.linkedin.com; only scattered singles in KE, NG, PL, FR, UK among the target countries.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "few",
-   "in": "none",
-   "jp": "none",
-   "ke": "few",
-   "mx": "none",
-   "ng": "few",
-   "ph": "none",
-   "pl": "few",
-   "sa": "none",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Their ATS explicitly supports fully-remote roles with no location restrictions and lists many countries, including United States and a \u201cWorldwide\u201d option.",
-    "quote": "%DROPDOWN_ANY_COUNTRY% Armenia China Cyprus Georgia Indonesia Kazakhstan Macao Malaysia Philippines Poland Portugal Serbia Spain Taiwan Thailand United States Vietnam Worldwide \u2026 %DROPDOWN_ANY_REMOTE% Fully remote, no location restrictions; Fully remote, within chosen location(s).",
-    "url": "https://social-discovery-ventures.breezy.hr/"
-   },
-   {
-    "claim": "They hire in the United States on a full\u2011time remote basis and provide U.S. employee benefits.",
-    "quote": "CA, US / United States \u2013 %LABEL_POSITION_TYPE_REMOTE_ANY% \u2026 What do we offer: \u2026 6% 401K retirement match; Healthcare benefits (include medical, dental, and vision insurance).",
-    "url": "https://social-discovery-ventures.breezy.hr/p/9cc13aa80a0301-lifecycle-marketing-manager"
-   },
-   {
-    "claim": "Some openings are marked \u201cWorldwide\u201d remote, indicating no country limitation for those roles.",
-    "quote": "Deputy CTO (AI Product) \u2026 Worldwide \u2026 %LABEL_POSITION_TYPE_REMOTE% \u2026 What do we offer: REMOTE OPPORTUNITY to work full-time;",
-    "url": "https://social-discovery-ventures.breezy.hr/p/7af86b1a300901-deputy-cto-ai-product"
-   },
-   {
-    "claim": "The job board includes a dedicated \u201cWorldwide\u201d section with multiple roles tagged as worldwide.",
-    "quote": "## Worldwide \u2026 Deputy CDO %LABEL_POSITION_TYPE_WORLDWIDE% \u2026 Executive Search Partner %LABEL_POSITION_TYPE_WORLDWIDE% \u2026 HR BP/HRD (Core Business Unit) %LABEL_POSITION_TYPE_WORLDWIDE%.",
-    "url": "https://social-discovery-ventures.breezy.hr/"
-   },
-   {
-    "claim": "They state their distributed team already works from Middle East and Oceania locations (e.g., UAE, Israel, Australia), supporting broader regional eligibility.",
-    "quote": "Our teams of digital nomads work remotely from Cyprus, Malta, the USA, Armenia, Georgia, Kazakhstan, Montenegro, Poland, Latvia, Serbia, Spain, Portugal, UAE, Israel, Turkey, Thailand, Indonesia, Japan, Hong Kong, Australia and many other locations.",
-    "url": "https://social-discovery-ventures.breezy.hr/p/0926384963ff01-deputy-cdo"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "likely",
    "Asia": "yes",
    "Canada": "likely",
    "Europe": "yes",
-   "Latin America": "likely",
-   "Middle East": "likely",
-   "Oceania": "likely",
-   "UK": "likely",
-   "US": "yes"
+   "Latin America": "yes",
+   "Middle East": "yes",
+   "Oceania": "unlikely",
+   "UK": "unknown",
+   "US": "unlikely"
   },
-  "remote_posture": "worldwide",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity",
-  "verification": {
-   "Africa": {
-    "final": "likely",
-    "new_evidence": [
-     {
-      "quote": "%DROPDOWN_ANY_COUNTRY% \u2026 United States \u2026 Worldwide \u2026 %DROPDOWN_ANY_REMOTE% Fully remote, no location restrictions; Fully remote, within chosen location(s).",
-      "url": "https://social-discovery-ventures.breezy.hr/"
-     },
-     {
-      "quote": "## Worldwide \u2026 Deputy CDO %LABEL_POSITION_TYPE_WORLDWIDE% \u2026 Deputy CTO (AI Product) %LABEL_POSITION_TYPE_WORLDWIDE% \u2026 Executive Search Partner %LABEL_POSITION_TYPE_WORLDWIDE% \u2026 HR BP/HRD (Core Business Unit) %LABEL_POSITION_TYPE_WORLDWIDE%.",
-      "url": "https://social-discovery-ventures.breezy.hr/"
-     },
-     {
-      "quote": "Deputy CTO (AI Product) \u2013 Worldwide \u2026 What do we offer: REMOTE OPPORTUNITY to work full-time;",
-      "url": "https://social-discovery-ventures.breezy.hr/p/7af86b1a300901-deputy-cto-ai-product"
-     }
-    ],
-    "original": "likely",
-    "reasoning": "Two checks passed. 1) Refute attempt: Their live Breezy ATS includes a \u201cWorldwide\u201d jobs section and a remote filter that literally says \u201cFully remote, no location restrictions,\u201d with United States and \u201cWorldwide\u201d in the country list. Several current postings are explicitly tagged \u201cWorldwide,\u201d and at least one U.S. role shows full U.S. employee benefits\u2014no statements limiting eligibility away from ",
-    "refuted": false,
-    "verified_at": "2026-07-19T13:15:01+00:00"
-   }
-  }
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-30T09:30:22+00:00",
+  "scope_basis": "unclear"
  },
  "breezy:subscribe": {
   "company": "SUBSCRIBE",
