@@ -1,0 +1,1074 @@
+[
+ {
+  "id": "greenhouse:autotradercanada:8075938003",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "AutoTrader.ca",
+   "location": "Toronto, ON (Canada) ",
+   "remote_label": "On-site",
+   "source_url": "https://boards.greenhouse.io/autotradercanada/jobs/8075938003"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "on-site",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://apply.workable.com/festive-road/j/ec3d96935b",
+  "job": {
+   "title": "Product Marketing Analyst",
+   "company": "festive-road",
+   "location": "Dallas, Texas, United States",
+   "remote_label": "On-site",
+   "source_url": "https://apply.workable.com/festive-road/j/EC3D96935B"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "on-site, even though US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "workday:snapchat.wd1.myworkdayjobs.com:R0047400-1",
+  "job": {
+   "title": "Lead, Product Marketing Manager - Measurement",
+   "company": "Snap Inc.",
+   "location": "New York, New York",
+   "remote_label": "On-site",
+   "source_url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Lead-Product-Marketing-Manager---Measurement_R0047400-1"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "on-site, even though US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "workday:geico.wd1.myworkdayjobs.com:R0066577",
+  "job": {
+   "title": "Senior Manager, Specialty Product Marketing",
+   "company": "Government Employees Insurance Company",
+   "location": "Bethesda, MD",
+   "remote_label": "Hybrid",
+   "source_url": "https://geico.wd1.myworkdayjobs.com/External/job/Senior-Manager--Specialty-Product-Marketing_R0066577"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "hybrid, even though US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://apply.workable.com/mitsubishi-electric/j/0249aba636",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "mitsubishi-electric",
+   "location": "Hatfield, England, United Kingdom",
+   "remote_label": "Hybrid",
+   "source_url": "https://apply.workable.com/mitsubishi-electric/j/0249ABA636"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "hybrid UK",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.jobvite.com/webmd/job/oh8yafw7",
+  "job": {
+   "title": "Associate Product Marketing Manager",
+   "company": "WebMD",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.jobvite.com/webmd/job/oH8YAfw7"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "remote in India",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.jobvite.com/progress/job/ocjgafwv",
+  "job": {
+   "title": "Product Marketing Manager, ShareFile",
+   "company": "Progress",
+   "location": "India",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.jobvite.com/progress/job/oCjGAfwV"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "India"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "evidence": "Location field: India"
+  },
+  "expected": "exclude",
+  "why": "remote, hires in India",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "workday:mrisoftware.wd501.myworkdayjobs.com:R-108834",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "MRI USA",
+   "location": "US Remote",
+   "remote_label": "Remote",
+   "source_url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Product-Marketing-Manager_R-108834"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US"
+   ],
+   "evidence": "Location field: US Remote - Remote label: Remote. The job posting explicitly states 'US Remote' in the location field, indicating the position is available to remote candidates within the US only. The statement 'work from anywhere in the world for two weeks out of the year' refers to travel flexibility, not hiring eligibility across regions. The location field clearly restricts eligibility to the US market. Therefore, eligibility_stated is true with regions limited to US only, no specific countries listed, no timezone requirement, and no work authorization requirement stated beyond the US location restriction. The evidence is the explicit 'US Remote' designation in the location field, which is the standard way job postings communicate geographic hiring eligibility for remote positions. While the posting mentions 'work from anywhere in the world for two weeks out of the year,' this is a perk describing flexibility for already-hired employees, not a statement of hiring eligibility across all countries. The posting does not state 'open to candidates worldwide' or equivalent language that would indicate global hiring eligibility. Therefore, the US Remote designation is the controlling factor for eligibility_stated and regions. The evidence quote is: 'Location field: US Remote'"
+  },
+  "expected": "include",
+  "why": "US remote",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "workday:hitachi.wd1.myworkdayjobs.com:R0144509",
+  "job": {
+   "title": "Solutions Product Marketing Manager",
+   "company": "HITACHI VANTARA LLC",
+   "location": "(DEAI HV) US Remote TX - Austin",
+   "remote_label": "Remote",
+   "source_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Solutions-Product-Marketing-Manager_R0144509"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US"
+   ],
+   "evidence": "Location field: (DEAI HV) US Remote TX - Austin"
+  },
+  "expected": "include",
+  "why": "US remote",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/1password/06df5109-358e-4e0b-a9d4-9fba67a028af",
+  "job": {
+   "title": "Senior Staff Technical Go-to-Market (GTM) Product Marketing Manager, Access Security",
+   "company": "1password",
+   "location": "Remote (United States | Canada)",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/1password/06df5109-358e-4e0b-a9d4-9fba67a028af"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US",
+    "Canada"
+   ],
+   "evidence": "this role is remote across the United States and Canada"
+  },
+  "expected": "include",
+  "why": "remote across US and Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "workday:workiva.wd503.myworkdayjobs.com:R12408",
+  "job": {
+   "title": "Vice President of Product Marketing",
+   "company": "Workiva Inc.",
+   "location": "USA - Remote",
+   "remote_label": "Remote",
+   "source_url": "https://workiva.wd503.myworkdayjobs.com/careers/job/Vice-President-of-Product-Marketing_R12408"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "Location field: USA - Remote"
+  },
+  "expected": "include",
+  "why": "US remote",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:samsara:8148044",
+  "job": {
+   "title": "Principal Product Marketing Manager - Public Sector",
+   "company": "Samsara",
+   "location": "Remote - DC",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/samsara/jobs/8148044"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "This is a remote position open to candidates based in the U.S. We prefer candidates based in or near Washington, D.C., or those able to work Eastern time zone hours. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable."
+  },
+  "expected": "include",
+  "why": "remote open to US candidates",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/propel/0bc0101a-f096-4f46-a7d7-cf812221ee0f",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "propel",
+   "location": "USA",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/propel/0bc0101a-f096-4f46-a7d7-cf812221ee0f"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "California",
+    "Colorado",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Illinois",
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "Oregon",
+    "Pennsylvania",
+    "Texas",
+    "Virginia",
+    "Washington"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "We're currently accepting applications from the states we have an established entity, which includes California, Colorado, District of Columbia, Florida, Georgia, Illinois, Maryland, Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Texas, Virginia, and Washington."
+  },
+  "expected": "include",
+  "why": "remote in listed US states",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/junipersquare/84a99eff-2244-4a68-acee-f0f3da830b77",
+  "job": {
+   "title": "Senior Product Marketing Manager, Fund Administration",
+   "company": "junipersquare",
+   "location": "Americas (USA or Canada)",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/junipersquare/84a99eff-2244-4a68-acee-f0f3da830b77"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States",
+    "Canada"
+   ],
+   "regions": [
+    "Americas"
+   ],
+   "evidence": "Location field: Americas (USA or Canada)"
+  },
+  "expected": "include",
+  "why": "USA or Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:thanx:7990627003",
+  "job": {
+   "title": "Sr. Product Marketing Manager",
+   "company": "Thanx",
+   "location": "Remote-United States or Canada",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/thanx/jobs/7990627003"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States",
+    "Canada"
+   ],
+   "regions": [
+    "US",
+    "Canada"
+   ],
+   "evidence": "Remote-United States or Canada"
+  },
+  "expected": "include",
+  "why": "US or Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:rushstreetinteractive:6185790004",
+  "job": {
+   "title": "Product Marketing Internship- Spring 2027",
+   "company": "Rush Street Interactive",
+   "location": "USA - Remote",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/rushstreetinteractive/jobs/6185790004"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US",
+    "Canada"
+   ],
+   "evidence": "Open to candidates in eligible locations in the Continental US or Canada."
+  },
+  "expected": "include",
+  "why": "continental US or Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:ionq:6140179004",
+  "job": {
+   "title": "Staff Product Marketing Manager, Space Solutions",
+   "company": "IonQ",
+   "location": "Denver, Colorado; Remote, US",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/ionq/jobs/6140179004"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "\"Denver, Colorado; Remote, US\"; \"candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\""
+  },
+  "expected": "include",
+  "why": "remote, US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:stripe:8142770",
+  "job": {
+   "title": "Product Marketing Manager, Payments",
+   "company": "Stripe",
+   "location": "Remote in the US, Chicago, Toronto",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/stripe/jobs/8142770"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States",
+    "Canada"
+   ],
+   "regions": [
+    "US",
+    "Canada"
+   ],
+   "evidence": "Remote in the US, Chicago, Toronto"
+  },
+  "expected": "include",
+  "why": "remote in the US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.jobvite.com/egnyte/job/oykbafwd",
+  "job": {
+   "title": "Senior Product Marketing Manager - Financial Services",
+   "company": "Egnyte",
+   "location": "Remote, United States, United States",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.jobvite.com/egnyte/job/oYKBAfwD"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "PRODUCT MARKETING MANAGER – FINANCIAL SERVICES REMOTE, US; RALEIGH, NC; DRAPER, UT; MOUNTAIN VIEW, CA"
+  },
+  "expected": "include",
+  "why": "remote US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:alphasense:8428321002",
+  "job": {
+   "title": "Director, Product Marketing – Premium Content & Data",
+   "company": "AlphaSense",
+   "location": "Remote - United States",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/alphasense/jobs/8428321002"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "Remote - United States"
+  },
+  "expected": "include",
+  "why": "remote US",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.lever.co/ethena/2c54a94c-fb0b-4812-ba2b-446f3262f946",
+  "job": {
+   "title": "Head of Product Marketing",
+   "company": "Ethena",
+   "location": "Remote",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.lever.co/ethena/2c54a94c-fb0b-4812-ba2b-446f3262f946"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US",
+    "Canada"
+   ],
+   "evidence": "Our workforce is fully remote, and your personal working hours can be based on your own timezone. All team-wide meetings are scheduled to be inclusive of all North American time zones."
+  },
+  "expected": "include",
+  "why": "remote US/Canada stated",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:instacart:8282656",
+  "job": {
+   "title": "Director, Ads Product Marketing ",
+   "company": "Instacart",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/instacart/jobs/8282656"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "Canada"
+   ],
+   "evidence": "Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia."
+  },
+  "expected": "exclude",
+  "why": "Canada provinces only",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://apply.workable.com/mydbsync/j/d0016fd505",
+  "job": {
+   "title": "Product Marketer",
+   "company": "mydbsync",
+   "location": "Russia",
+   "remote_label": "Remote",
+   "source_url": "https://apply.workable.com/mydbsync/j/D0016FD505"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Russia"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "evidence": "Location field: Russia\nRemote label: Remote\nJob Location: Eastern Europe (Remote)\nWork Shift: U.S Shift (8:00 AM CST to 5:00 PM CST)"
+  },
+  "expected": "exclude",
+  "why": "Eastern Europe, US shift hours only",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://apply.workable.com/mydbsync/j/63d6fc1b97",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "mydbsync",
+   "location": "Mexico",
+   "remote_label": "Remote",
+   "source_url": "https://apply.workable.com/mydbsync/j/63D6FC1B97"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Mexico"
+   ],
+   "regions": [
+    "Latin America"
+   ],
+   "evidence": "Location field: Mexico\nJob Location: Latin America (Remote) Work Shift: U.S Shift (8:00 AM CST to 5:00 PM CST)"
+  },
+  "expected": "exclude",
+  "why": "LatAm, US shift hours only",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://apply.workable.com/pavago/j/76385b86a3",
+  "job": {
+   "title": "Product Marketing & GTM Lead",
+   "company": "pavago",
+   "location": "Pakistan",
+   "remote_label": "Remote",
+   "source_url": "https://apply.workable.com/pavago/j/76385B86A3"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Pakistan"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "evidence": "Location: Pakistan; Working Hours: U.S. Client Business Hours"
+  },
+  "expected": "exclude",
+  "why": "Pakistan, US business hours only",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "greenhouse:monzo:8121253",
+  "job": {
+   "title": "Senior Product Marketing Manager, Business Banking",
+   "company": "Monzo",
+   "location": "Cardiff, London or Remote (UK)",
+   "remote_label": "Remote",
+   "source_url": "https://boards.greenhouse.io/monzo/jobs/8121253"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [
+    "UK"
+   ],
+   "evidence": "\"This role will be based out of our London office next to Liverpool Street station in a hybrid approach of office based and home working, or remotely within the UK\""
+  },
+  "expected": "exclude",
+  "why": "UK",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/vanta/be485e4d-d874-41fa-9de8-34102977d34e",
+  "job": {
+   "title": "Product Marketing Lead - EMEA",
+   "company": "vanta",
+   "location": "London, UK",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/vanta/be485e4d-d874-41fa-9de8-34102977d34e"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "Europe",
+    "Middle East",
+    "Africa"
+   ],
+   "evidence": "Must be based on London or Dublin, this role will be hybrid in-office. [Title: Product Marketing Lead - EMEA]"
+  },
+  "expected": "exclude",
+  "why": "EMEA",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/voize/d91346dd-6b69-4435-8f67-4e0f70ffbfc1",
+  "job": {
+   "title": "Senior Product Marketing Manager (m/f/d)",
+   "company": "voize",
+   "location": "Berlin",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/voize/d91346dd-6b69-4435-8f67-4e0f70ffbfc1"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "Europe"
+   ],
+   "evidence": "we work from our Berlin office or remotely across Germany"
+  },
+  "expected": "exclude",
+  "why": "Germany",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "smartrecruiters:revalize:744000153521247",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Revalize",
+   "location": "Remote, , Germany",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.smartrecruiters.com/revalize/744000153521247"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Germany"
+   ],
+   "regions": [
+    "US",
+    "Europe",
+    "Middle East",
+    "Africa"
+   ],
+   "evidence": "Remote, , Germany. Revalize designates standard working hours as 8:00 am to 5:00 pm Eastern Time (ET) for employees based in the United States and 08:00 to 17:00 Central European Time (CET) for employees operating within the EMEA region."
+  },
+  "expected": "exclude",
+  "why": "role located in Germany; US mention is company-wide hours",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "breezy:allcares.breezy.hr:751a3a88ecbf",
+  "job": {
+   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "All Cares",
+   "location": "PL",
+   "remote_label": "Remote",
+   "source_url": "https://allcares.breezy.hr/p/751a3a88ecbf-product-marketing-manager-ai-powered-affiliate-platform-igaming"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "Europe",
+    "UK",
+    "US",
+    "Asia",
+    "Oceania"
+   ],
+   "evidence": "We work with clients across Europe, the UK, the US, Asia, and Australia."
+  },
+  "expected": "exclude",
+  "why": "US mentioned only as a client market",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/benevity/7596717c-727a-4abe-9655-3f779a3f0fa9",
+  "job": {
+   "title": "Senior Manager, Product Marketing",
+   "company": "benevity",
+   "location": "Calgary, Alberta",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/benevity/7596717c-727a-4abe-9655-3f779a3f0fa9"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "Canada",
+    "Spain",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+   ],
+   "regions": [
+    "Canada",
+    "Europe",
+    "US"
+   ],
+   "evidence": "We have people working all over the world, including Canada, Spain, Switzerland, the United Kingdom, the United States and more!"
+  },
+  "expected": "exclude",
+  "why": "Calgary role; US only in \"people all over the world\"",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/openai/0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f",
+  "job": {
+   "title": "Product Marketing, Messaging Lead",
+   "company": "openai",
+   "location": "San Francisco",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/openai/0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "\"remote\" label but hybrid 3 days in office",
+  "source": "board 2026-10-31",
+  "known_issue": "extracted evidence omits the hybrid/office text; needs the posting (LLM audit catches it)"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/benchling/874062e7-7903-4fd3-9930-ea538a4cac1e",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "benchling",
+   "location": "San Francisco, CA",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/benchling/874062e7-7903-4fd3-9930-ea538a4cac1e"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "San Francisco, CA\n\nWe offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday)."
+  },
+  "expected": "exclude",
+  "why": "on-site 3 days per week",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.ashbyhq.com/plain/865d8882-8c80-4145-b139-a644b40ff1e7",
+  "job": {
+   "title": "Product Marketing Lead",
+   "company": "plain",
+   "location": "San Francisco office",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.ashbyhq.com/plain/865d8882-8c80-4145-b139-a644b40ff1e7"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [
+    "US"
+   ],
+   "evidence": "\"this role is based in SF, and we work together in the office at least 3 days a week.\""
+  },
+  "expected": "exclude",
+  "why": "in office 3 days a week",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://clario.recruitee.com/o/product-marketing-manager-rd",
+  "job": {
+   "title": "Product Marketing Manager (R&D)",
+   "company": "Clario",
+   "location": "Remote job",
+   "remote_label": "Remote",
+   "source_url": "https://clario.recruitee.com/o/product-marketing-manager-rd"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "US",
+    "Europe"
+   ],
+   "evidence": "Hands-on in implementing growth marketing strategy for b2c products with a focus on the US and Europe markets."
+  },
+  "expected": "exclude",
+  "why": "\"US and Europe\" are markets, not hiring locations",
+  "source": "board 2026-10-31",
+  "known_issue": "eligibility extractor read \"US and Europe markets\" as hiring regions; upstream fix in eligibility.py"
+ },
+ {
+  "id": "https://jobs.lever.co/lwolf/01aabe81-4af0-4c9d-bf42-56425889ccb1",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Lone Wolf Technologies",
+   "location": "Toronto, ON (Remote)",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.lever.co/lwolf/01aabe81-4af0-4c9d-bf42-56425889ccb1"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "remote in Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "smartrecruiters:acumatica:744000153021549",
+  "job": {
+   "title": "Senior ERP Product Marketing Manager (QuickBooks Migration)",
+   "company": "Acumatica",
+   "location": "Montreal, QC, Canada",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.smartrecruiters.com/Acumatica/744000153021549"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "Canada",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "teamtailor:softswiss.teamtailor.com:8295522",
+  "job": {
+   "title": "Product Marketing Manager – Senior",
+   "company": "SOFTSWISS",
+   "location": "Warszawa, PL",
+   "remote_label": "Remote",
+   "source_url": "https://softswiss.teamtailor.com/jobs/8295522-product-marketing-manager-senior"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "Poland",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "teamtailor:drdoctor.teamtailor.com:8167310",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "DrDoctor",
+   "location": "Puducherry, IN",
+   "remote_label": "Remote",
+   "source_url": "https://drdoctor.teamtailor.com/jobs/8167310-product-marketing-manager"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "India"
+   ],
+   "regions": [
+    "Asia"
+   ],
+   "evidence": "You’ll be part of DrDoctor India, working remotely and reporting to our Head of Growth in the UK."
+  },
+  "expected": "exclude",
+  "why": "India",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829",
+  "job": {
+   "title": "Sr Product Marketing Manager",
+   "company": "Offchain",
+   "location": "Remote",
+   "remote_label": "Remote",
+   "source_url": "https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829"
+  },
+  "eligibility": {
+   "eligibility_stated": false,
+   "countries": [],
+   "regions": [],
+   "evidence": null
+  },
+  "expected": "exclude",
+  "why": "bare \"Remote\", no stated eligibility - unclear",
+  "source": "board 2026-10-31"
+ },
+ {
+  "id": "synthetic:new-mexico",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Albuquerque, New Mexico",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "include",
+  "why": "New Mexico is a US state, not Mexico",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:mexico-city",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Mexico City",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "Mexico",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:etobicoke",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Etobicoke, ON, CA",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "CA here is Canada, not California",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:india-or",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Govindtola, OR, India",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "OR here is Odisha, India",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:sf-ca",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "San Francisco, CA",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "include",
+  "why": "US city, remote",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:bare-remote",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Remote",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "no evidence of US eligibility",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:empty-loc",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": null,
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "no evidence of US eligibility",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:worldwide",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Remote",
+   "remote_label": "Remote"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "Worldwide"
+   ],
+   "evidence": "We hire anywhere in the world"
+  },
+  "expected": "include",
+  "why": "worldwide includes US",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:emea-only",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Remote",
+   "remote_label": "Remote"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [],
+   "regions": [
+    "Europe"
+   ],
+   "evidence": "Remote within EMEA"
+  },
+  "expected": "exclude",
+  "why": "EMEA only",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:uk-stated-us-loc",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "New York, NY",
+   "remote_label": "Remote"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [],
+   "evidence": "Must have right to work in the UK"
+  },
+  "expected": "exclude",
+  "why": "stated eligibility excludes US",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:hybrid-us",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Austin, TX",
+   "remote_label": "Hybrid"
+  },
+  "eligibility": {
+   "eligibility_stated": true,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "evidence": ""
+  },
+  "expected": "exclude",
+  "why": "hybrid",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:unknown-label",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "United States",
+   "remote_label": null
+  },
+  "eligibility": null,
+  "expected": "exclude",
+  "why": "no remote label",
+  "source": "synthetic"
+ },
+ {
+  "id": "synthetic:us-canada-loc",
+  "job": {
+   "title": "Product Marketing Manager",
+   "company": "Example",
+   "location": "Remote - US or Canada",
+   "remote_label": "Remote"
+  },
+  "eligibility": null,
+  "expected": "include",
+  "why": "names the US",
+  "source": "synthetic"
+ }
+]

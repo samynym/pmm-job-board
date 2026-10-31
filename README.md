@@ -29,6 +29,26 @@ One job URL at a previously-unknown company (appended to
 company's whole board. To add a company by hand, drop any job URL from a
 supported ATS into `raw/manual-additions.txt`.
 
+## Newsletter scope + eval
+
+The daily email (`notify.py`) only includes roles that are **remote and open to
+US-based candidates** (stated US / North America / Americas / Worldwide
+eligibility, or a US location when eligibility isn't stated). Every exclusion is
+logged with a reason, and a guard blocks the send if anything out of scope slips
+through.
+
+`evals/newsletter_eval.py` keeps that filter honest:
+
+- **Golden set** (`evals/newsletter_cases.json`): hand-labeled real and synthetic
+  cases. `python evals/newsletter_eval.py` scores the filter; CI
+  (`newsletter-eval.yml`) runs it on every change to `notify.py` or `evals/` and
+  fails on any wrong decision. Cases marked `known_issue` are reported but don't fail.
+- **Daily audit** (`--audit`, runs in the refresh workflow): an LLM judge reads each
+  new remote posting in full and decides independently; disagreements with the
+  filter go to `evals/audit_queue.json`.
+- **Promote** (`--promote <id> <include|exclude> "why"`): turn a reviewed
+  disagreement into a permanent golden case, then fix the filter until the eval passes.
+
 ## Remote eligibility ("Hires in")
 
 For every Remote-labeled role, `eligibility.py` (runs in the daily workflow,

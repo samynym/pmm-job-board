@@ -45,13 +45,34 @@ _US_NAME_RE = re.compile(
 # "US" and state codes, case-sensitive so "us"/"in"/"or" in prose don't match.
 _US_CODE_RE = re.compile(r'\b(US|' + '|'.join(US_STATES.values()) + r')\b')
 _NON_US_RE = re.compile(
-    r'\b(canada|india|united kingdom|uk|england|(?<!new )mexico|brazil|europe|emea|apac|latam|'
-    r'ontario|toronto|london)\b', re.I)
+    r'\b(canada|india|united kingdom|uk|england|scotland|ireland|dublin|(?<!new )mexico|brazil|'
+    r'germany|berlin|france|paris|spain|barcelona|madrid|netherlands|amsterdam|poland|warszawa|warsaw|'
+    r'ukraine|kyiv|serbia|cyprus|malta|greece|athens|portugal|lisbon|italy|switzerland|sweden|denmark|'
+    r'lithuania|russia|israel|uae|united arab emirates|saudi arabia|egypt|south africa|nigeria|kenya|'
+    r'pakistan|philippines|vietnam|singapore|australia|sydney|new zealand|japan|korea|china|'
+    r'colombia|argentina|chile|peru|europe|emea|apac|latam|'
+    r'ontario|quebec|alberta|british columbia|nova scotia|toronto|montreal|vancouver|calgary|'
+    r'london|bengaluru|bangalore|mumbai)\b', re.I)
+# Canadian provinces / non-US country codes in "City, XX" form.
+_NON_US_CODE_RE = re.compile(r',\s*(ON|QC|BC|AB|MB|NS|NB|SK|NL|PE|PL|UA|GR|DE|FR|ES|NL|UK|GB|IE)\b')
+# Evidence that a "Remote"-labelled role is actually office-based.
+_OFFICE_RE = re.compile(
+    r'\b(hybrid|on-?site|in[- ]office|in the office|\d days? (a|per) week|working in [^.]{0,60} office)\b',
+    re.I)
+
+
+def _loc_is_non_us(location):
+    """Location names a non-US place and doesn't also name the US ("US or Canada" stays US)."""
+    loc = (location or '').strip()
+    names_non_us = (_NON_US_RE.search(loc) or _NON_US_CODE_RE.search(loc)
+                    or re.fullmatch(r'(CA|PL|UA|GR|DE|FR|ES|NL|UK|GB|IE|IN|IL|BR|MX|AU)', loc))
+    names_us = re.search(r'united states|\busa\b|u\.s\.', loc, re.I) or re.search(r'\bUS\b', loc)
+    return bool(names_non_us and not names_us)
 
 
 def _loc_is_us(location):
     loc = (location or '').strip()
-    if not loc or _NON_US_RE.search(loc) or re.search(r',\s*(ON|QC|BC|AB|MB|NS|NB|SK|NL|PE)\b', loc):
+    if not loc or _loc_is_non_us(loc):
         return False
     return bool(_US_NAME_RE.search(loc) or _US_CODE_RE.search(loc))
 
@@ -60,6 +81,13 @@ def us_remote_reason(job, elig):
     """Return None if the job belongs in the newsletter, else a short exclusion reason."""
     if (job.get('remote_label') or '') != 'Remote':
         return f"not remote ({job.get('remote_label') or '?'})"
+    evidence = (elig or {}).get('evidence') or ''
+    if _OFFICE_RE.search(evidence):
+        return "labelled remote but posting describes office attendance"
+    # A clearly non-US location beats loosely extracted eligibility (company-wide
+    # or client/market text often lists the US for roles hired elsewhere).
+    if _loc_is_non_us(job.get('location')):
+        return f"remote, location outside the US ({job.get('location')})"
     if elig and elig.get('eligibility_stated'):
         countries = {c.strip().lower() for c in elig.get('countries') or []}
         regions = {r.strip().lower() for r in elig.get('regions') or []}

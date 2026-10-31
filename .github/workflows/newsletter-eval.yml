@@ -1,0 +1,19 @@
+name: Newsletter filter eval
+
+on:
+  push:
+    paths: ['notify.py', 'evals/**', '.github/workflows/newsletter-eval.yml']
+  pull_request:
+    paths: ['notify.py', 'evals/**', '.github/workflows/newsletter-eval.yml']
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Score filter against golden set
+        run: python evals/newsletter_eval.py

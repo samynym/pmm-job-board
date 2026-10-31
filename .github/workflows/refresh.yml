@@ -47,6 +47,14 @@ jobs:
           python build_html.py
           python build_leads.py
 
+      - name: Audit newsletter filter (LLM judge vs filter on today's roles)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python evals/newsletter_eval.py || echo "golden-set eval failing (non-fatal here)"
+          python evals/newsletter_eval.py --audit || echo "audit failed (non-fatal)"
+
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"
