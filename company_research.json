@@ -6660,60 +6660,202 @@
  "breezy:subscribe": {
   "company": "SUBSCRIBE",
   "confidence": "medium",
-  "distribution_summary": "New York-based alt-investments fintech whose X-rayable footprint is essentially US-only (founder in Florida); no employee profiles surfaced on any non-US ccTLD searched, though the common-word name made indexing weak.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "unknown",
-   "ca": "none",
-   "co": "unknown",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "unknown",
-   "ng": "unknown",
-   "ph": "unknown",
-   "pl": "none",
-   "sa": "unknown",
-   "sg": "unknown",
-   "uk": "none",
-   "us": "few",
-   "za": "unknown"
-  },
   "employs_via": null,
   "evidence": [
    {
-    "claim": "Engineering role is remote within the United States (country-level location; U.S.-only benefits).",
-    "quote": "\u2022 United States \u2026 Medical, dental, and vision insurance (U.S. candidates only) \u2026 401k with company match (U.S. candidates only)",
-    "url": "https://subscribe.breezy.hr/p/f86d94a45ae0-senior-software-engineer"
+    "claim": "Head of Product Marketing role is remote (TELECOMMUTE) but restricted to US applicants per structured job data",
+    "quote": "jobLocationType\":\"TELECOMMUTE\",\"applicantLocationRequirements\":{\"name\":\"US\"}",
+    "url": "https://subscribe.breezy.hr/p/8a762a905ca8-head-of-product-marketing"
    },
    {
-    "claim": "Many roles are tied to the New York hub (example: Head of Design lists New York, NY).",
-    "quote": "\u2022 New York, NY",
-    "url": "https://subscribe.breezy.hr/p/6ce2b6c02227-head-of-design?state=published"
+    "claim": "Product Manager role is remote but restricted to US applicants per structured job data",
+    "quote": "jobLocationType\":\"TELECOMMUTE\",\"applicantLocationRequirements\":{\"name\":\"US\"}",
+    "url": "https://subscribe.breezy.hr/p/6bc3a4b5fb92-product-manager"
    },
    {
-    "claim": "Client-facing role also specifies New York, NY location.",
-    "quote": "\u2022 New York, NY",
-    "url": "https://subscribe.breezy.hr/p/60f80b22c3e1-client-onboarding-and-implementation-associate"
+    "claim": "A SUBSCRIBE job listing on an aggregator explicitly scopes the remote role to the United States",
+    "quote": "Operations Analyst at +SUBSCRIBE\\u00ae - United States Remote",
+    "url": "https://www.remoterocketship.com/us/company/subscribeplatform/jobs/operations-analyst-united-states-remote/"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unlikely",
+   "Asia": "unlikely",
+   "Canada": "unknown",
+   "Europe": "unlikely",
+   "Latin America": "unknown",
+   "Middle East": "unlikely",
+   "Oceania": "unlikely",
+   "UK": "unlikely",
+   "US": "yes"
+  },
+  "remote_posture": "region-locked",
+  "researched_at": "2026-10-31T09:14:03+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "breezy:superwall": {
+  "company": "Superwall",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Support Engineer role advertised as globally remote",
+    "quote": "Global Remote or In-Person (NYC)",
+    "url": "https://jobs.weekday.works/superwall-support-engineer"
    },
    {
-    "claim": "Third-party listing shows most roles as In-Office (New York) and the Senior Software Engineer as Remote (United States).",
-    "quote": "Head of Product Marketing \u2014 In-Office \u2014 New York, NY, USA \u2026 Senior Software Engineer \u2014 Remote \u2014 United States",
-    "url": "https://www.builtinnyc.com/company/subscribe/jobs"
+    "claim": "Product Marketer role advertised as globally remote with a timezone preference, not a hard restriction",
+    "quote": "Global Remote (US timezones preferred)",
+    "url": "https://www.linkedin.com/in/anglinb/"
    },
    {
-    "claim": "Company lists multiple office locations (New York, Palm Beach, London, Singapore), supporting a hub-based model.",
-    "quote": "SUBSCRIBE Locations \u2026 New York \u2026 Palm Beach \u2026 London \u2026 Singapore",
-    "url": "https://subscribeplatform.com/company/contact-us/"
+    "claim": "Some roles are scoped to a specific country for business/territory reasons (EU sales coverage) rather than legal restriction",
+    "quote": "Hiring remotely in United States.",
+    "url": "https://www.remoterocketship.com/company/superwall/jobs/account-executive-united-states-remote/"
+   },
+   {
+    "claim": "Superwall is a small YC-backed startup (~25 people) based in NYC",
+    "quote": "Team Size:25",
+    "url": "https://www.ycombinator.com/companies/staffbar/jobs"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "likely",
+   "Asia": "likely",
+   "Canada": "likely",
+   "Europe": "likely",
+   "Latin America": "likely",
+   "Middle East": "likely",
+   "Oceania": "likely",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "worldwide",
+  "researched_at": "2026-10-31T09:14:03+00:00",
+  "scope_basis": "timezone-preference"
+ },
+ "breezy:talentc": {
+  "company": "TalentC",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "TalentC is a Ukraine-based recruitment agency placing candidates for diverse client companies, each with its own country/remote scope rather than one unified global policy.",
+    "quote": "Full-cycle recruitment agency since 2014",
+    "url": "https://talentc.breezy.hr/"
+   },
+   {
+    "claim": "Open roles on the board are scoped to specific countries (France, Poland, Ukraine, United States) depending on the client company, not worldwide.",
+    "quote": "Kyiv, UA Poland UA Ukraine United States Warsaw, PL",
+    "url": "https://talentc.breezy.hr/"
+   },
+   {
+    "claim": "A client role (Control+ / Franceverif) is tied to a US-focused product and hires in the US.",
+    "quote": "Our current 100% focus is on our US mobile app, Control Plus",
+    "url": "https://talentc.breezy.hr/p/a9be462e2161-head-of-product-marketing-hands-on-funnel-growth-expert-control-franceverif"
+   },
+   {
+    "claim": "TalentC serves international clients broadly but explicitly excludes two countries, implying a geographically broad but not unrestricted hiring footprint across its various client roles.",
+    "quote": "talentC primarily serves businesses (tech and non-tech) across international markets while excluding Russia and Belarus",
+    "url": "https://www.remoterocketship.com/company/talentc-tech/"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
    "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-31T09:14:03+00:00",
+  "scope_basis": "unclear"
+ },
+ "breezy:talentuch": {
+  "company": "Talentuch",
+  "confidence": "medium",
+  "employs_via": "mixed direct hiring and B2B contractor arrangements (exact mechanism, e.g. EOR use, not confirmed)",
+  "evidence": [
+   {
+    "claim": "Talentuch describes itself as a global recruitment company operating across multiple major regions",
+    "quote": "connecting organizations with top professionals across various global markets, including North America, Europe, LATAM, APAC, and the Middle East",
+    "url": "https://startup.jobs/company/talentuch"
+   },
+   {
+    "claim": "Company posts remote roles located in Latin American countries",
+    "quote": "Tier 3 SD-WAN NOC Engineer ... Colombia ... Remote",
+    "url": "https://startup.jobs/company/talentuch"
+   },
+   {
+    "claim": "Company posts remote roles in Ukraine (Europe)",
+    "quote": "MS Dynamics 365 BC Developer ... Ukraine ... Remote",
+    "url": "https://startup.jobs/company/talentuch"
+   },
+   {
+    "claim": "Company has an open-ended worldwide remote talent pool listing",
+    "quote": "Future Opportunities /Talent Pool ... Worldwide ... Remote",
+    "url": "https://startup.jobs/company/talentuch"
+   },
+   {
+    "claim": "Company hires remote contractors in Mexico via B2B contractor arrangement",
+    "quote": "IT Recruiter \u2014 B2B Contractor ... Mexico ... Remote",
+    "url": "https://startup.jobs/company/talentuch"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "yes",
+   "Europe": "yes",
+   "Latin America": "yes",
+   "Middle East": "likely",
+   "Oceania": "unknown",
+   "UK": "likely",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-31T09:14:03+00:00",
+  "scope_basis": "unclear"
+ },
+ "breezy:vosyn": {
+  "company": "Vosyn",
+  "confidence": "medium",
+  "employs_via": null,
+  "evidence": [
+   {
+    "claim": "Vosyn organizes hiring around physical hubs in Toronto, Chicago and Hong Kong rather than being fully distributed.",
+    "quote": "Hybrid or remote. Offices: Toronto, Chicago, Hong Kong.",
+    "url": "https://careers.vosyn.ai/"
+   },
+   {
+    "claim": "They also run a dedicated Hong Kong regional expansion program, indicating real hiring presence in Asia.",
+    "quote": "VosynVerse Hong Kong Headquarters **2** jobs Regional expansion opportunities",
+    "url": "https://careers.vosyn.ai/"
+   },
+   {
+    "claim": "Internship roles are frequently scoped to Canada with hybrid Toronto options, confirming Canada eligibility.",
+    "quote": "Work location: Remote (with hybrid options in Toronto)",
+    "url": "https://careers.vosyn.ai/?job=68"
+   },
+   {
+    "claim": "Some finance roles are explicitly opened to both Canada and the US, confirming US eligibility.",
+    "quote": "Work location: Remote (with hybrid options in Toronto and Chicago only)",
+    "url": "https://jobera.com/remote-job/accounting-masters-level-internship-vosyn-remote-canada/"
+   },
+   {
+    "claim": "Third-party aggregator suggests hiring is geographically limited to a small set of countries, though this isn't confirmed on the primary careers site.",
+    "quote": "primarily to Austria and Canada, as evidenced by current job listings",
+    "url": "https://jobgether.com/remote-jobs/company-vosyn"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "likely",
+   "Canada": "yes",
    "Europe": "unknown",
    "Latin America": "unknown",
    "Middle East": "unknown",
@@ -6722,280 +6864,54 @@
    "US": "yes"
   },
   "remote_posture": "hub-based",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "legal-entity"
- },
- "breezy:superwall": {
-  "company": "Superwall",
-  "confidence": "high",
-  "distribution_summary": "Small YC (S21) team mostly in the US plus a few remote Europeans (marketing in Poland, engineers in Croatia/Czechia, an ops person in NL) and one support person in Manila.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "none",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "unknown",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "few",
-   "pl": "few",
-   "sa": "unknown",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "Deel (B2B contractors via Deel)",
-  "evidence": [
-   {
-    "claim": "Superwall is hiring fully-remote specifically in the EU and US.",
-    "quote": "Location: Fully remote (we're hiring in EU/US)",
-    "url": "https://superwall.breezy.hr/p/4b5308155f9a-product-marketer"
-   },
-   {
-    "claim": "They engage using Deel on a B2B contract basis.",
-    "quote": "Fully remote | Full-time | B2B contract via Deel.",
-    "url": "https://superwall.breezy.hr/p/4b5308155f9a-product-marketer"
-   },
-   {
-    "claim": "US is an eligible location on their live Breezy board.",
-    "quote": "Product Marketer United States",
-    "url": "https://superwall.breezy.hr/"
-   },
-   {
-    "claim": "Company communications also state the role is remote in EU/US.",
-    "quote": "remote (EU / US) - details + application form",
-    "url": "https://www.linkedin.com/company/superwall"
-   },
-   {
-    "claim": "Recent roles indicate Europe-based hiring and EU/US collaboration.",
-    "quote": "Europe based \u2026 Ability to travel within the EU and to the US for events during the contract",
-    "url": "https://superwall.breezy.hr/p/662f2dcc8011-event-coordinator"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
-   "Canada": "unlikely",
-   "Europe": "likely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
-   "UK": "unlikely",
-   "US": "yes"
-  },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-31T09:14:03+00:00",
   "scope_basis": "unclear"
  },
- "breezy:talentuch": {
-  "company": "Talentuch",
+ "breezy:zero-hash": {
+  "company": "zerohash",
   "confidence": "medium",
-  "distribution_summary": "~40-person IT recruiting agency whose staff are overwhelmingly in Ukraine (profiles on www.linkedin.com but Ukraine-located), with one recruiter split Ukraine/Canada surfacing on the UK ccTLD; essentially nobody in the target countries.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "unknown",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "none",
-   "ng": "unknown",
-   "ph": "unknown",
-   "pl": "none",
-   "sa": "unknown",
-   "sg": "unknown",
-   "uk": "few",
-   "us": "none",
-   "za": "unknown"
-  },
-  "employs_via": "Own entities in the US and Canada (addresses listed on careers page); employment method in other countries unclear (likely contractors/EOR via clients).",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Their Breezy job board shows multiple hiring locations and remote options, including Colombia, United States, and a Worldwide category.",
-    "quote": "%LABEL_COUNTRIES% \u2026 Colombia Germany Malta Ukraine United States Worldwide \u2026 %LABEL_REMOTE% \u2026 Fully remote, no location restrictions \u2022 Fully remote, within chosen location(s)",
-    "url": "https://talentuch.breezy.hr/"
+    "claim": "Zero Hash's careers board lets candidates filter open roles by country, listing Canada, Netherlands, United Kingdom, and United States as hiring countries.",
+    "quote": "Canada Netherlands United Kingdom United States",
+    "url": "https://zerohash.com/careers/"
    },
    {
-    "claim": "They hire remotely in Latin America (example internal role in Colombia).",
-    "quote": "Account Manager / Recruitment Consultant (IT Recruitment / RPO Services) \u2014 Colombia \u2014 %REMOTE_WITHIN_ONE% \u2026 You receive \u2026 Fully remote work and flexible schedule.",
-    "url": "https://talentuch.breezy.hr/p/9b0b20107b23-account-manager-recruitment-consultant-it-recruitment-rpo-services"
+    "claim": "Zero Hash posts remote roles based in S\u00e3o Paulo, Brazil as part of LATAM expansion.",
+    "quote": "Senior Software Engineer LATAM 6 Month Contract Zero Hash",
+    "url": "https://web3.career/web3-companies/zero-hash"
    },
    {
-    "claim": "They hire remotely in Europe (example internal role in Ukraine).",
-    "quote": "Webinar Program & Marketing Coordinator \u2026 Ukraine \u2026 Part-Time | Remote | Approximately 5\u201310 Hours per Week.",
-    "url": "https://talentuch.breezy.hr/p/9f162e44fbd1-webinar-program-and-marketing-coordinator"
+    "claim": "A front-end engineering role is explicitly scoped to LATAM and based in S\u00e3o Paulo, remote.",
+    "quote": "S\u00e3o Paulo, BRRemote (any location)",
+    "url": "https://www.crypto-careers.com/jobs/525551120-front-end-engineer-latam-at-zero-hash"
    },
    {
-    "claim": "They maintain legal presence in the US and Canada, supporting likely ability to employ in those countries.",
-    "quote": "Talentuch LLC \u2022 Chicago, IL 60611 \u2022 United States of America \u2026 Talentuch Canada \u2022 9-448 Gibraltar Dr Mississauga, ON L5T 2N8 \u2022 Canada",
-    "url": "https://www.talentuch.com/careers"
+    "claim": "Zero Hash formally launched operations in Brazil as its entry point into Latin America.",
+    "quote": "Zero Hash Launches Operations in Brazil as First Step in Latin America",
+    "url": "https://www.coindesk.com/business/2022/11/03/zero-hash-launches-operations-in-brazil-as-first-step-in-latin-america"
    },
    {
-    "claim": "Some roles on their board specify time\u2011zone overlap (ET) for US\u2011based remote work, indicating time\u2011zone based scope on certain openings.",
-    "quote": "Remote \u2014 open to candidates in the US. US-based: Eastern Time required.",
-    "url": "https://talentuch.breezy.hr/p/88c18c4fd906-channel-product-marketing-manager"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "likely",
-   "Europe": "yes",
-   "Latin America": "yes",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unknown",
-   "US": "likely"
-  },
-  "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
- },
- "breezy:vosyn": {
-  "company": "Vosyn",
-  "confidence": "medium",
-  "distribution_summary": "Toronto-based AI startup with a large, globally distributed intern/junior workforce: heavy in Canada and the US, many in India, plus a few in Nigeria and the UK.",
-  "employee_distribution": {
-   "ae": "unknown",
-   "au": "unknown",
-   "br": "none",
-   "ca": "many",
-   "co": "none",
-   "de": "unknown",
-   "fr": "unknown",
-   "in": "many",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "none",
-   "ng": "few",
-   "ph": "none",
-   "pl": "unknown",
-   "sa": "unknown",
-   "sg": "none",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "contractors (interns)",
-  "evidence": [
-   {
-    "claim": "Intern roles are remote, with optional hybrid time in Toronto.",
-    "quote": "Work location: Remote (with hybrid options in Toronto)",
-    "url": "https://vosyn.breezy.hr/p/352b2eda680e-product-marketing-specialist-master-level-internship"
-   },
-   {
-    "claim": "Open roles are tied to Etobicoke, Ontario (Canada), indicating Canada-based hiring.",
-    "quote": "Etobicoke, ON - %LABEL_POSITION_TYPE_REMOTE_ANY%",
-    "url": "https://vosyn.breezy.hr/p/a77349911b57-product-designer-master-level-internship"
-   },
-   {
-    "claim": "They set Eastern Time working hours, indicating a timezone overlap requirement.",
-    "quote": "Working Hours: Full-Time: 9 AM \u2013 5 PM EST; Part-Time: 11 AM \u2013 3 PM EST (Core Hours)",
-    "url": "https://vosyn.ai/faq-items/working-conditions-and-benefits/"
-   },
-   {
-    "claim": "Interns are engaged as independent contractors (not employees).",
-    "quote": "None: Interns are independent contractors",
-    "url": "https://vosyn.ai/faq-items/working-conditions-and-benefits/"
-   },
-   {
-    "claim": "Company hub is in Toronto; they also list a US satellite office (context for hub-based operations, though not explicit hiring scope).",
-    "quote": "Vosyn\u2019s headquarters in Toronto, Canada, serves as its hub for innovation and collaboration with a satellite office in Chicago, USA.",
-    "url": "https://vosyn.ai/contact-us/"
+    "claim": "Many Zero Hash roles list multiple accepted remote locations including Amsterdam, London, Chicago, New York, and S\u00e3o Paulo.",
+    "quote": "Amsterdam, NL Canada Chicago, IL London, GB NY, US New York City, NY New York, NY San Francisco, CA United States",
+    "url": "https://zerohash.com/careers/"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
    "Asia": "unknown",
    "Canada": "yes",
-   "Europe": "unknown",
-   "Latin America": "unknown",
-   "Middle East": "unknown",
-   "Oceania": "unknown",
-   "UK": "unknown",
-   "US": "unknown"
-  },
-  "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "timezone-preference"
- },
- "breezy:zero-hash": {
-  "company": "zerohash",
-  "confidence": "medium",
-  "distribution_summary": "Chicago-headquartered crypto infrastructure firm that is overwhelmingly US-based (Chicago, St. Louis, NY), with one engineer surfacing in Australia and no employees found on European, African, or LatAm ccTLDs.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "none",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "none",
-   "jp": "unknown",
-   "ke": "unknown",
-   "mx": "none",
-   "ng": "none",
-   "ph": "unknown",
-   "pl": "none",
-   "sa": "unknown",
-   "sg": "none",
-   "uk": "none",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
-  "evidence": [
-   {
-    "claim": "Their live Breezy board lists hiring countries including Brazil, Netherlands, Poland, Portugal, Spain, United Kingdom, and United States.",
-    "quote": "%LABEL_COUNTRIES% \u2026 Brazil Netherlands Poland Portugal Spain United Kingdom United States",
-    "url": "https://zero-hash.breezy.hr/"
-   },
-   {
-    "claim": "Roles are fully-remote, either without location restrictions or within specified locations.",
-    "quote": "%LABEL_REMOTE% \u2026 Fully remote, no location restrictions  Fully remote, within chosen location(s)",
-    "url": "https://zero-hash.breezy.hr/"
-   },
-   {
-    "claim": "They post timezone-scoped roles (e.g., EMEA and LATAM), indicating regional/timezone hiring considerations.",
-    "quote": "Technical Support Engineer (EMEA) London, GB \u2026 Front End Engineer (LATAM) S\u00e3o Paulo, BR",
-    "url": "https://zero-hash.breezy.hr/"
-   },
-   {
-    "claim": "Company states it operates with employees across major global regions (supports multi\u2011region, remote-first posture).",
-    "quote": "zerohash operates with employees across all major global regions, with strategic hubs in key financial and technology markets.",
-    "url": "https://zerohash.com/press/zerohash-expands-european-headquarters-in-amsterdam-to-support-eu-growth"
-   },
-   {
-    "claim": "They have a European legal entity/registration (zerohash europe B.V.), supporting EU hiring capability.",
-    "quote": "zerohash europe B.V. is registered with the Dutch Authority for the Financial Markets (\"AFM\") as a Crypto Asset Service Provider (\"CASP\").",
-    "url": "https://zerohash.zendesk.com/hc/en-us/articles/8693333871379-FAQ"
-   }
-  ],
-  "region_eligibility": {
-   "Africa": "unknown",
-   "Asia": "unknown",
-   "Canada": "unknown",
-   "Europe": "likely",
-   "Latin America": "likely",
+   "Europe": "yes",
+   "Latin America": "yes",
    "Middle East": "unknown",
    "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
-  "scope_basis": "mixed"
+  "researched_at": "2026-10-31T09:14:03+00:00",
+  "scope_basis": "legal-entity"
  },
  "greenhouse:6sense": {
   "company": "6sense",
@@ -7267,127 +7183,83 @@
  "greenhouse:affirm": {
   "company": "Affirm",
   "confidence": "high",
-  "distribution_summary": "Most Affirm employees appear to be in the United States (many); small presence (few) in Canada, the UK, Australia, India and Singapore; none detected in the remaining listed countries (or searches were inconclusive).",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "few",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "few",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "few",
-   "uk": "few",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": "own entities (US, Canada, Poland, Spain, UK); no EOR noted in postings",
+  "employs_via": null,
   "evidence": [
    {
-    "claim": "Remote\u2011first company with offices/entities across US, Canada, Poland, Spain, and UK.",
-    "quote": "We built remote work into the DNA\u2026 offices in Chicago, New York City, Pittsburgh, San Francisco, Seattle, Toronto, Warsaw, Madrid and London.",
-    "url": "https://www.affirm.com/careers?cPath=1&main_page=index"
+    "claim": "Affirm's job board lists remote roles only in a fixed set of countries: US, Canada, Poland, Spain, UK",
+    "quote": "Affirm's job board currently lists remote roles in the United States, Canada, Poland, Spain, and the United Kingdom",
+    "url": "https://remotivated.com/jobs/it-engineer-intern-early-careers-summer-2027-at-affirm"
    },
    {
-    "claim": "Country-of-employment limitation (legal/entity-based) stated in job postings.",
-    "quote": "The majority of our roles are remote and you can work almost anywhere within the country of employment.",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003"
+    "claim": "Remote work is tied to country of employment, not worldwide, and Canada excludes Quebec (a legal/payroll carve-out)",
+    "quote": "The majority of our roles can be accomplished anywhere in the U.S. and Canada (with the exception of Quebec)",
+    "url": "https://wfh.team/companies/affirm"
    },
    {
-    "claim": "Active remote roles in the US and Canada.",
-    "quote": "Senior Director, Enterprise Risk Strategy Remote US; \u2026 Remote Canada",
-    "url": "https://job-boards.greenhouse.io/affirm?error=true"
+    "claim": "Remote roles are scoped to the employee's home country, reinforcing a legal-entity (not timezone) basis",
+    "quote": "If your role is remote, you can set up shop anywhere in your home country",
+    "url": "https://4dayweek.io/company/affirm"
    },
    {
-    "claim": "Active remote hiring in the UK.",
-    "quote": "Location - Remote UK",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7546216003"
+    "claim": "Affirm's European hiring is concentrated in Spain, Poland and UK only, not broader Europe",
+    "quote": "Which European countries does Affirm hire in? Spain, Poland and the UK.",
+    "url": "https://remoteworkeurope.eu/insights/remote-first-affirm/"
    },
    {
-    "claim": "Active remote hiring in continental Europe (Poland).",
-    "quote": "Location - Remote Poland \u2026 The majority of our roles can be located anywhere in Poland.",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7731646003"
+    "claim": "Affirm maintains offices in several countries tied to its remote hiring footprint",
+    "quote": "we have offices in Chicago, New York City, Pittsburgh, San Francisco, Seattle, Toronto, Warsaw, Madrid and London",
+    "url": "https://jobs.weekday.works/affirm-careers"
    }
   ],
   "region_eligibility": {
-   "Africa": "unlikely",
-   "Asia": "unlikely",
+   "Africa": "no",
+   "Asia": "no",
    "Canada": "yes",
-   "Europe": "likely",
-   "Latin America": "unlikely",
-   "Middle East": "unlikely",
-   "Oceania": "unlikely",
+   "Europe": "yes",
+   "Latin America": "no",
+   "Middle East": "no",
+   "Oceania": "unknown",
    "UK": "yes",
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-20T06:13:51+00:00",
+  "researched_at": "2026-10-31T09:14:03+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:alphasense": {
   "company": "AlphaSense",
-  "confidence": "high",
-  "distribution_summary": "US (NYC) core with big London sales and Pune India engineering hubs, plus a few staff in Canada and Singapore; nothing found in Africa or LatAm.",
-  "employee_distribution": {
-   "ae": "none",
-   "au": "none",
-   "br": "none",
-   "ca": "few",
-   "co": "none",
-   "de": "none",
-   "fr": "none",
-   "in": "many",
-   "jp": "none",
-   "ke": "none",
-   "mx": "none",
-   "ng": "none",
-   "ph": "none",
-   "pl": "none",
-   "sa": "none",
-   "sg": "few",
-   "uk": "many",
-   "us": "many",
-   "za": "none"
-  },
-  "employs_via": null,
+  "confidence": "medium",
+  "employs_via": "own entities (offices in US, UK, Finland, India, Singapore, Canada, Ireland)",
   "evidence": [
    {
-    "claim": "AlphaSense hires fully-remote in the United States.",
-    "quote": "Staff Product Security Engineer \u2014 Remote - United States \u2022 Location: Remote, USA",
-    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8301651002"
+    "claim": "AlphaSense has physical entities/offices in specific countries which define where it can hire remotely",
+    "quote": "headquartered in New York City with more than 2,000 employees across the globe and offices in the U.S., U.K., Finland, India, Singapore, Canada, and Ireland",
+    "url": "https://remote.com/jobs/alphasense-c1d69ith/associate-customer-product-support-j1wsc0ff"
    },
    {
-    "claim": "AlphaSense hires remote in Canada and restricts hiring to specific provinces (legal/payroll scope).",
-    "quote": "Product Manager \u2014 Remote - Canada \u2026 Are you currently authorized to work in Canada? \u2026 Do you currently reside in one of the following provinces: British Columbia, Alberta, Manitoba, Ontario & Saskatchewan",
-    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8593687002"
+    "claim": "Company posts country-scoped remote roles tied to those entity countries (Canada)",
+    "quote": "Remote - Canada",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8696691002"
    },
    {
-    "claim": "AlphaSense offers remote roles across Europe.",
-    "quote": "Staff Android Engineer \u2014 London, Greater London, England, United Kingdom; Remote - Europe",
-    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8509540002"
+    "claim": "Support team is distributed globally only across specific entity countries",
+    "quote": "The Customer & Product Support team is based globally across the US, UK, India and Singapore",
+    "url": "https://www.jobs.ca/alphasense/jobs/associate-customer-product-support-remote-canada-611665f5363a"
    },
    {
-    "claim": "AlphaSense hires remote in the United Kingdom.",
-    "quote": "Senior Director, Customer Success \u2014 London, Greater London, England, United Kingdom; Remote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/alphasense"
+    "claim": "Remote hiring scoped to Europe as a region (consistent with UK/Finland/Ireland entities)",
+    "quote": "london, greater london, england, united kingdom; remote - europe",
+    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8696691002"
    },
    {
-    "claim": "AlphaSense hires remote in India (Asia).",
-    "quote": "Senior Risk Analyst \u2014 Remote - India",
-    "url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8623141002"
+    "claim": "Expansion into Canada tied to follow-the-sun coverage alongside Helsinki team, indicating timezone rationale layered on top of entity-based hiring",
+    "quote": "We're now expanding into Canada to build follow-the-sun coverage",
+    "url": "https://www.dreamworkhq.com/job/c6b06a33-d13a-4aea-88b9-2018d6409af0"
    }
   ],
   "region_eligibility": {
    "Africa": "unknown",
-   "Asia": "likely",
+   "Asia": "yes",
    "Canada": "yes",
    "Europe": "yes",
    "Latin America": "unknown",
@@ -7397,7 +7269,7 @@
    "US": "yes"
   },
   "remote_posture": "multi-region",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-31T09:14:03+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:amplitude": {
@@ -7673,56 +7545,34 @@
   "scope_basis": "legal-entity"
  },
  "greenhouse:calendly": {
-  "company": "calendly",
+  "company": "Calendly",
   "confidence": "high",
-  "distribution_summary": "Calendly\u2019s employees are concentrated in the United States (many), with sizable presence in Canada and the UK (many); most other listed countries show few (1\u20133) or none.",
-  "employee_distribution": {
-   "ae": "few",
-   "au": "few",
-   "br": "few",
-   "ca": "many",
-   "co": "none",
-   "de": "few",
-   "fr": "few",
-   "in": "few",
-   "jp": "few",
-   "ke": "none",
-   "mx": "few",
-   "ng": "none",
-   "ph": "few",
-   "pl": "few",
-   "sa": "few",
-   "sg": "few",
-   "uk": "many",
-   "us": "many",
-   "za": "few"
-  },
-  "employs_via": "own entities (US state registrations); no EOR evidence found",
+  "employs_via": "own entities (state-level registration in the US)",
   "evidence": [
    {
-    "claim": "Calendly states it is a remote-first company (work-from-home support).",
-    "quote": "Remote-First \u2014 Home office + tech stipends.",
-    "url": "https://calendly.com/careers"
-   },
-   {
-    "claim": "Their live job board shows most roles as Remote - US and some as San Francisco (Hybrid), indicating remote within the U.S. plus a hub option.",
-    "quote": "Engineering Manager, Mobile \u2014 Remote - US \u2026 Senior Director, Product Growth \u2014 San Francisco (Hybrid) \u2026 Staff Product Operations Manager \u2014 San Francisco (Hybrid).",
+    "claim": "Calendly's current job board lists roles almost exclusively as 'Remote - US', with hybrid roles in San Francisco",
+    "quote": "Senior Full Stack Engineer - Trust and Safety Remote - US",
     "url": "https://job-boards.greenhouse.io/calendly"
    },
    {
-    "claim": "Individual postings explicitly restrict eligibility to certain U.S. states, confirming U.S.-only hiring and entity coverage limits.",
-    "quote": "Calendly is registered as an employer in many, but not all, states. If you are located in Alaska, Delaware, Hawaii, Idaho, Iowa, Montana, Nebraska, North Dakota, Rhode Island, South Dakota, and West Virginia, you will not be eligible for employment.",
-    "url": "https://job-boards.greenhouse.io/calendly/jobs/8621926002"
+    "claim": "Roles require work authorization in the US with no sponsorship, confirming US-only legal hiring scope",
+    "quote": "Authorized to work lawfully in the United States of America as Calendly does not engage in immigration sponsorship at this time.",
+    "url": "https://job-boards.greenhouse.io/calendly/jobs/8579321002"
    },
    {
-    "claim": "'Remote - US' roles require U.S. work authorization and note no immigration sponsorship, reinforcing U.S.-only hiring.",
-    "quote": "Remote - US \u2026 Authorized to work lawfully in the United States of America as Calendly does not engage in immigration sponsorship at this time.",
-    "url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002"
+    "claim": "Calendly hires via its own US entity but is not registered in every state, showing legal-entity based limitation even within the US",
+    "quote": "Calendly is registered as an employer in many, but not all, states.",
+    "url": "https://builtin.com/job/senior-recruiter-rd/3851062"
    },
    {
-    "claim": "Even roles labeled simply 'Remote' still require U.S. work authorization and cite the same state-registration limits.",
-    "quote": "Remote \u2026 Are you authorized to work lawfully in the United States for Calendly? \u2026 Calendly is registered as an employer in many, but not all, states.",
-    "url": "https://job-boards.greenhouse.io/calendly/jobs/8625298002"
+    "claim": "Third-party aggregator confirms roles are scoped strictly to United States remote applicants",
+    "quote": "Calendly is hiring remotely in United States.",
+    "url": "https://www.remoterocketship.com/company/calendly/jobs/senior-director-customer-support-united-states-remote/"
+   },
+   {
+    "claim": "Remote.com listing shows Calendly roles marked as United States only",
+    "quote": "remote - United States only",
+    "url": "https://remote.com/jobs/calendly-c1yblbb3"
    }
   ],
   "region_eligibility": {
@@ -7737,7 +7587,7 @@
    "US": "yes"
   },
   "remote_posture": "region-locked",
-  "researched_at": "2026-07-18T20:16:47+00:00",
+  "researched_at": "2026-10-31T09:14:03+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:chainguard": {
@@ -7942,6 +7792,52 @@
   },
   "remote_posture": "multi-region",
   "researched_at": "2026-07-18T20:16:47+00:00",
+  "scope_basis": "legal-entity"
+ },
+ "greenhouse:connectwise": {
+  "company": "\u200eConnectWise",
+  "confidence": "medium",
+  "employs_via": "Mix of direct ConnectWise entities (US, India) plus 'contingent worker' / contractor-style engagements used for some EMEA roles (Austria, Germany, Sweden); no specific EOR platform (Deel/Remote.com/Oyster) named in postings found.",
+  "evidence": [
+   {
+    "claim": "ConnectWise's core remote hiring regions are the US and India, consistent with the greenhouse board's top location (Pune, IND) and many 'US-Remote'/'IND Remote' postings.",
+    "quote": "Hiring Regions: USA, India",
+    "url": "https://www.workingnomads.com/remote-company/connectwise"
+   },
+   {
+    "claim": "ConnectWise posts roles in Austria explicitly flagged as contingent-worker arrangements rather than standard full remote employment.",
+    "quote": "Senior Sales Engineer New Austria Remote - Contingent Worker",
+    "url": "https://boards.greenhouse.io/connectwise/jobs/4548991005"
+   },
+   {
+    "claim": "A Sweden-based role requiring Swedish fluency is also structured as a contingent worker position, indicating they engage talent there but not necessarily as direct employees.",
+    "quote": "Fluence in Swedish is",
+    "url": "https://www.remoteanywherejob.com/en/job/job_1aa3ac1a-9ed5-4cd3-8a32-8a4089de89f5"
+   },
+   {
+    "claim": "ConnectWise also has at least one directly-remote EMEA-wide sales role not labeled contingent, suggesting broader EMEA reach for some functions.",
+    "quote": "Remote from: EMEA",
+    "url": "https://jobgether.com/offer/6ab686c9865119c687f1c5fa-account-executive"
+   },
+   {
+    "claim": "ConnectWise lists remote postings in the Philippines in addition to US, India, Austria and Sweden, confirming a specific, named set of hiring countries rather than open worldwide hiring.",
+    "quote": "Technical Support Specialist II (Backup / Restore, Networking) Philippines Full-time",
+    "url": "https://www.workingnomads.com/remote-company/connectwise"
+   }
+  ],
+  "region_eligibility": {
+   "Africa": "unknown",
+   "Asia": "yes",
+   "Canada": "unknown",
+   "Europe": "yes",
+   "Latin America": "unknown",
+   "Middle East": "unknown",
+   "Oceania": "unknown",
+   "UK": "unknown",
+   "US": "yes"
+  },
+  "remote_posture": "multi-region",
+  "researched_at": "2026-10-31T09:14:03+00:00",
   "scope_basis": "legal-entity"
  },
  "greenhouse:cordance": {

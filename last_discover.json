@@ -1,11 +1,16 @@
 {
- "ran_at": "2026-10-30T09:26:55+00:00",
+ "ran_at": "2026-10-31T09:10:58+00:00",
  "new_boards": [
-  "workable:crop-photo-at-evolphin",
-  "workable:patchstack",
-  "workable:vego-garden-1"
+  "workable:festive-road",
+  "workable:marathon-talent",
+  "workable:mitsubishi-electric",
+  "workday:('blackstone.wd1.myworkdayjobs.com', 'Blackstone_Careers')",
+  "workday:('bridgestone.wd5.myworkdayjobs.com', 'WF_External_Careers')",
+  "workday:('geico.wd1.myworkdayjobs.com', 'External')",
+  "workday:('hitachi.wd1.myworkdayjobs.com', 'hitachi')",
+  "workday:('mrisoftware.wd501.myworkdayjobs.com', 'External_CareerSite')"
  ],
- "new_urls": 3,
+ "new_urls": 8,
  "errors": 3,
- "dork_offset": 20
+ "dork_offset": 26
 }

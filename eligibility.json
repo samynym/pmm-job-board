@@ -5097,6 +5097,19 @@
 "timezone": null,
 "work_auth": null
 },
+"https://jobs.jobvite.com/progress/job/ocjgafwv": {
+"countries": [
+"India"
+],
+"eligibility_stated": true,
+"evidence": "Location field: India",
+"extracted_at": "2026-10-31T09:13:55+00:00",
+"regions": [
+"Asia"
+],
+"timezone": null,
+"work_auth": null
+},
 "https://jobs.jobvite.com/progress/job/odfwafwi": {
 "countries": [
 "United States"
@@ -5204,6 +5217,15 @@
 "regions": [
 "US"
 ],
+"timezone": null,
+"work_auth": null
+},
+"https://jobs.jobvite.com/webmd/job/oh8yafw7": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-31T09:13:55+00:00",
+"regions": [],
 "timezone": null,
 "work_auth": null
 },
@@ -6852,6 +6874,17 @@
 "timezone": null,
 "work_auth": "Must be legally authorized to work in country of employment without sponsorship for employment visa status"
 },
+"workday:hitachi.wd1.myworkdayjobs.com:R0144509": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: (DEAI HV) US Remote TX - Austin",
+"extracted_at": "2026-10-31T09:13:55+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:humana.wd5.myworkdayjobs.com:R-421746": {
 "countries": [],
 "eligibility_stated": true,
@@ -6929,6 +6962,17 @@
 "timezone": "Eastern business hours",
 "work_auth": null
 },
+"workday:mrisoftware.wd501.myworkdayjobs.com:R-108834": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: US Remote - Remote label: Remote. The job posting explicitly states 'US Remote' in the location field, indicating the position is available to remote candidates within the US only. The statement 'work from anywhere in the world for two weeks out of the year' refers to travel flexibility, not hiring eligibility across regions. The location field clearly restricts eligibility to the US market. Therefore, eligibility_stated is true with regions limited to US only, no specific countries listed, no timezone requirement, and no work authorization requirement stated beyond the US location restriction. The evidence is the explicit 'US Remote' designation in the location field, which is the standard way job postings communicate geographic hiring eligibility for remote positions. While the posting mentions 'work from anywhere in the world for two weeks out of the year,' this is a perk describing flexibility for already-hired employees, not a statement of hiring eligibility across all countries. The posting does not state 'open to candidates worldwide' or equivalent language that would indicate global hiring eligibility. Therefore, the US Remote designation is the controlling factor for eligibility_stated and regions. The evidence quote is: 'Location field: US Remote'",
+"extracted_at": "2026-10-31T09:13:55+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
 "workday:salesforce.wd12.myworkdayjobs.com:JR348019": {
 "countries": [
 "United States"
@@ -6949,6 +6993,26 @@
 "eligibility_stated": true,
 "evidence": "California - Remote",
 "extracted_at": "2026-07-23T05:51:39+00:00",
+"regions": [
+"US"
+],
+"timezone": null,
+"work_auth": null
+},
+"workday:salesforce.wd12.myworkdayjobs.com:JR361311": {
+"countries": [],
+"eligibility_stated": false,
+"evidence": null,
+"extracted_at": "2026-10-31T09:13:55+00:00",
+"regions": [],
+"timezone": null,
+"work_auth": null
+},
+"workday:salesforce.wd12.myworkdayjobs.com:JR362005": {
+"countries": [],
+"eligibility_stated": true,
+"evidence": "Location field: California - Remote",
+"extracted_at": "2026-10-31T09:13:55+00:00",
 "regions": [
 "US"
 ],
